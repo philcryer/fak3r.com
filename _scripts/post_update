@@ -1,0 +1,16 @@
+#!/bin/sh
+
+# install
+# move this file to ~/git/blog.git/hooks/post-update 
+#
+# config
+docroot=""
+
+if [ ! -d '$docroot' ]; then
+	echo "**ERROR** docroot not found"
+	exit 1
+fi
+
+unset GIT_DIR && cd $docroot && git pull
+
+exit 0
