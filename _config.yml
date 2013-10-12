@@ -11,7 +11,7 @@ destination: _beta
 plugins: _plugins
 layouts: _layouts
 include: ['favicon.ico']
-exclude: ['.rvmrc', '_drafts', '_scripts']
+exclude: ['.rvmrc', '_drafts', '_scripts', 'README.md']
 keep_files: ['.git']
 timezone: America/Chicago
 encoding: ASCII-8BIT
