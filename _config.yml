@@ -1,0 +1,48 @@
+name: fak3r
+title: fak3r
+tagline: look out honey, cause I'm using technology
+author: fak3r
+email: fak3r@fak3r.com
+production_url: http://fak3r.com
+url: http://fak3r.com
+
+source: .
+destination: _beta
+plugins: _plugins
+layouts: _layouts
+include: ['favicon.ico']
+exclude: ['.rvmrc', '_drafts', '_scripts']
+keep_files: ['.git']
+timezone: America/Chicago
+encoding: ASCII-8BIT
+
+future: false
+show_drafts: nil
+limit_posts: 0
+pygments: true
+
+excerpt_separator: "<!--more-->"
+relative_permalinks: true
+permalink: /:year/:month/:day/:title/
+paginate_path: 'page:num'
+
+markdown: redcarpet
+redcarpet:
+  extensions: [ 'smart', 'autolink', 'lax_spacing', 'superscript', 'strikethrough', 'no_intra_emphasis', 'fenced_code_blocks', 'space_after_headers' ]
+markdown_ext: markdown,mkd,mkdn,md
+textile_ext: textile
+
+# YAML front matter (http://jekyllrb.com/docs/frontmatter/)
+# ---
+# layout:
+# title:
+# date:
+# permalink:
+# published:
+# categories:
+# - foo
+# - bar
+# tags:
+# - one
+# - two
+# ---
