@@ -3,7 +3,7 @@ fak3r.com
 
 ## Summary
 
-The source code for my long running blog, fak3r.com, built by jekyll.
+The source code for my long running blog, fak3r.com, built by Jekyll.
 
 ## Contents
 
@@ -15,11 +15,16 @@ email me at admin {at} fak3r {dot} com or ping me on Twitter where I'm @fak3r
 
 ## Clone
 
-Want to build on what I have? Go for it, it's how I got as far as I have. It's easy to do, either fork it, or just clone it:
+Want to build on what I have? Go for it, it's how I got as far as I have. It's easy to do, either fork it by clicking the 'Fork' button above, or just clone it from the command line:
 
     git clone https://github.com/philcryer/fak3r.com.git
+
+Then clean out my posts, drafts:
+
     cd fak3r.com
     rm -rf _drafts/* _/posts/*
+
+And you should be all set. Feel free to contact me with any questions.
 
 ## License 
 
