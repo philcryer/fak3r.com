@@ -1,4 +1,6 @@
-# Released under MIT License
+## License
+
+MIT License
 
 Copyright (c) 2013 Phil Cryer.
 

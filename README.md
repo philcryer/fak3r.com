@@ -3,7 +3,7 @@ fak3r.com
 
 ## Summary
 
-The source code for my long running blog, fak3r.com, built by Jekyll.
+This repository contains the source code for my long running blog, fak3r.com, built by Jekyll.
 
 ## Contents
 
@@ -24,7 +24,7 @@ Then clean out my posts, drafts:
     cd fak3r.com
     rm -rf _drafts/* _/posts/*
 
-And you should be all set. Feel free to contact me with any questions.
+And you should be all set. Hit up the (Jekyll documentation)[http://jekyllrb.com/docs/home/], or feel free to contact me with any questions.
 
 ## License 
 
