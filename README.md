@@ -3,15 +3,11 @@ fak3r.com
 
 ## Summary
 
-This repository contains the source code for my long running blog, fak3r.com, built by Jekyll.
+This repository contains the source code for my long running blog, fak3r.com, built by [Jekyll](http://jekyllrb.com/).
 
 ## Contents
 
-Posts, pages, Jekyll code and plugins to create the site.
-
-## Contact
-
-email me at admin {at} fak3r {dot} com or ping me on Twitter where I'm @fak3r
+The code and framework of posts, pages and plugins that Jekyll uses to create the site.
 
 ## Clone
 
@@ -25,6 +21,10 @@ Then clean out my posts, drafts:
     rm -rf _drafts/* _/posts/*
 
 And you should be all set. Hit up the [Jekyll documentation](http://jekyllrb.com/docs/home/), or feel free to contact me with any questions.
+
+## Contact
+
+email me at admin {at} fak3r {dot} com or ping me on Twitter where I'm @fak3r
 
 ## License 
 
