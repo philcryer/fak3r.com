@@ -24,7 +24,7 @@ Then clean out my posts, drafts:
     cd fak3r.com
     rm -rf _drafts/* _/posts/*
 
-And you should be all set. Hit up the (Jekyll documentation)[http://jekyllrb.com/docs/home/], or feel free to contact me with any questions.
+And you should be all set. Hit up the [Jekyll documentation](http://jekyllrb.com/docs/home/), or feel free to contact me with any questions.
 
 ## License 
 
