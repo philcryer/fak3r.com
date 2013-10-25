@@ -1,0 +1,19 @@
+---
+author: phil
+comments: true
+date: 2007-07-31 11:33:42
+layout: post
+slug: all-your-data-are-belong-to-microsoft
+title: All your data are belong to Microsoft
+wordpress_id: 571
+categories:
+- commerce
+- geek
+tags:
+- security
+- spam
+---
+
+![Micropoly](http://fak3r.com/wp-content/uploads/2007/09/ddf7378f866f7fae06f7add8f25d1.gif)In another scary move, [Microsoft is behind a recent patent](http://arstechnica.com/news.ars/post/20070717-microsoft-patents-the-mother-of-all-adware-systems.html) for an "advertising framework" that appears to be little more than an adware application on steriods.  Coupled with another patent that aims to use "context _data" from your hard drive to show you advertisements and "apportion and credit advertising revenue" to ad suppliers in real time. ... The application, filed in 2006, describes a multi-faceted, robust ad-delivering system that lives on a "user computer, whether it's part of the OS, an application or integrated within applications." "Applications, tools, or utilities may use an application program interface to report context data tags such as key words or other information that may be used to target advertisements," says the filing. "The advertising framework may host several components for receiving and processing the context data, refining the data, requesting advertisements from an advertising supplier, for receiving and forwarding advertisements to a display client for presentation, and for providing data back to the advertising supplier." The adware framework would leave almost no data untouched in its quest to sell you stuff. It would inspect "user document files, user e-mail files, user music files, downloaded podcasts, computer settings, computer status messages (e.g., a low memory status or low printer ink)," and more._"  If that's not bad enough, read on...<!-- more -->
+
+Later more possiblities are revealed, "_A word processor may display a banner ad along the top of a window, similar to a toolbar, while a graphical ad may be displayed in a frame associated with the application. A digital editor for photos or movies may support video-based advertisements," the patent application says. ... An e-mail client may specify that ads from competitors must be excluded, that its own display client must be used... (that) no more than 4 ads per hour are allowed, and that only text or graphical... advertisements are supported." The patent makes no mention of any method by which an actual user might exert control, nor does it mention very real privacy or security concerns. That's okay. It's still a good thing. It says so right in the application: "The ability to derive and process context data from local sources rather than monitor interactions with a remote entity, such as a server, benefits both consumers and advertisers by delivering more tightly targeted advertisements. The benefit to the user is the perception that the ads are more relevant, and therefore, less of an interruption. The benefit to the advertiser is better focus and a higher chance of conversion to a sale._"  Incredible!  I love how it's such a bonus for us consumers!  This is a huge deal...I'll bet that soon we'll see systems with 'rebates' in exchange for your use of such software; everyone wants a deal so it'll sell and your leisurely time you used to spend with your computer will be gone.  So much for productivity, and privacy.

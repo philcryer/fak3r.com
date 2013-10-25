@@ -5,7 +5,7 @@ author: fak3r
 email: fak3r@fak3r.com
 copyright: CC BY-SA 3.0
 production_url: http://fak3r.com
-url: http://fak3r.com
+url: http://beta.fak3r.com
 
 source: .
 destination: _beta
@@ -26,6 +26,7 @@ excerpt_separator: "<!--more-->"
 relative_permalinks: true
 permalink: /:year/:month/:day/:title/
 paginate_path: 'page:num'
+paginate:     5
 
 markdown: redcarpet
 redcarpet:

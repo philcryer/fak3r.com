@@ -1,0 +1,24 @@
+---
+author: phil
+comments: true
+date: 2008-09-06 20:20:36
+layout: post
+slug: mccains-acceptance-speech-echos-bushs
+title: McCain's acceptance speech echos Bush's
+wordpress_id: 974
+categories:
+- politics
+tags:
+- acceptance speech
+- barack
+- barack obama
+- dubya
+- mavrick
+- mccain
+- the daily show
+---
+
+[caption id="attachment_799" align="alignright" width="138" caption="Why McCain would be another 4 years of the same"][![](http://www.fak3r.com/wp-content/uploads/2008/06/mcbush-mccain-bush-230x300.jpg)](http://www.fak3r.com/wp-content/uploads/2008/06/mcbush-mccain-bush.jpg)[/caption]
+
+This is glorious, The Daily Show obliterates McCain's acceptance speech by interspersing clips of Dubya's acceptance speech.  It's funny that much of it is the same - WORD FOR WORD!  So I guess that's the change they keep talking about.  Damn McCain, you crazy [Mavrick](http://mavrick2008.blogspot.com/)! (sic)
+
