@@ -9,7 +9,7 @@ footer: true
 <br />
 <h2>Colophon</h2>
 <p>The resources I use to produce this site.</p>
-<img src="/assets/colophon/jekyll.png" height="16" weight="16" border="0"><a href="http://jekyllrb.com/">Jekyll"</a>&nbsp;&nbsp;the Ruby based static site generator that runs Github pages
+<img src="/assets/colophon/jekyll.png" height="16" weight="16" border="0"><a href="http://jekyllrb.com/">Jekyll</a>&nbsp;&nbsp;the Ruby based static site generator that runs Github pages
 <img src="/assets/colophon/debian.png" border="0">&nbsp;&nbsp;<a href="http://debian.org">Debian GNU/Linux</a>&nbsp;&nbsp;which to me is the *real* Linux, well maybe just after <a href="http://slackware.com">Slackware</a>
 <img src="/assets/colophon/nginx.png" border="0">&nbsp;&nbsp;<a href="http://nginx.org">nginx</a>&nbsp;&nbsp;the open-source, high-performance HTTP server and reverse proxy<br /><br />
 <img src="/assets/colophon/varnish.png" height="16" width="16" border="0">&nbsp;&nbsp;<a href="https://www.varnish-cache.org/">Varnish</a>&nbsp;&nbsp;a reverse proxy and a web application accelerator<br /><br />
