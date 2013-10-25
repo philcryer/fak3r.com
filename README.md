@@ -13,6 +13,14 @@ Posts, pages, Jekyll code and plugins to create the site.
 
 email me at admin {at} fak3r {dot} com or ping me on Twitter where I'm @fak3r
 
+## Clone
+
+Want to build on what I have? Go for it, it's how I got as far as I have. It's easy to do, either fork it, or just clone it:
+
+>  git clone https://github.com/philcryer/fak3r.com.git
+>  cd fak3r.com
+>  rm -rf _drafts/* _/posts/*
+
 ## License 
 
 MIT License
