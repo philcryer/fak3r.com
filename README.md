@@ -1,19 +1,19 @@
 fak3r.com
 =========
 
-# Summary
+## Summary
 
 The source code for my long running blog, fak3r.com, built by jekyll.
 
-# Contents
+## Contents
 
 Posts, pages, Jekyll code and plugins to create the site.
 
-# Contact
+## Contact
 
-admin {at} fak3r {dot} com
+email me at admin {at} fak3r {dot} com or ping me on Twitter where I'm @fak3r
 
-# License 
+## License 
 
 MIT License
 
