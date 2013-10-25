@@ -3,7 +3,7 @@ layout: default
 title: Archives
 footer: false
 ---
-
+<br />
 <div id="blog-archives">
 {% for post in site.posts reverse %}
 {% capture this_year %}{{ post.date | date: "%Y" }}{% endcapture %}

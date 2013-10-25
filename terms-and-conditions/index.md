@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: "terms and conditions"
 #date: 2013-06-28 10:08
 comments: false
