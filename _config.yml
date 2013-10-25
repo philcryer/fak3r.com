@@ -12,7 +12,7 @@ destination: _beta
 plugins: _plugins
 layouts: _layouts
 include: ['favicon.ico']
-exclude: ['.rvmrc', '_drafts', '_scripts', 'README.md']
+exclude: ['.rvmrc', '_drafts', 'drafts', '_scripts', 'README.md']
 keep_files: ['.git']
 timezone: America/Chicago
 encoding: ASCII-8BIT
@@ -20,7 +20,7 @@ encoding: ASCII-8BIT
 future: false
 show_drafts: nil
 limit_posts: 0
-pygments: true
+pygments: false
 
 excerpt_separator: "<!--more-->"
 relative_permalinks: true
