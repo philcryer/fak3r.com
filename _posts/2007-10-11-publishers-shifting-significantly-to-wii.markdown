@@ -1,0 +1,16 @@
+---
+author: phil
+comments: true
+date: 2007-10-11 20:47:45
+layout: post
+slug: publishers-shifting-significantly-to-wii
+title: Publishers shifting significantly to Wii
+wordpress_id: 615
+categories:
+- General
+tags:
+- video games
+- wii
+---
+
+![Wii 3d logo](http://fak3r.com/wp-content/uploads/2007/10/wii-logo.jpg)(stated in Prof. Farnsworth voice) "Good news everyone!"  Outlook for new Wii games is very strong for 2008.  According to a [new article by Screen Digest](http://biz.gamedaily.com/industry/feature/?id=17709&ncid=AOLGAM000500000000009), "..._publishers are "flocking to Wii" and that this holiday season will lead into a 2008 with plenty of Wii fun to come.  "Nintendo's success is reaping the rewards of great support from publishers ... **86 titles are scheduled for release on the Wii in Q4, compared with 47 for Microsoft's Xbox 360 and just 38 for the PS3**. Furthermore, a quarter of the Wii releases are exclusive to the platform, compared with eight for the Xbox 360 and five for PS3. Screen Digest sees Nintendo's success and external support for Wii only accelerating, primarily thanks to the quickly growing installed base and lower cost of development on the platform. The firm "expects that the number of games available for Wii will surpass Xbox 360's library in early 2008 at current release rates._"  So momentum building with many more games for the Wii, and judging by past victories we can only anticipate more fun games from the original creative minds of Nintendo.
