@@ -11,8 +11,11 @@ categories:
 ### Install RUBY
 <pre>ruby -e "$(curl -fsSL https://raw.github.com/mxcl/homebrew/go)"
 brew install rbenv
-if which rbenv > /dev/null; then eval "$(rbenv init -)"; fi
-brew install ruby-build
+if which rbenv > /dev/null; then eval "$(rbenv init -)"; fi</pre>
+<p>To make your shell use the rbenv set ruby each time, add the following to your ~/.profile</p>
+<code>eval "$(rbenv init -)"</code>
+
+<pre>brew install ruby-build
 rbenv install —list
 rbenv install 1.9.3-p448
 rbenv global 1.9.3-p448</pre>
