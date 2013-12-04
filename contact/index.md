@@ -15,7 +15,7 @@ footer: true
 <p><img src="/assets/contact/lastfm.bmp" border="0">&nbsp;&nbsp;lastfm <a href="http://www.last.fm/user/fak3r" alt="LastFM" title="LastFM">fak3r</a></p>
 <p><img src="/assets/contact/flickr.png" border="0">&nbsp;&nbsp;flickr <a href="https://secure.flickr.com/photos/fak3r/sets/" alt="Flickr" title="Flickr">fak3r</a></p>
 <p><img src="/assets/contact/lanyrd.bmp" border="0">&nbsp;&nbsp;lanyrd <a href="https://lanyrd.com/profile/fak3r/" alt="Lanyrd" title="Lanyrd">fak3r</a></p>
-<p><img src="/assets/contact/bitcoin.png" border="0">&nbsp;&nbsp;bitcoin <a href="https://blockchain.info/address/1P6o63KLaopepa5wZLfaCrHz9qWTbtrpTR">1P6o63KLaopepa5wZLfaCrHz9qWTbtrpTR</a></p>
+<p><img src="/assets/contact/bitcoin.png" border="0">&nbsp;&nbsp;bitcoin <a href="https://blockchain.info/address/1AubVQPJ41SFThtKMHV7p7rYYRqGFQGPAu">1AubVQPJ41SFThtKMHV7p7rYYRqGFQGPAu</a></p>
 <br /><br />
 <br /><br />
 <br /><br />
