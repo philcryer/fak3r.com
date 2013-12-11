@@ -6,6 +6,7 @@ email: fak3r@fak3r.com
 copyright: CC BY-SA 3.0
 production_url: http://fak3r.com
 url: http://fak3r.com
+rss_name: atom.xml
 
 source: .
 destination: _beta
