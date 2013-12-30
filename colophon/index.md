@@ -16,8 +16,8 @@ footer: true
 <p><img src="/assets/colophon/openssh.png" border="0">&nbsp;&nbsp;<a href="http://openssh.org">OpenSSH</a> <b>S</b>ecure <b>SH</b>ell, encrypted remote connectivity client</p>
 <p><img src="/assets/colophon/startssl.png" border="0">&nbsp;&nbsp;<a href="https://startssl.org">StartSSL</a> offering free Class 1 SSL server certificates for personal use</p>
 <p><img src="/assets/colophon/vim.png" border="0">&nbsp;&nbsp;<a href="http://www.vim.org">Vim</a> the text editor I use for everything, including authoring this site</p>
-<p><img src="/assets/colophon/gimp.png" border="0">&nbsp;&nbsp;<a href="http://www.gimp.org">Gimp</a> the <b>G</b>NU <b>I</b>mage <b>M</b>anipulation <b>P</b>rogram to handle the few graphics I mess with</p>
+<p><img src="/assets/colophon/gimp.png" border="0">&nbsp;&nbsp;<a href="http://www.gimp.org">Gimp</a> the <b>G</b>NU <b>I</b>mage <b>M</b>anipulation <b>P</b>rogram to handle the any graphics</p>
 <p><img src="/assets/colophon/dell.png" border="0">&nbsp;&nbsp;<a href="http://www.dell.com">Dell</a> this site is running on a <a href="https://www.dell.com/us/dfb/p/poweredge-t300/pd">PowerEdge T300</a> tower server</a></p>
-<p><img src="/assets/colophon/proxmox.png" border="0">&nbsp;&nbsp;<a href="http://www.proxmox.com/">Proxmox</a> a virtualization management platform for KVM and OpenVZ containers</p>
+<p><img src="/assets/colophon/proxmox.png" border="0">&nbsp;&nbsp;<a href="http://www.proxmox.com/">Proxmox</a> a virtualization management platform for KVM and OpenVZ</p>
 <p><img src="/assets/colophon/dyndns.png" border="0">&nbsp;&nbsp;<a href="https://dyn.com">DynDNS</a> providing enterprise, managed Domain Name Service</p>
 <p><img src="/assets/colophon/github.png" border="0">&nbsp;&nbsp;<a href="http://github.com">Github</a> for source code hosting and collaborative development</p>
