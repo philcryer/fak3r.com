@@ -9,9 +9,10 @@ footer: true
 <br />
 <h2>Contact</h2>
 <p>Follow me, or get in touch via one of the following methods.</p>
-<p><img src="/assets/contact/email.jpg" border="0">&nbsp;&nbsp;email <b>fak3r @ fak3r . com</b></p>
+<p><img src="/assets/contact/email.jpg" border="0">&nbsp;&nbsp;email <a href="http://fak3r.com">fak3r @ fak3r . com</a></p>
+<p><img src="/assets/contact/jabber.png" border="0">&nbsp;&nbsp;jabber <a href="http://fak3r.com">fak3r@jabber.ccc.de</a></p>
 <p><img src="/assets/contact/twitter.bmp" border="0">&nbsp;&nbsp;twitter <a href="https://twitter.com/fak3r" alt="Twitter" title="Twitter">@fak3r</a></p>
-<p><img src="/assets/contact/github.png" border="0">&nbsp;&nbsp;github <a href="https://github.com/philcryer/" alt="github" title="github">philcryer</a></p>
+<p><img src="/assets/contact/github.png" border="0">&nbsp;&nbsp;github <a href="https://github.com/philcryer/" alt="github" title="github">fak3r</a></p>
 <p><img src="/assets/contact/lastfm.bmp" border="0">&nbsp;&nbsp;lastfm <a href="http://www.last.fm/user/fak3r" alt="LastFM" title="LastFM">fak3r</a></p>
 <p><img src="/assets/contact/flickr.png" border="0">&nbsp;&nbsp;flickr <a href="https://secure.flickr.com/photos/fak3r/sets/" alt="Flickr" title="Flickr">fak3r</a></p>
 <p><img src="/assets/contact/lanyrd.bmp" border="0">&nbsp;&nbsp;lanyrd <a href="https://lanyrd.com/profile/fak3r/" alt="Lanyrd" title="Lanyrd">fak3r</a></p>
