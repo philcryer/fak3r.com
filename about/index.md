@@ -17,7 +17,7 @@ title: About
 
 <h3>Causes I support</h3>
 <p></p>
-<p align="center"><a href="https://www.eff.org" border="0" alt="EFF" title="EFF"><img src="/assets/about/EFF-badge-2b.png" border="0"></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<p align="center"><a href="https://www.eff.org" border="0" alt="EFF" title="EFF"><img src="/assets/about/EFF-badge-2b.png" alt=="EFF" title="EFF" border="0"></a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.torproject.org/" alt="TOR" title="TOR"><img src="/assets/about/tor_logo.png" border="0" alt="TOR" title="TOR"></a></p>
 <p align="center"><a href="https://www.hrc.org/" alt="HRC" title="HRC"><img src="/assets/about/hrc.jpg" border="0" alt="HRC" title="HRC"></a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.plannedparenthood.org/" alt="Planned Parenthood" title="Planned Parenthood"><img src="/assets/about/planned_parenthood.jpg" border="0" alt="Planned Parenthood" title="Planned Parenthood"></a>

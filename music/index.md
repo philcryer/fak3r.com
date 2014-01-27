@@ -37,7 +37,8 @@ Ok, so instead of presenting what music I like now, or my favorite releases from
 <li>The Clash "London Calling"</li>
 <li>Devo "Freedom of Choice"</li>
 <li>The Grateful Dead "American Beauty"</li>
-<li>Iggy (Pop) &amp; The Stooges "Raw Power"</li>
+<li>Iggy &amp; The Stooges "Raw Power"</li>
+<li>Joy Division "Unknown Pleasures"</li>
 <li>Led Zeppelin "II"</li>
 <li>Van Morrison "Moondance"</li>
 <li>Willie Nelson "Red Headed Stranger"</li>
