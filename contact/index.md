@@ -10,7 +10,7 @@ footer: true
 <h2>Contact</h2>
 <p>Follow me, or get in touch via one of the following methods.</p>
 <p><img src="/assets/contact/email.jpg" border="0">&nbsp;&nbsp;email <a href="http://fak3r.com">fak3r @ fak3r . com</a></p>
-<p><img src="/assets/contact/jabber.png" border="0">&nbsp;&nbsp;jabber <a href="http://fak3r.com">fak3r@jabber.ccc.de</a></p>
+<p><img src="/assets/contact/freenode.png" border="0" height="16" width="16">&nbsp;&nbsp;freenode <a href="https://www.freenode.net/">fak3r</a></p>
 <p><img src="/assets/contact/twitter.bmp" border="0">&nbsp;&nbsp;twitter <a href="https://twitter.com/fak3r" alt="Twitter" title="Twitter">@fak3r</a></p>
 <p><img src="/assets/contact/github.png" border="0">&nbsp;&nbsp;github <a href="https://github.com/philcryer/" alt="github" title="github">fak3r</a></p>
 <p><img src="/assets/contact/lastfm.bmp" border="0">&nbsp;&nbsp;lastfm <a href="http://www.last.fm/user/fak3r" alt="LastFM" title="LastFM">fak3r</a></p>
@@ -20,3 +20,4 @@ footer: true
 <br /><br />
 <br /><br />
 <br /><br />
+<!--<p><img src="/assets/contact/jabber.png" border="0">&nbsp;&nbsp;jabber <a href="http://fak3r.com">fak3r@jabber.ccc.de</a></p>-->
