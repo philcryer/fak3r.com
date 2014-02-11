@@ -5,6 +5,10 @@ fak3r.com
 
 This repository contains the source code for my long running blog, fak3r.com, built by [Jekyll](http://jekyllrb.com/).
 
+## Theme
+
+I'm currently using the wonderful [Hyde theme](https://github.com/mdo/hyde) by [Mark Otto](https://github.com/mdo), thanks Mark!
+
 ## Contents
 
 The code and framework of posts, pages and plugins that Jekyll uses to create the site.
