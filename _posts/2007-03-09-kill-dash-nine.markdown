@@ -14,10 +14,9 @@ tags:
 ---
 
 Here's a video of some Standford kids going by the moniker [Monzy](http://www.monzy.com/) doing a pseudo (sudo?) rap to a Unix administrator's ace in the hole: ``kill -9``.  It's pretty dorky, but in a geeky way, and thus funny; at least to me.  It's [Nerdcore Hip Hop](http://en.wikipedia.org/wiki/Nerdcore_hip_hop) at its [best](http://www.rhymetorrents.com/).  MP3 download and Lyrics after the jump.
-
-
-
-
+<br />
+<br />
+<iframe width="640" height="480" src="//www.youtube-nocookie.com/embed/Fow7iUaKrq4" frameborder="0" allowfullscreen></iframe>)
 
 <!-- more -->
 mp3:

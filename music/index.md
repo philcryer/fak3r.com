@@ -11,9 +11,7 @@ footer: true
 
 (aka  Songs to learn and sing)
 
-Ok, so instead of presenting what music I like now, or my favorite releases from the previous years (which you can see back to 2001 <a title=\"over here\" href=\"http://fak3r.com/noise/\">here</a>) I\'m going to list what I believe to be the greatest recorded works ever released. Feel free to disagree and/or complain, but I hope you discover some new favorites. 
-
-(<i><b>note</b>: this list may be updated or appended at any time to correct inaccuracies, errors or changes in taste or temperature, so please, no wagering on outcomes. I cannot be responsible for any loss of property incurred while reading this list, if in doubt, ask your doctor if fak3r.com is right for you)</i>
+The following are what I believe to be the greatest recorded works ever created. Feel free to disagree and/or complain, but I hope you discover some new favorites.
 
 <strong>pre 1969</strong>
 <ul>
@@ -99,13 +97,31 @@ Ok, so instead of presenting what music I like now, or my favorite releases from
 <li>Bloc Party "Silent Alarm"</li>
 <li>Broken Social Scene "You Forgot It in People"</li>
 <li>Danger Doom "The Mouse and the Mask"</li>
+<li>The Hives "Veni Vidi Vicious"</li>
 <li>Interpol "Antics"</li>
 <li>PJ Harvey "Stories From The City, Stories From The Sea"</li>
+<li>The Lucksmiths "Warmer Corners"</li>
+<li>Radiohead "Kid A"</li>
 <li>Radiohead "Hail to the Thief"</li>
+<li>The Shins "Chutes Too Narrow by The Shins"</li>
 <li>The Strokes "Is This It?"</li>
 <li>The Wrens "The Meadowlands"</li>
 </ul>
 
 <strong>2010s to the present</strong>
 <ul>
+<li>Arcade Fire "The Suburbs"</li>
+<li>Beastie Boys "Hot Sauce Committee Part 2"</li>
+<li>Nick Cave & the Bad Seeds "Push The Sky Away"</li>
+<li>Deerhunter "Monomania"</li>
+<li>DOOM "Born Like This"</li>
+<li>The Hives "Lex Hives"</li>
+<li>Japandroids "Celebration Rock"</li>
+<li>Morrissey "Years of Refusal"</li>
+<li>Mountain Goats "Heritic Pride"</li>
+<li>Phoenix "Wolfgang Amadeus Phoenix"</li>
+<li>Radiohead "King of Limbs"</li>
+<li>Sharks "The Joys of Living 2008-2010"</li>
+<li>Spiritualized "Sweet Heart Sweet Light"</li>
+<li>Swearin' "Swearin'"</li>
 </ul>
