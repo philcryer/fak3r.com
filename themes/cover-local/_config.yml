@@ -1,0 +1,55 @@
+menu:
+  Home: /
+  About: /about
+  Search: /search
+  Contact: /contact
+  #Archives: /archives
+  Colophon: /colophon
+
+widgets:
+- search
+
+cover:
+  enable: true
+  #url: http://ww1.sinaimg.cn/large/6cea169fjw1edgyzma1xcj21kw16ohba.jpg
+  #url: https://farm6.staticflickr.com/5243/5379885916_d234f9a344_o.jpg     # The Lovue, Paris 
+  #url: https://farm3.staticflickr.com/2281/3532691127_91827719ff_o.jpg     # Manhole cover, Berlin
+  #url: https://farm3.staticflickr.com/2191/3532710379_4642c1119d_o.jpg     # Jewish Memoriol, Berlin
+  url: https://farm4.staticflickr.com/3603/3532689367_e812148c94_o.jpg      # Tower and chapel, Berlin
+
+excerpt_link: Read More
+full_format: 'ddd, MMM D YYYY, h:mm:ss a'
+
+addthis:
+  enable: false
+  pubid:
+  facebook:
+  twitter: true
+  google: true
+  pinterest:
+fancybox: true
+
+#google_analytics: UA-368771XX-X
+rss: https://fak3r.com/rss.xml
+
+#comment_provider: duoshuo
+comment_provider: disqus
+
+# Duoshuo comment
+duoshuo:
+  short_name: your_id
+
+# Disqus comment
+disqus:
+  short_name: fak3r
+
+social:
+  #weibo: http://weibo.com/
+  twitter: https://twitter.com/fak3r
+  github: https://github.com/philcryer
+  #google_plus: https://plus.google.com/u/0/118379411300165505639/posts
+  flickr: https://secure.flickr.com/photos/fak3r/sets/
+  #lastfm: http://www.last.fm/user/fak3r
+
+auto_change:
+  enable: true

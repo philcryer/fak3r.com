@@ -22,6 +22,9 @@ What you should know when visiting my site; pay attention, this stuff is importa
 <h3>Does fak3r.com disclose any information to outside parties?</h3>
 <p><b>NO</b>, I do not collect, thus I do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. Also, since I don't have it, I will never release any of your information to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety. Additionally, non-personally identifiable visitor information is not being collected, so I could never provide that data to other parties for marketing, advertising, or other uses.</p>
 
+<h3>Disqus</h3>
+<p>I turned off Disqus comments for a time, but now I've re-enabled them to see how it goes. While they collect their own data from users, they updated their privacy policy recently, and I think it's pretty significant. (Disqus <a href="https://help.disqus.com/customer/portal/articles/1670950">Privacy Policy update</a>) Feel free to comment if you think this is worth keeping with the new settings.</p>
+
 <h3>Terms and Conditions</h3>
 <p>Please also checkout the <a href="/terms-and-conditions/">Terms and Conditions</a> page establishing the use, disclaimers, and limitations of liability governing the use of our website.</p>
 

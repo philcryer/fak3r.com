@@ -1,0 +1,9 @@
+<nav id="pagination">
+  <% if (page.prev){ %>
+    <a href="<%- config.root %><%- (article) ? page.prev.path : page.prev_link %>" class="alignleft prev"><i class="fa fa-long-arrow-left"></i><%= (article) ? __('newer') : __('prev') %></a>
+  <% } %>
+  <% if (page.next){ %>
+    <a href="<%- config.root %><%- (article) ? page.next.path : page.next_link %>" class="alignright next"><%= (article) ? __('older') : __('next') %><i class="fa fa-long-arrow-right"></i></a>
+  <% } %>
+  <div class="clearfix"></div>
+</nav>

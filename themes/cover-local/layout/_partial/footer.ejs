@@ -1,0 +1,37 @@
+<!--<div>
+  <% if (config.author){ %>
+  &copy; <%= new Date().getFullYear() %> <%= config.author %>
+  <% } else { %>
+  &copy; <%= new Date().getFullYear() %> <%= config.title %>
+  <% } %>
+</div>-->
+
+<div>
+<%- link_to('https://creativecommons.org/licenses/by-sa/3.0/', '&copy CC BY-SA 3.0', true) %>
+&nbsp;
+|
+&nbsp;
+<%- link_to('/privacy-policy', 'Privacy Policy', true) %>
+&nbsp;
+|
+&nbsp;
+<%- link_to('/terms-and-conditions/', 'Terms and Conditions', true) %>
+&nbsp;
+|
+&nbsp;
+<%- link_to('https://github.com/philcryer/fak3r.com', 'Source', true) %>
+&nbsp;
+|
+&nbsp;
+<%- link_to('/archives', 'Archives', true) %>
+&nbsp;
+|
+&nbsp;
+<%- link_to('/rss.xml', 'RSS', true) %>
+</div>
+
+<div>
+Powered by <%- link_to('http://debian.org/', 'Debian', true) %>, <%- link_to('https://nginx.org', 'nginx', true) %>, <%- link_to('http://www.vim.org/', 'Vim', true) %> and <%- link_to('http://hexo.io/', 'Hexo', true) %> with the <%- link_to('https://github.com/daisygao/hexo-themes-cover', 'Cover', true) %> theme
+</div>
+
+<div class="clearfix"></div>

@@ -96,3 +96,9 @@ sitemap:
 # Baidu sitemap, via  https://github.com/coneycode/hexo-generator-baidu-sitemap
 baidusitemap:
     path: baidusitemap.xml
+
+# RSS feed, via https://github.com/hexojs/hexo-generator-feed
+feed:
+    type: atom
+    path: rss.xml
+    limit: 20
