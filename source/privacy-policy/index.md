@@ -41,6 +41,6 @@ What you should know when visiting my site; pay attention, this stuff is importa
 <li>admin @ fak3r . com</li>
 </ul>
 
-<h3>NOTE: This policy was last modified on October 25, 2013</h3>
+<h3>NOTE: This policy was last modified on October 26, 2014</h3>
 
 <p>Thanks</p>
