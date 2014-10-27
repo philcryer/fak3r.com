@@ -11,11 +11,11 @@ The code and framework of posts, pages, plugins and theme that Hexo uses to crea
 
 ## Theme
 
-I'm currently using the wonderful [Cover theme](https://github.com/daisygao/hexo-themes-cover) by [daisygao](daisygao.com), thanks!
+I'm currently using the wonderful [Cover theme](https://github.com/daisygao/hexo-themes-cover) by [daisygao](http://daisygao.com), thanks!
 
 ## Clone
 
-Want to build on what I have? Go for it, it's how I got as far as I have. It's easy to do, either <pre>fork</pre> it by clicking the 'Fork' button above, or just clone it from the command line:
+Want to build on what I have? Go for it, it's how I got where I am. Either fork it, or clone it from the command line:
 
     git clone https://github.com/philcryer/fak3r.com.git
 
@@ -24,7 +24,7 @@ Then clean out my posts, drafts:
     cd fak3r.com
     rm -rf source/*
 
-Rename the directory to whatever you want, then <pre>git add .</pre> and check it in under your account, and you should be all set. Hit up the [Hexo docs](http://hexo.io/docs/), or feel free to contact me with any questions.
+Rename the directory to whatever you want, edit _config.yml then <pre>git add .</pre> check it in under your account, and you should be all set. Hit up the [Hexo docs](http://hexo.io/docs/), or feel free to contact me with any questions.
 
 ## Contact
 
