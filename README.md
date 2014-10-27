@@ -3,38 +3,38 @@ fak3r.com
 
 ## Summary
 
-This repository contains the source code for my long running blog, fak3r.com, built by [Jekyll](http://jekyllrb.com/).
-
-## Theme
-
-I'm currently using the wonderful [Hyde theme](https://github.com/mdo/hyde) by [Mark Otto](https://github.com/mdo), thanks Mark!
+This repository contains the source code for my long running (since 2005) blog, fak3r.com, built by [Hexo](http://hexo.io/).
 
 ## Contents
 
-The code and framework of posts, pages and plugins that Jekyll uses to create the site.
+The code and framework of posts, pages, plugins and theme that Hexo uses to create the site.
+
+## Theme
+
+I'm currently using the wonderful [Cover theme](https://github.com/daisygao/hexo-themes-cover) by [daisygao](daisygao.com), thanks!
 
 ## Clone
 
-Want to build on what I have? Go for it, it's how I got as far as I have. It's easy to do, either fork it by clicking the 'Fork' button above, or just clone it from the command line:
+Want to build on what I have? Go for it, it's how I got as far as I have. It's easy to do, either <pre>fork</pre> it by clicking the 'Fork' button above, or just clone it from the command line:
 
     git clone https://github.com/philcryer/fak3r.com.git
 
 Then clean out my posts, drafts:
 
     cd fak3r.com
-    rm -rf _drafts/* _/posts/*
+    rm -rf source/*
 
-And you should be all set. Hit up the [Jekyll documentation](http://jekyllrb.com/docs/home/), or feel free to contact me with any questions.
+Rename the directory to whatever you want, then <pre>git add .</pre> and check it in under your account, and you should be all set. Hit up the [Hexo docs](http://hexo.io/docs/), or feel free to contact me with any questions.
 
 ## Contact
 
-email me at admin {at} fak3r {dot} com or ping me on Twitter where I'm @fak3r
+email me at admin {at} fak3r {dot} com or ping me on Twitter where I'm [@fak3r](https://twitter.com/fak3r)
 
 ## License 
 
 MIT License
 
-Copyright (c) 2013 Phil Cryer.
+Copyright (c) 2014 Phil Cryer :: fak3r
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 

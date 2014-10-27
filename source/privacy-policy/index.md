@@ -6,8 +6,6 @@ comments: false
 sharing: false
 footer: true
 ---
-<br />
-<h2>Privacy Policy</h2>
 What you should know when visiting my site; pay attention, this stuff is important!
 
 <h3>Does fak3r.com use cookies?</h3>
