@@ -81,7 +81,8 @@ disqus_shortname: fak3r
 ## Plugins: https://github.com/hexojs/hexo/wiki/Plugins
 ## Themes: https://github.com/hexojs/hexo/wiki/Themes
 #theme: landscape
-theme: cover
+#theme: cover
+theme: cover-local
 exclude_generator:
 
 # Deployment
