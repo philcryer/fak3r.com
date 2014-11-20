@@ -103,3 +103,12 @@ feed:
     type: atom
     path: rss.xml
     limit: 20
+
+#plugins:
+#  - hexo-broken-link-checker
+
+# hexo-broken-link-checker plugin
+#link_checker:
+#  enabled: true
+#  storage_dir: /tmp/link_checker
+#  silent_logs: false
