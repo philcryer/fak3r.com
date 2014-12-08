@@ -9,11 +9,13 @@ Broken Bells 'After The Disco'
 
 Caribou 'Our Love'
 
+Nick Cave and the Bad Seeds 'Live from KCRW'
+
 Ex Hex 'Rips'
 
 Curtis Harding 'Soul Power'
 
-The Hold Stead 'Teeth Dreams'
+The Hold Steady 'Teeth Dreams'
 
 Lydia Loveless 'Somewhere Else'
 
