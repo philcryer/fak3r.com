@@ -9,6 +9,8 @@ I have a story from when I was working for $COMPANY that bothered me enough to t
 
 open source mitm https://mitmproxy.org/
 
+look: assets/2014/ssl-WSG_SubCA.png
+
 ```
 ➜  infra_as_code_examples git:(master) ✗ git pull
 fatal: unable to access 'https://github.com/rueedlinger/infra_as_code_examples.git/': server certificate verification failed. CAfile: /etc/ssl/certs/ca-certificates.crt CRLfile: none
