@@ -1,0 +1,67 @@
+==================================================================
+https://keybase.io/fak3r
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://fak3r.com
+  * I am fak3r (https://keybase.io/fak3r) on keybase.
+  * I have a public key with fingerprint A770 47C7 F6B6 2C9E B80F  326F 04A1 69CC A79F 7188
+
+To claim this, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "fingerprint": "a77047c7f6b62c9eb80f326f04a169cca79f7188",
+            "host": "keybase.io",
+            "key_id": "04a169cca79f7188",
+            "kid": "0101a5c21abbb2d7ef765105d6fc6bc7c3fc0667604aa687fa764c972ee0422a62270a",
+            "uid": "6fcb2ceda5d8ed99872e9b491eb3b400",
+            "username": "fak3r"
+        },
+        "service": {
+            "hostname": "fak3r.com",
+            "protocol": "https:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1419999884,
+    "expire_in": 157680000,
+    "prev": null,
+    "seqno": 1,
+    "tag": "signature"
+}
+
+with the aforementioned key, yielding the PGP signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.1
+Comment: https://keybase.io/crypto
+
+yMHqAnicbVFbSBRRGF5r1Vq1zB72QelhCgOTZWZ2d87MPqSUVJCgUGJltM2cOTNO
+rjPr7OzmFbsqlorVUwaKF5YoLbDEisJlKxFFeooyQaUMK7NAsDItOmMFPfS/HM73
+f5fzn/9J0lqLLaZNedy7OfzGFjMa+RG0HOyqbKwiBE2sIDxVRAlaPSRFlZHu1xXV
+IDwEDwDpAhBIjMDQkEMCS0pOmpFIF08xHIQ84CRAsSyRSRRrAVOBbQQ+gByKhjF8
+8SoiRv/DL/ndoEiKd0Oa4gVBoEWAJMC4KdItMhJkBAigU4IkwwAGO/AMCyQeMC7I
+ARoh0kXTPEPTgOSxXXDVDqsEGiKRd4ssEjmOxUROcHEUEpyCiyRNYgDpKl+KMFvi
+S5w6UZNJYCikQGTOb47xb9sBtVKs8uuaoUHNh+Fiw/AHPKbMqPCbvJNI8P5x8AqK
+KuIfxIoQ0gOKphIeCjOhoZiWlIvicLGsK5NA5X5FR17FZLgBw5K4zBwUIjxq0Ocz
+X1WmariLg3gZ5wQUWeWNoI6ImmjkqNUSY7PExa4xt2ixrU/+u1t3Q/yydd3Lxd2v
+UTRxSC7aokcLsqaiQzvr7x+n9w80zS19+dQya390pq3hwAlj9kH7PPmw4tjwpusj
+8Fba3cqkfZ506mnOcG+4cCh+pf9i9zhVG2rpW8qJvEioLrNO25I7JttSJuIc0z2X
+su5lqEwwaUNCx8r57Lmzkct56e2Ns9Pf7G/n6f6M0Yk6+2QLGBu9+cEKZu64B2/H
+Xq19v/BqY/wUU5B3+Gs4u3rcXr4gj9R0eeWF6h3v+or2LrVuz0tdjlw5N/Y9oVt6
+FtA7U65ld/481Zy6R14M7so91OOIbUqzzDS3OvXnH7f5ttZTn2/I4cHT+XKimEsc
+qSucGbiQ7/8FCU0b4Q==
+=IZTk
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/fak3r
+
+==================================================================
+

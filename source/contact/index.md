@@ -7,6 +7,7 @@ sharing: false
 footer: true
 ---
 Follow me, or get in touch<br />
+<img src="/assets/contact/pgp.gif" border="0">&nbsp;&nbsp;pgp key <a href="https://keybase.io/fak3r/key.asc">04A1 69CC A79F 7188</a>
 <img src="/assets/contact/email.jpg" border="0">&nbsp;&nbsp;email <a href="http://fak3r.com">fak3r @ fak3r . com</a>
 <img src="/assets/contact/freenode.png" border="0" height="16" width="16">&nbsp;&nbsp;freenode <a href="https://www.freenode.net/">fak3r</a>
 <img src="/assets/contact/twitter.bmp" border="0">&nbsp;&nbsp;twitter <a href="https://twitter.com/fak3r" alt="Twitter" title="Twitter">fak3r</a>
