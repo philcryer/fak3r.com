@@ -12,5 +12,5 @@ hexo clean
 hexo generate
 rm -rf $doc_root/*
 mv public/* $doc_root/
-chown -R www-data:www-data $doc_root
+chown -R $web_user:$web_grp $doc_root
 exit 0
