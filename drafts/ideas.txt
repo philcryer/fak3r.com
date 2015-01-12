@@ -1,0 +1,120 @@
+Is your employer running MitM SSL attacks on you?
+
+After a network upgrade, I was unable to interact with github.com, a site that I use daily. The error I'd get was...
+
+➜  infra_as_code_examples git:(master) ✗ git pull
+fatal: unable to access 'https://github.com/rueedlinger/infra_as_code_examples.git/': server certificate verification failed. CAfile: /etc/ssl/certs/ca-certificates.crt CRLfile: none
+
+This made me suspicious, so I followed the trail. Obviously we know that cert should be valid, so are we now blocked from accessing github.com, or do I need to important a new CA cert? Looking into it more:
+
+➜  infra_as_code_examples git:(master) ✗ curl -v -k https://github.com/rueedlinger/infra_as_code_examples.git/
+* Hostname was NOT found in DNS cache
+*   Trying 192.30.252.129...
+* Connected to github.com (192.30.252.129) port 443 (#0)
+* successfully set certificate verify locations:
+*   CAfile: none
+  CApath: /etc/ssl/certs
+* SSLv3, TLS handshake, Client hello (1):
+* SSLv3, TLS handshake, Server hello (2):
+* SSLv3, TLS handshake, CERT (11):
+* SSLv3, TLS handshake, Server key exchange (12):
+* SSLv3, TLS handshake, Server finished (14):
+* SSLv3, TLS handshake, Client key exchange (16):
+* SSLv3, TLS change cipher, Client hello (1):
+* SSLv3, TLS handshake, Finished (20):
+* SSLv3, TLS change cipher, Client hello (1):
+* SSLv3, TLS handshake, Finished (20):
+* SSL connection using DHE-RSA-AES256-GCM-SHA384
+* Server certificate:
+* 	 subject: businessCategory=Private Organization; 1.3.6.1.4.1.311.60.2.1.3=US; 1.3.6.1.4.1.311.60.2.1.2=Delaware; serialNumber=5157550; street=548 4th Street; postalCode=94107; C=US; ST=California; L=San Francisco; O=GitHub, Inc.; CN=github.com
+* 	 start date: 2014-04-08 00:00:00 GMT
+* 	 expire date: 2016-04-12 12:00:00 GMT
+* 	 issuer: C=US; ST=Missori; L=St. Louis; O=Monsanto Co; CN=WSG_SubCA; emailAddress=secops@monsanto.com
+* 	 SSL certificate verify result: unable to get local issuer certificate (20), continuing anyway.
+> GET /rueedlinger/infra_as_code_examples.git/ HTTP/1.1
+> User-Agent: curl/7.35.0
+> Host: github.com
+> Accept: */*
+> 
+< HTTP/1.1 301 Moved Permanently
+* Server GitHub.com is not blacklisted
+< Server: GitHub.com
+< Date: Wed, 25 Jun 2014 15:10:14 GMT
+< Content-Type: text/html
+< Location: https://github.com/rueedlinger/infra_as_code_examples/
+< Vary: Accept-Encoding
+< X-Served-By: bc4c952d089501afbfc8f7ff525da31c
+< Content-Length: 178
+< Age: 0
+< Via: HTTPS/1.1 localhost.localdomain
+< 
+<html>
+<head><title>301 Moved Permanently</title></head>
+<body bgcolor="white">
+<center><h1>301 Moved Permanently</h1></center>
+<hr><center>nginx</center>
+</body>
+</html>
+* Connection #0 to host github.com left intact
+
+So it looks as if SSL is being intercepted by the gateway, does this mean they were doing SSL decryption on outgoing traffic to * hosts? Using Chrome trying to browse github tells me there's an HSTS failure, which may answer that for me.
+
+github.com has asked Chrome to block any certificates with errors, but the certificate that Chrome received during this connection attempt has an error.
+Error type: HSTS failure
+Subject: github.com
+Issuer: WSG_SubCA
+Public key hashes:
+
+so the issuer here is WSG (assuming that means Websense Gateway) so it looks like we're using the feature described on the page: "New in Websense Content Gateway v7.8.1", specifically:
+
+    Support for SSL (HTTPS) decryption, analysis, and re-encryption has been re-engineered for version 7.8.1" and inserting our own generated SSL and injecting that into the session. 
+
+https://www.websense.com/content/support/library/web/v78/wcg_release_notes/78rn_intro.aspx#689076
+
+In a presentation on this by a Websense employee, they specifically say:
+
+• SSL decryption uses the Man In The Middle (MitM) method 
+
+http://www.websense.com/assets/support/webinar/Presentation/2013_01_Slides.PDF
+
+Additionally, they show its functionality here:
+
+Comparison of connection logs with and without SSL decryption
+enabled
+– An extended.log example without SSL decryption:
+10.5.144.32 - [12/Jan/2013:15:43:51 -0000] "CONNECT www.cia.gov:443/ HTTP/1.0" 200 127 200 0 0 0 383
+127 542 76 0
+© 2012 Websense, Inc.
+4Why enable SSL decryption? (Cont’d)
+– An extended.log example with SSL decryption:
+10.5.144.32 - [12/Jan/2013:15:43:51 -0000] "CONNECT www.cia.gov:443/ HTTP/1.0" 200 127 200 0 0 0
+383 127 542 76 0
+10.5.144.32 - - [12/Jan/2013:15:43:52 -0000] "GET http://www.cia.gov/javascript/register_function-
+cachekey1018.js HTTP/1.1" 200 52663 200 52663 0 0 840 297 829 287 0
+10.5.144.32 - - [12/Jan/2013:15:43:53 -0000] "GET http://www.cia.gov/css/IEFixes.css HTTP/1.1" 200
+3642 200 3642 0 0 810 279 799 269 0
+10.5.144.32 - - [12/Jan/2013:15:43:53 -0000] "GET http://www.cia.gov/css/ciatheme-index.css
+HTTP/1.1" 200 10657 200 10657 0 0 818 281 807 271 0
+10.5.144.32 - - [12/Jan/2013:15:43:53 -0000] "GET http://www.cia.gov/css/base-cachekey6837.css
+HTTP/1.1" 200 59571 200 59571 0 0 821 281 810 271 0
+10.5.144.32 - - [12/Jan/2013:15:43:53 -0000] "GET http://www.cia.gov/javascript/javascript.js HTTP/1.1"
+200 6092 200 6092 0 0 820 296 809 286 0
+
+Websense helps companies justify this with ideas like:
+
+• SSL decryption improves adherence to organisational policies
+– Access control
+– Monitoring
+– Reporting
+• Improves organisational and user security
+– Reduced risk of interception
+– Adds the ability to control hosts and the Categories users can browse
+
+and look - I totally get that, this is the companies' network, and they are responsible for defending it from malicious software entering the network... but people (users) don't know this, they are trained (by infosec experts like us) that if they use HTTPS and they see the 'Lock' that they have end-to-end encryption, and if they're running Windows within the company the new Websense CA cert is installed automagically so they don't know anything differently.
+
+More reading on this subject:
+* http://www.websense.com/content/support/library/web/v76/triton_web_help/scanning_subscription_key.aspx
+* https://forums.lastpass.com/viewtopic.php?f=29&t=91005
+* POC (socat2) http://engineering.yp.com/post/live_ssl_snooping_and_tampering
+* http://www.techques.com/question/8-16000/SSL-Inspection-and-privacy
+* http://security.stackexchange.com/questions/2914/can-my-company-see-what-https-sites-i-went-to
