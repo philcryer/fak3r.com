@@ -82,7 +82,8 @@ disqus_shortname: fak3r
 ## Themes: https://github.com/hexojs/hexo/wiki/Themes
 #theme: landscape
 #theme: cover
-theme: cover-local
+#theme: cover-local
+theme: hexo-theme-kael-local
 exclude_generator:
 
 # Deployment

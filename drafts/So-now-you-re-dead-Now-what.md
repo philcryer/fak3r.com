@@ -13,3 +13,5 @@ http://www.huffingtonpost.com/2012/12/07/death-facebook-dead-profiles_n_2245397.
 http://mydeathspace.com/vb/forum.php
 
 
+
+https://medium.com/message/deathhacks-b767903b7c15

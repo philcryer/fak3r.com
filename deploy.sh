@@ -1,16 +1,29 @@
 #!/bin/bash
 set -e
+
 # souper simple hexo deploy script
 # * check that pwd == dir in docroot
 # * check user/group of the webserver
-dir_name=`printf '%s\n' "${PWD##*/}"`
-web_user="www-data"
-web_grp="www-data"
-doc_root="/var/www/"$dir_name
+
+# variables
+sitedir=`printf '%s\n' "${PWD##*/}"`
+# uncomment next line to test sitedir varible
+#echo $sitedir; exit 1
+sitepath='/var/www/'${sitedir}
+htuser='www-data'
+htgroup='www-data'
+
+# code
 git pull
 hexo clean
 hexo generate
-rm -rf $doc_root/*
-mv public/* $doc_root/
-chown -R $web_user:$web_grp $doc_root
+rm -rf ${sitepath}/*
+mv public/* ${sitepath}/
+hexo clean
+
+# permissions
+find ${sitepath}/ -type f -print0 | xargs -0 chmod 0640
+find ${sitepath}/ -type d -print0 | xargs -0 chmod 0750
+chown -R root:${htgroup} ${sitepath}/
+
 exit 0
