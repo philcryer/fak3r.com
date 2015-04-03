@@ -1,0 +1,20 @@
+---
+author: phil
+comments: true
+date: 2008-08-01 09:45:19
+layout: post
+slug: picture-of-the-day
+title: Picture of the day
+wordpress_id: 842
+categories:
+- blah
+- picture of the day
+tags:
+- funny
+- jump
+- picture
+- save
+- sitting
+---
+
+[caption id="attachment_843" align="aligncenter" width="500" caption="Here's another new feature I'm implementing, Picture Of The Day.  We'll kick things off with this killer image, enjoy!"][![Picture of the day](http://fak3r.com/wp-content/uploads/2008/07/28sc228.jpg)](http://fak3r.com/wp-content/uploads/2008/07/28sc228.jpg)[/caption]

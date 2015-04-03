@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:  
+
+Sitemap: http://fak3r.com/sitemap.xml 
