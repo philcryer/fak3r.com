@@ -1,0 +1,51 @@
+baseurl = "https://fak3r.com"
+languageCode = "en-us"
+title = "fak3r"
+
+paginate =                  10
+paginatePath  =              "page"
+
+[params]
+  sidebartitle = "fak3r"
+  sidebartagline = "look out honey, cause I'm using technology"
+
+
+[[menu.main]]
+    name = "About"
+    url = "/about"
+[[menu.main]]
+    name = "Search"
+    url = "/search"
+[[menu.main]]
+    name = "Music"
+    url = "/music"
+[[menu.main]]
+    name = "Contact"
+    url = "/contact"
+[[menu.main]]
+    name = "Colophon"
+    url = "/colophon"
+
+[[menu.social]]
+  pre = "<i class='fa fa-twitter'></i>"
+    url = "https://www.twitter.com/fak3r"
+    identifier = "twitter"
+[[menu.social]]
+  pre = "<i class='fa fa-flickr'></i>"
+    url = "https://secure.flickr.com/photos/fak3r/sets/"
+    identifier = "flickr"
+[[menu.social]]
+  pre = "<i class='fa fa-github'></i>"
+    url = "https://github.com/philcryer"
+    identifier = "github"
+[[menu.social]]
+  pre = "<i class='fa fa-lastfm'></i>"
+    url = "https://last.fm/user/fak3r/library"
+    identifier = "last.fm"
+[[menu.social]]
+  pre = "<i class='fa fa-lock'></i>"
+    url = "https://keybase.io/fak3r/key.asc"
+    identifier = "pgp"
+
+#[[menu.footer]]
+#    name = "powered by"

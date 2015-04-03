@@ -1,0 +1,24 @@
+<div class="footer">
+	<hr class="thin" />
+	<div class="pure-menu pure-menu-horizontal pure-menu-open">
+		<ul class="footer-menu">
+		{{ range .Site.Menus.footer }}
+			<li><a href="{{.Url}}">{{ .Name }}</a></li>
+		{{ end }}
+		</ul>
+	</div>
+	<!--<p>{{ with .Site.Params.Copyright }}{{.}}{{ else }}&copy; {{.Now.Format "2006"}}. All rights reserved. {{end}}</p>-->
+	<p>
+		<a href="https://creativecommons.org/licenses/by-sa/3.0/" title="&copy CC BY-SA 3.0" target="_blank" rel="external">&copy CC BY-SA 3.0</a>
+		&nbsp; | &nbsp; <a href="/privacy-policy" title="Privacy Policy" rel="external">Privacy Policy</a>
+		&nbsp; | &nbsp; <a href="/terms-and-conditions/" title="Terms and Conditions" rel="external">Terms and Conditions</a>
+	       	&nbsp; | &nbsp; <a href="https://github.com/philcryer/fak3r.com" title="Source" target="_blank" rel="external">Source</a>
+		<!--&nbsp; | &nbsp; <a href="/archives" title="Archives" target="_blank" rel="external">Archives</a> -->
+		&nbsp; | &nbsp; <a href="/atom.xml" title="RSS" target="_blank" rel="external">RSS</a>
+	</p>
+
+	<p>
+	Powered by <a href="http://debian.org/" title="Debian" target="_blank" rel="external">Debian</a>, <a href="http://nginx.org" title="nginx" target="_blank" rel="external">nginx</a>, <a href="http://www.vim.org/" title="Vim" target="_blank" rel="external">Vim</a>, <a href="http://gohugo.io/" title="Hugo" target="_blank" rel="external">Hugo</a> and <a href="https://golang.org/" title="Golang" target="_blank" rel="external">Golang</a>
+	</p>
+
+</div>
