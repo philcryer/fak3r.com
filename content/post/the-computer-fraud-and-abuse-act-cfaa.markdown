@@ -1,5 +1,6 @@
+---
 title: The Computer Fraud and Abuse Act (CFAA)
-date: 2015-01-06 09:18:49
+date: "2015-01-06T09:18:49-06:00"
 categories:
 - geek
 - law

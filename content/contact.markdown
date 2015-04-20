@@ -5,6 +5,7 @@ slag = "contact"
 nodate = true
 nopaging = true
 noread = true
+layout = "page"
 
 +++
 

@@ -1,11 +1,11 @@
 ---
-layout: "page"
 title: "Terms and Conditions"
 date: "2013-06-28T10:08:00-06:00"
 slug: "terms-and-conditions"
 nodate: true
 nopaging: true
 noread: true
+layout: page
 
 ---
 <h3>

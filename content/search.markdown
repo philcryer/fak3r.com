@@ -5,6 +5,7 @@ slug = "search"
 nodate = true
 nopaging = true
 noread = true
+layout = "page"
 
 +++
 

@@ -1,5 +1,6 @@
+---
 title: Best Music of 2014
-date: 2014-11-28 17:39:32
+date: "2014-11-28T10:32:46-06:00"
 categories:
 - music
 - best-of

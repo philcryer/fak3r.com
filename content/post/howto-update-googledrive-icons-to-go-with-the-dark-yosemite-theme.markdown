@@ -1,5 +1,6 @@
+---
 title: HOWTO update Googledrive icons to go with the dark Yosemite theme
-date: 2014-11-11 12:15:09
+date: "2014-11-11T12:15:09-06:00"
 categories:
 - howto
 - geek

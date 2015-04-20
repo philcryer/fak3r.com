@@ -1,11 +1,11 @@
 ---
-layout: "page"
 title: "Privacy Policy"
 date: "2013-06-28T10:08:00-06:00"
 slug: "privacy-policy"
 nodate: true
 nopaging: true
 noread: true
+layout: "page"
 
 ---
 What you should know when visiting my site; pay attention, this stuff is important!

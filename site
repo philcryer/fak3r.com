@@ -1,0 +1,58 @@
+#!/bin/bash
+
+#test
+test_dir="/var/www/fak3r.com/test/*"
+test_url="http://fak3r.com/test"
+
+#prod
+prod_dir="/var/www/fak3r.com/"
+prod_url="http://fak3r.com"
+
+set -e
+
+site-usage(){
+    cat <<EOM
+Usage: site <command>
+Commands:
+  devel			builds the site and runs a server for live development
+  newpost [name]	creates a new post as content/post/YYYY-MM-DD-name.markdown
+  promote		builds the deploys site to the prod directory
+  test			builds and deploys site to the test directory
+For more help, check the docs: https://github.com/philcryer/fak3r.com/site
+EOM
+}
+
+site-devel(){
+	hugo server
+}
+
+site-test(){ 
+	rm -rf $test_dir/*
+	hugo -b $test_url -d $test_dir
+}
+
+case $1 in
+    devel)
+	site-devel
+        ;;
+
+    newpost)
+	site-newpost
+        ;;
+
+    promote)
+	site-promote
+        ;;
+
+    test)
+	site-test
+        ;;
+
+    *)
+	site-usage
+        exit 1
+        ;;
+
+esac
+
+exit 0
