@@ -5,8 +5,7 @@ test_dir="/var/www/fak3r.com/test/*"
 test_url="http://fak3r.com/test"
 
 #prod
-prod_dir="/var/www/fak3r.com/"
-prod_url="http://fak3r.com"
+prod_dir="/var/www/fak3r.com"
 
 set -e
 
@@ -29,6 +28,11 @@ site-devel(){
 site-test(){ 
 	rm -rf $test_dir/*
 	hugo -b $test_url -d $test_dir
+}
+
+site-promote(){ 
+	rm -rf $prod_dir/*
+	hugo -d $prod_dir
 }
 
 case $1 in
