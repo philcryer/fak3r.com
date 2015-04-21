@@ -9,6 +9,7 @@ Commands:
   devl		builds the site and runs a server for live development
   test		builds and deploys the site to the test directory
   prod		builds and deploys the site to the prod directory
+  page [name]	creates a new page as: content/name.markdown
   post [name]	creates a new post as: content/post/YYYY-MM-DD-name.markdown
 For more help, check the docs: https://github.com/philcryer/fak3r.com
 EOM
@@ -24,6 +25,11 @@ site-post(){
 	exit 0
 }
 
+site-page(){
+	site-mess " page: upcoming functionality"
+	exit 0
+}
+
 site-test(){ 
 	if [ ! -d '$test_dir' ]; then
 		mkdir -p $test_dir
@@ -35,8 +41,11 @@ site-test(){
 
 site-prod(){ 
 	site-mess " prod: building site and deplying to $green$prod_dir$reset"
-	rm -rf $prod_dir/*
-	hugo --verbose -d $prod_dir
+	hugo --verbose -d $prod_dir-new
+	now=`date +'%Y-%m-%d.%H:%M'`
+	site-mess " prod: backing up existing site to $green$prod_dir-$now$reset"
+	mv $prod_dir $prod_dir-$now
+	mv $prod_dir-new $prod_dir
 }
 
 red=$(tput setaf 1)
