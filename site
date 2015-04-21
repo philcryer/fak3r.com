@@ -2,31 +2,25 @@
 
 set -e
 
-if [ ! -f 'site.conf' ]; then
-	echo "ERROR can't find site.conf, copy site.conf.example to site.conf and edit"
-	exit 1
-fi
-
-source site.conf
-
 site-usage(){
     cat <<EOM
 Usage: site <command>
 Commands:
-  devel		   builds the site and runs a server for live development
-  newpost [name]   creates a new post as content/post/YYYY-MM-DD-name.markdown
-  prod		   builds and deploys the site to the prod directory
-  test		   builds and deploys the site to the test directory
+  devl		builds the site and runs a server for live development
+  test		builds and deploys the site to the test directory
+  prod		builds and deploys the site to the prod directory
+  post [name]	creates a new post as: content/post/YYYY-MM-DD-name.markdown
 For more help, check the docs: https://github.com/philcryer/fak3r.com
 EOM
 }
 
-site-devel(){
-	hugo server
+site-devl(){
+	site-mess " devl: running server for live devl"
+	hugo --verbose server
 }
 
-site-newpost(){
-	echo "upcoming functionality"
+site-post(){
+	site-mess " post: upcoming functionality"
 	exit 0
 }
 
@@ -34,22 +28,61 @@ site-test(){
 	if [ ! -d '$test_dir' ]; then
 		mkdir -p $test_dir
 	fi
+	site-mess " test: building site and deploying to $green$test_dir$reset at $cyan$test_url$reset"
 	rm -rf $test_dir/*
-	hugo -b $test_url -d $test_dir
+	hugo --verbose -b $test_url -d $test_dir
 }
 
 site-prod(){ 
+	site-mess " prod: building site and deplying to $green$prod_dir$reset"
 	rm -rf $prod_dir/*
-	hugo -d $prod_dir
+	hugo --verbose -d $prod_dir
 }
 
+red=$(tput setaf 1)
+green=$(tput setaf 2)
+yellow=$(tput setaf 3)
+blue=$(tput setaf 4)
+purple=$(tput setaf 5)
+cyan=$(tput setaf 6)
+white=$(tput setaf 7)
+reset=$(tput sgr0)
+
+site-mess(){
+    msg="$1"
+    shift
+    pref="++++"
+    if [[ $1 ]]; then
+        pref="${1:0:4}"
+        shift
+    fi
+    echo "${yellow}[ $cyan$pref$yellow ]$reset  $msg"
+}
+
+site-erro(){
+    msg="$1"
+    shift
+    pref="ERRO"
+    if [[ $1 ]]; then
+        pref="${1:0:4}"
+        shift
+    fi
+    echo "${yellow}[ $red$pref$yellow ]$reset  $msg"
+}
+
+if [ ! -f 'site.conf' ]; then
+	site-erro "ERROR cannot find site.conf, copy site.conf.example to site.conf and edit"
+	exit 1
+fi
+source site.conf
+
 case $1 in
-    devel)
-	site-devel
+    devl)
+	site-devl
         ;;
 
-    newpost)
-	site-newpost
+    post)
+	site-post
         ;;
 
     prod)
