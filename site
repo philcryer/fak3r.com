@@ -40,12 +40,16 @@ site-test(){
 }
 
 site-prod(){ 
-	site-mess " prod: building site and deplying to $green$prod_dir$reset"
-	hugo --verbose -d $prod_dir-new
+	site-mess " prod: building new site to $green/tmp/site-new$reset"
+	if [ ! -d '/tmp/site-new' ]; then
+		rm -rf /tmp/site-new
+	fi
+	hugo --verbose -d /tmp/site-new
 	now=`date +'%Y-%m-%d.%H:%M'`
 	site-mess " prod: backing up existing site to $green$prod_dir-$now$reset"
-	mv $prod_dir $prod_dir-$now
-	mv $prod_dir-new $prod_dir
+	sudo mv -f $prod_dir $prod_dir-$now
+	site-mess " prod: writing new site to $green$prod_dir-$now$reset"
+	sudo mv /tmp/site-new $prod_dir
 }
 
 red=$(tput setaf 1)
