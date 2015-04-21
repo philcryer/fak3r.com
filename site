@@ -1,13 +1,13 @@
 #!/bin/bash
 
-#test
-test_dir="/var/www/fak3r.com/test"
-test_url="http://fak3r.com/test"
-
-#prod
-prod_dir="/var/www/fak3r.com"
-
 set -e
+
+if [ ! -f 'site.conf' ]; then
+	echo "ERROR can't find site.conf, copy site.conf.example to site.conf and edit"
+	exit 1
+fi
+
+source site.conf
 
 site-usage(){
     cat <<EOM
@@ -25,6 +25,11 @@ site-devel(){
 	hugo server
 }
 
+site-newpost(){
+	echo "upcoming functionality"
+	exit 0
+}
+
 site-test(){ 
 	if [ ! -d '$test_dir' ]; then
 		mkdir -p $test_dir
@@ -33,7 +38,7 @@ site-test(){
 	hugo -b $test_url -d $test_dir
 }
 
-site-promote(){ 
+site-prod(){ 
 	rm -rf $prod_dir/*
 	hugo -d $prod_dir
 }
@@ -47,8 +52,8 @@ case $1 in
 	site-newpost
         ;;
 
-    promote)
-	site-promote
+    prod)
+	site-prod
         ;;
 
     test)
