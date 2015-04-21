@@ -70,8 +70,8 @@ Seems pretty self-explanatory, with some sane options to start with, the 1 tells
     //Acquire::http::Dl-Limit "70";
 
 
-So there's some cool options including what to allow to be upgraded, blacklisted apps, email notifications and even an auto-reboot option. So if there's a security update in the kernel, it will install the new kernel and reboot the system automatically - how cool is that? This is the autonomy I was looking for! Now having said that, I think I'll throw this in just because, Manchester, England band [Buzzcocks](https://en.wikipedia.org/wiki/Buzzcocks) doing [Autonomy](https://www.youtube.com/watch?v=NK9YtcSA1Rs) in 1978.  
-  
-  
+So there's some cool options including what to allow to be upgraded, blacklisted apps, email notifications and even an auto-reboot option. So if there's a security update in the kernel, it will install the new kernel and reboot the system automatically - how cool is that? This is the autonomy I was looking for! Now having said that, I think I'll throw this in just because, Manchester, England band [Buzzcocks](https://en.wikipedia.org/wiki/Buzzcocks) doing `Autonomy` from 1978.
 
-
+<div align="center">
+<iframe width=”640” height=”360” src=”https://www.youtube-nocookie.com/embed/J7HJXCYPCuU” frameborder=”0” allowfullscreen></iframe>
+</div>

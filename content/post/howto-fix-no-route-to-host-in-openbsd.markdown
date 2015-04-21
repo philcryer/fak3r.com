@@ -17,6 +17,7 @@ tags:
 - route
 ---
 
+<img src="/2012/200px-OpenBSD-logo.png" border=0>
 [![OpenBSD](http://fak3r.com/openbsd_96x96.png)](http://fak3r.com/?attachment_id=3900)
 
 I installed [OpenBSD](http://www.openbsd.org/) 5.1 recently on my new box that's running [Proxmox](http://pve.proxmox.com/wiki/Main_Page) 2.1. I want OpenBSD to run [pf](http://www.openbsd.org/faq/pf/) to provide a firewall to protect all the other virtualized hosts on the box. I don't remember what I put for my default route during the install, and that came back to bite me as I couldn't get outside of my network. Issuing a ping would resolve a hostname (I run a local DNS server) but then it didn't have a route to the resolved IP, so it would fail with the error `ping: sendto: No route to host`
