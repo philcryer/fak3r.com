@@ -15,25 +15,18 @@ tags:
 - richard dawkins
 ---
 
-[![The Out Campaign  ](http://fak3r.com/scarlet_A.png)](http://fak3r.com/2012/08/20/playboy-interview-richard-dawkins/scarlet_a/) The Out Campaign logo
+[![The Out Campaign](/2012/scarletletter_out_sm.gif)]
 
 Today I read the recent interview with Richard Dawkins, the English ethologist, evolutionary biologist and the worlds best known atheist, on Playboy.com, and as always found his candor enjoyable and refreshing. While I'm all for anyone going anywhere they want while online, I'd rather not post a link to said site, so I'm reproducing the interview here, with (afaik) proper attribution for the original work; I did not write this, and I don't want to profit from it. Additionally I included a link to the post in the article, with the proper NSFW tag so you know what you're getting yourself into. If my due diligence isn't enough and the copyright authors wish to have this removed, please [contact me](http://fak3r.com/contact/), and I'll remove it. Now, regardless of your religious opinion, I think it's good to hear what others have to say, and if you have any curiosity about life, the universe, or teapots in space, you should take the time to hear Richard Dawkins out.
 
 <!-- more -->
 
-
-# [![](http://fak3r.com/playgroundHero.jpeg)](http://fak3r.com/2012/08/20/playboy-interview-richard-dawkins/playgroundhero/)
-
-
-
-
-# 
-
-
+<div align="center">
+[![](/2012/playgroundhero.jpg)]
+</div>
 
 
 # PLAYBOY INTERVIEW: RICHARD DAWKINS
-
 
 
 
@@ -41,14 +34,11 @@ Today I read the recent interview with Richard Dawkins, the English ethologist, 
 
 
 
-
 ### published August 20, 2012
 
 
 
-
 ### [Source](http://www.playboy.com/playground/view/playboy-interview-richard-dawkins) [NSFW]
-
 
 
 

@@ -1,5 +1,6 @@
 ---
 title: "HOWTO install chef / vagrant on 10.9"
+slug: "howto-install-chef-vagrant-on-109”
 date: "2013-10-28T14:21:00-06:00"
 categories:
 - howto

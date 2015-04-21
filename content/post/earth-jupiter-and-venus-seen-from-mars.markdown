@@ -6,5 +6,6 @@ categories:
 - environment
 ---
 Earth, Jupiter, and Venus seen from Mars [<a href="https://twitter.com/ThatsEarth/status/361390582851072000">source</a>]
-<br />
+<div align="center">
 <img src="/2013/earth-jupiter-and-venus-seen-from-mars.jpg">
+</div>

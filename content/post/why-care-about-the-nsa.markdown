@@ -2,6 +2,7 @@
 layout: post
 title: "Why care about the N.S.A.?"
 date: "2013-12-04T09:11:00-06:00"
+slug: "why-care-about-the-nsa"
 comments: true
 categories:
 - geek

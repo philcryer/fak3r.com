@@ -1,5 +1,6 @@
 ---
 title: "Scalia’s dissent in Maryland v. King"
+slug: "scalias-dissent-in-maryland-v-king"
 date: "2013-07-05T23:41:00-06:00"
 categories: 
 - privacy

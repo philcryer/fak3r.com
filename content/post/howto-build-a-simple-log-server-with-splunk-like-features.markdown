@@ -14,66 +14,72 @@ I'm running <a href="http://debian.org">Debian GNU/Linux</a> (testing, Jessie) f
 <h3>Starting</h3>
 Create a directory to hold everything, and change to it
  
-<pre>
+```
 mkdir /opt/logserver
 cd /opt/logserver
-</pre>
- 
+```
+
 <h3>Elasticsearch</h3>
 Install and start Elasticsearch
-<pre>
+
+```
 mkdir /opt/logserver/elasticsearch; cd /opt/logserver/elasticsearch
 wget http://download.elasticsearch.org/elasticsearch/elasticsearch/elasticsearch-0.90.3.tar.gz
 tar zxvf elasticsearch-0.90.3.tar.gz
 cd elasticsearch-0.90.3
 ./bin/elasticsearch -f
-</pre>
- 
+```
+
 <h3>Kibana</h3>
 Install, configure and start Kibana
-<pre>
+
+```
 mkdir /opt/logserver/kibana; cd /opt/logserver/kibana
 wget http://github.com/rashidkpc/Kibana/archive/kibana-ruby.tar.gz
 tar zxvf kibana-ruby.tar.gz
 cd Kibana-kibana-ruby/
-</pre>
+```
 
 Now we need <code>bundle</code> to install and run Kibana, if you don't have it you'll need to have Ruby installed and it's easiest to install this via [RVM](https://rvm.io/rvm/install). To install RVM, Ruby (1.9.3) and <code>bundle</code> all at once, you just give RVM some arguments
-<pre>
+
+```
 curl -L https://get.rvm.io | bash --ruby=1.9.3 --gems=bundle
-</pre>
- 
+```
+
 Now we can install the requirements via <code>bundler</code> 
-<pre>
+
+```
 bundle install --path vendor/bundle
-</pre>
+```
 
 If all goes well, you'll be rewarded with a message that says, <code>Your bundle is complete!</code>
- 
+
 Now you can setup your Kibana server by editing <code>KibanaConfig.rb</code> since this is on the same host, lets set it to listen on all interfaces so it can be hit via the
 browser easily
-<pre>
+
+```
 KibanaHost = '0.0.0.0'
-</pre>
- 
+```
+
 Then startup Kibana
-<pre>
+
+```
 bundle exec ruby kibana.rb
-</pre>
- 
+```
+
 You should be able to hit it via <code>IP_OF_YOUR_HOST:5601</code>. So, did it work? Cool, there are no logs there yet, but hey, it's ready for them, so let's configure some to be sent in.
- 
+
 <h3>Logstash</h3>
 Install, configure and run Logstash in standalone mode.
- 
-<pre>
+
+```
 mkdir /opt/logserver/logstash; cd /opt/logserver/logstash
 wget http://logstash.objects.dreamhost.com/release/logstash-1.1.13-flatjar.jar
-</pre>
- 
+```
+
 now edit logstash.conf, and add the following
- 
-<pre>
+
+```
 input {
   stdin {
     type => "stdin-type"
@@ -119,17 +125,16 @@ output {
         host => "127.0.0.1"
   }
 }
-</pre>
- 
- 
+```
+
 Pretty simple to figure things out, for now everything is on the same host, you'll notice the 'web' log block that will read web logs from nginx or Apache logs automatically, whatever it finds, it'll use. Also, anything it defines as Apache will go through that filter to have patterns recognized and the date string formated like syslog. For rsyslog logs, we can use <code>/var/log/messages</code> (which is what CentOS/RHEL use) and <code>/var/log/syslog</code> (which Debian/Ubuntu uses) declarations like we did with Apache, and it covers both of those - making it easy to reuse this config.
- 
+
 Now let's start logstash with this new config
 
-<pre>
+```
 java -jar logstash-1.1.13-flatjar.jar agent -f logstash.conf
-</pre>
- 
+```
+
 And now navigate to your Kibana web view again, wait, or force some events to log by sshing to box, hitting
 web pages, etc, to see how things show up in Kibana. The searching/filtering takes a little bit of time to
 understand (or did for me) but it's pretty slick once you get it. There's an option to 'stream' the logs via
@@ -140,62 +145,64 @@ logserver. Like before, Logstash will catch it, put it in elasticsearch and then
 We have two steps, the first will require root access on a remote host. First, on the remote
 host, create a new rsyslog config file that loads the logfiles via rsyslog's imfile plugin and then ships them to the
 logserver. Create a new file called <code>/etc/rsyslog.d/logserver.conf</code> with the following
- 
-<pre>
+
+```
 # From http://cookbook.logstash.net/recipes/rsyslog-agent/rsyslog.conf
 $ModLoad imfile   # Load the imfile input module
 $ModLoad imklog   # for reading kernel log messages
 $ModLoad imuxsock # for reading local syslog messages
- 
+
 # Watch /var/log/apache2/access.log
 $InputFileName /var/log/apache2/access.log
 $InputFileTag apache-access:
 $InputFileStateFile state-apache-access
 $InputRunFileMonitor
- 
+
 # Watch /var/log/apache2/error.log
 $InputFileName /var/log/apache2/error.log
 $InputFileTag apache-error:
 $InputFileStateFile state-apache-error
 $InputRunFileMonitor
- 
+
 # Watch /var/log/mysql/mysql.log
 $InputFileName /var/log/mysql/mysql.log
 $InputFileTag mysql:
 $InputFileStateFile state-mysql
 $InputRunFileMonitor
- 
+
 # Send everything to a logstash server named 'myserver' on port 5544:
 #*.* @@myserver:5544
 *.* @@${IP_OR_HOSTNAME}:5544
-</pre>
+```
+
 Of course, adjust any log file locations (or add them), and be sure to replace ${IP_OR_HOSTNAME} with the name or IP of your logserver host, and be sure to keep the double @ in there (ie- <code>@@123.4.5.6:5544</code>)
 
 Then restart rsyslog so it will use the new config
-<pre>
+
+```
 /etc/init.d/rsyslog restart
-</pre>
- 
+```
+
 Back on the logserver, we need to tell our logstash server to listen on :5544 for logs, but we're also going to rework how it parses syslog events, since there will be more in these than just syslog. There's a new filter block to cover that, but again at the end we'll still use the same output, elasticsearch.
 
-<pre>
+```
 input {
   stdin {
     type => "stdin-type"
   }
- 
+
   file {
     type => "syslog"
- 
+
     # Wildcards work, here :)
     path => [ "/var/log/*.log", "/var/log/messages", "/var/log/syslog" ]
   }
- 
+
   file {
     type => "web"
     path => [ "/var/log/httpd/*.log", "/var/log/nginx/*.log", "/var/log/apache2/*.log" ]
   }
- 
+
   tcp {
     port => 5544
     type => syslog
@@ -205,7 +212,7 @@ input {
     type => syslog
   }
 }
- 
+
 filter {
   grok {
       type => "syslog"
@@ -252,30 +259,30 @@ filter {
         match => ["timestamp", "dd/MMM/yyyy:HH:mm:ss Z"]
         }
 }
- 
+
 output {
   stdout { }
- 
+
   elasticsearch {
         host => "127.0.0.1"
   }
 }
-</pre>
- 
-And then you just need to restart logstash, as we did above, it will be the same as before, but now it will listen for logs on :5544
- 
-<pre>
+```
+
+And then you just need to restart logstash, as we did above, it will be the same as before, but now it will listen for logs on :554
+
+```
 java -jar logstash-1.1.13-flatjar.jar agent -f logstash.conf
-</pre>
- 
+```
+
 A quick netstat will tell you that it's listening on the right port (UDP and TCP since syslog will use UDP)
- 
-<pre>
+
+```
 # netstat -plunt|grep 5544
 tcp6       0      0 :::5544                 :::*                    LISTEN      16368/java
 udp6       0      0 :::5544                 :::*                                16368/java
-</pre>
- 
+```
+
 <h3>Finished</h3>
 And now you can view things via Kibana in your browser, give it a few minutes to get rolling, then use the 'search' field to cut down on the noise, maybe filtering by hostname, then click 'stream' and you'll have a tail like output from that host in your browser. How did it work, anything I missed? Sound off via Twitter or hit me up via my contact page if you have/need any feedback and I'll update this post as necessary.
 

@@ -16,89 +16,138 @@ I've used [Chef](http://www.opscode.com/chef/) to automate environments before, 
  Simple huh? So let's get started.
 <!--more-->
 ## Install needed software
-### Install Virtualbox
-#### Debian
+
+### Debian
+
 For this example I'm running [Debian GNU/Linux](http://www.debian.org/) on the **Jessie** (testing) branch. Regardless, we need to have _contrib_ in our <code>/etc/apt/sources.list</code> to get Virtualbox
-<pre>deb http://http.debian.net/debian/ jessie main contrib</pre>
- 
+
+```
+deb http://http.debian.net/debian/ jessie main contrib
+```
+
 If you already have a line with _main_ in it, just add _contrib_ to the end
-<pre>apt-get update</pre>
- 
+
+```
+apt-get update
+```
+
 Now we'll install it, with some headers that it may find useful 
-<pre>apt-get install linux-headers-$(uname -r|sed 's,[^-]*-[^-]*-,,') virtualbox</pre>
- 
+
+```
+apt-get install linux-headers-$(uname -r|sed 's,[^-]*-[^-]*-,,') virtualbox
+```
+
 That's it, now by default this setups up Virtualbox to run on boot, which I don't want, so I changed `LOAD_VBOXDRV_MODULE` in `/etc/default/virtualbox` to `0`
-<pre>sed -s -i 's/\=1/\=0/' /etc/default/virtualbox</pre>
- 
-#### Mac OS X
+
+```
+sed -s -i 's/\=1/\=0/' /etc/default/virtualbox
+```
+
+### Mac OS X
+
 For this example I'm running on my (t)rusty Apple MacBook Pro (5,5 2009) with 4 Gig RAM. All we need to do is visit the [VirtualBox download page](http://www.virtualbox.org/wiki/Downloads) and grab the package for OS X hosts x86/amd64. While we're there we'll also download the VirtualBox 4.2.16 Oracle VM VirtualBox Extension Pack. Once downloaded click on the VirtualBox dmg, install it as normal, then open the VirtualBox Extension Pack, it will automatically open in VirutalBox and install, no big drama there, and we're done. 
 
 The rest of the doc is the same independant of what you're running this on.
 
-### Install Vagrant
- 
 Now we'll install [vagrant](http://www.vagrantup.com/), now while while your repo __may__ have a version of vagrant to install, __don't install it__! Those are always older than what [rubygems](http://rubygems.org/) provides, plus somewhere down the line it __will__ cause breakage; trust me, [I've done it before](https://fak3r.com/2009/11/18/ruby-on-rails-gem-install-versus-apt-get/). So, first install rubygems
-<pre>git clone https://github.com/rubygems/rubygems.git
+
+```
+git clone https://github.com/rubygems/rubygems.git
 cd rubygems
-ruby setup.rb</pre>
- 
+ruby setup.rb
+```
+
 Now use rubygems to install it, then the rest of the stuff we need
-<pre>gem install vagrant</pre>
 
-### Install Chef
+```
+gem install vagrant
+```
 
-Again, we'll install via gem, so nothing surprising here
-<pre>gem install chef</pre>
+Install Chef, again, we'll install via gem, so nothing surprising here
+
+```
+gem install chef
+```
 
 and then the same to install librarian-chef 
-<pre>gem install librarian-chef</pre>
 
-## Configure Vagrant with a base box definition 
+```
+gem install librarian-chef
+```
+
+## Configure Vagrant with a base box definition
 
 Add a box to Vagrant, then tell it about it
 
-<pre>vagrant box add "CentOS 6.4 x86_64 Minimal" http://developer.nrel.gov/downloads/vagrant-boxes/CentOS-6.4-x86_64-v20130427.box
+```
+vagrant box add "CentOS 6.4 x86_64 Minimal" http://developer.nrel.gov/downloads/vagrant-boxes/CentOS-6.4-x86_64-v20130427.box
 mkdir dev
 cd dev
-mkdir vagrant 
-vagrant init</pre>
+mkdir vagrant
+vagrant init
+```
 
 Now edit the <code>Vagrant</code> file to tell it about our box's new name. To do so,  change
-<pre>config.vm.box = "base"</pre>
-to
-<pre>config.vm.box = "CentOS 6.4 x86_64 Minimal"</pre>
 
-##Configure Chef by adding cookbook with Librarian-chef
-<pre>mkdir chef
+```
+config.vm.box = "base"
+```
+
+to
+
+```
+config.vm.box = "CentOS 6.4 x86_64 Minimal"
+```
+
+## Configure Chef by adding cookbook with Librarian-chef
+
+```
+mkdir chef
 cd chef
-librarian-chef init</pre>
- 
-Now edit the <code>Cheffile</code> file to tell it about what we want installed. To do so,  uncomment
-<pre>cookbook 'apache2', '>= 1.0.0'</pre>
+librarian-chef init
+```
+
+Now edit the `Cheffile` file to tell it about what we want installed. To do so,  uncomment
+
+```
+cookbook 'apache2', '>= 1.0.0'
+```
 
 Now update the cookbooks with Librarian
-<pre>librarian-chef update</pre>
+
+```
+librarian-chef update
+```
 
 Notice the apache2 cookbook has been download and placed in the newly created 'cookbooks' directory
 
-##Tell Vagrant about the new cookbook 
-<pre>cd -
-vi Vagrantfile</pre>
+## Tell Vagrant about the new cookbook 
+
+```
+cd -
+vi Vagrantfile
+```
 
 Tell Vagrant where to find the apache2 cookbook, adding this block near the end
-<pre>config.vm.provision :chef_solo do |chef|
+
+```
+config.vm.provision :chef_solo do |chef|
 	chef.cookbooks_path = "chef/cookbooks"
 	chef.add_recipe "apache2"
-end</pre>
+end
+```
 
-##Build a vagrant instance, then have Chef-solo install a webserver on it. 
+## Build a vagrant instance, then have Chef-solo install a webserver on it. 
 
 Bring up the box
-<pre>vagrant up</pre>
+
+```
+vagrant up
+```
 
 *IF* everything works, you'll see something like the following
 
-<pre>
+```
 $ vagrant up
 Bringing machine 'default' up with 'virtualbox' provider...
 [default] Importing base box 'CentOS 6.4 x86_64 Minimal'...
@@ -325,47 +374,72 @@ Running chef-solo...
 [2013-08-30T18:40:25+00:00] INFO: Chef Run complete in 87.228839578 seconds
 [2013-08-30T18:40:25+00:00] INFO: Running report handlers
 [2013-08-30T18:40:25+00:00] INFO: Report handlers complete
-</pre>
+```
 
 Now you can connect to the host and look around
-<pre>vagrant ssh</pre>
+
+```
+vagrant ssh
+```
 
 Then once in the environment, make sure it's the kind of box we wanted, and make sure apache is up and running, listening for requests
 
-<pre>ps -fe | grep httpd 
-netstat -plunt | grep 80</pre>
+```
+ps -fe | grep httpd
+netstat -plunt | grep 80
+```
 
 Cool huh? Now wait, what if you wanted to start with nginx and not apache2? Easy, let's make a quick change. First we'll destroy the box we just created
-<pre>exit 
-vagrant destroy -f</pre>
+
+```
+exit
+vagrant destroy -f
+```
 
 The -f will just make it do it, and give you the 'are you sure' message. Now edit the Cheffile found in the chef directory
-<pre>cd chef
-vi Cheffile</pre>
+
+```
+cd chef
+vi Cheffile
+```
 
 change apache2 to nginx so it will look like
-<code>cookbook 'nginx', '>= 1.0.0'</code>
+
+```
+cookbook 'nginx', '>= 1.0.0'
+```
 
 Let's tell librarian to get that cookbook
-<pre>$ librarian-chef update
+
+```
+$ librarian-chef update
 Installing build-essential (1.4.2)
 Installing apt (2.1.1)
 Installing yum (2.3.2)
 Installing runit (1.2.0)
 Installing ohai (1.1.12)
-Installing nginx (1.8.0)</pre>
+Installing nginx (1.8.0)
+```
 
 Ok, it's installed other cookbooks that it thinks we might need, we won't need apt because we're rocking CentOS, but hey, that's cool. Also notice there is not an apache2 cookbook in the directory anymore, so it's cleaned up what we didn't need, nice!
 
 Now let's tell Vagrantfile about the change
-<pre>cd -
-vi Vagrantfile</pre>
+
+```
+cd -
+vi Vagrantfile
+```
 
 And just change where it says apache2 to nginx
-<code>chef.add_recipe "nginx"</code>
+
+```
+chef.add_recipe "nginx"
+```
 
 and now kick off a build of that box
-<pre>vagrant up </pre>
+
+```
+vagrant up
+```
 
 Do your verification as above, but notice we're not rocking nginx, as it should be. Whew, that was quick, but hey, it's something to build on, and I'll try to demonstrate that going forward by using this same setup to deploy to 'real' virtual machines in the future. Questions/comments, sound off on Twitter, or hit me up via the [contact](/contact) page.
-
