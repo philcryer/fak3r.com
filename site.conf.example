@@ -1,5 +1,5 @@
 #test
-test_dir="/var/www/domain.com/test"
+test_dir="public"
 test_url="http://domain.com/test"
 
 #prod
