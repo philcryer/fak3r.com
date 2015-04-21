@@ -75,19 +75,24 @@ paginate = 5
 
 [[menu.footer]]
         name = "© CC BY-SA 3.0"
-        url = ""
+        url = "/"
+    	weight = 1
 [[menu.footer]]
         name = "Privacy Policy"
-        url = "privacy-policy"
+        url = "/privacy-policy"
+    	weight = 2
 [[menu.footer]]
         name = "Terms and Conditions"
-        url = "terms-and-conditions"
+        url = "/terms-and-conditions"
+    	weight = 3
 [[menu.footer]]
         name = "Source"
         url = "https://github.com/philcryer/fak3r.com"
+    	weight = 4
 [[menu.footer]]
         name = "RSS"
-        url = ""
+        url = "/atom.xml"
+    	weight = 5
 
 
 # Metadata used to drive integrations.
