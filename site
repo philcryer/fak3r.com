@@ -48,7 +48,7 @@ site-prod(){
 	now=`date +'%Y-%m-%d.%H:%M'`
 	site-mess " prod: backing up existing site to $green$prod_dir-$now$reset"
 	sudo mv -f $prod_dir $prod_dir-$now
-	site-mess " prod: writing new site to $green$prod_dir-$now$reset"
+	site-mess " prod: writing new site to $green$prod_dir$reset"
 	sudo mv /tmp/site-new $prod_dir
 }
 
