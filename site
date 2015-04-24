@@ -46,6 +46,8 @@ site-test(){
 	site-mess " test: building site and deploying to $green$test_dir$reset at $cyan$test_url$reset"
 	rm -rf $test_dir/*
 	hugo --verbose -b $test_url -d $test_dir
+	ln -s $test_dir/index.xml $test_dir/atom.xml
+	ln -s $test_dir/index.xml $test_dir/rss.xml
 }
 
 site-prod(){ 
@@ -59,6 +61,8 @@ site-prod(){
 	sudo mv -f $prod_dir $prod_dir-$now
 	site-mess " prod: writing new site to $green$prod_dir$reset"
 	sudo mv /tmp/site-new $prod_dir
+	ln -s $prod_dir/index.xml $prod_dir/atom.xml
+	ln -s $prod_dir/index.xml $prod_dir/rss.xml
 }
 
 red=$(tput setaf 1)

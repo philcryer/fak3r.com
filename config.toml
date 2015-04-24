@@ -91,7 +91,7 @@ paginate = 5
     	weight = 4
 [[menu.footer]]
         name = "RSS"
-        url = "/index.xml"
+        url = "/rss.xml"
     	weight = 5
 
 
