@@ -1,0 +1,70 @@
+{{ partial "header.html" . }}
+<body>
+	{{ if .Params.totop }}
+		<div id="nav-to-top">
+			<span class="decorative-marker">//</span><a href="#top">To Top</a>
+		</div>
+	{{ end }}
+
+	<div id="layout" class="pure-g">
+    {{ partial "sidebar.html" . }}
+	
+	{{ if .Params.banner }}
+	<div class="content-banner-image pure-u-1 pure-u-md-3-4" style="{{ if .Params.bannerheight }}height: {{ .Params.bannerheight }}px;{{ end }}">
+		<img src="{{ .Params.banner }}" class="pure-img" style="{{ if .Params.bannerfill }}width: 100%;{{ end }}" />
+	</div>
+	{{ end }}
+
+    <div class="content pure-u-1 pure-u-md-3-4">
+		<a name="top"></a>
+		{{ partial "singletop.html" . }}
+
+		{{ if not .Params.notoc }}
+			{{ if .TableOfContents }}
+		    <div id="toc" class="pure-u-1 pure-u-md-1-4">
+				<small class="toc-label">Contents</small>
+		   	 	{{ .TableOfContents }}
+		    </div>
+		    {{ end }}
+	    {{ end }}
+  		<section class="post">
+            <h1 class="post-title">
+		    404 - file not found
+            </h1>
+            <h3 class="post-subtitle">
+	    	You shouldn't be here, this should have worked. Try doing a <a href="/search">search</a> to see if you can find what you're looking for.  
+	    </h3>
+        
+      {{ partial "footer.html" . }}
+    </div>
+  </div>
+	{{ if .Params.totop }}
+		<script type="text/javascript">
+			onscroll = function() {
+			  var toTopVisible = false;
+			  var scrollTop = document.documentElement.scrollTop || document.body.scrollTop;
+			  if (scrollTop > 1000) {
+			    if (!toTopVisible) {
+			      document.getElementById('nav-to-top').style.display = 'block';
+			    }
+			  } else {
+			    if (scrollTop < 1000 || toTopVisible) {
+			      document.getElementById('nav-to-top').style.display = 'none';
+			    }
+			  }
+			};
+		</script>
+	{{ end }}
+
+	{{ if .Params.socialsharing }}
+		<script type="text/javascript">
+			function popupShare(url) {
+				window.open(url, '_blank', 'scrollbars,resizable,height=525,width=600');
+				return false;
+			}
+		</script>
+	{{ end }}
+
+  {{ partial "bodyend.html" . }}
+</body>
+</html>

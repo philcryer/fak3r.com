@@ -22,6 +22,15 @@ site-devl(){
 
 site-post(){
 	site-mess " post: upcoming functionality"
+	#hugo new [path] [flags]
+	#  hugo new [command]
+	#  Available Commands:
+	#    site        Create a new site (skeleton)
+	#      theme       Create a new theme
+#
+#	      Flags:
+#	        -f, --format="toml"
+	#touch content/post/`date +'%Y-%m-%d-'`$1
 	exit 0
 }
 
