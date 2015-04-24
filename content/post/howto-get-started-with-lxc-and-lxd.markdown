@@ -40,8 +40,7 @@ This kind of setup seems to be something they'll automate later and have the ins
 your-username veth lxcbr0 10
 ```
 
-This just means that "your-username" can created up to 10 veth devices to connect to the lxcbr0 bridge.
- By default, your user isn't allowed to create any network device on the host, to change that, add:
+This just means that "your-username" can create up to 10 veth devices to connect to the lxcbr0 bridge.
 
 ## Launch some containers
 

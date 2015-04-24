@@ -11,6 +11,7 @@ Commands:
   prod		builds and deploys the site to the prod directory
   page [name]	creates a new page as: content/name.markdown
   post [name]	creates a new post as: content/post/YYYY-MM-DD-name.markdown
+  clean		cleans out the test directory
 For more help, check the docs: https://github.com/philcryer/fak3r.com
 EOM
 }
@@ -46,8 +47,18 @@ site-test(){
 	site-mess " test: building site and deploying to $green$test_dir$reset at $cyan$test_url$reset"
 	rm -rf $test_dir/*
 	hugo --verbose -b $test_url -d $test_dir
-	ln -s $test_dir/index.xml $test_dir/atom.xml
-	ln -s $test_dir/index.xml $test_dir/rss.xml
+	cd $test_dir
+	ln -s index.xml atom.xml
+	ln -s index.xml rss.xml
+	cd -
+}
+
+site-clean(){ 
+	if [ ! -d '$test_dir' ]; then
+		mkdir -p $test_dir
+	fi
+	site-mess " clean: cleaning out $green$test_dir$reset"
+	rm -rf $test_dir/*
 }
 
 site-prod(){ 
@@ -56,13 +67,15 @@ site-prod(){
 		rm -rf /tmp/site-new
 	fi
 	hugo --verbose -d /tmp/site-new
+	cd /tmp/site-new
+	ln -s index.xml atom.xml
+	ln -s index.xml rss.xml
+	cd -
 	now=`date +'%Y-%m-%d.%H:%M'`
 	site-mess " prod: backing up existing site to $green$prod_dir-$now$reset"
 	sudo mv -f $prod_dir $prod_dir-$now
 	site-mess " prod: writing new site to $green$prod_dir$reset"
 	sudo mv /tmp/site-new $prod_dir
-	ln -s $prod_dir/index.xml $prod_dir/atom.xml
-	ln -s $prod_dir/index.xml $prod_dir/rss.xml
 }
 
 red=$(tput setaf 1)
@@ -117,6 +130,9 @@ case $1 in
 
     test)
 	site-test
+        ;;
+    clean)
+	site-clean
         ;;
 
     *)
