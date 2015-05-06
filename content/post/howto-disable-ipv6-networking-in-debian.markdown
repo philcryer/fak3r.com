@@ -17,7 +17,20 @@ tags:
 - security
 ---
 
-<div align="right"><img src="/2008/ipv6_ready_logo_phase1-150x150.png"></div><b>UPDATE 2</b> It's 2014 now, and this is much easier. Edit <code>/etc/sysctl.conf</code> and add:
+<div align="right"><img src="/2008/ipv6_ready_logo_phase1-150x150.png"></div><b>UPDATE 3</b> Ohai! now it's 2015 and Debian lists an [offical way to disable ipv6](https://wiki.debian.org/DebianIPv6#How_to_turn_off_IPv6) in `/etc/sysctl.conf`, just add:
+
+<pre>
+net.ipv6.conf.all.disable_ipv6 = 1
+net.ipv6.conf.default.disable_ipv6 = 1
+net.ipv6.conf.lo.disable_ipv6 = 1
+net.ipv6.conf.eth0.disable_ipv6 = 1
+</pre>
+
+Then reboot, or issue the command `sysctl -p`
+
+So, while I'm (still) all for IPv6 becoming the new standard, until it does I'm going to turn if off on my servers if it's not being used.
+
+<b>UPDATE 2</b> It's 2014 now, and this is much easier. Edit <code>/etc/sysctl.conf</code> and add:
 
 <pre>
 net.ipv6.conf.all.disable_ipv6 = 1
