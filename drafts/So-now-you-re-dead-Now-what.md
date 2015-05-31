@@ -15,3 +15,7 @@ http://mydeathspace.com/vb/forum.php
 
 
 https://medium.com/message/deathhacks-b767903b7c15
+
+
+
+https://help.linkedin.com/app/answers/detail/a_id/2842

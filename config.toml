@@ -18,7 +18,7 @@ paginate = 5
   defaultDescription = ""
   defaultKeywords = ""
   #categoriescss = "/css/categories.css"
-  postsblurb = "" 
+  postsblurb = ""
 
 [permalinks]
     # Optional. Change the permalink format for the 'post' content type.
