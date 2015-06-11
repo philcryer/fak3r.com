@@ -62,20 +62,33 @@ site-clean(){
 }
 
 site-prod(){ 
+	site-mess " prod: checking write permissions to $prod_dir"
+	if [ ! -w "$prod_dir" ]; then
+		site-erro " user cannot write to $green$prod_dir$reset, fix permissions and try again"
+		exit 1
+	fi
 	site-mess " prod: building new site to $green/tmp/site-new$reset"
 	if [ ! -d '/tmp/site-new' ]; then
 		rm -rf /tmp/site-new
 	fi
 	hugo --verbose -d /tmp/site-new
 	cd /tmp/site-new
-	ln -s index.xml atom.xml
-	ln -s index.xml rss.xml
+#	ln -s index.xml atom.xml
+#	ln -s index.xml rss.xml
 	cd -
 	now=`date +'%Y-%m-%d.%H:%M'`
-	site-mess " prod: backing up existing site to $green$prod_dir-$now$reset"
-	sudo mv -f $prod_dir $prod_dir-$now
+	#site-mess " prod: backing up existing site to $green$prod_dir-$now$reset"
+	site-mess " prod: backing up existing site to $green/tmp/$prod_dir-$now$reset"
+	#sudo mv -f $prod_dir $prod_dir-$now
+	#mv -f $prod_dir $prod_dir-$now
+	tmp_prod_dir=${prod_dir##*/}
+	mkdir /tmp/$tmp_prod_dir-$now
+	mv -f $prod_dir/* /tmp/$tmp_prod_dir-$now
 	site-mess " prod: writing new site to $green$prod_dir$reset"
-	sudo mv /tmp/site-new $prod_dir
+	#sudo mv site-new/* $prod_dir
+	mv /tmp/site-new/* $prod_dir
+	rm -rf /tmp/site-new
+	
 }
 
 red=$(tput setaf 1)
