@@ -1,5 +1,5 @@
 +++
-title = "HOWTO build tiny docker image"
+title = "HOWTO build tiny docker images"
 Description = "Most Docker images are huge, lets make smaller ones"
 date = "2015-05-27T09:53:12-06:00"
 Categories = ["howto"]
