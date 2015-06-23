@@ -29,7 +29,7 @@ First off, this server is running [Debian GNU/Linux](http://www.debian.org/) 'Le
     <span><span><span><span><span><span><span><span><span style="font-family: Consolas, Monaco, 'Courier New', Courier, monospace; line-height: 18px; font-size: 12px;">apt-get install tomcat5.5 tomcat5.5-webapp</span></span></span></span></span></span></span></span></span>
 
 
-[![](http://fak3r.com/wp-content/uploads/2010/04/monit_banner.png)](http://fak3r.com/wp-content/uploads/2010/04/monit_banner.png)I won't spend too much time on monit, since I've [covered it extensively elsewhere on my site](http://fak3r.com/2010/04/10/howto-use-monit-to-monitor-sites-and-alert-users/) (if you haven't, go there to understand how to set it up, and why I don't run a system without it), but basically to have it watch Tomcat we need to install it
+[![](/static/2010/04/monit_banner.png)]I won't spend too much time on monit, since I've [covered it extensively elsewhere on my site](http://fak3r.com/2010/04/10/howto-use-monit-to-monitor-sites-and-alert-users/) (if you haven't, go there to understand how to set it up, and why I don't run a system without it), but basically to have it watch Tomcat we need to install it
 
 apt-get install monit
 
