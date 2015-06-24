@@ -18,7 +18,10 @@ EOM
 
 site-devl(){
 	site-mess " devl: running server for live devl"
-	hugo --verbose --baseUrl="localhost" --watch server
+	if [ ! -d 'data' ]; then
+		mkdir data
+	fi
+	hugo --verbose --baseUrl=localhost --disableRSS --disableSitemap --pluralizeListTitles=false --stepAnalysis=false --watch server
 }
 
 site-post(){
