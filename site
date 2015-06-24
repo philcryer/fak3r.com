@@ -65,7 +65,7 @@ site-clean(){
 }
 
 site-prod(){ 
-	site-mess " prod: checking write permissions to $prod_dir"
+	site-mess " prod: checking write permissions to $green$prod_dir$reset"
 	if [ ! -w "$prod_dir" ]; then
 		site-erro " user cannot write to $green$prod_dir$reset, fix permissions and try again"
 		exit 1
@@ -81,7 +81,7 @@ site-prod(){
 	cd -
 	now=`date +'%Y-%m-%d.%H:%M'`
 	#site-mess " prod: backing up existing site to $green$prod_dir-$now$reset"
-	site-mess " prod: backing up existing site to $green/tmp/$prod_dir-$now$reset"
+	site-mess " prod: backing up existing site to $green/tmp$prod_dir-$now$reset"
 	#sudo mv -f $prod_dir $prod_dir-$now
 	#mv -f $prod_dir $prod_dir-$now
 	tmp_prod_dir=${prod_dir##*/}
