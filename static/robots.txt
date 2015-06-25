@@ -1,4 +1,7 @@
+User-agent: nsa
+Disallow: /
+
 User-agent: *
-Disallow:  
+Disallow: 
 
 Sitemap: http://fak3r.com/sitemap.xml 
