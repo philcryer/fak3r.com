@@ -5,6 +5,21 @@ infosec
 ---
 _TL;DR_ companies are running SSL MiTM (Man in The Middle) attacks, decrypting users sessions without the user knowing it. Find out if this is happening to you.
 
+Today the ACLU had an interesting arctcle, "Should Companies Be Forced to Enable Surveillance and Compromise Security? The Government Thinks So"
+
+
+
+https://www.aclu.org/blog/washington-markup/should-companies-be-forced-enable-surveillance-and-compromise-security
+
+
+At a congressional hearing yesterday, the Department of Justice urged Congress to pressure companies to weaken encryption by creating a so-called “backdoor” into products. That’s in response to the increasing use of strong encryption in commercial technology that makes your information inaccessible even to the companies whose tools you use. While the DOJ said they are not pursuing a mandatory backdoor for now — they left the door open to this type of proposal in the future.
+
+
+
+---
+
+
+
 I have a story from when I was working for $COMPANY that bothered me enough to take notes and want to pass it on so others would know if they were being similarly watched. So one day at work, after a 'network upgrade', I was unable to interact with github.com, a site that I use daily. The error I'd get was...
 
 open source mitm https://mitmproxy.org/
