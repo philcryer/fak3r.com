@@ -184,6 +184,8 @@ Ironically I knew about [Websense](http://www.websense.com/) from "back in the d
 
 Look, I know what I'm going to hear, and I totally get it; this is the __$company__ network and resources, they are ultimately responsible for defending themselves from malicious software entering the network and for misuse that their users might, knowingly or unknowingly, do. The point is that __the users don't know that their privacy and security is being thrown out out the window in the guise of security__. Yes they might have seen a EULA or other notice stating that the company owns everything, but for years we have trained users that if they use HTTPS and they see that 'Lock' that they have end-to-end encryption, they have privacy, but they don't know that this can be completely false if the company is using an appliance that circumvents that functionality and silently installs a hand-made, bogus Root CA to lie to them. Note that the action of blocking or censoring web content on a national level is considered evil, you have to admit that doing the same (maybe more so) and not implictly informing users how invasive their monitioring is, is a bit evil as well.
 
+So, does __your__ employer run SSL MiTM attacks on you? Take a closer look at the SSL certs you get when you load an HTTPS page, and see what you can find.
+
 ## Further reading...
 
 * [Security risks are posed by vendors deploying SSL Intercepting proxies on user desktops)](http://security.stackexchange.com/questions/82035/what-security-risks-are-posed-by-software-vendors-deploying-ssl-intercepting-pro) (Stackexchange Security)
