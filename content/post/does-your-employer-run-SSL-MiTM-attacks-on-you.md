@@ -6,7 +6,7 @@ Categories = ["geek", "surveillance"]
 Tags = ["ssl", "mitm", "infosec", "websense", "wsg_subca"]
 +++
 
-> __TL;DR__ companies are buying appliances and running SSL MiTM (Man in The Middle) attacks against their users, decrypting sessions on the fly without the user's knowledge. You should find out if this is happening to you.
+> __TL;DR__ companies are buying appliances that run SSL MiTM (Man in The Middle) attacks against their users, decrypting sessions on the fly without the user's knowledge. You should find out if this is happening to you.
 
 As a self described privacy advocate, I consider myself pretty cognizant of when I might be under some sort of network surveillance; I know what to look for, and enjoy understanding ways to avoid it (often by not visiting certain sites from certain networks), but one day I hit something that surprised me. It was enough to make me take notes so that others could see if they were under a similar setup. One day, while working for __$company__, after a scheduled 'network upgrade' I was unable to interact with [github.com](https://github.com/), a site that I had been using daily up to that point. The error I'd get was...
 
