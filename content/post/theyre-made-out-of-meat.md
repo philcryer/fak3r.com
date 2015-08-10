@@ -1,7 +1,7 @@
 +++
 title = "They're made out of meat"
 Description = "A science fiction story by Terry Bisson"
-date = "2015-09-10T06:18:49-06:00"
+date = "2015-08-05T06:18:49-06:00"
 Categories = ["literature", "short-stories"]
 Tags = ["life", "scifi"]
 
