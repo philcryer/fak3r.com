@@ -1,2 +1,1 @@
-#hugo --baseUrl="http://fak3r.com" --buildDrafts=false --buildFuture=false --destination="devel" --disableRSS=true --disableSitemap=true --watch server
-hugo --baseUrl="http://fak3r.com" server
+hugo --baseUrl="http://devel.fak3r.com" --buildDrafts=false --buildFuture=false --destination="devel" --disableRSS=false --disableSitemap=true --watch
