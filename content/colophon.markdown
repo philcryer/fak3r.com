@@ -10,14 +10,16 @@ layout = "page"
 +++
 
 <h3>Resources I use to produce this site</h3>
-<img src="/colophon/hugo.png" height="16" weight="16" border="0">&nbsp;&nbsp;<a href="http://gohugo.io/">Hugo</a> a fast and flexible static site generator built in GoLang<br />
-<img src="/colophon/debian.png" border="0">&nbsp;&nbsp;<a href="http://debian.org">Debian GNU/Linux</a> the *real* Linux, well maybe just after <a href="http://slackware.com">Slackware</a><br />
-<img src="/colophon/nginx.png" border="0">&nbsp;&nbsp;<a href="http://nginx.org">nginx</a> the flexible, high-performance HTTP server and reverse proxy<br />
-<img src="/colophon/openssh.png" border="0">&nbsp;&nbsp;<a href="http://openssh.org">OpenSSH</a> <b>S</b>ecure <b>SH</b>ell, encrypted remote connectivity client<br />
-<img src="/colophon/startssl.png" border="0">&nbsp;&nbsp;<a href="https://startssl.org">StartSSL</a> offering free Class 1 SSL server certificates for personal use<br />
-<img src="/colophon/vim.png" border="0">&nbsp;&nbsp;<a href="http://www.vim.org">Vim</a> the text editor I use for everything, including authoring this site<br />
-<img src="/colophon/gimp.png" border="0">&nbsp;&nbsp;<a href="http://www.gimp.org">Gimp</a> the <b>G</b>NU <b>I</b>mage <b>M</b>anipulation <b>P</b>rogram to handle the any graphics<br />
-<img src="/colophon/dell.png" border="0">&nbsp;&nbsp;<a href="http://www.dell.com">Dell</a> this site is running on a <a href="https://www.dell.com/us/dfb/p/poweredge-t300/pd">PowerEdge T300</a> tower server</a><br />
-<img src="/colophon/proxmox.png" border="0">&nbsp;&nbsp;<a href="http://www.proxmox.com/">Proxmox</a> a virtualization management platform for KVM and OpenVZ<br />
-<img src="/colophon/dyndns.png" border="0">&nbsp;&nbsp;<a href="https://dyn.com">Dyn</a> providing enterprise, managed Domain Name Service<br />
-<img src="/colophon/github.png" border="0">&nbsp;&nbsp;<a href="http://github.com">Github</a> for source code hosting and collaborative development<br />
+<br />
+<img src="/colophon/digitalocean.png" border="0">&nbsp;&nbsp;<a href="https://www.digitalocean.com/?refcode=595640573ea1">DigitalOcean</a> (affiliate link) Cloud Hosting, Built for Developers. Deploy an SSD cloud server in 55 seconds<br />
+<img src="/colophon/dyndns.png" border="0">&nbsp;&nbsp;<a href="https://dyn.com">Dyn</a> an Internet performance company, offering domain registration services and DNS<br />
+<img src="/colophon/gandi.png" border="0">&nbsp;&nbsp;<a href="https://www.gandi.net">Gandi</a> a French company providing domain name registration, SSL certificates and web hosting<br />
+<img src="/colophon/gimp.png" border="0">&nbsp;&nbsp;<a href="http://www.gimp.org">Gimp</a> a free and open-source raster graphics editor used for image editing<br />
+<img src="/colophon/github.png" border="0">&nbsp;&nbsp;<a href="http://github.com">Github</a> hosted git for source control, in an open and collaborative environment<br />
+<img src="/colophon/freebsd.png" border="0">&nbsp;&nbsp;<a href="https://freebsd.org">FreeBSD</a> an advanced computer operating system used to power modern servers<br />
+<img src="/colophon/hugo.png" height="16" weight="16" border="0">&nbsp;&nbsp;<a href="http://gohugo.io/">Hugo</a> a fast and modern static website engine built in GoLang<br />
+<img src="/colophon/nginx.png" border="0">&nbsp;&nbsp;<a href="http://nginx.org">nginx</a> an HTTP and reverse proxy server, a mail proxy server, and a generic TCP proxy server<br />
+<img src="/colophon/openssh.png" border="0">&nbsp;&nbsp;<a href="http://openssh.org">OpenSSH</a> a suite of security-related network-level utilities based on the SSH protocol<br />
+<img src="/colophon/vim.png" border="0">&nbsp;&nbsp;<a href="http://www.vim.org">Vim</a> a text editor that seeks to provide the power of the Unix editor with a more complete feature set<br />
+
+<img src="/colophon/germany.png" border="0">&nbsp;&nbsp;Hosted in Frankfurt, Germany
