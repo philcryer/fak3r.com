@@ -56,8 +56,8 @@ cp terraform/aws.sample.tf aws.tf
 
 ```
 provider "aws" {
-  access_key = "***REMOVED***"
-  secret_key = "***REMOVED***"
+  access_key = "XXXXXXXXXXXXX"
+  secret_key = "XXXXXXXXXXXXXXXXXXXX"
   region = "us-east-1"
 }
 
