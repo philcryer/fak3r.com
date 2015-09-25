@@ -9,6 +9,7 @@ Tags = ["mantl", "terraform", "ansible", "aws", "docker"]
 
 # Overview
 
+<<<<<<< HEAD
 I've been 
 
 https://github.com/ciscocloud/microservices-infrastructure
@@ -23,19 +24,38 @@ tehy define it as
 <div align="center"><img src="/2015/mantl-logo-1.png" border="0" alt="Mantl"></div>
 
 but just like stax, there's lots to do up front...
+=======
+I've been a while since the [microservices-infructure](https://github.com/ciscocloud/microservices-infrastructure) started, and an impressive project designed to get a microservices infrastructure setup with a reasonable set of defaults and No they seem to be getting more serious about the project by renaming the project...
+
+<div align="center"><img src="/2015/mantl-logo-1.png" border="0" alt="Mantl"></div>
+
+[Mantl](http://mantl.io) describes itself as, "A container orchestrator, docker, a network stack, something to pool your logs, something to monitor health, a sprinkle of service discovery and some automation." This is all well and good, but just like my project stax, there's lots to do up front. Let's get it rolling on [AWS](http://aws.amazon.com), but note that it can also be run on Vagrant, Openstack, Google Compute Engine, as well as bare metal, via [Terraform](https://terraform.io/).
+>>>>>>> b1c0b4ef57e62e666d0e30df9097a04f280be8d8
 
 ## Getting started
 
 * install required apps to install the code
+<<<<<<< HEAD
 apt-get update; apt-get install -y git curl unzip python-pip python-crypto-dbg
 
 * terraform
 
+=======
+
+```
+apt-get update; apt-get install -y git curl unzip python-pip python-crypto-dbg
+```
+
+* terraform
+
+```
+>>>>>>> b1c0b4ef57e62e666d0e30df9097a04f280be8d8
 cd ~; mkdir bin; cd bin 
 wget https://dl.bintray.com/mitchellh/terraform/terraform_0.6.3_linux_amd64.zip
 unzip terraform_0.6.3_linux_amd64.zip
 
 echo "export PATH=$PATH:$HOME/bin" >> .profile ; source .profile
+<<<<<<< HEAD
 
 * get the code
 
@@ -51,13 +71,48 @@ pip install -r requirements.txt
 * copy in aws sample file
 
 cp terraform/aws.sample.tf aws.tf
+=======
+```
+
+## Get the code
+
+```
+cd ~; git clone https://github.com/CiscoCloud/microservices-infrastructure.git;
+cd microservices-infrastructure/
+```
+
+* use pip to install markup safe, which ansible needs
+
+```
+pip install markupsafe
+```
+
+* install ansible and other required python apps needed by the code
+
+```
+pip install -r requirements.txt
+```
+
+## Configure the project
+
+* copy in aws sample file
+
+```
+cp terraform/aws.sample.tf aws.tf
+```
+>>>>>>> b1c0b4ef57e62e666d0e30df9097a04f280be8d8
 
 * edit file, filling in access_key, secret_key and region from aws console
 
 ```
 provider "aws" {
+<<<<<<< HEAD
   access_key = "AKIAJ7EZCXYWK4TSE6RA"
   secret_key = "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"
+=======
+  access_key = "***REMOVED***"
+  secret_key = "***REMOVED***"
+>>>>>>> b1c0b4ef57e62e666d0e30df9097a04f280be8d8
   region = "us-east-1"
 }
 
@@ -73,9 +128,17 @@ module "aws-dc" {
 }
 ```
 
+<<<<<<< HEAD
 * create an IAM user in aws console
 
 * create a IAM policy in aws console
+=======
+## Setup AWS permssions and access control
+
+* create an IAM user in aws console
+
+* create a IAM policy in aws console, adding the following
+>>>>>>> b1c0b4ef57e62e666d0e30df9097a04f280be8d8
 
 ```
 {
@@ -134,6 +197,7 @@ module "aws-dc" {
 
 * assign that policy to the user
 
+<<<<<<< HEAD
 * setup security (provide new admin password when prompted)
 
 ./security-setup
@@ -175,3 +239,63 @@ ansible-playbook -i plugins/inventory/terraform.py -e @security.yml terraform.ym
 
 blah
 
+=======
+## Setup security in Mantl
+
+* provide new admin password when prompted
+
+```
+./security-setup
+```
+
+* create SSH key
+
+```
+ssh-keygen -b 2048 -f ~/.ssh/id_rsa -P ''
+```
+
+## Install hosts with terraform
+
+```
+terraform get
+terraform apply
+```
+
+* now look at the hosts with ansible
+
+```
+ansible all -i plugins/inventory/terraform.py -m ping
+```
+
+* if they answer 'pong' they’re all good
+
+## Configure the new instance definitions
+
+```
+cp terraform.sample.yml terraform.yml
+```
+
+* edit it (comment out consul_acl_datacenter: if you only have one datacenter)
+
+```
+vi terraform.yml
+```
+
+## Run ansible using the yml file
+
+```
+ansible-playbook -i plugins/inventory/terraform.py -e @security.yml terraform.yml
+```
+
+(this will take some time, usually ~30 minutes)
+
+## Login to Marathon
+
+* in a web browser, attach to the Marathon node, logging in with the creditials you entered above.
+
+## Launch some docker instnaces on the cluster
+
+# Conclusion
+
+The Mantl project feels very 
+>>>>>>> b1c0b4ef57e62e666d0e30df9097a04f280be8d8
