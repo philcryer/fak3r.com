@@ -3,6 +3,7 @@ layout = "page"
 date = "2013-03-24T21:54:12-05:00"
 title = "About"
 slug = "about"
+menu = "main"
 nodate = true
 nopaging = true
 noread = true

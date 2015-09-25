@@ -4,6 +4,7 @@ title = "Colophon"
 slug = "colophon"
 nodate = true
 nopaging = true
+menu = "main"
 noread = true
 layout = "page"
 
