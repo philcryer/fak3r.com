@@ -1,7 +1,7 @@
 +++
 title = "Bruce on privacy"
 Description = "Bruce Schneir perfectly captures why we all need to be concerned about our only privacy"
-date = "2015-09-16T20:1:18-06:00"
+date = "2015-09-16T20:13:18-06:00"
 Categories = ["quotes"]
 Tags = ["online privacy", "privacy", "bruce", "bruce schnier"]
 
