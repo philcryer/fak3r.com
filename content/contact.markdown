@@ -2,7 +2,7 @@
 date = "2013-03-24T21:54:12-05:00"
 title = "Contact"
 slag = "contact"
-menu ="main"
+#menu ="main"
 nodate = true
 nopaging = true
 noread = true

@@ -4,7 +4,7 @@ title = "Search"
 slug = "search"
 nodate = true
 nopaging = true
-menu = "main"
+#menu = "main"
 noread = true
 layout = "page"
 

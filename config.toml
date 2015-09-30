@@ -1,32 +1,108 @@
-baseurl = "http://fak3r.com/"
-title = "look out honey, 'cause we're using technology"
+title = "fak3r"
 languageCode = "en-us"
+baseurl = "https://fak3r.com"
+copyright = "This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0) License."
 disqusShortname = "fak3r"
-MetaDataFormat = "toml"
-theme = "hyde-x"
-paginate = 10
+
+#MetaDataFormat = "toml"
+paginatePath  = "page"
+theme = "redlounge"
+paginate = 5
 
 [author]
     name = "fak3r"
-    gravatarHash = "fak3r"
-
-[permalinks]
-    post = "/:year/:month/:day/:title/"
-
-[taxonomies]
-    category = "categories"
 
 [params]
-    truncate = true
-    #defaultDescription = "Your default page description"
-    #defaultKeywords = "your,default,page,keywords"
-    theme = "theme-base-09"
-    highlight = "sunburst"
-    tagline = "look out honey, 'cause we're using technology"
-    home = "Home"
-    github = "https://github.com/philcryer"
-    twitter = "https://twitter.com/fak3r"
-    rss = true
-    flickr = "https://secure.flickr.com/photos/fak3r/sets/"
-    lastfm = "https://last.fm/user/fak3r/library"
-    keybase = "https://keybase.io/fak3r/key.asc"
+  sidebartitle = "fak3r"
+  sidebartagline = "look out honey, cause I'm using technology"
+  defaultDescription = ""
+  defaultKeywords = ""
+  #categoriescss = "/css/categories.css"
+  postsblurb = ""
+
+[permalinks]
+    # Optional. Change the permalink format for the 'post' content type.
+    # The format shown here is the same one Jekyll/Octopress uses by default.
+    #post = "/:section/:slug"
+    post = "/:year/:month/:day/:title"
+
+[taxonomies]
+  tag = "tags"
+  category = "categories"
+  series = "series"
+
+[[menu.main]]
+    name = "About"
+    url = "/about"
+[[menu.main]]
+    name = "Search"
+    url = "/search"
+[[menu.main]]
+    name = "Music"
+    url = "/music"
+[[menu.main]]
+    name = "Contact"
+    url = "/contact"
+[[menu.main]]
+    name = "Colophon"
+    url = "/colophon"
+
+[[menu.social]]
+  pre = "<i class='fa fa-twitter'></i>"
+    url = "https://www.twitter.com/fak3r"
+    identifier = "twitter"
+    weight = 1
+[[menu.social]]
+  pre = "<i class='fa fa-flickr'></i>"
+    url = "https://secure.flickr.com/photos/fak3r/sets/"
+    identifier = "flickr"
+    weight = 2
+[[menu.social]]
+  pre = "<i class='fa fa-github'></i>"
+    url = "https://github.com/philcryer"
+    identifier = "github"
+    weight = 3
+[[menu.social]]
+  pre = "<i class='fa fa-lastfm'></i>"
+    url = "https://last.fm/user/fak3r/library"
+    identifier = "last.fm"
+    weight = 4
+[[menu.social]]
+  pre = "<i class='fa fa-lock'></i>"
+    url = "https://keybase.io/fak3r/key.asc"
+    identifier = "pgp"
+    weight = 5 
+
+[[menu.footer]]
+        name = "© CC BY-SA 3.0"
+        url = "/"
+    	weight = 1
+[[menu.footer]]
+        name = "Privacy Policy"
+        url = "/privacy-policy"
+    	weight = 2
+[[menu.footer]]
+        name = "Terms and Conditions"
+        url = "/terms-and-conditions"
+    	weight = 3
+[[menu.footer]]
+        name = "Source"
+        url = "https://github.com/philcryer/fak3r.com"
+    	weight = 4
+[[menu.footer]]
+        name = "RSS"
+        url = "/index.xml"
+    	weight = 5
+
+
+# Metadata used to drive integrations.
+#googleAuthorship = "+"
+#googleAnalytics = "UA-xxxxxxx-x"
+#gravatarHash = ""
+
+# Sidebar social links, these must be full URLs.
+#github = "https://github.com/_"
+#linkedin = "http://www.linkedin.com/in/_"
+#googleplus = "https://plus.google.com/+_/posts"
+#facebook = "https://www.facebook.com/_"
+#twitter = "https://twitter.com/_"

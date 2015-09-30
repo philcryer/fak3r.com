@@ -1,0 +1,32 @@
+baseurl = "http://fak3r.com/"
+title = "look out honey, 'cause we're using technology"
+languageCode = "en-us"
+disqusShortname = "fak3r"
+MetaDataFormat = "toml"
+theme = "hyde-x"
+paginate = 10
+
+[author]
+    name = "fak3r"
+    gravatarHash = "fak3r"
+
+[permalinks]
+    post = "/:year/:month/:day/:title/"
+
+[taxonomies]
+    category = "categories"
+
+[params]
+    truncate = true
+    #defaultDescription = "Your default page description"
+    #defaultKeywords = "your,default,page,keywords"
+    theme = "theme-base-09"
+    highlight = "sunburst"
+    tagline = "look out honey, 'cause we're using technology"
+    home = "Home"
+    github = "https://github.com/philcryer"
+    twitter = "https://twitter.com/fak3r"
+    rss = true
+    flickr = "https://secure.flickr.com/photos/fak3r/sets/"
+    lastfm = "https://last.fm/user/fak3r/library"
+    keybase = "https://keybase.io/fak3r/key.asc"

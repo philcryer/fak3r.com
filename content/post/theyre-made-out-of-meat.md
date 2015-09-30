@@ -6,7 +6,7 @@ Categories = ["literature", "short-stories"]
 Tags = ["life", "scifi"]
 
 +++
-I'm a big fan of science fiction writing, and when it adds humor it's (usually) even better! Here's a great one I found online, first a note from the author: _I’m honored that this often shows up on the internet. Here’s the [correct version](http://www.terrybisson.com/page6/page6.html), as published in Omni, 1990. Thanks for your interest in my work. If you enjoyed this little piece, please give a dollar to a homeless person._
+I'm a big fan of science fiction writing, and with humor it's even better! Here's a great one I found online, first a note from the author Terry Bisson, _"I’m honored that this often shows up on the internet. Here’s the [correct version](http://www.terrybisson.com/page6/page6.html), as published in Omni, 1990. Thanks for your interest in my work. If you enjoyed this little piece, please give a dollar to a homeless person."_
 
 <!--more-->
 
@@ -115,6 +115,4 @@ I'm a big fan of science fiction writing, and when it adds humor it's (usually) 
 >
 >"And why not? Imagine how unbearably, how unutterably cold the Universe would be if one were all alone ..."
 
-### Citation (MLA)
-
-Bisson, Terry. "They're Made Out Of Meat." They're Made Out Of Meat. Omni (magazine), 1 Apr. 1991. Web. 10 Aug. 2015. <[http://www.terrybisson.com/page6/page6.html](http://www.terrybisson.com/page6/page6.html)>. 
+__Citation__ Bisson, Terry. "They're Made Out Of Meat." _They're Made Out Of Meat. Omni (magazine)_, 1 Apr. 1991. Web. 10 Aug. 2015. <[http://www.terrybisson.com/page6/page6.html](http://www.terrybisson.com/page6/page6.html)>. 
