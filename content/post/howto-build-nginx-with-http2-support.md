@@ -69,7 +69,7 @@ Now we'll configure the code, I used the basic Debian settings, but noticed I en
     --with-http_ssl_module \
     --with-http_stub_status_module \
     --with-http_gzip_static_module \
-    --with-http_v2_module 
+    --with-http_v2_module
 ```
 
 *~30 seconds*
@@ -77,7 +77,7 @@ Now we'll configure the code, I used the basic Debian settings, but noticed I en
 Next, we can compile the source:
 
 ```
-make 
+make
 ```
 
 *~ 3 minutes*
@@ -131,7 +131,7 @@ By adding the follwoing block to the end of the file (but still before the `}`)
         server_name  localhost;
 
         ssl_certificate /etc/nginx/ssl/server.crt;
-        ssl_certificate_key /etc/nginx/ssl/server.key; 
+        ssl_certificate_key /etc/nginx/ssl/server.key;
 
         ssl_session_cache    shared:SSL:1m;
         ssl_session_timeout  5m;
@@ -175,7 +175,7 @@ Time test things out, hit the site in a browser by pulling up `https://XXX.XXX.X
 YYY.YYY.YYY.YYY - - [30/Sep/2015:03:02:08 +0000] "GET / HTTP/2.0" 200 357616 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.11; rv:40.0) Gecko/20100101 Firefox/40.0"
 ```
 
-Sweet, there's that `HTTP/2.01 designation! Next let's use `curl` to test it, at the same time we can see everything it's doing by looking through the headers: (notice, you'll need version 7.33.0 or better, otherwise it won't support the `--http2` flag):
+Sweet, there's that `HTTP/2.0` designation! Next let's use `curl` to test it, at the same time we can see everything it's doing by looking through the headers: (notice, you'll need a curl version 7.33.0 or newer, otherwise it won't support the `--http2` flag):
 
 ```
 # curl -I -L -k --http2 --verbose https://XXX.XXX.XXX.XXX
