@@ -1,1 +1,0 @@
-hugo --baseUrl="http://devel.fak3r.com" --buildDrafts=false --buildFuture=false --destination="devel" --disableRSS=false --disableSitemap=true --watch
