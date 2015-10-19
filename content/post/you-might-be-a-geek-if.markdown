@@ -1,5 +1,5 @@
 ---
-title: "You might be a geek if..."
+title: "You might be a geek if"
 slug: "you-might-be-a-geek-if"
 date: "2006-11-06T10:52:00-06:00"
 author: "fak3r"
