@@ -24,3 +24,4 @@ clean: all
 	rm -rf ${DEV_DIR}
 	rm -rf ${TMP_DIR}
 	rm -rf ${OLD_DIR}*
+hugo --buildDrafts --destination=public --verbose --theme=slender

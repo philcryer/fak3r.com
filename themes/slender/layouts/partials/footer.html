@@ -1,0 +1,31 @@
+        </div>
+        <footer>
+            <p><i class="fa fa-copyright"></i>&nbsp; <a href="http://creativecommons.org/licenses/by/4.0/" alt="Creative Commons License" style="border-width:0" />CC BY 4.0</a>
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+            <i class="fa fa-file-text-o"></i>&nbsp; </a><a href="/privacy-policy/">Privacy Policy</a>
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+            <i class="fa fa-file-text-o"></i>&nbsp; <a href="/terms-and-conditions/">Term and Conditions</a>
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+            <i class="fa fa-code"></i>&nbsp; <a href="https://github.com/philcryer/fak3r.com">Source Code</a>
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+            <i class="fa fa-rss"></i>&nbsp; <a href="/index.xml">RSS</a> {{ .Site.Params.footer }}</p>
+            <div align="center"><i class="fa fa-server"></i>&nbsp; Hosted in Frankfurt, Germany</div>
+            <br />
+        </footer> 
+        <script src="{{ "/js/highlight-9.0.0.min.js" | absURL }}"></script>
+        <script>hljs.initHighlightingOnLoad();</script>
+        {{ with .Site.Params.ganalytics }}
+        <script type="text/javascript">
+          var _gaq = _gaq || [];
+          _gaq.push(['_setAccount', '{{ . }}']);
+          _gaq.push(['_trackPageview']);
+
+          (function() {
+            var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+          })();
+        </script>
+        {{ end }}
+    </body>
+</html>
