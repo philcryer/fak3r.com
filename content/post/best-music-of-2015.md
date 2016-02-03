@@ -7,7 +7,7 @@ Tags = ["best of", "music", "2015"]
 #menu = "main"
 
 +++
-<div align="center"><img src="/2015/turntable.jpg" border="0"></div>
+<div align="center"><img src="/2015/metz.jpg" border="0"><br /><font size="2">Metz (photo from <a href=http://www.radio1190.org/concert-calendar/2015/8/11/metz>radio1190 </a>)</font></div>
 
 Another year, another batch of new toons to love. As always, discovering new music never gets old, the endless digging for new sounds continues to be one of my favorite things. Let's rock!
 
