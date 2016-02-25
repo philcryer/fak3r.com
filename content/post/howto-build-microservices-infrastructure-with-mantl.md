@@ -9,110 +9,54 @@ Tags = ["mantl", "terraform", "ansible", "aws", "docker"]
 
 # Overview
 
-<<<<<<< HEAD
-I've been 
 
-https://github.com/ciscocloud/microservices-infrastructure
+I've been watching [ciscocloud/microservices-infrastructure](https://github.com/ciscocloud/microservices-infrastructure) for awhile, an ambitious project designed to get a microservices infrastructure setup with a reasonable set of defaults. Now they seem to be getting more serious about the project and have renamed it [mantl](http://mantl.io/), which they define as, "_A container orchestrator, docker, a network stack, something to pool your logs, something to monitor health, a sprinkle of service discovery and some automation_". This sounds amazing, and certainly similar to something I did/try to do with my [stax](https://github.com/philcryer/stax) project... but just like with stax, there's lots to do up front. Let's give it a go. Will run it on [AWS](http://aws.amazon.com), but note that it can also be run on Vagrant, Openstack, Google Compute Engine, as well as bare metal, via [Terraform](https://terraform.io/). As usual I'm working from <a href="https://debian.org">Debian</a>, so if you're in something else, or OSX, your initial setup will vary.
 
-they've renamed
-
-mantl an d
-tehy define it as
-
-"A container orchestrator, docker, a network stack, something to pool your logs, something to monitor health, a sprinkle of service discovery and some automation."
+<!--more-->
 
 <div align="center"><img src="/2015/mantl-logo-1.png" border="0" alt="Mantl"></div>
-
-but just like stax, there's lots to do up front...
-=======
-I've been a while since the [microservices-infructure](https://github.com/ciscocloud/microservices-infrastructure) started, and an impressive project designed to get a microservices infrastructure setup with a reasonable set of defaults and No they seem to be getting more serious about the project by renaming the project...
-
-<div align="center"><img src="/2015/mantl-logo-1.png" border="0" alt="Mantl"></div>
-
-[Mantl](http://mantl.io) describes itself as, "A container orchestrator, docker, a network stack, something to pool your logs, something to monitor health, a sprinkle of service discovery and some automation." This is all well and good, but just like my project stax, there's lots to do up front. Let's get it rolling on [AWS](http://aws.amazon.com), but note that it can also be run on Vagrant, Openstack, Google Compute Engine, as well as bare metal, via [Terraform](https://terraform.io/).
->>>>>>> b1c0b4ef57e62e666d0e30df9097a04f280be8d8
 
 ## Getting started
 
-* install required apps to install the code
-<<<<<<< HEAD
-apt-get update; apt-get install -y git curl unzip python-pip python-crypto-dbg
+### Installing required software
 
-* terraform
-
-=======
+* install required apps we need to work with the code
 
 ```
 apt-get update; apt-get install -y git curl unzip python-pip python-crypto-dbg
 ```
 
-* terraform
+* then use `pip` to install terraform and markupsafe, which ansible needs
 
 ```
->>>>>>> b1c0b4ef57e62e666d0e30df9097a04f280be8d8
-cd ~; mkdir bin; cd bin 
-wget https://dl.bintray.com/mitchellh/terraform/terraform_0.6.3_linux_amd64.zip
-unzip terraform_0.6.3_linux_amd64.zip
-
-echo "export PATH=$PATH:$HOME/bin" >> .profile ; source .profile
-<<<<<<< HEAD
-
-* get the code
-
-cd ~; git clone https://github.com/CiscoCloud/microservices-infrastructure.git;
-cd microservices-infrastructure/
-
-* use pip to install markup safe, which ansible needs
- pip install markupsafe
-
-* install ansible and other required python apps needed by the code
-pip install -r requirements.txt
-
-* copy in aws sample file
-
-cp terraform/aws.sample.tf aws.tf
-=======
+pip install ansible markupsafe
 ```
 
-## Get the code
+### Installing and configuring mantl
 
 ```
-cd ~; git clone https://github.com/CiscoCloud/microservices-infrastructure.git;
-cd microservices-infrastructure/
+git clone https://github.com/CiscoCloud/mantl
+cd mantl
 ```
 
-* use pip to install markup safe, which ansible needs
-
-```
-pip install markupsafe
-```
-
-* install ansible and other required python apps needed by the code
+* from the project install ansible and other required python apps needed by the project
 
 ```
 pip install -r requirements.txt
-```
+``` 
 
-## Configure the project
-
-* copy in aws sample file
+* copy the aws sample file
 
 ```
 cp terraform/aws.sample.tf aws.tf
 ```
->>>>>>> b1c0b4ef57e62e666d0e30df9097a04f280be8d8
 
-* edit file, filling in access_key, secret_key and region from aws console
+* and edit it to include your details for the _access_key_, _secret_key_ and _region_ from aws console
 
 ```
 provider "aws" {
-<<<<<<< HEAD
-  access_key = "AKIAJ7EZCXYWK4TSE6RA"
-  secret_key = "4XTdDLpuTWPP521G3I5WK8WcgEjIr7UEsNC0GPx2"
-=======
   access_key = "***REMOVED***"
   secret_key = "***REMOVED***"
->>>>>>> b1c0b4ef57e62e666d0e30df9097a04f280be8d8
   region = "us-east-1"
 }
 
@@ -128,17 +72,9 @@ module "aws-dc" {
 }
 ```
 
-<<<<<<< HEAD
-* create an IAM user in aws console
+### In AWS setup permssions and access control
 
-* create a IAM policy in aws console
-=======
-## Setup AWS permssions and access control
-
-* create an IAM user in aws console
-
-* create a IAM policy in aws console, adding the following
->>>>>>> b1c0b4ef57e62e666d0e30df9097a04f280be8d8
+* create an IAM user in aws console and assign the following
 
 ```
 {
@@ -195,107 +131,62 @@ module "aws-dc" {
 }
 ```
 
-* assign that policy to the user
+* setup security by running mantl's setup script
 
-<<<<<<< HEAD
-* setup security (provide new admin password when prompted)
-
+```
 ./security-setup
+```
 
-* create SSH key
+__NOTE__ provide new admin password when prompted
 
+* create an SSH key
+
+```
 ssh-keygen -b 2048 -f ~/.ssh/id_rsa -P ''
+```
 
 * install hosts with terraform
 
+```
 terraform get
 terraform apply
+```
 
 * now look at the hosts with ansible
 
+```
 ansible all -i plugins/inventory/terraform.py -m ping
+```
 
 * if they answer 'pong' they’re all good
 
-* configure it
+* configure terraform
 
+```
 cp terraform.sample.yml terraform.yml
+```
 
-* edit it (comment out consul_acl_datacenter: if you only have one datacenter)
+* edit the new config (comment out consul_acl_datacenter: if you only have one datacenter)
 
+```
 vi terraform.yml
+```
 
 * run it with that file
 
+```
 ansible-playbook -i plugins/inventory/terraform.py -e @security.yml terraform.yml
+``` 
 
-(this will take some time)
+__NOTE__ this things take time (about 30 minutes in my tests)
 
+### Login to Marathon
 
-
-
+* now that we have things running, attach to the Marathon node, logging in with the creditials you entered above
+* go through all the options
+* launch some docker instanaces on the cluster
+* etc
 
 # Conclusion
 
-blah
-
-=======
-## Setup security in Mantl
-
-* provide new admin password when prompted
-
-```
-./security-setup
-```
-
-* create SSH key
-
-```
-ssh-keygen -b 2048 -f ~/.ssh/id_rsa -P ''
-```
-
-## Install hosts with terraform
-
-```
-terraform get
-terraform apply
-```
-
-* now look at the hosts with ansible
-
-```
-ansible all -i plugins/inventory/terraform.py -m ping
-```
-
-* if they answer 'pong' they’re all good
-
-## Configure the new instance definitions
-
-```
-cp terraform.sample.yml terraform.yml
-```
-
-* edit it (comment out consul_acl_datacenter: if you only have one datacenter)
-
-```
-vi terraform.yml
-```
-
-## Run ansible using the yml file
-
-```
-ansible-playbook -i plugins/inventory/terraform.py -e @security.yml terraform.yml
-```
-
-(this will take some time, usually ~30 minutes)
-
-## Login to Marathon
-
-* in a web browser, attach to the Marathon node, logging in with the creditials you entered above.
-
-## Launch some docker instnaces on the cluster
-
-# Conclusion
-
-The Mantl project feels very 
->>>>>>> b1c0b4ef57e62e666d0e30df9097a04f280be8d8
+The Mantl project feels very well thought out, and once you have it up and running you can start to understand how all the bits work together. I think this is a far better way than trying to reinvent the wheel youself and have to deal with the new shinny apps out there that just don't seem ready for primetime, or at least not mature enough to play well with others. I'm going to try and get this running within [Vagrant](https://www.vagrantup.com/) and will report back if that's successful on my laptop.
