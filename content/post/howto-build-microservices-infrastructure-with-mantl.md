@@ -51,7 +51,7 @@ pip install -r requirements.txt
 cp terraform/aws.sample.tf aws.tf
 ```
 
-* and edit it to include your details for the _access_key_, _secret_key_ and _region_ from aws console
+* and edit it to include your details for the `access_key`, `secret_key` and `region` for the aws console
 
 ```
 provider "aws" {
