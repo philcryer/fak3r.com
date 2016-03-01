@@ -7,6 +7,8 @@ Tags = ["nginx", "http2"]
 
 +++
 
+> **UPDATE 02-29-2016** a reader had issues getting this working, and after reproducing his issue I found that the `ssl_cipers HIGH:!aNULL:!MD5;` no longer works. Apparently sometime after I wrote this, the HTTP/2 specs were updated, and browsers followed suit. This [blog post](http://garthkerr.com/transport-security-for-http2-protocol-with-nginx/) tells us, "_According to the HTTP/2 specification, over TLS 1.2 HTTP/2 SHOULD NOT use any of the cipher suites that are listed in the cipher suite black list, [found here](https://http2.github.io/http2-spec/#BadCipherSuites)_" So now, we have to call out another cipher before the blacklisted ones `ssl_ciphers AESGCM:HIGH:!aNULL:!MD5` Thanks for the note Elias!
+
 Last week [nginx](http://nginx.org) relased mainline version 1.9.5 which features [experimental HTTP/2 module](http://nginx.org/en/docs/http/ngx_http_v2_module.html). According to the [Internet Engineering Task Force](https://tools.ietf.org/html/rfc7540) "_HTTP/2 enables a more efficient use of network resources and a reduced perception of latency by introducing header field compression and allowing multiple concurrent exchanges on the same connection.  It also introduces unsolicited push of representations from servers to clients. This specification is an alternative to, but does not obsolete, the HTTP/1.1 message syntax.  HTTP's existing semantics remain unchanged._" You can get an idea of how HTTP/2 is better and faster on this [demo page](http://www.http2demo.io/) which shows the multiple connections making a significant difference.
 
 **TL;DR** it's faster, backwards compatible and the new hotness (obviously).
@@ -136,7 +138,7 @@ By adding the follwoing block to the end of the file (but still before the `}`)
         ssl_session_cache    shared:SSL:1m;
         ssl_session_timeout  5m;
 
-        ssl_ciphers  HIGH:!aNULL:!MD5;
+        ssl_ciphers AESGCM:HIGH:!aNULL:!MD5
         ssl_prefer_server_ciphers  on;
 
         location / {
