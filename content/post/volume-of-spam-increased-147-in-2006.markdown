@@ -1,5 +1,5 @@
 ---
-title: "Volume of spam increased 147% in 2006"
+title: "Volume of spam increased 147 percent in 2006"
 slug: "volume-of-spam-increased-147-in-2006"
 date: "2007-01-31T13:21:23-06:00"
 author: "fak3r"
