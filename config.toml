@@ -3,7 +3,7 @@ title = "fak3r"
 author = "fak3r"
 
 # Shown in the side menu
-copyright = "&copy; 2016. All rights reserved."
+copyright = "&copy; 2016&nbsp;All rights reserved"
 canonifyurls = true
 paginate = 10
 theme = "blackburn"
