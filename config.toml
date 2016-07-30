@@ -1,4 +1,4 @@
-baseurl = "http://fak3r.com/"
+baseurl = "https://fak3r.com/"
 title = "fak3r"
 author = "fak3r"
 
@@ -71,7 +71,7 @@ theme = "blackburn"
   # by entering your username or ID.
 
   # SNS microblogging
-  twitter = "fak3r"
+#  twitter = "fak3r"
   #gnusocial = "*" # Specify href (e.g. https://quitter.se/yourusername)
   #facebook = "*"
   #googleplus = "*"
@@ -79,7 +79,7 @@ theme = "blackburn"
 
   # SNS photo/video sharing
   #instagram = "*"
-  flickr = "fak3r"
+#  flickr = "fak3r"
   #pinterest = "*"
   #youtube = "*"
   #vimeo = "*"
@@ -91,13 +91,13 @@ theme = "blackburn"
   #xing = "*"
 
   # SNS news
-  reddit = "fak3r"
-  hackernews = "fak3r"
+#  reddit = "fak3r"
+#  hackernews = "fak3r"
 
   # Techie
-  github = "philcryer"
-  bitbucket = "philcryer"
+#  github = "philcryer"
+#  bitbucket = "philcryer"
   #stackoverflow = "*"
 
   # Other
-  keybase = "fak3r"
+#  keybase = "fak3r"

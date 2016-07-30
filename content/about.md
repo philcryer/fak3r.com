@@ -28,8 +28,20 @@ noread = true
 <img src="/colophon/vim.png" border="0">&nbsp;&nbsp;<a href="http://www.vim.org">Vim</a> a text editor that seeks to provide the power of the Unix editor with a more complete feature set<br />
 <br />
 <h3>Causes I support</h3> 
-<p align="center"><a href="https://www.eff.org" border="0" alt="EFF" title="EFF"><img src="/about/eff-2015.png" alt=="EFF" title="EFF" border="0"></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.muckrock.com/" alt="Muckrock" title="Muckrock"><img src="/about/muckrock.png" border="0" alt="Muckrock" title="Muckrock"></a>
-<p align="center"><a href="https://www.plannedparenthood.org/" alt="Planned Parenthood" title="Planned Parenthood"><img src="/about/planned_parenthood.jpg" border="0" alt="Planned Parenthood" title="Planned Parenthood"></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.hrc.org/" alt="HRC" title="HRC"><img src="/about/hrc.jpg" border="0" alt="HRC" title="HRC"></a>
+<p align="center">
+<a href="https://www.torproject.org/" alt="TOR" title="TOR"><img src="/about/tor_logo.png" border="0" alt="TOR" title="TOR"></a>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.au.org/" alt="AU" title="AU"><img src="/about/au.png" border="0" alt="Americans United for Separation of Church and State" title="Americans United for Separation of Church and State"></a>
 </p>
-<p align="center"><a href="https://www.torproject.org/" alt="TOR" title="TOR"><img src="/about/tor_logo.png" border="0" alt="TOR" title="TOR"></a>
+<p align="center">
+<a href="https://www.eff.org" border="0" alt="EFF" title="EFF"><img src="/about/eff-2015.png" alt=="EFF" title="EFF" border="0"></a>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.muckrock.com/" alt="Muckrock" title="Muckrock"><img src="/about/muckrock.png" border="0" alt="Muckrock" title="Muckrock"></a>
 </p>
+
+<p align="center">
+<a href="https://www.plannedparenthood.org/" alt="Planned Parenthood" title="Planned Parenthood"><img src="/about/planned_parenthood.jpg" border="0" alt="Planned Parenthood" title="Planned Parenthood"></a>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.hrc.org/" alt="HRC" title="HRC"><img src="/about/hrc.jpg" border="0" alt="HRC" title="HRC"></a>
+</p>
+
