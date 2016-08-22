@@ -8,3 +8,14 @@ It was another Canadian rock icon, Neil Young, who articulated one of rock and r
 
 
 http://www.newyorker.com/culture/culture-desk/watching-canadas-biggest-rock-band-say-a-dramatic-goodbye
+
+
+
+more
+
+http://www.huffingtonpost.com/entry/the-tragically-hip-farewell-concert_us_57ba8e9ce4b0b51733a437ef
+
+
+
+with justin
+https://twitter.com/JustinTrudeau/status/767199306625482752
