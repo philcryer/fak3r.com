@@ -15,10 +15,7 @@ tags:
 - screen
 - start on boot
 ---
-
-[caption id="attachment_2936" align="alignright" width="221" caption="Using a key to gouge expletives on another's vehicle is a sign of trust... and friendship."][![Using a key to gouge expletives on another's vehicle is a sign of trust... and friendship.](http://fak3r.com/wp-content/blogs.dir/12/files/ignignokt.png)](http://fak3r.com/geek/howto/howto-start-a-detached-process-in-screen-on-boot/attachment/ignignokt/)[/caption]
-
-Ok, a quick one today - at work I had the problem of needing a process to be automatically started during boot, and have it running in the background, but it didn't have its own init.d script. I knew there was a way I could use [GNU Screen](https://www.gnu.org/software/screen/) (one of my favorite 'must have' sys admin tools) to do this, but it took me some time searching to find the right syntax to translate for my needs, so I'm posting it here.
+<div align="right"><img src="2011/ignignokt.png" title="Using a key to gouge expletives on another's vehicle is a sign of trust... and friendship." alt="Using a key to gouge expletives on another's vehicle is a sign of trust... and friendship."></div>Ok, a quick one today - at work I had the problem of needing a process to be automatically started during boot, and have it running in the background, but it didn't have its own init.d script. I knew there was a way I could use [GNU Screen](https://www.gnu.org/software/screen/) (one of my favorite 'must have' sys admin tools) to do this, but it took me some time searching to find the right syntax to translate for my needs, so I'm posting it here.
 
 
 
