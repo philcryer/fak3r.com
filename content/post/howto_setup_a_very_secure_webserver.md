@@ -137,7 +137,7 @@ rcctl nginx enable
 
 Now to test our webserver configuration and SSL setup, go and test it at the [SSL Server Test](https://www.ssllabs.com/ssltest/). You should expect to get a result similar to this:
 
-<div align="center"><img src="./2016/ssllabs.png" alt="SSL labs results"></div>
+<div align="center"><img src="/2016/ssllabs.png" width="450" height="200" alt="SSL labs results"></div>
 
 ## What else?
 
