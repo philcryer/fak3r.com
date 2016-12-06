@@ -7,7 +7,7 @@ description = "The most secure way (that I currently know) to serve websites"
 date = "2016-12-05T19:19:21-06:00"
 
 +++
-When getting started with Linux and open source software, running websites was one of the first things I learned how to do. Of course with the way software evolves, I'm still learning new ways to better secure, encrypt and protect web assests. Recently I wanted to builx a new project and decided I wanted to use [OpenBSD](https://www.openbsd.org/), arguably the most secure operating system out of the box. While years ago I switched to [FreeBSD](https://www.freebsd.org/), OpenBSD is just more stringent about how it presents things. There's more to learn, sure, but that's all part of the fun. Now, if you look around at normal VPS options like DigitalOcean and Linode won't allow you to run OpenBSD, but with [Vultr](http://www.vultr.com/?ref=7051248-3B) (affilate link) you can use any ISO you can point to. They have a $5/month option, but they give 768M RAM verus the 512M that you get from most other VPS providers for that price. With that decided I ran through the install using their console and was up and running in no time. Now for the fun part, let's `ssh` to the server and setup a very setup a secure webserver.
+When getting started with Linux and open source software, running websites was one of the first things I learned how to do. Of course with the way software evolves, I'm still learning new ways to better secure, encrypt and protect web assests. Recently I wanted to build a new project and decided I wanted to use [OpenBSD](https://www.openbsd.org/), arguably the most secure operating system out of the box. While years ago I switched to [FreeBSD](https://www.freebsd.org/) for web and mailserver handling, OpenBSD is just more stringent about how it presents things. There's more to learn, sure, but that's all part of the fun. Now, if you look around at normal VPS options like DigitalOcean and Linode won't allow you to run OpenBSD, but with [Vultr](http://www.vultr.com/?ref=7051248-3B) (affilate link) you can use any ISO you can point to. They have a $5/month option, but they give 768M RAM verus the 512M that you get from most other VPS providers for that price. With that decided I ran through the install using their console and was up and running in no time. Now for the fun part, let's `ssh` to the server and setup a very setup a secure webserver.
 
 <!--more-->
 ## Getting started
@@ -84,12 +84,12 @@ The only additional step for the globals SSL setup is to deploy Diffie-Hellman f
 openssl dhparam -out /etc/nginx/dhparams.pem 2048     
 ```
 
-Lastly we need to add the following to `/etc/nginx.conf`, make sure to replace the occurances of DOMAIN with your domain:
+Lastly we need to add the following to `/etc/nginx.conf`, make sure to replace the occurances of {{DOMAIN_NAME}} with your domain:
 
 ```
 server {
-        server_name                     DOMAIN;
-        root                            /var/www/htdocs;
+        server_name                     {{DOMAIN_NAME}};
+        root                            /var/www/htdocs/{{DOMAIN_NAME}};
         server_name_in_redirect         off;
         server_tokens                   off;
         return                          301 https://$server_name$request_uri;
@@ -98,13 +98,13 @@ server {
 
 server {
         listen                          443 ssl http2;
-        root                            /var/www/htdocs;
+        root                            /var/www/htdocs/{{DOMAIN_NAME}};
         index                           index.html;
-        server_name                     DOMAIN;
+        server_name                     {{DOMAIN_NAME}};
         server_name_in_redirect         off;
         server_tokens                   off;
-        ssl_certificate                 /etc/letsencrypt/live/DOMAIN_NAME/fullchain.pem;
-        ssl_certificate_key             /etc/letsencrypt/live/DOMAIN_NAME/privkey.pem;
+        ssl_certificate                 /etc/letsencrypt/live/{{DOMAIN_NAME}}/fullchain.pem;
+        ssl_certificate_key             /etc/letsencrypt/live/{{DOMAIN_NAME}}/privkey.pem;
 
         include                         globals/cache.conf;
         include                         globals/drop.conf;
@@ -124,13 +124,13 @@ Things to notice here:
 Test your configuration with the command `nginx -t` and follow any prompts to fix anything it complains about. Once that's complete we'll restart NGINX with the new hardened configs:
 
 ```
-rcctl nginx restart
+rcctl restart nginx
 ```
 
 And finally enable NGINX so it will startup on boot:
 
 ```
-rcctl nginx enable
+rcctl enable nginx
 ```
 
 ## Conculsion
