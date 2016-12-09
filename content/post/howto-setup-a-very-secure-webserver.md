@@ -20,7 +20,7 @@ First we'll install our webserver, [NGINX](http://nginx.org/), which is all I've
 pkg_add nginx
 ```
 
-Note that once you issue this command you're given an option to choose the flavor of NGINX available via the packages, and you should take the opporunity to install [NAXIS](https://github.com/nbs-system/naxsi). NAXIS defines itself as an "open-source, high performance, low rules maintenance WAF (web application firewall) for NGINX."
+Note that once you issue this command you're given an option to choose the flavor of NGINX available via the packages, and you should take the opporunity to install [NAXSI](https://github.com/nbs-system/naxsi). NAXSI defines itself as an "open-source, high performance, low rules maintenance WAF (web application firewall) for NGINX."
 
 
 ```
@@ -34,7 +34,7 @@ a       0: <None>
 Your choice: 3
 ```
 
-While projects like [mod_security](https://modsecurity.org/) promised WAF style defenses, the overhead (system and administration wise) always proved too heavy for my tastes. NAXSI claims that by default it, "reads a small subset of simple (and readable) rules containing 99% of known patterns involved in website vulnerabilities." There is an auto-learning setting so that you can have NAXIS taylor its rules to what your site actually sees, but for now we'll just take advantage of the default setup.
+While projects like [mod_security](https://modsecurity.org/) promised WAF style defenses, the overhead (system and administration wise) always proved too heavy for my tastes. NAXSI claims that by default it, "reads a small subset of simple (and readable) rules containing 99% of known patterns involved in website vulnerabilities." There is an auto-learning setting so that you can have NAXSI taylor its rules to what your site actually sees, but for now we'll just take advantage of the default setup.
 
 We'll come back to configure NGINX later when we have some more pieces in place.
 
