@@ -17,6 +17,8 @@ Lydia Loveless "Real"
 Radiohead "Moon Shaped Pool"
 Amanda Shires "My Piece Of Land"
 
+DJ Shadow "The Mountain Will Fall"
+
 Anohni "Hopelessness"
 
 Minor Victories "Minor Victories"
@@ -27,7 +29,6 @@ The Tragically Hip "Man Machine Poem"
 
 Mogwai "Atomic"
 
-
 Future of the Left "The Peace & Truce of Future of the Left" 
 
 Teenage Fanclub "Here"
@@ -35,7 +36,6 @@ Teenage Fanclub "Here"
 Isolation Berlin "Und Aus Den Wolken Tropft Die Zeit"
 
 The Field "The Follower"
-
 
 Deep Sea Diver "Secrets"
 
@@ -52,7 +52,6 @@ The Julie Ruin "Hit Reset"
 Band Of Horses "Why Are You OK"
 
 Bob Mould "Patch The Sky"
-
 
 Huerco S. "For Those Of You Who Have Never (And Also Those Who Have)"
 
