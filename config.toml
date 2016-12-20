@@ -1,4 +1,5 @@
 baseurl = "https://fak3r.com/"
+#baseurl = "127.0.0.1"
 title = "fak3r"
 author = "fak3r"
 
