@@ -7,30 +7,14 @@ Tags = ["bestof", "2016"]
 #menu = "main"
 
 +++
-<p></p><div align="center"><img src="http://clrvynt.com/875/files/2016/10/CHEAP-GIRLS.jpg?w=720&cdnnode=1" alt="Cheap Girls" border="0"><br /><font size="2">Cheap Girls (photo courtesy of <a href="http://www.cheapgirls.net/">Cheap Girls</a>)</font></div>
+<br /><div align="center"><img src="/2016/music/cheap-girls-live.jpg" alt="Cheap Girls" border="0"><br /><font size="2">Cheap Girls (photo courtesy of <a href="http://www.cheapgirls.net/">Cheap Girls</a>)</font></div>
 
 
 ## The year
 
-It's been a great year (musically), and I feel like I kept myself in 
-Neon Indian (Ready Room -- Sun, April 10)
-* (T) Tacocat (Off Broadway -- Fri April 22)
-* (T) The English Beat (The Duck Room -- Sat, Apr 23)
-* (T) Guided by Voices (The Ready Room -- Wed April 27)
-* (T) The Thermals, Summer Canibals (Firebird -- Thu, May 5)
-* (T) Screaming Females w/Aye Nako (Off Broadway -- Tues, May 24)
-* (T) Twangfest: Alejandro Escovedo, The Waco Brothers, and The Sovines (Off Broadway -- Sat, June 11)
-* (T) Waxahatchee (Off Broadway -- Tues, June 14)
-* (T) Cheap Girls (Off Broadway -- Tues, June 21)
-* Bob Mould Band (Old Rock House -- Wed, Sept 14)
-* Lydia Loveless (Dueck Room -- Thu, Sept 15)
- Will Courtney & the Wild Bunch
-* Built To Spill (Ready Room -- Mon, Sept 26)
-*(T) The Posies (Euclid Records -- Wed, Sept 28)
-* Shellac w/Shannon Wright (Firebird -- Oct 30)
-* Amanda Shires w/Colter Wall (Off Broadway --THU 11/03)
-* (T) Sloan (Blueberry Hill -- Sat, Nov 12)
+It's been a great year (musically), and I've kept my head above water by going out to see some great shows. Highlights include; Basia Bulat, Jason Isbell, Shovels & Rope, Neon Indian, Guided by Voices, The Thermals, Summer Canibals, Screaming Females, Aye Nako, The Waco Brothers, Cheap Girls, Bob Mould Band, Lydia Loveless, Will Courtney & the Wild Bunch, Built To Spill, The Posies, Shellac, Shannon Wright, Amanda Shires, Colter Wall, and Sloan. Looking for trends I can say there were more new bands that I saw versus known bands, so I'm still finding new stuff which is all part of the fun. 
 
+<br /><div align="center"><img src="/2016/music/neon-live.jpg" width="720" alt="Neon Indian"><br /><font size="2">Neon Indian (photo courtesy of <a href="http://volvoxlabs.com/neon-indian-live-performance/">Volvoxlabs</a>)</font></div>
 
 ## The list
 
@@ -43,28 +27,50 @@ Neon Indian (Ready Room -- Sun, April 10)
 * Explosions In The Sky "The Wilderness"
 * Greys "Outer Heaven"
 * Huerco S. "For Those Of You Who Have Never (And Also Those Who Have)"
+* The Julie Ruin "Hit Reset"
 * Lydia Loveless "Real"
 * Mogwai "Atomic"
 * Radiohead "Moon Shaped Pool"
 * Amanda Shires "My Piece Of Land"
 * Elliott Smith "Heaven Adores You"
 
+<br /><div align="center"><img src="/2016/music/basia-live.jpg" width="720" alt="Basia Bulat"><br /><font size="2">Basia Bulat (photo courtesy of <a href="http://www.npr.org/sections/world-cafe/2016/02/03/465436824/basia-bulat-on-world-cafe">NPR</a>)</font></div>
+
 ## The covers
 
-![Good Advice](/2016/music/basia.jpg)
-![Teens of Denial](/2016/music/car.jpg)
-![Skeleton Tree](/2016/music/nick.jpg)
-![God's Ex-Wife](/2016/music/cheap.jpg)
-![Secrets](/2016/music/deep.jpg)
-![The Moutain Will Fall](/2016/music/dj.jpg)
-![The Wilderness](/2016/music/explosions.jpg)
-![Outer Heaven](/2016/music/greys.jpg)
-![For Those Of You Who Have Never (And Also Those Who Have)](/2016/music/huerco.jpg)
-![Real](/2016/music/lydia.jpg)
-![Atomic](/2016/music/mogwai.jpg)
-![Moon Shaped Pool](/2016/music/radiohead.jpg)
-![My Piece Of Land](/2016/music/amanda.jpg)
-![Heaven Adores You](/2016/music/heaven.jpg)
+<div align="center">
+<img src="/2016/music/basia.jpg" alt="Good Advice">
+&nbsp;
+<img src="/2016/music/car.jpg" alt="Teens of Denial">
+&nbsp;
+<img src="/2016/music/nick.jpg" alt="Skeleton Tree">
+&nbsp;
+<img src="/2016/music/cheap.jpg" alt="God's Ex-Wife">
+&nbsp;
+<img src="/2016/music/deep.jpg" alt="Secrets">
+&nbsp;
+<img src="/2016/music/dj.jpg" alt="The Moutain Will Fall">
+&nbsp;
+<img src="/2016/music/explosions.jpg" alt="The Wilderness">
+&nbsp;
+<img src="/2016/music/greys.jpg" alt="Outer Heaven">
+&nbsp;
+<img src="/2016/music/huerco.jpg" alt="For Those Of You Who Have Never (And Also Those Who Have">
+&nbsp;
+<img src="/2016/music/julie.jpg" alt="Hit Reset">
+&nbsp;
+<img src="/2016/music/lydia.jpg" alt="Real">
+&nbsp;
+<img src="/2016/music/mogwai.jpg" alt="Atomic">
+&nbsp;
+<img src="/2016/music/radiohead.jpg" alt="Moon Shaped Pool">
+&nbsp;
+<img src="/2016/music/amanda.jpg" alt="My Piece Of Land">
+&nbsp;
+<img src="/2016/music/heaven.jpg" alt="Heaven Adores You">
+</div>
+
+<br /><div align="center"><img src="/2016/music/ayenako-live.jpg" alt="Aye Nako" border="0"><br /><font size="2">Aye Nako (photo courtesy of <a href="http://www.jencray.com/">Jen Cray</a>)</font></div>
 
 ## The honorable mentions
 
@@ -78,9 +84,10 @@ Neon Indian (Ready Room -- Sun, April 10)
 * The Field "The Follower"
 * The Jayhawks "Paging Mr. Proust"
 * Parquet Courts "Human Performance"
-* The Julie Ruin "Hit Reset"
 * Band Of Horses "Why Are You OK"
 * Bob Mould "Patch The Sky"
 * The Radio Dept. "Running Out of Love"
 * Shovels & Rope "Little Seeds"
 * Okkervil River "Away"
+
+<br /><div align="center"><img src="/2016/music/screaming-live.jpg" alt="Screaming Females" border="0"><br /><font size="2">Screaming Females (photo courtesy of <a href="http://www.jencray.com/">Jen Cray</a>)</font></div>
