@@ -58,10 +58,10 @@ Since the certs are only good for 90 days, automating the renewal is key. First 
 certbot renew --dry-run 
 ```
 
-This won't make any changes, but will show us if everything is setup and can be automated. If it's successful and you don't see any evil red text, you're good. Now we'll edit the `crontab` so `certbot` can check if the cert needs to be renewed, and then renew it if needed. 
+This won't make any changes, but will show us if everything is setup and can be automated. If it's successful and you don't see any evil red text, you're good. Now we'll edit the `crontab` so `certbot` can check if the cert needs to be renewed, and then renew it if needed. We'll also have it reload nginx after it updates.
 
 ```
-30  5  1  *  *  /bin/sh /usr/local/bin/certbot renew --quiet
+30  5  1  *  *  /usr/local/bin/certbot renew --quiet && rcctl reload nginx
 ```
 
 ### Configuring the webserver
