@@ -12,7 +12,7 @@ date = "2017-02-22T14:24:42-06:00"
 
 +++
 
-Today I had a case where a user wanted a Linux server to connect to a particular VPN, and we didn't want to make it use some hacky way like putting a script in `/etc/rc.local` By using `systemd` we learned how to use it to control connecting to the VPNs, using the [OpenVPN client](https://openvpn.net/).
+Today I had a case where a coworker wanted a Linux server to connect to a particular VPN, and we didn't want to make it use some hacky way like putting a script in `/etc/rc.local` for it to run on boot. By using `systemd` we learned how to use it to control connecting to the VPNs, using the [OpenVPN client](https://openvpn.net/).
 
 # Steps
 
@@ -52,7 +52,7 @@ The new `file.conf` will be identical to `file.opvn`, and will include all conne
 client
 dev tun
 proto udp
-remote 206.152.25.102 1876
+remote 106.132.15.101 1876
 resolv-retry infinite
 nobind
 persist-key
@@ -66,8 +66,8 @@ cipher AES-128-CBC
 comp-lzo
 verb 4
 script-security 3
-route 10.102.77.0 255.255.255.0
-route 10.102.110.0 255.255.255.0
+route 10.122.17.0 255.255.255.0
+route 10.122.120.0 255.255.255.0
 ```
 
 ### Enable this config in OpenVPN, so systemd can use it
@@ -79,6 +79,13 @@ AUTOSTART="all"
 ```
 
 * exit and save `/etc/default/openvpn`
+* NOTICE: I'm just choosing `all` but if you had the files with different names you could call out specific ones. So for example, if you had `/etc/openvpn/worksucks.conf` you'd have:
+
+```
+AUTOSTART="worksucks"
+```
+
+haha!
 
 ### Reload / Restart services to use the new files
 
@@ -107,10 +114,20 @@ tail -f /var/log/syslog
 ```
 Feb 22 13:01:03 localhost NetworkManager[996]: <info>  [1487790063.9729] manager: (tun0): new Tun device (/org/freedesktop/NetworkManager/Devices/43)
 Feb 22 13:01:03 localhost ovpn-host[2915]: /sbin/ip addr add dev tun0 local 10.255.59.14 peer 10.255.59.13
-Feb 22 13:01:03 localhost ovpn-host[2915]: /sbin/ip route add 10.102.77.0/24 via 10.255.59.13
-Feb 22 13:01:03 localhost ovpn-host[2915]: /sbin/ip route add 10.102.110.0/24 via 10.255.59.13
+Feb 22 13:01:03 localhost ovpn-host[2915]: /sbin/ip route add 10.122.17.0/24 via 10.255.59.13
+Feb 22 13:01:03 localhost ovpn-host[2915]: /sbin/ip route add 10.122.120.0/24 via 10.255.59.13
 Feb 22 13:01:03 localhost ovpn-host[2915]: /sbin/ip route add 10.102.59.0/24 via 10.255.59.13
 Feb 22 13:01:03 localhost ovpn-host[2915]: /sbin/ip route add 10.255.59.1/32 via 10.255.59.13
 Feb 22 13:01:03 localhost ovpn-host[2915]: Initialization Sequence Completed
 Feb 22 13:01:03 localhost NetworkManager[996]: <info>  [1487790063.9801] devices added (path: /sys/devices/virtual/net/tun0, iface: tun0)
 ```
+
+### Done
+
+Now `systemd` is handling your VPN connections, and will keep them up for you. Notice you can stop/start them on demand, instead of just having them start at boot, by:
+
+```
+service openvpn@worksucks restart
+```
+
+Pretty fly, so that's it for now, have fun out there, but stay safe!
