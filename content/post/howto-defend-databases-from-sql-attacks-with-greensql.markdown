@@ -20,11 +20,11 @@ tags:
 - sql attacks
 ---
 
-**![green_logo](http://fak3r.com/wp-content/uploads/2009/12/green_logo.png)UPDATE**: _as if to underscore the importance of this tool and approach, yesterday a story hit about a [SQL Injection attack infecting over 132,000](http://it.slashdot.org/story/09/12/10/1334205/SQL-Injection-Attack-Claims-132000) systems in short order.  Net-Security have the [full details on this attack](http://www.net-security.org/secworld.php?id=8604), including how it probes the host via JavaScript to check for known vulnerabilities, how it exploits them, and how it ultimately downloads a back-door trojan to get the game going.  It's really amazing to see how complicated and professional these things have gotten, and just adds to the reasoning that we have to step up to the plate and learn how to better defend against them._
+<img src="/2009/logo.png" alt="" border="0" align="right">**UPDATE**: as if to underscore the importance of this tool and approach, yesterday a story hit about a [SQL Injection attack infecting over 132,000](http://it.slashdot.org/story/09/12/10/1334205/SQL-Injection-Attack-Claims-132000) systems in short order.  Net-Security have the [full details on this attack](http://www.net-security.org/secworld.php?id=8604), including how it probes the host via JavaScript to check for known vulnerabilities, how it exploits them, and how it ultimately downloads a back-door trojan to get the game going.  It's really amazing to see how complicated and professional these things have gotten, and just adds to the reasoning that we have to step up to the plate and learn how to better defend against them.<br />
 
 I've been privy to some log dumps showing real, and successful, SQL attacks on some [MSSQL](http://en.wikipedia.org/wiki/Microsoft_SQL_Server) servers before, and they weren't pretty.  Of course a SQL injection attack has little to do with the database (well, as long as it's still SQL based at least (nod to [CouchDB](http://couchdb.apache.org/) and [MongoDB](http://www.mongodb.org/))), and more with the code that calls it, and how that code deals with sanitizing inputs.   For this reason [MySQL](http://www.mysql.com/) is just as vulnerable, after all, bad code is bad code.  While a client of mine opted for a firewall 'module' they had to buy an additional licence for, that set them back many thousands of dollars (annually!) I knew there had to be cheaper/better ways to address this kind of vulnerability.  One way of course is to fix the code, but with legacy sites that no one has touched for years, this may be impractcal (I didn't say this, I only heard it as reasoning from management), and the other idea is to proxy the SQL and 'clean' it before it hits the database.  The advantage of this approach is that it protects against known attacks, as well as unknown attacks, since it limits so much of what an attack is allowed to accomplish when trying to get its' foot in the door.  This approach is what the folks over at [GreenSQL](http://www.greensql.net) have done, and it's very impressive.  They sum things up nice and sweet with, "GreenSQL is an Open Source database firewall used to protect databases from SQL injection attacks. GreenSQL works as a proxy for SQL commands and has built in support for MySQL & PostgreSQL . The logic is based on evaluation of SQL commands using a risk scoring matrix as well as blocking known db administrative commands (DROP, CREATE, etc). GreenSQL is distributed under the GPL license." <!-- more --> A high-level view shows GreenSQL acting as the proxy from the frontend to the database:
 
-![listener](http://fak3r.com/wp-content/uploads/2009/12/listener.gif)
+<div align="center"><img src="/2009/dia.jpg" alt="Green SQL diagram" border="0"><br /><font size="2">GreenSQL Architecture Diagram</font></div>
 
 This sounds and looks ideal, so with that in mind I installed GreenSQL with the default options on a MySQL server, and setup the included web-based Management Console to kick the tires and see what it does.  To show that it's working I logged into a MySQL database, first directly, on port 3306:
 
@@ -35,9 +35,6 @@ This sounds and looks ideal, so with that in mind I installed GreenSQL with the 
     Your MySQL connection id is 24768
     Type 'help;' or '\h' for help. Type '\c' to clear the buffer.
 
-
-
-    
     mysql> show databases;
     +-------------------------+
     | Database                |
