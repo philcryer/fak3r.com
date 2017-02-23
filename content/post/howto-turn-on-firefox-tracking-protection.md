@@ -1,6 +1,6 @@
 +++
 title = "HOWTO Turn On Firefox Tracking Protection"
-Description = "Determine the AMI ID for a CoreOS image from the commandline"
+Description = "DNT was somewhat of a bust, but Firefox has a new way to do it"
 date = "2015-07-10T23:43:49-06:00"
 Categories = ["howto", "geek"]
 Tags = ["firefox", "dnt", "do not track"]

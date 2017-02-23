@@ -1,5 +1,5 @@
 ---
-title: "' DEF CON 20 CFP'"
+title: "DEF CON 20 CFP"
 slug: "def-con-20-cfp"
 date: "2012-03-27T22:08:07-06:00"
 author: "fak3r"
@@ -17,7 +17,8 @@ tags:
 - talks
 ---
 
-[![DEF CON 20](http://fak3r.com/wp-content/blogs.dir/12/files/dc20-logo_smsq.png)](http://fak3r.com/2012/03/27/def-con-20-cfp/dc20-logo_smsq/)
+<br/> <div align="center"><img src="/2012/defcon-20.jpg" border="0"></div>
+
 
 **UPDATE**: _since yesterday was May 28th, I submitted this proposal late last night, along with another one covering a new project I'm toying with called [blackGATE](http://philcryer.com/projects/blackgate/), more on that in a bit. Below you'll see the extended outline that roughly sketches out what I'll be covering in the talk._
 
@@ -25,7 +26,7 @@ The [DEF CON© CFP](http://defcon.org/html/defcon-20/dc-20-cfp.html) (Call for 
 
 <!-- more -->
 
-[![0nline Privacy In The Year of The Dragon](http://fak3r.com/wp-content/blogs.dir/12/files/dc_title.png)](http://fak3r.com/2012/03/27/def-con-20-cfp/dc_title/)
+<div align="center"><img src="/2012/opityotd-cover.png" border="0"></div>
 
 
 ### Title
@@ -430,5 +431,4 @@ User’s privacy online is constantly changing, witness Google’s March 1st con
 
 
 If this stuff concerns you - Get involved, speak out, use tools/techniques outlined here, tell others, make noise about it! And now, the 2nd annual handout of Tootise Pops at the front of the stage, always a great ice breaker!
-
-[![Tootsie Pops!](http://fak3r.com/wp-content/blogs.dir/12/files/tootsie_pops.jpg)](http://fak3r.com/2012/03/27/def-con-20-cfp/tootsie_pops/)
+<div align="center"><img src="/2012/Free-Candy-Tootsie-Pop.jpg" border="0"></div>
