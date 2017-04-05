@@ -56,6 +56,7 @@ git push
 ## FAQ
 
 Q: What does fak3r mean?
+
 A: My name is Phil, so a friend used to call me flip, so I started using name flipper online. That name was always taken so I shifted to flipp3r, but I didn't like that. Around that time I was getting into infosec and thinking about privacy online and the fallacy that a 'fake' online identity could provide true anonymity - that led to `fak3r`.
 
 ## Contact
