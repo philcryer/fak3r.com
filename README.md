@@ -53,6 +53,11 @@ git push
 
 ...and you should be all set. Hit up the [Hugo docs](http://gohugo.io/overview/introduction/) to learn how Hugo works, or feel free to contact me with any questions.
 
+## FAQ
+
+Q: What does fak3r mean?
+A: My name is Phil, so a friend used to call me flip, so I started using name flipper online. That name was always taken so I shifted to flipp3r, but I didn't like that. Around that time I was getting into infosec and thinking about privacy online and the fallacy that a 'fake' online identity could provide true anonymity - that led to `fak3r`.
+
 ## Contact
 
 email me at admin {at} fak3r {dot} com or ping me on Twitter where I'm [@fak3r](https://twitter.com/fak3r)
