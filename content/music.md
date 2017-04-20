@@ -100,6 +100,7 @@ The following are what I believe to be the greatest recorded works ever created.
 <li>Danger Doom "The Mouse and the Mask"</li>
 <li>The Hives "Veni Vidi Vicious"</li>
 <li>Interpol "Antics"</li>
+<li>Interpol "Turn on the Bright Lights"</li>
 <li>PJ Harvey "Stories From The City, Stories From The Sea"</li>
 <li>The Lucksmiths "Warmer Corners"</li>
 <li>Radiohead "Kid A"</li>
@@ -107,7 +108,9 @@ The following are what I believe to be the greatest recorded works ever created.
 <li>The Shins "Chutes Too Narrow by The Shins"</li>
 <li>The Strokes "Is This It?"</li>
 <li>The Wrens "The Meadowlands"</li>
+<li>Tokyo Police Club "A Lesson in Crime"</li>
 <li>The xx "xx"</li>
+<li>Yeah, Yeah, Yeahs "Fever to Tell"</li>
 </ul>
 
 <strong>2010s to the present</strong>
