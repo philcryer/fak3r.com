@@ -98,7 +98,7 @@ systemctl daemon-reload
 * Restart OpenVPN so it will automatically connect to the VPN listed in `file.conf`
 
 ```
-systemctl openvpn restart
+systemctl restart openvpn
 ```
 
 ### Debug
