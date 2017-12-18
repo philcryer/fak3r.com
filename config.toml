@@ -1,5 +1,5 @@
-baseurl = "https://fak3r.com/"
-#baseurl = "127.0.0.1"
+#baseurl = "https://fak3r.com/"
+baseurl = "127.0.0.1"
 title = "fak3r"
 author = "fak3r"
 
@@ -7,7 +7,12 @@ author = "fak3r"
 copyright = "&copy; 2016&nbsp;All rights reserved"
 canonifyurls = true
 paginate = 10
-theme = "blackburn"
+#theme = "blackburn"
+#theme = "hugo-multi-bootswatch"
+#theme = "hugo-nuo"
+theme = "hyde"
+#theme = "slender"
+#theme = "strange-case"
 
 [indexes]
   tag = "tags"
