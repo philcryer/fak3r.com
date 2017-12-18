@@ -1,6 +1,4 @@
-#baseurl = "https://fak3r.com/"
-#baseurl = "127.0.0.1"
-baseurl = "192.168.1.5"
+baseurl = "https://fak3r.com/"
 title = "fak3r"
 author = "fak3r"
 
