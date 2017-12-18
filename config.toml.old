@@ -3,6 +3,8 @@ baseurl = "127.0.0.1"
 title = "fak3r"
 author = "fak3r"
 
+# Shown in the side menu
+copyright = "&copy; 2017&nbsp;All rights reserved"
 canonifyurls = true
 paginate = 10
 theme = "hyde"
@@ -12,14 +14,15 @@ theme = "hyde"
   topic = "topics"
 
 [params]
-  description = "slower traffic keep right"
-  themeColor = "theme-base-08"
+  # Shown in the home page
+  subtitle = "look out honey, cause I'm using technology"
   brand = "fak3r"
+  #googleAnalytics = "Your Google Analytics tracking ID"
+  #disqus = "Your Disqus shortname"
   disqus = "fak3r"
   # CSS name for highlight.js
   highlightjs = "androidstudio"
   dateFormat = "02 Jan 2006, 15:04"
-  copyright = "Ⓒ 2018 All rights reserved"
 
 [permalinks]
   page = "/:title/"
@@ -33,6 +36,12 @@ theme = "hyde"
     weight = 0
     identifier = "home"
     url = "/"
+  [[menu.main]]
+    name = "Search"
+    pre = "<i class='fa fa-search fa-fw'></i>"
+    weight = 2
+    identifier = "search"
+    url = "/search/"
   [[menu.main]]
     name = "Posts"
     pre = "<i class='fa fa-list fa-fw'></i>"
@@ -58,11 +67,37 @@ theme = "hyde"
     url = "/contact/"
 
 [social]
-  twitter = "fak3r"
+  # Link your social networking accouns to the side menu
+  # by entering your username or ID.
+
+  # SNS microblogging
+#  twitter = "fak3r"
+  #gnusocial = "*" # Specify href (e.g. https://quitter.se/yourusername)
+  #facebook = "*"
+  #googleplus = "*"
+  #weibo = "*"
+
+  # SNS photo/video sharing
   #instagram = "*"
-  flickr = "fak3r"
-  reddit = "fak3r"
-  hackernews = "fak3r"
-  github = "philcryer"
-  bitbucket = "philcryer"
-  keybase = "fak3r"
+#  flickr = "fak3r"
+  #pinterest = "*"
+  #youtube = "*"
+  #vimeo = "*"
+  #vine = "*"
+  #slideshare = "*"
+
+  # SNS career oriented
+  #linkedin = "*"
+  #xing = "*"
+
+  # SNS news
+#  reddit = "fak3r"
+#  hackernews = "fak3r"
+
+  # Techie
+#  github = "philcryer"
+#  bitbucket = "philcryer"
+  #stackoverflow = "*"
+
+  # Other
+#  keybase = "fak3r"

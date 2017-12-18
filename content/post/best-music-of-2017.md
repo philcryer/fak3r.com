@@ -1,7 +1,7 @@
 +++
-title: "Best Music of 2017"
-date: 2017-12-16T18:19:58-06:00
-draft: true
+title = "Best Music of 2017"
+date = 2017-12-16T18:19:58-06:00
+draft = true
 Description = ""
 Tags = ["Development", "golang"]
 Categories = ["Development", "GoLang"]
