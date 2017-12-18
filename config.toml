@@ -1,5 +1,6 @@
 #baseurl = "https://fak3r.com/"
-baseurl = "127.0.0.1"
+#baseurl = "127.0.0.1"
+baseurl = "192.168.1.5"
 title = "fak3r"
 author = "fak3r"
 
@@ -25,37 +26,6 @@ theme = "hyde"
   page = "/:title/"
   #post = "/article/:title/"
   post = "/:year/:month/:day/:title/"
-
-[menu]
-  [[menu.main]]
-    name = "Home"
-    pre = "<i class='fa fa-home fa-fw'></i>"
-    weight = 0
-    identifier = "home"
-    url = "/"
-  [[menu.main]]
-    name = "Posts"
-    pre = "<i class='fa fa-list fa-fw'></i>"
-    weight = 1
-    identifier = "post"
-    url = "/post/"
-  [[menu.main]]
-    name = "About"
-    pre = "<i class='fa fa-user fa-fw'></i>"
-    weight = 3
-    identifier = "about"
-    url = "/about/"
-  [[menu.main]]
-    name = "Music"
-    pre = "<i class='fa fa-headphones fa-fw'></i>"
-    weight = 4
-    identifier = "music"
-    url = "/music/"
-  [[menu.main]]
-    name = "Contact"
-    pre = "<i class='fa fa-gamepad fa-fw'></i>"
-    weight = 5
-    url = "/contact/"
 
 [social]
   twitter = "fak3r"
