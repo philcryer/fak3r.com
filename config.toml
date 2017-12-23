@@ -13,12 +13,12 @@ paginate = 10
     url = "/about/"
 [[menu.main]]
     name = "Search"
-    weight = 2
+    weight = 1
     identifier ="search"
     url = "/search/"
 [[menu.main]]
     name = "Music"
-    weight = 1 
+    weight = 2 
     identifier ="music"
     url = "/music/"
 [[menu.main]]
