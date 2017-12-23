@@ -1,12 +1,12 @@
 +++
 date = "2013-03-24T21:54:12-05:00"
 title = "Contact"
-slag = "contact"
-menu ="main"
-nodate = true
+slug = "contact"
+nodate = "true"
+#menu = "main"
 nopaging = true
-noread = true
-layout = "page"
+#noread = true
+#layout = "page"
 
 +++
 

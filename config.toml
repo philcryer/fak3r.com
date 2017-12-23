@@ -7,11 +7,6 @@ theme = "hyde"
 paginate = 10
 
 [[menu.main]]
-    name = "About"
-    weight = 3
-    identifier = "about"
-    url = "/about/"
-[[menu.main]]
     name = "Search"
     weight = 1
     identifier ="search"
@@ -21,6 +16,11 @@ paginate = 10
     weight = 2 
     identifier ="music"
     url = "/music/"
+[[menu.main]]
+    name = "About"
+    weight = 3
+    identifier = "about"
+    url = "/about/"
 [[menu.main]]
     name = "Contact"
     weight = 4
@@ -48,11 +48,10 @@ paginate = 10
     truncate = true
         sidebar = "left"
 
-            brand = "fak3r"
+    brand = "fak3r"
     topline = "slower traffic keep right"
-    footline = "code with <i class='fa fa-heart'></i>"
-
     description = "slower traffic keep right"
+    footline = "code with <i class='fa fa-heart'></i>"
 
     # Used when a given page doesn't set its own.
     defaultDescription = "Your default page description"
@@ -60,7 +59,7 @@ paginate = 10
 
     # Hide estimated reading time for posts.
     # Default (if omitted) is false.
-    hideReadingTime = false
+    hideReadingTime = true
 
     # Changes sidebar background and link/accent colours.
     # See below for more colour options.
@@ -87,21 +86,21 @@ paginate = 10
     #googleAnalytics = "Your Google Analytics tracking code"
     gravatarHash = "086f1cab5625f03d3a04342359757fea"
 
-  twitter = "fak3r"
-  #instagram = "*"
-  flickr = "fak3r"
-  reddit = "fak3r"
-  hackernews = "fak3r"
-  github = "philcryer"
-  bitbucket = "philcryer"
-  keybase = "fak3r"
+    twitter = "fak3r"
+    #instagram = "*"
+    flickr = "fak3r"
+    reddit = "fak3r"
+    hackernews = "fak3r"
+    github = "philcryer"
+    bitbucket = "philcryer"
+    keybase = "fak3r"
 
     # Other social-like sidebar links
     rss = false  # switch to true to enable RSS icon link
     flattr = ""  # populate with your flattr uid
 
-  dateFormat = "02 Jan 2006, 15:04"
-  copyright = "Ⓒ 2018 All rights reserved"
+    dateFormat = "02 Jan 2006, 15:04"
+    copyright = "Ⓒ 2018 MIT Licensed"
 
 
 
