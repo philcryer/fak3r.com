@@ -8,19 +8,24 @@ paginate = 10
 
 [[menu.main]]
     name = "About"
-    weight = 1
+    weight = 3
     identifier = "about"
     url = "/about/"
 [[menu.main]]
     name = "Search"
-    weight = 3
+    weight = 2
     identifier ="search"
     url = "/search/"
 [[menu.main]]
     name = "Music"
-    weight = 3
+    weight = 1 
     identifier ="music"
     url = "/music/"
+[[menu.main]]
+    name = "Contact"
+    weight = 4
+    identifier ="contact"
+    url = "/contact/"
 
 [author]
     name = "fak3r"
