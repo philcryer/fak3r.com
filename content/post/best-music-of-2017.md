@@ -1,66 +1,88 @@
 +++
 title = "Best Music of 2017"
-date = 2017-12-16T18:19:58-06:00
-draft = true
+date = 2017-12-31T21:05:58-06:00
+draft = false
 Description = ""
-Tags = ["Development", "golang"]
-Categories = ["Development", "GoLang"]
-menu = "main"
+Tags = ["best of", "2017"]
+Categories = ["music"]
+#menu = "main"
 +++
 
-Aye Nako "Silver Haze
-Cloud Nothings "Life Without Sound"
-Craig Finn "We All Want the Same Things"
-Gorillaz "Humanz"
-Jason Isbell And The 400 Unit "The Nashville Sound"
-The Jesus and Mary Chain "Damage and Joy"
-Sharon Jones and the Dap-Kings "Soul of a Woman"
-Mogwai "Every Country’s Sun"
-Kevin Morby "City Music"
-Morrissey "Low in High School"
-The National "Sleep Well Beast"
-The New Pornographers "Whiteout Conditions"
-The New Year "Snow"
-Conor Oberst "Salutations"
-Part Chimp "IV"
-Slowdive "Slowdive"
-Spoon "Hot Thoughts"
-Street Eaters "The Envoy"
-Waxahatchee "Out in the Storm"
-Shannon Wright "Division"
+## The shows
 
---
+I still love seeing live music more than anything, and it's always such a kick to see my favorite bands, as well as seeing bands I've never heard of, usually opening the show, becoming a new favorite. There were some great shows this year, and I ate them up - honestly I didn't misss much that I wanted to see. Here are the bands I saw in 2017 (25 shows, ~36 bands):
 
-Sleater-Kinney "Live In Paris"
-Charly Bliss "Guppy"
-Four Tet "New Energy"
-Metz "Strange Peace"
-Lee Ranaldo "Electric Trim"
-Acetone "1992-2001"
-The xx "I See You"
-Ryan Adams "Prisoner"
-Japandroids "Near to the Wild Heart of Life"
-The Afghan Whigs "In Spades"
-Boris "Dear"
-Bonobo "Migration"
-Broken Social Scene "Hug of Thunder"
-The Fall "New Facts Emerge"
-Phoenix "Ti Amo"
-Guided By Voices "How Do You Spell Heaven"
-Guided By Voices "August By Cake"
-Surfer Blood "Snowdonia"
+Shovels & Rope with John Moreland, Jonathan Richman featuring Tommy Larkin, Japandroids with Craig Finn, Conor Oberst, Guided By Voices, Flaming Lips, Supersuckers, Explosions in the Sky, X (40th anniversary tour!), Ninja Sex Party with TWRP (Nashville), Sigur Ros, Kasey Chambers, Jason Isbell and the 400 Unit, The New Pornographers with Ought, The Alarm, Loufest Day 1 (Spoon), Loufest Day 2 (Run The Jewels, Weezer, Nathaniel Rateliff & the Night Sweats), Kevin Morby, Gorillaz (Kansas City), Screaming Females with Street Eaters, Jason Isbell and the 400 Unit with Lydia Loveless (Ryman Auditorium, Nashville), Swinging Utters with Western Settings and Sweat Shop, Morrissey, Colter Wall, and Portugal. The Man with Vance Joy.
 
---
+Notice that I missed a few things that I wish I hadn't, but they were out of my control; U2 playing The Joshua Tree with Beck opening was cancelled due to riots and unrest in the Saint Louis area, and scheduling conflicts kept me from seeing Luna, and The Shins (but that night I was in Nashville seeing NSP with TRWP, so ya).
 
-The Telescopes "As Light Return"
+## The list
 
-Radiohead "OK COMPUTER: OKNOTOK 1997-2017"
-Depeche mode "Spirit"
-Manchester Orchestra "A Black Mile to the Surface"
-Brand New "Science Fiction"
+I (still) buy music on record and compact disc, I still treat visiting record stores as a religious experience, and I still study, fret, and overthink every (single) upgrade of my lovely stereo system. The difference now is that I stream music more than ever to really narrow down what I buy. In the end I buy more than ever, but I'm more selective now so I enjoy (or love) what I buy more. Whatever, regardless, it's been another amazing year, here are my favs, in alphabetical order.
 
-The Flaming Lips "Oczy Mlody"
-Wavves "You're Welcome"
-Steve Earle & the Dukes "So You Wannabe an Outlaw"
-The Shins "Heartworms"
-Son Volt "Notes of Blue"
+* Aye Nako "Silver Haze
+* Craig Finn "We All Want the Same Things"
+* Future of the Left "Live at Highbury Garage"
+* Gorillaz "Humanz"
+* Guided By Voices "August By Cake"
+* Japandroids "Near to the Wild Heart of Life"
+* Jason Isbell And The 400 Unit "The Nashville Sound"
+* The Jesus and Mary Chain "Damage and Joy"
+* Sharon Jones and the Dap-Kings "Soul of a Woman"
+* Metz "Strange Peace"
+* Kevin Morby "City Music"
+* The National "Sleep Well Beast"
+* The New Pornographers "Whiteout Conditions"
+* Conor Oberst "Salutations"
+* Part Chimp "IV"
+* Ryuichi Sakamoto "async"
+* Sleater-Kinney "Live In Paris"
+* Slowdive "Slowdive"
+* Spoon "Hot Thoughts"
+* Street Eaters "The Envoy"
+* Waxahatchee "Out in the Storm"
+* Shannon Wright "Division"
+
+## The honorable mentions
+
+* Four Tet "New Energy"
+* Lee Ranaldo "Electric Trim"
+* Mogwai "Every Country’s Sun"
+* Acetone "1992-2001"
+* The xx "I See You"
+* Manchester Orchestra "A Black Mile to the Surface"
+* Brand New "Science Fiction"
+* Ryan Adams "Prisoner"
+* The Afghan Whigs "In Spades"
+* Cloud Nothings "Life Without Sound"
+* The New Year "Snow"
+* Boris "Dear"
+* Bonobo "Migration"
+* Son Volt "Notes of Blue"
+* Broken Social Scene "Hug of Thunder"
+* Steve Earle & the Dukes "So You Wannabe an Outlaw"
+* Depeche mode "Spirit"
+* The Shins "Heartworms"
+* The Fall "New Facts Emerge"
+* Wavves "You're Welcome"
+* Phoenix "Ti Amo"
+* Guided By Voices "How Do You Spell Heaven"
+* The Flaming Lips "Oczy Mlody"
+* Surfer Blood "Snowdonia"
+* The Telescopes "As Light Return"
+
+## The reissues
+
+There are only a few re-issues that I think deserve calling out, but man, these two of my all time favorite things, I'm sure I wouldn't be the person I am without them. Also these re-issues were very well done; a worthy tribute to the originals.
+
+* Radiohead "OK COMPUTER: OKNOTOK 1997-2017"
+* The Smiths "The Queen Is Dead" (Super Deluxe Edition)
+
+## The parting shot
+
+RIP Gord ;(
+
+<p align="center"><img src="/2017/best/gord.jpg" alt="Gord Downie">
+<font size="3">Gord Downie (1964-2017) of The Tragically Hip<br />
+(Photo from <a href="http://www.nugget.ca/2016/08/18/memorial-gardens-to-host-up-to-4000-hip-fans">Nugget.ca</a>)</p>
+</div>
