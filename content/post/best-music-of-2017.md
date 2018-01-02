@@ -10,6 +10,9 @@ Categories = ["music"]
 
 ## The shows
 
+<p align="center"><img width="632" src="/2017/best/kevin_morby_offbroadway.jpg" alt="Kevin Morby at Off Broadway">
+<font size="3">Kevin Morby at Off Broadway, Wednesday, September 13, 2017 (photo by me)</p>
+
 I still love seeing live music more than anything, and it's always such a kick to see my favorite bands, as well as seeing bands I've never heard of, usually opening the show, becoming a new favorite. There were some great shows this year, and I ate them up - honestly I didn't misss much that I wanted to see. Here are the bands I saw in 2017 (25 shows, ~36 bands):
 
 Shovels & Rope with John Moreland, Jonathan Richman featuring Tommy Larkin, Japandroids with Craig Finn, Conor Oberst, Guided By Voices, Flaming Lips, Supersuckers, Explosions in the Sky, X (40th anniversary tour!), Ninja Sex Party with TWRP (Nashville), Sigur Ros, Kasey Chambers, Jason Isbell and the 400 Unit, The New Pornographers with Ought, The Alarm, Loufest Day 1 (Spoon), Loufest Day 2 (Run The Jewels, Weezer, Nathaniel Rateliff & the Night Sweats), Kevin Morby, Gorillaz (Kansas City), Screaming Females with Street Eaters, Jason Isbell and the 400 Unit with Lydia Loveless (Ryman Auditorium, Nashville), Swinging Utters with Western Settings and Sweat Shop, Morrissey, Colter Wall, and Portugal. The Man with Vance Joy.
@@ -85,4 +88,3 @@ RIP Gord ;(
 <p align="center"><img src="/2017/best/gord.jpg" alt="Gord Downie">
 <font size="3">Gord Downie (1964-2017) of The Tragically Hip<br />
 (Photo from <a href="http://www.nugget.ca/2016/08/18/memorial-gardens-to-host-up-to-4000-hip-fans">Nugget.ca</a>)</p>
-</div>
