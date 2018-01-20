@@ -46,7 +46,7 @@ paginate = 10
     # Otherwise show description and 'read on' link to individual blog post page.
     # Default (if omitted) is true.
     truncate = true
-        sidebar = "left"
+    sidebar = "left"
 
     brand = "fak3r"
     topline = "slower traffic keep right"
@@ -64,15 +64,14 @@ paginate = 10
     # Changes sidebar background and link/accent colours.
     # See below for more colour options.
     # This also works: "theme-base-08 layout-reverse", or just "layout-reverse".
-#    theme = "theme-base-08"
-    themeColor = "theme-base-08"
+    #themeColor = "theme-base-08"
 
     # Select a syntax highight.
     # Check the static/css/highlight directory for options.
     highlight = "sunburst"
 
     # Optional additional custom CSS file URL, will override other styles.
-    customCSS = ""
+    customCSS = "override.css"
 
     # Displays under the author name in the sidebar, keep it short.
     # You can use markdown here.
@@ -100,7 +99,5 @@ paginate = 10
     flattr = ""  # populate with your flattr uid
 
     dateFormat = "02 Jan 2006, 15:04"
-    copyright = "Ⓒ 2018 MIT Licensed"
-
-
-
+    #copyright = "Ⓒ 2018 MIT Licensed"
+    copyright = " "
