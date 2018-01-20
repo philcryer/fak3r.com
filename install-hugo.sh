@@ -1,23 +1,34 @@
 #!/bin/bash
 
-# Install Hugo or upgrade a newer version
-
-HUGO_VERSION=0.17
-
-LATEST=$(curl https://github.com/spf13/hugo/releases/latest | tail -n1 | cut -d"/" -f8 | cut -d"\"" -f1)
-
 set -e
 
-wget https://github.com/spf13/hugo/releases/download/v${HUGO_VERSION}/hugo_${HUGO_VERSION}_linux_amd64.tar.gz
+# Install Hugo or upgrade a newer version
 
-tar xvzf hugo_${HUGO_VERSION}_linux_amd64.tar.gz
+# Figure out the lastest version of Hugo
+LATEST=$(curl https://github.com/gohugoio/hugo/releases/latest | cut -d"/" -f8 | cut -d"v" -f2 | cut -d"\"" -f1)
+HUGO_VERSION="${LATEST}"
+
+# Or choose a specific version
+#HUGO_VERSION=0.17
+
+if [ `uname` == "Darwin" ]; then
+  HUGO_EXEC="hugo_${HUGO_VERSION}_macOS-`uname -m|cut -d"_" -f2`bit"
+else
+  HUGO_EXEC="hugo_${HUGO_VERSION}_`uname`-`uname -m|cut -d"_" -f2`bit"
+fi
+
+cd /tmp; wget -O ${HUGO_EXEC}.tar.gz "https://github.com/spf13/hugo/releases/download/v${HUGO_VERSION}/${HUGO_EXEC}.tar.gz"
+
+tar xvzf ${HUGO_EXEC}.tar.gz
 
 if [ ! -d '$HOME/bin' ]; then
     mkdir $HOME/bin
 fi
 
-cp hugo_${HUGO_VERSION}_linux_amd64/hugo_${HUGO_VERSION}_linux_amd64 $HOME/bin/hugo
+cp hugo $HOME/bin/hugo
 
-rm -rf hugo_${HUGO_VERSION}_linux_amd64*
+chmod 755 $HOME/bin/hugo
+
+rm -rf ${HUGO_EXEC}*
 
 exit 0

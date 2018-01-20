@@ -63,7 +63,7 @@ A: My name is Phil, so a friend used to call me flip, so I started using name fl
 
 email me at admin {at} fak3r {dot} com or ping me on Twitter where I'm [@fak3r](https://twitter.com/fak3r)
 
-## License 
+## License
 
 MIT License
 
