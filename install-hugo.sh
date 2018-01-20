@@ -21,11 +21,11 @@ cd /tmp; wget -O ${HUGO_EXEC}.tar.gz "https://github.com/spf13/hugo/releases/dow
 
 tar xvzf ${HUGO_EXEC}.tar.gz
 
-if [ ! -d '$HOME/bin' ]; then
+if [ ! -d "$HOME/bin" ]; then
     mkdir $HOME/bin
 fi
 
-cp hugo $HOME/bin/hugo
+mv hugo $HOME/bin/hugo
 
 chmod 755 $HOME/bin/hugo
 
