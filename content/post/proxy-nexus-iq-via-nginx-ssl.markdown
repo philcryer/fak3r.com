@@ -14,32 +14,32 @@ Now while Sonatype's documentation for [proxying their Nexus server with NGINX](
 
 ```
 server {
-        listen                          *:80;
-        server_name                     nexus-iq-server;
-        return                          301 https://$server_name$request_uri;
+    listen                      *:80;
+    server_name                 nexus-iq-server;
+    return                      301 https://$server_name$request_uri;
 }
 
 server {
-        listen                          *:443;
-        server_name                     nexus-iq-server;
-        client_max_body_size            1G;
-        ssl                             on;
-        ssl_certificate                 /etc/ssl/certs/nexus-iq-server.crt;
-        ssl_certificate_key             /etc/ssl/certs/nexus-iq-server.key;
-        location / {
-                proxy_read_timeout      60;
-                proxy_redirect          off;
+    listen                      *:443;
+    server_name                 nexus-iq-server;
+    client_max_body_siz         1G;
+    ssl                         on;
+    ssl_certificate             /etc/ssl/certs/nexus-iq-server.crt;
+    ssl_certificate_key         /etc/ssl/certs/nexus-iq-server.key;
+    location / {
+        proxy_read_timeout      60;
+        proxy_redirect          off;
 
-                proxy_pass_header       Server;
-                proxy_cookie_path       ~*^/.* /;
-                proxy_pass              http://localhost:8070/;
+        proxy_pass_header       Server;
+        proxy_cookie_path       ~*^/.* /;
+        proxy_pass              http://localhost:8070/;
 
-                proxy_set_header        Host $host;
-                proxy_set_header        X-Real-IP $remote_addr;
-                proxy_set_header        X-Forwarded-Proto $scheme;
-                proxy_set_header        X-Forwarded-Host $server_name;
-                proxy_set_header        X-Forwarded-For $proxy_add_x_forwarded_for;
-        }
+        proxy_set_header        Host $host;
+        proxy_set_header        X-Real-IP $remote_addr;
+        proxy_set_header        X-Forwarded-Proto $scheme;
+        proxy_set_header        X-Forwarded-Host $server_name;
+        proxy_set_header        X-Forwarded-For $proxy_add_x_forwarded_for;
+   }
 }
 ```
 
