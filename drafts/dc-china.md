@@ -18,7 +18,12 @@
 ## PRESENTATION INFORMATION
 
 * Date of Submission: March 15, 2018
-* Presentation Title: FIXME
+
+* Presentation Title: Online Privacy and Security in the Year of the Dog
+-------------------------------------------------------
+-------------------------------------------------------
+-------------------------------------------------------
+
 * Is there a demonstration? No
 * Is there audience participation? No    If yes, how? N/A
 * Are you releasing a new tool? No    If yes, under which license? N/A
@@ -31,7 +36,29 @@
 
 ### Abstract:
 
+-------------------------------------------------------
+-------------------------------------------------------
+-------------------------------------------------------
+
 Your abstract will be used for the website and printed materials. Summarize what your presentation will cover.
+
+
+
+online privacy and security
+
+
+from fake news spread by online troll farms to...
+
+Edward Snowden revealed Five Eyes ()
+to
+the "Great Firewall" of China...
+
+we know that goverments are not only interested in spying on their own citizens, but they are actively doing it, and saving that data for uses in the future.
+
+if this terrifies you then we have common interests and we should focus on how we can protect ourselves while sharing this knowledge with others in a 
+
+-------------------------------------------------------
+
 
 Attendees will read this to get an idea of what they should know before your presentation, and what they will learn after. Use this to inform about how technical your talk is, what tools will be used, what materials to read in advance to get the most out of your presentation.
 
@@ -39,9 +66,23 @@ This abstract is the primary way people will be drawn to your session, but shoul
 
 ### Speaker Bio(s):
 
+-------------------------------------------------------
 This text will be used for the website and printed materials and should be written in the third person. Cover any professional or hacker history that is relevant to you and the presentation, you may include past jobs, tools that you have written, etc. Let people know who you are and why you are qualified to speak on your topic. If you prefer, you may write your bio under a pseudonym.
 
+
+Open source technical generalist of senior caliber and interests, with over fifteen years of industry experience, including cloud computing, virtualization, networking, storage, converged systems, research and development, security, operations and special projects. Privacy advocate, gently aging punk and international speaker with a strong social media presence that enables high visibility into cutting edge technologies as well as an industry wide renowned reputation. More at http://philcryer.com/
+
+
+s that I’m an Open Source technical generalist of senior caliber and interests, with over fifteen years of industry experience, including cloud computing, virtualization, networking, storage, converged systems, research and development, security, operations and special projects. Privacy advocate, and international speaker with a strong social media presence that enables high visibility into cutting edge technologies as well as an industry wide renowned reputation.
+
+Basically I’m an open source technologist and privacy advocate, with a passion for art and music. I hold a bachelor’s degree in fine arts, and believe that imagination is more important than knowledge. Above all I am a gently aging punk and a practicing trouble maker.
+
+
+
+
 ### Detailed Outline:
+
+-------------------------------------------------------
 
 This is the most important section on the application. You must provide a detailed outline containing the main points and navigation through your talk - show how you intend to begin, where you intend to lead the audience and how you plan to get there. Your outline should be in simple text. Please do not submit slides, Docs, or PDF’s as an outline.
 
@@ -49,14 +90,73 @@ If you are submitting a panel, it’s encouraged to list what each panel member 
 
 The review board likes submissions that include references to prior works and research you used in developing your presentation. The detailed your outline then the better we are able to best review your presentation against other submissions (and the higher chance you have of being accepted).
 
+0 Introduction
+	
+1 Expectations
 
-0 Hello
-1 Introduction
 2 The concern
 
-X Conclusion
+3 Getting started
+- General concepts
+* operating system agnositic (although; windows < macOS (OS X) < Linux )
+* all of these client-side tools are free
+* all server-side tools are free, but some *may* require a remote VPS for enhanced privacy (low cost, approximately 5 USD or 31.58 CNY per month)
 
-##SCHEDULING & EQUIPMENT NEEDS
+4 Tools
+
+https://privacy.haus/
+
+	browsers
+		chrome
+		chromium
+		firefox
+		SRWare Iron "the browser of the future"
+		Tor Browser bundle
+	
+	browser plugins
+
+	IM
+		keybase
+		
+		Tox
+		* https://tox.chat/
+		* central servers. The system would be distributed, peer-to-peer, and end-to-end encrypted, 
+
+		wire
+
+		chat secure
+		* open source 
+		* OMEMO encryption and OTR encryption over XMPP
+		* can use existing Google accounts or create new accounts on public XMPP servers
+		* https://chatsecure.org/
+		
+		Riot (matrix protocol)
+		* matrix xmpp
+		* https://matrix.org/
+
+		signal (desktop client for signal contacts)
+
+
+	server side
+		pi-hole 
+			* A black hole for Internet advertisements
+			* run on a raspberry pi
+			* https://pi-hole.net/
+
+
+		streisand (automated vpn setup)
+			* Streisand sets up a new server running your choice of L2TP/IPsec, OpenConnect, OpenSSH, OpenVPN, Shadowsocks, sslh, Stunnel, a Tor bridge, and WireGuard.
+			* vps - 5$/month digital ocean or similar
+			* https://github.com/StreisandEffect/streisand
+
+
+5 Conclusion
+
+-------------------------------------------------------
+-------------------------------------------------------
+-------------------------------------------------------
+
+## SCHEDULING & EQUIPMENT NEEDS
 
 * DEF CON CHINA [Beta], will be held, May 11-13, 2018. Is there a specific day or time by which you must present?* No
 * Equipment needs & special requests
@@ -71,6 +171,7 @@ Additional supporting materials such as code, white papers, proof of concept, et
 If you are speaking or submitting anonymously you are responsible for removing metadata and PII from materials that may reveal your identity.
 
 ## SUBMISSION AGREEMENTS
+
 Please read and accept these terms by inserting your name where noted. Failure to do so will render your submission incomplete. Please read these carefully as some of the terms have changed.
 
 Grant of Copyright Use
