@@ -42,6 +42,21 @@
 
 Your abstract will be used for the website and printed materials. Summarize what your presentation will cover.
 
+While privacy and security have always been important, in the past few years it's become far more well known about government and corporations overreach in pursuit of power, and/or money.
+
+
+
+
+
+Reply
+Retweet
+Like
+More options
+AlfredKGlover's avatar
+Alfred Glover @AlfredKGlover
+19s
+cybersecurity is one of the global challenges nobody can seem to get a handle on. gotta protect yourself
+
 
 
 online privacy and security
@@ -112,6 +127,12 @@ https://privacy.haus/
 		firefox
 		SRWare Iron "the browser of the future"
 		Tor Browser bundle
+
+	passwords
+		lastpass
+			WITH YUBIKEY - 2fa/otp
+		1password
+			
 	
 	browser plugins
 
@@ -138,6 +159,11 @@ https://privacy.haus/
 
 
 	server side
+ 		
+		tor
+
+		dns (unbound)
+	
 		pi-hole 
 			* A black hole for Internet advertisements
 			* run on a raspberry pi
