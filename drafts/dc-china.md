@@ -13,7 +13,7 @@ Under a pseudonym? No
 * Primary Speaker Phone Number: +1-314-600-8170
 * Co-Speaker (s) Email Addresses: N/A
 * Co-Speaker Phone Number(s): N/A
-* DEF CON promotes you as a speaker in several ways. We build a Twitter list of all accepted speakers, we tweet about you, share your posts, etc. We include your social media information on the web site within your bio, so people can contact or “follow” you. Please list all the links that you'd like us to share. (Twitter, Facebook, website, WeChat, etc): @fak3r (twitter), https://fak3r.com (website, blog), https://philcryer.com (website, personal)
+* DEF CON promotes you as a speaker in several ways. We build a Twitter list of all accepted speakers, we tweet about you, share your posts, etc. We include your social media information on the web site within your bio, so people can contact or “follow” you. Please list all the links that you'd like us to share. (Twitter, Facebook, website, WeChat, etc): @fak3r (twitter), keybase.io/fak3r (keybase, chat), https://fak3r.com (website, blog), https://philcryer.com (website, personal)
 * ANONYMOUS SUBMISSION I would like my submission sent in *anonymously to the review board. The human CFP processor will manually remove the presenter information and bio(s) for the listed presenter(s): No
 * I have removed PII from any attached slides, white papers, or materials; I acknowledge I’m responsible for the metadata in my content.
 
@@ -43,30 +43,45 @@ Your abstract will be used for the website and printed materials. Summarize what
 
 -------------------------------------------------------
 
-User's online privacy and security has always relied on an implicit trust in a system that we know was designed not to be trustworthy.
+User's online privacy and security has always relied on an implicit trust in a system that we know was not designed to be trustworthy.
 
-The bolting on of security has been slow, with most companies' putting profit before user security, leading to breached accounts, leaked passwords, and personal data being exposed.
+With companies putting profit before user security, breached accounts, leaked passwords, and personal data being exposed is all too common.
 
-Besides corporate overreach in pursuit of profit, over the past few years we've learned about governments taking advantage of the lack of security online, using 0days in secret to spy on users, or operating in the open, limiting freedom by censoring their citizens from accessing the open internet.
+Meanwhile, revelations from Edward Snowden have shown that governments are taking advantage of the lack of security online in secret; using 0days to spy on users, or infiltrating foreign utilities for nefarious purposes, while others operate in the open; limiting freedom by censoring their citizens' from accessing the open internet.
 
--
-* from fake news spread by online troll farms to Edward Snowden revealing the global information sharing of Five Eyes to the "Great Firewall" of China
+In this talk we'll cover attach vectors that we all face online, along with ways to address these threats using open source tools, methods, and concepts to protect our privacy and security online.
+
+So don't panic, if you've ever been online this talk is for you, come prepared to take away step by step instructions on tools and methods to use to improve your privacy and security online.
+
+
+
+
+
+to learn about ways you can make yourself more secure and protect your privacy online.
+
+
+ways to improve your 
+
+
+
+some of the latest threats to your online privacy and security, along with 
+
+
+
+
+--
+ There are lots of tools out there that can help, and most are free and open source
+ain leave the user without the tools needed to protect themselves.
+* if this terrifies you then we have common interests and we should focus on how we can protect ourselves while sharing this knowledge with others in a 
+* while some of these improvements provide a modicum of help, the fact that user's are constantly attached, accounts breached, passwords revealed, and data unknowingly shared, tells us that this still needs to be improved.
+* from fake news spread by online troll farms to
 
 are not only interested in spying on their own citizens, but they are actively doing it, and saving that data for unknown future uses.
--
+Besides corporate overreach in pursuit of profit, over the past few years we've learned far more about In effect governments are limiting their citizens 
 
+ revealing the global information sharing of Five Eyes to the "Great Firewall" of China
 
-* while some of these improvements provide a modicum of help, the fact that user's are constantly attached, accounts breached, passwords revealed, and data unknowingly shared, tells us that this still needs to be improved.
-
-ain leave the user without the tools needed to protect themselves.
-
-* if this terrifies you then we have common interests and we should focus on how we can protect ourselves while sharing this knowledge with others in a 
-
-attach vectors that normal users face, and how they can address these threats using open source tools, methods, and concepts to protect their privacy and security online
-
-
-* But don't panic! If you've ever been online this talk is for you. Come prepared to learn about some of the latest threats to your online privacy and security, along with step by step instructions on tools and methods you can use today to project yourself from tomorrow's threats.
-
+The bolting on of security has been slow, and 
 -------------------------------------------------------
 
 ## Speaker Bio(s):
