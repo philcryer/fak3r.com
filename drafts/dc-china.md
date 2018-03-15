@@ -70,7 +70,8 @@ Phil Cryer is a hacker, open source technologist at-large, writer, and occasiona
 
 ## Detailed Outline:
 
-0) Introduction
+### Introduction
+
 * whoami
 - work history with open source and privacy, plus general information technology roles
 - past presentations covering global data sharing, online privacy, infosec, information security
@@ -79,7 +80,8 @@ Phil Cryer is a hacker, open source technologist at-large, writer, and occasiona
 - 15 years of being online, and blogging for the most of them, at https://fak3r.com reveals howtos where I developed/evolved my ideas and methods (howtos, exploration, investigation)
 - what I do day to day and how I've evolved my methods and approaches to staying secure online
 	
-1) Expectations
+### Expectations
+
 * the WHAT of this talk; specifically what the audience will learn from the presentation, notably
 - online concern for security and privacy, addressed by understanding and utilizing tools
 - client applications and configurations to greatly increase online privacy
@@ -87,7 +89,7 @@ Phil Cryer is a hacker, open source technologist at-large, writer, and occasiona
 * a balanced approach to online security and privacy versus convenience; if something is too difficult, users will find workarounds 
 - don't do this! Instead find a balance with what you're comfortable with - addressing your own threat profile versus what tools you are comfortable using
 
-2) Concerns
+### Concerns
 * the WHY of this talk; why should users be concerned about their privacy and security online
 - within China: government overreach in surveillance 
 - ingress and egress in China: censorship (the great firewall of china*)
@@ -99,7 +101,7 @@ Phil Cryer is a hacker, open source technologist at-large, writer, and occasiona
 - within China: WEIBO (微博), RENREN (人人) WECHAT (微信) 4. YOUKU TUDOU (优酷土豆) 5. DIANPING (大众点评)
 - talk about examples that the audience would be most interested (and threatened) by
 
-3) Getting started
+### Getting started
 * General concepts
 - almost all examples and concepts will work REGARDlESS of operating system (stay agnostic)
 - but when taking things into consideration, do the best you can, ala: windows < macOS < Linux < *BSD
@@ -110,11 +112,15 @@ Phil Cryer is a hacker, open source technologist at-large, writer, and occasiona
 - hardware token options for 2FA or OTP usage, to really secure things on the client side (approximately 50 USD / 316 CNY)
 - (optional) password server fee, but for advanced features (2FA) there is an annual cost (USD 24 / 152 CNY)
 
-4) Tools
-* client-side
+### Tools
+
+#### client-side
+
 - overview of what will be covered in this section; client-side user tools - browsers, browser plugins, password managers, instant messaging, and email
 https://privacy.haus/
-* browsers
+
+##### browsers
+
 - much like the OS exercise, go for what fits your threat profile, in general chrome < chromium < firefox < SRWare Iron < Tor Browser bundle
 - all options are free - but there differences with all of these choices
 - chrome - for profit, closed source because they add proprietary tools, and an additional cost (your data)
@@ -130,7 +136,7 @@ https://privacy.haus/
 - uBlock Origin  - a traditional "ad blocker" that blocks ads, tracking, etc from a domain block list that you can control. This blocks far more than Privacy Badger, so understand how it works, what it does and why it can break some sites.
 - a password manager plugin (see next section)
 
-* password management
+##### password management
 - forget your passwords!
 - tools to manage your passwords, help with generation of very complex passwords, allows you to use different passwords on EVERY site you have to login to, and you will never have to know/remember the passwords
 - open source options - keypass, what that will get you as far as security and convience
@@ -140,7 +146,7 @@ https://privacy.haus/
 - 1password - popular macOS option, but no linux client 
 - point is, if you're not using a password manager, use one... NOW	
 	
-* email
+##### email
 - yes, we're still talking about this! 
 - traditional email is not secure, and really this is by default
 - email that is 'secure' may be secure in your browser (https), or your client (tls), but once it gets securely to the mail server it may/may not be fully encrypted as it passes over the internet - so that's not secure 
@@ -149,7 +155,8 @@ https://privacy.haus/
 - protonmail - easy to do encrypted email "end to end" in the browser, but both users need to be protonmail users, and send/check from protomail... this works, but again it's leaving out those not in the know 
 - zerobin - while not email, an approach more analogus to sending PGP encrypted messages, here a pastebin like service runs 'zerobin', a service that is encrypted in the browser, provides a unique URL to share that can be password protected, with messages that can be auto deleted after so many days, or the popular 'burn after reading' feature where a message goes away once it's read. Passing messages this way is not as secure as PGP b/c you can't control the user side, but with a password restriction and BAR option, you can at least verify after the message is read that it was read by the intended individual
 
-* IM / SMS / text messaging	
+##### IM / SMS / text messaging	
+
 - while IM/SMS/text messaging used to be as insecure as email, that's changed in many ways
 
 * IM, but not AIM anymore! sorry. the issues with most IM as they're not federated like email, so if you use one kind of IM you can't talk to the other (well without some work-arounds)
@@ -168,7 +175,8 @@ https://privacy.haus/
 - big name options, facebook messanger, whats app, telegram, are more secure than old options, the first two actually use the signal protocol
 - these options are still owned by big, for profit companies. consider your threat profile when going this route!
 
-* server-side
+##### server-side
+
 - this is where using open source really shines 		
 
 * LOCAL
@@ -184,7 +192,8 @@ https://privacy.haus/
 - this is almost a swiss army knife and it is EXTREMELY easy to setup - it uses Ansible and the cloud APIs to run locally and setup your cloud server
 - you can run the LOCAL options here too, but this way you could get around geo-blocks as you could VPN (or connect another way) to the host before going to the destination
 
-5) Conclusion
+### Conclusion
+
 * using these ideas will make you more secure and private online
 * plus, best of all, will help you understand what you're exposing yourself to when you're online. (the real lesson)
 - feel free to reach out, stay in touch, share contact deets, twitter, email, keybase(!), etc
