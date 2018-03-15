@@ -30,7 +30,7 @@
 * Are you currently submitting this topic to any other conferences held prior to DEF CON CHINA [Beta]? No    If yes, please list where. N/A
 * DEF CON will cover the hotel accommodations for all foreign speakers, but airfare will vary and depend on budget/availability. Is your ability or willingness to speak predicated on your airfare being covered or supplemented by DEF CON? No
 
-### Abstract:
+## Abstract:
 
 -------------------------------------------------------
 -------------------------------------------------------
@@ -74,7 +74,7 @@ Attendees will read this to get an idea of what they should know before your pre
 
 This abstract is the primary way people will be drawn to your session, but should not give them the entire content of the talk. We request you keep your abstract well over 140 characters, but at or under the 1337 maximum.
 
-### Speaker Bio(s):
+## Speaker Bio(s):
 
 -------------------------------------------------------
 -------------------------------------------------------
@@ -93,7 +93,7 @@ Basically I’m an open source technologist and privacy advocate, with a passion
 
 
 
-### Detailed Outline:
+## Detailed Outline:
 
 -------------------------------------------------------
 -------------------------------------------------------
@@ -231,13 +231,13 @@ https://privacy.haus/
 
 * DEF CON CHINA [Beta], will be held, May 11-13, 2018. Is there a specific day or time by which you must present?* No
 
-### Equipment needs & special requests
+## EQUIPMENT NEEDS & SPECIAL REQUESTS
 
 * Will you require more than 1 LCD projector feed? No
 If yes, please specify how many and why. N/A
 * Are there any other special equipment needs that you will require? No
 
-### Supporting File(s):
+## Supporting File(s):
 
 Additional supporting materials such as code, white papers, proof of concept, etc. should be sent along with this email to talks[at]defcon[dot]org. Note that additional files that may help in the selection process should be included. We are not asking for a complete presentation for this initial submission – That will only be required if you are selected for presenting.
 
