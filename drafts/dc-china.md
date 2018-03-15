@@ -33,56 +33,40 @@
 ## Abstract:
 
 -------------------------------------------------------
+
+Your abstract will be used for the website and printed materials. Summarize what your presentation will cover.  Attendees will read this to get an idea of what they should know before your presentation, and what they will learn after. Use this to inform about how technical your talk is, what tools will be used, what materials to read in advance to get the most out of your presentation.  This abstract is the primary way people will be drawn to your session, but should not give them the entire content of the talk. We request you keep your abstract well over 140 characters, but at or under the 1337 maximum.
+
 -------------------------------------------------------
--------------------------------------------------------
 
-Your abstract will be used for the website and printed materials. Summarize what your presentation will cover.
+User's online privacy and security has always relied on an implicit trust in a system that we know was designed not to be trustworthy.
 
-Attendees will read this to get an idea of what they should know before your presentation, and what they will learn after. Use this to inform about how technical your talk is, what tools will be used, what materials to read in advance to get the most out of your presentation.
+The bolting on of security has been slow, with most companies' putting profit before user security, leading to breached accounts, leaked passwords, and personal data being exposed.
 
-This abstract is the primary way people will be drawn to your session, but should not give them the entire content of the talk. We request you keep your abstract well over 140 characters, but at or under the 1337 maximum.
-----
+Besides corporate overreach in pursuit of profit, over the past few years we've learned about governments taking advantage of the lack of security online, using 0days in secret to spy on users, or operating in the open, limiting freedom by censoring their citizens from accessing the open internet.
 
+-
+* from fake news spread by online troll farms to Edward Snowden revealing the global information sharing of Five Eyes to the "Great Firewall" of China
 
-
-While the internet provides a modium of security, the fact that user's are constantly attached, accounts breached, data unknowingly shared
-
-
-
-While privacy and security have always been important, in the past few years it's become far more well known about government and corporations overreach in pursuit of power, and/or money.
+are not only interested in spying on their own citizens, but they are actively doing it, and saving that data for unknown future uses.
+-
 
 
+* while some of these improvements provide a modicum of help, the fact that user's are constantly attached, accounts breached, passwords revealed, and data unknowingly shared, tells us that this still needs to be improved.
+
+ain leave the user without the tools needed to protect themselves.
+
+* if this terrifies you then we have common interests and we should focus on how we can protect ourselves while sharing this knowledge with others in a 
+
+attach vectors that normal users face, and how they can address these threats using open source tools, methods, and concepts to protect their privacy and security online
 
 
-Alfred Glover @AlfredKGlover
-cybersecurity is one of the global challenges nobody can seem to get a handle on. gotta protect yourself
-
-
-
-online privacy and security
-
-
-from fake news spread by online troll farms to...
-
-Edward Snowden revealed Five Eyes ()
-to
-the "Great Firewall" of China...
-
-we know that goverments are not only interested in spying on their own citizens, but they are actively doing it, and saving that data for uses in the future.
-
-if this terrifies you then we have common interests and we should focus on how we can protect ourselves while sharing this knowledge with others in a 
-
-this talk will give users the tools, concepts, and abilities to protect their privacy and security online
-
-
-
-
+* But don't panic! If you've ever been online this talk is for you. Come prepared to learn about some of the latest threats to your online privacy and security, along with step by step instructions on tools and methods you can use today to project yourself from tomorrow's threats.
 
 -------------------------------------------------------
 
 ## Speaker Bio(s):
 
-Phil Cryer is a hacker, open source technologist at-large, writer, and occasional speaker. He has spoken worldwide at infosec conferences like DEF CON, DerbyCon, BsidesLV, SecureWorld and SEMAFOR (ISACA Warsaw Chapter). Other talks covered using open source software in the global biodiversity realm to facilitate open data exchange over the internet. As an active member of the EFF (Electronic Frontier Foundation), he leads and moderates discussions about electronic rights and civil liberties while educating users how their data is used by companies without their knowledge. With over fifteen years of industry experience, his research has focused on companies' weaknesses in protecting customer’s data, and their failures in keeping that data private. He knows there’s always another way to do it, so he is constantly learning new techniques to solve technical challenges, usually by hacking on his home network, then sharing what he finds online. His long running blog (fak3r.com) has always served as a sharing hub where he writes technical HOWTOs, while allowing the public's feedback to formulate ideals using an iteritive development process. His talks are archived on Slideshare, and all code or scripts he writes are available as open source on Github. He listens to music constantly, holds a bachelor’s degree in fine arts, and is a practicing troublemaker and an accidental tourist.
+Phil Cryer is a hacker, open source technologist at-large, writer, and occasional speaker. He has spoken worldwide at infosec conferences like DEF CON, DerbyCon, BsidesLV, SecureWorld and SEMAFOR (ISACA Warsaw Chapter), as well as talks about utilizing open source software in the global biodiversity realm to facilitate open data exchange over the internet. As an active member of the EFF (Electronic Frontier Foundation), he leads and moderates discussions about electronic rights and civil liberties while educating users how their data is used by companies without their knowledge. With over fifteen years of industry experience, his research has focused on companies' weaknesses in protecting customer’s data, and their failures in keeping that data private. He knows there’s always another way to do it, so he is constantly learning new techniques to solve technical challenges, usually by hacking on his home network, then sharing what he finds online. His long running blog (fak3r.com) has always served as a sharing hub where he writes technical HOWTOs, while allowing the public's feedback to formulate ideals using an iteritive development process. His talks are archived on Slideshare, and all code or scripts he writes are available as open source on Github. He listens to music constantly, holds a bachelor’s degree in fine arts, and is a practicing troublemaker and an accidental tourist.
 
 ## Detailed Outline:
 
