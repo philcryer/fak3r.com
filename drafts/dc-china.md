@@ -5,7 +5,9 @@
 * Primary Speaker Name or Pseudonym*: Phil Cryer (fak3r)
 * Primary Speaker Title and Company (if applicable): N/A
 * Additional Speaker name(s)* and titles: N/A
-* Has the speaker(s) spoken at a previous DEF CON? Yes   If Yes what years? 2011 (DEF CON 19)   Under a pseudonym? No
+* Has the speaker(s) spoken at a previous DEF CON? Yes   
+If Yes what years? 2011 (DEF CON 19)
+Under a pseudonym? No
 * Primary Speaker Email Address: phil@philcryer.com
 * Backup Email, in case of communication failure: fak3r@fak3r.com
 * Primary Speaker Phone Number: +1-314-600-8170
@@ -21,13 +23,16 @@
 
 * Presentation Title: Online Privacy and Security in the Year of the Dog ( 在线隐私和安全在狗的年)
 * Is there a demonstration? No
-* Is there audience participation? No    If yes, how? N/A
-* Are you releasing a new tool? No    If yes, under which license? N/A
+* Is there audience participation? No    
+If yes, how? N/A
+* Are you releasing a new tool? No    
+If yes, under which license? N/A
 * Are you releasing a new exploit? No
 * Are there any contingencies that might prevent releasing the exploit (e.g. vendor relationships)? No
 * If you are releasing vulnerabilities, clearly break them down and abstract as a vulnerability database would. Include the vendor(s), product(s), and version(s) affected.
 * Length of presentation? 20 minutes (optionally, 45 minutes) 
-* Are you currently submitting this topic to any other conferences held prior to DEF CON CHINA [Beta]? No    If yes, please list where. N/A
+* Are you currently submitting this topic to any other conferences held prior to DEF CON CHINA [Beta]? No    
+If yes, please list where. N/A
 * DEF CON will cover the hotel accommodations for all foreign speakers, but airfare will vary and depend on budget/availability. Is your ability or willingness to speak predicated on your airfare being covered or supplemented by DEF CON? No
 
 ## Abstract:
