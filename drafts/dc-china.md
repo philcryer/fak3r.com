@@ -21,7 +21,7 @@ Under a pseudonym? No
 
 * Date of Submission: March 15, 2018
 
-* Presentation Title: Online Privacy and Security in the Year of the Dog ( 在线隐私和安全在狗的年)
+* Presentation Title: Online Privacy and Security in the Year of the Dog (在线隐私和安全在狗的年)
 * Is there a demonstration? No
 * Is there audience participation? No    
 If yes, how? N/A
@@ -37,56 +37,11 @@ If yes, please list where. N/A
 
 ## Abstract:
 
--------------------------------------------------------
-
-Your abstract will be used for the website and printed materials. Summarize what your presentation will cover.  Attendees will read this to get an idea of what they should know before your presentation, and what they will learn after. Use this to inform about how technical your talk is, what tools will be used, what materials to read in advance to get the most out of your presentation.  This abstract is the primary way people will be drawn to your session, but should not give them the entire content of the talk. We request you keep your abstract well over 140 characters, but at or under the 1337 maximum.
-
--------------------------------------------------------
-
-User's online privacy and security has always relied on an implicit trust in a system that we know was not designed to be trustworthy.
-
-With companies putting profit before user security, breached accounts, leaked passwords, and personal data being exposed is all too common.
-
-Meanwhile, revelations from Edward Snowden have shown that governments are taking advantage of the lack of security online in secret; using 0days to spy on users, or infiltrating foreign utilities for nefarious purposes, while others operate in the open; limiting freedom by censoring their citizens' from accessing the open internet.
-
-In this talk we'll cover attach vectors that we all face online, along with ways to address these threats using open source tools, methods, and concepts to protect our privacy and security online.
-
-So don't panic, if you've ever been online this talk is for you, come prepared to take away step by step instructions on tools and methods to use to improve your privacy and security online.
-
-
-
-
-
-to learn about ways you can make yourself more secure and protect your privacy online.
-
-
-ways to improve your 
-
-
-
-some of the latest threats to your online privacy and security, along with 
-
-
-
-
---
- There are lots of tools out there that can help, and most are free and open source
-ain leave the user without the tools needed to protect themselves.
-* if this terrifies you then we have common interests and we should focus on how we can protect ourselves while sharing this knowledge with others in a 
-* while some of these improvements provide a modicum of help, the fact that user's are constantly attached, accounts breached, passwords revealed, and data unknowingly shared, tells us that this still needs to be improved.
-* from fake news spread by online troll farms to
-
-are not only interested in spying on their own citizens, but they are actively doing it, and saving that data for unknown future uses.
-Besides corporate overreach in pursuit of profit, over the past few years we've learned far more about In effect governments are limiting their citizens 
-
- revealing the global information sharing of Five Eyes to the "Great Firewall" of China
-
-The bolting on of security has been slow, and 
--------------------------------------------------------
+Users' online privacy and security has always relied on an implicit trust in a system that we know was not designed to be trustworthy. With companies putting profit before user security, breached accounts, leaked passwords, and exposed personal data are all too common. Meanwhile, revelations from Edward Snowden have shown that governments are taking advantage of the lack of security online in secret, using 0days (zero days) to spy on users or infiltrating foreign utilities for nefarious purposes. Others operate in the open, limiting freedom by censoring citizens from accessing the open internet. In this talk we'll cover attack vectors we all face online, along with ways to address these threats using open source tools, methods, and concepts to protect our privacy and security. So don't panic...if you've ever been online this talk is for you. Come prepared to take away step-by-step instructions on tools and methods to use to improve your privacy and security online.
 
 ## Speaker Bio(s):
 
-Phil Cryer is a hacker, open source technologist at-large, writer, and occasional speaker. He has spoken worldwide at infosec conferences like DEF CON, DerbyCon, BsidesLV, SecureWorld and SEMAFOR (ISACA Warsaw Chapter), as well as talks about utilizing open source software in the global biodiversity realm to facilitate open data exchange over the internet. As an active member of the EFF (Electronic Frontier Foundation), he leads and moderates discussions about electronic rights and civil liberties while educating users how their data is used by companies without their knowledge. With over fifteen years of industry experience, his research has focused on companies' weaknesses in protecting customer’s data, and their failures in keeping that data private. He knows there’s always another way to do it, so he is constantly learning new techniques to solve technical challenges, usually by hacking on his home network, then sharing what he finds online. His long running blog (fak3r.com) has always served as a sharing hub where he writes technical HOWTOs, while allowing the public's feedback to formulate ideals using an iteritive development process. His talks are archived on Slideshare, and all code or scripts he writes are available as open source on Github. He listens to music constantly, holds a bachelor’s degree in fine arts, and is a practicing troublemaker and an accidental tourist.
+Phil Cryer is a hacker, open source technologist at-large, writer, and occasional speaker. He has spoken worldwide at infosec conferences like DEF CON, DerbyCon, BsidesLV, SecureWorld and SEMAFOR (Warsaw Chapter), as well as talks about utilizing open source software in the global biodiversity realm to facilitate open data exchange over the internet. As an active member of the EFF (Electronic Frontier Foundation), he leads and moderates discussions about electronic rights and civil liberties while educating users how their data is used by companies without their knowledge. With over fifteen years of industry experience, his research has focused on companies' weaknesses in protecting customer data, and failures in keeping that data private. He knows there’s always another way to do it, so he is constantly learning new techniques to solve technical challenges, usually by hacking on his home network and sharing what he finds online. His long running blog (fak3r.com) has always served as a sharing hub where he writes technical how tos, while allowing the public's feedback to formulate ideals using an iterative development process. His talks are archived on Slideshare, and all code or scripts he writes are available as open source on Github. He listens to music constantly, holds a bachelor’s degree in fine arts, is a practicing troublemaker, and an accidental tourist.
 
 ## Detailed Outline:
 
@@ -125,7 +80,6 @@ Phil Cryer is a hacker, open source technologist at-large, writer, and occasiona
 * General concepts
 - almost all examples and concepts will work REGARDlESS of operating system (stay agnostic)
 - but when taking things into consideration, do the best you can, ala: windows < macOS < Linux < *BSD
-
 * how much will all this cost?
 - all of these client-side tools are open source, and/or, free
 - all server-side tools are free, but some *may* require local, or remote hardware for enhanced privacy, these introduce some, but low, cost (approximately 5 USD or 31 CNY per month)
