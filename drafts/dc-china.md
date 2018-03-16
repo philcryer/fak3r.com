@@ -13,7 +13,7 @@ Under a pseudonym? No
 * Primary Speaker Phone Number: +1-314-600-8170
 * Co-Speaker (s) Email Addresses: N/A
 * Co-Speaker Phone Number(s): N/A
-* DEF CON promotes you as a speaker in several ways. We build a Twitter list of all accepted speakers, we tweet about you, share your posts, etc. We include your social media information on the web site within your bio, so people can contact or “follow” you. Please list all the links that you'd like us to share. (Twitter, Facebook, website, WeChat, etc): @fak3r (twitter), keybase.io/fak3r (keybase, chat), https://fak3r.com (website, blog), https://philcryer.com (website, personal)
+* DEF CON promotes you as a speaker in several ways. We build a Twitter list of all accepted speakers, we tweet about you, share your posts, etc. We include your social media information on the web site within your bio, so people can contact or “follow” you. Please list all the links that you'd like us to share. (Twitter, Facebook, website, WeChat, etc): @fak3r (twitter), keybase.io/fak3r (keybase, chat), fak3r.com (website, blog), philcryer.com (website, personal)
 * ANONYMOUS SUBMISSION I would like my submission sent in *anonymously to the review board. The human CFP processor will manually remove the presenter information and bio(s) for the listed presenter(s): No
 * I have removed PII from any attached slides, white papers, or materials; I acknowledge I’m responsible for the metadata in my content.
 
