@@ -1,6 +1,6 @@
 ---
-title: "HOWTO: log the user's IP, not the proxy's, in nginx access log"
-slug: "howto-log-the-user%e2%80%99s-ip-not-the-proxy%e2%80%99s-in-nginx-access-log"
+title: "HOWTO log the user IP, not the proxy in nginx access log"
+slug: "howto-log-the-user-ip-not-the-proxy-in-nginx-access-log"
 date: "2008-12-18T12:55:27-06:00" author: "fak3r"
 categories:
 - geek
