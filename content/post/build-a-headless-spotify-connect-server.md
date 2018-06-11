@@ -64,7 +64,7 @@ Once you find it, ssh to the host as user `pi` and use password `raspberrypi`
 
 After first boot, login and update the software
 ```
-apt update; sudo apt upgrade
+sudo apt update; sudo apt upgrade
 ```
  
 Remove default user, add your own user that will use sudo for administration, and have access to the audio hardware. When I create my user I'll use `fak3r`, you can use whatever you want, just substitute as you go.
