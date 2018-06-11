@@ -201,6 +201,6 @@ And yes, the name is from the best ever Australian band, [You Am I](http://youam
 
 # Conclusion
 
-That was fun, now we have a lightweight, stable Spotify Connect system that we control, and pretty much understand! Future ideas to make this system better will be to make it automount a 'Music' share I have on another server, and then maybe run the [Music Player Daemon (MPD)](https://www.musicpd.org/), which can play music files in a similar way we have Raspotiy doing it, but controlled by MPD compatile clients. That way we can get `flac` files playing, which will be the ultimate fideltiy! Until of course we want to upgrade hardware... but that's a constant! 
+That was fun, now we have a lightweight, stable Spotify Connect system that we control, and pretty much understand! Future ideas to make this system better will be to make it automount a 'Music' share I have on another server, and then maybe run the [Music Player Daemon (MPD)](https://www.musicpd.org/), which can play music files in a similar way we have Raspotiy doing it, but controlled by MPD compatible clients. That way we can get `flac` files playing, which will be the ultimate in hi-fidelity! Until of course we want to upgrade hardware... but that's a constant! 
 
 Keep on rockin', thanks for reading to the end. Applesause.
