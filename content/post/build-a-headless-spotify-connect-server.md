@@ -10,7 +10,7 @@ Categories = ["howto", "hacking", "music"]
 
 # Overview
 
-I've run various projects on [Raspberry Pi](https://www.raspberrypi.org/) computers since they came out, but the one I've used the most has been the one I bought and external DAC (digital audio converter), that I hooked up to a stereo so I could remotely stream music. Technically you could use a Y-cord plugged into the headphone out of the Pi, and have it connect via RCA to your stereo, but then you're using the on board audio, which is far inferior to a dedicated DAC. While I liked frontends like [Pi Musicbox](http://www.pimusicbox.com/), and the polished looking [Volumio](https://volumio.org/), I'd end up with random issues that would take me longer to fix than I'd like, so finally I decided to rebuild my setup from scratch, and just make it a [Spotify Connect](https://support.spotify.com/us/listen_everywhere/on_other_devices/spotify-connect/) server. This means that the system can be a 'source' for any Spotify client to stream audio to. Note that to use Spotify Connect you have to be a subscriber, which is $5 USD a month, or the family plan that I have is $15 USD, which for me is a bargain, since I listen to music constantly, and my kids have inherited the same habit. If you're not a subscriber I encourage you to checkout the other projects I listed, they offer a lot, like pulling streams in from [SomaFM](https://somafm.com/), playing internet radio, and a ton of other things. Also, props to Volumio for having a gorgeous UI and a simple, all web-ui, driven way for configuration and plugin installation. It's a slick project, but again, with me only using it for Spotify Connect, it was more than I needed... and frustrating to debug when it would disappear from Spotify.
+I've run various projects on [Raspberry Pi](https://www.raspberrypi.org/) computers since they came out, but the one I've used the most has been the one I bought an external DAC (digital audio converter) for, and hooked it up to a stereo so I could remotely stream music. Technically you could use a Y-cord (3.5mm Mini to RCA Stereo) plugged into the headphone out of the Pi, and have it connect via RCA to your stereo, but then you're using the on board audio, which is far inferior to a dedicated DAC. While I liked frontends like [Pi Musicbox](http://www.pimusicbox.com/), [Rune Audio](http://www.runeaudio.com/), and the polished looking [Volumio](https://volumio.org/), they did far more than I needed, and over time I'd have random issues that would take me longer to fix than I'd like, so I decided to rebuild my setup from scratch, and just make it a [Spotify Connect](https://support.spotify.com/us/listen_everywhere/on_other_devices/spotify-connect/) server. This means that the system can be a 'source' for any Spotify client to stream audio to, cutting out the need for a web-based front end like the other projects.
 
 <!--more-->
 
@@ -30,7 +30,7 @@ My current setup consists of:
 * [CAT6 Gigabit Ethernet Cable](http://www.microcenter.com/product/431178/CAT6_Gigabit_Ethernet_Cable_for_Raspberry_Pi), about $6 USD
 * [Blue Jeans Cable LC-1 Low Capacitance Audio Cable (RCA)](https://www.bluejeanscable.com/store/audio/index.htm), which is priced by length, so for a 2 foot pair with Techflex it's about $35 USD.
 
-So I've had this setup for years, if I were to do it again today I'd consider a few things before I stated: 
+So I've had this setup for years, if I were to do it again today I'd take a fresh look and review a few things before I stated: 
 
 * [The Raspberry Pi 3 Model B+](https://www.raspberrypi.org/products/raspberry-pi-3-model-b-plus/), this is the latest Rasberry Pi, and it's the same price as the old one but it's faster, has more RAM, updated components, there's really no reason not to get it.
 * [HiFiBerry DAC pro XLR](https://www.hifiberry.com/shop/boards/hifiberry-dac-pro-xlr/), currently about $60 USD. This is a bit of an edge case, this board uses XLR connections instead of RCA, which is more of what the pros use, but it's not common with most stereo equipment, so you'd know if this was an option for you. 
@@ -146,7 +146,7 @@ Now it will be up and running, and viewable from any Spotify client on your loca
 
 ![raspotify](/2018/spotify-connect.png)
 
-Lastly I setup the configuration so it has a more interesting name, and I set it to stream a higher bitrate, but I think the client already handles this... regardless, a quick edit:
+Lastly I setup the configuration so it has a more interesting name, and I set it to stream a higher bitrate (which I believe you need to be a Spotify subscriber to get, worth it to me to get *almost* lossless audio), but I think the client already handles this... regardless, a quick edit:
 
 ```
 # /etc/default/raspotify -- Arguments/configuration for librespot
