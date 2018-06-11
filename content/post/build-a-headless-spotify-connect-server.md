@@ -197,7 +197,7 @@ Since I'm not running much on this server it boots very quickly, much quicker th
 
 ![hifi-way](/2018/spotify-connect-2.png)
 
-And yes, the name is from the best ever Australian band, [You Am I](http://youami.com.au/) 1995 release, [Hi-Fi Way](https://en.wikipedia.org/wiki/Hi_Fi_Way), "How good is Rusty tonight?"
+And yes, the name is from the best ever Australian band, [You Am I](http://youami.com.au/) 1995 release, [Hi-Fi Way](https://en.wikipedia.org/wiki/Hi_Fi_Way), "How fucking good is Rusty tonight?"
 
 # Conclusion
 
