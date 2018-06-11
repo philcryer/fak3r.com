@@ -22,6 +22,9 @@ My current setup consists of:
 
 * [The Raspberry Pi 2 Model B](https://www.raspberrypi.org/products/raspberry-pi-2-model-b/), currently about $30 USD 
 * [HiFiBerry DAC+ Pro](https://www.hifiberry.com/shop/boards/hifiberry-dac-pro/), currently about $40 USD
+
+![HiFi Berry DAC+ PRO](/2018/dac_pro.jpg)
+
 * [Acrylic case for DAC+ (RCA)](https://www.hifiberry.com/shop/cases/hifiberry-case-for-dac-rca-and-digi-black/), currently about $12 USD
 * [SanDisk Ultra 32GB microSDHC](https://www.amazon.com/SanDisk-microSDHC-Standard-Packaging-SDSQUNC-032G-GN6MA/dp/B010Q57T02), currently about $12 USD
 * [CAT6 Gigabit Ethernet Cable](http://www.microcenter.com/product/431178/CAT6_Gigabit_Ethernet_Cable_for_Raspberry_Pi), about $6 USD
@@ -141,7 +144,7 @@ Raspotify works out of the box and should be discoverable by Spotify Connect on 
 
 Now it will be up and running, and viewable from any Spotify client on your local subnet. Take a look in Spotify, see if you see it in the bottom right hand side under 'Devices Available'
 
-![raspotify](/static/2018/spotify-connect.png)
+![raspotify](/2018/spotify-connect.png)
 
 Lastly I setup the configuration so it has a more interesting name, and I set it to stream a higher bitrate, but I think the client already handles this... regardless, a quick edit:
 
@@ -192,7 +195,7 @@ reboot
 
 Since I'm not running much on this server it boots very quickly, much quicker than it used to with the frontends it was using. In Spotify it looks like this:
 
-![hifi-way](/static/2018/spotify-connect-2.png)
+![hifi-way](/2018/spotify-connect-2.png)
 
 And yes, the name is from the best ever Australian band, [You Am I](http://youami.com.au/) 1995 release, [Hi-Fi Way](https://en.wikipedia.org/wiki/Hi_Fi_Way), "How good is Rusty tonight?"
 
