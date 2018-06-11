@@ -12,6 +12,8 @@ Categories = ["howto", "hacking", "music"]
 
 I've run various projects on [Raspberry Pi](https://www.raspberrypi.org/) computers since they came out, but the one I've used the most has been the one I bought an external DAC (digital audio converter) for, and hooked it up to a stereo so I could remotely stream music. Technically you could use a Y-cord (3.5mm Mini to RCA Stereo) plugged into the headphone out of the Pi, and have it connect via RCA to your stereo, but then you're using the on board audio, which is far inferior to a dedicated DAC. While I liked frontends like [Pi Musicbox](http://www.pimusicbox.com/), [Rune Audio](http://www.runeaudio.com/), and the polished looking [Volumio](https://volumio.org/), they did far more than I needed, and over time I'd have random issues that would take me longer to fix than I'd like, so I decided to rebuild my setup from scratch, and just make it a [Spotify Connect](https://support.spotify.com/us/listen_everywhere/on_other_devices/spotify-connect/) server. This means that the system can be a 'source' for any Spotify client to stream audio to, cutting out the need for a web-based front end like the other projects.
 
+![Rapberry Pi w/HiFi Berry DAC+ PRO in case](/2018/finished-product.jpg)
+
 <!--more-->
 
 # Getting started
