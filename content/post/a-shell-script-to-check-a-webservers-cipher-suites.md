@@ -1,7 +1,7 @@
 +++
 title = "A shell script to check a webserver's cipher suites"
 Description = "Quickly display a remote webserver's cipher suites"
-date = 2018-06-25T17:15:31-05:00
+date = 2018-06-25T15:31:19-05:00
 Tags = ["linux", "ssl", "ciphers"]
 Categories = ["howto", "hacking"]
 +++
