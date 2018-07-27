@@ -6,6 +6,8 @@
 * Screaming Females – All At Once
 * Snail Mail – Lush
 
+Swearin' "Fall Into the Sun"
+Surf Dads "Long Weekend"
 
 ### possible
 
