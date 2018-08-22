@@ -48,25 +48,8 @@ This best of list has taken time to compile, all year I guess, and some of falle
 
 Meanwhile she did a solo version of 'Swimmer', the track that kicks off the album, and it gives you a feel for her raw talent. So great, really hope she tours more and makes a St. Louis stop. Wonder if she's playing with Jason Isbell in January?
 
+**Skrillex "More Monsters And Sprites"** this kid can write some songs, it re-awakens my love of electronic music since _Amon Tobin's_ groundbreaking first few releases. That's not to compare the styles; _Skillex's_ dubstep sound will never be seen as old genre, this feels cutting edge, and is **as exciting and rush inducing as a heart attack** (I imagine). My friend Scott commented that some of it sounded like the _Transformers_ movie with the beasts walking down the street, and I see that - it fits. Also, I'm a big fan of tempo changes, and when this on this one changes, hold on!
 
-
-
-
-
-![](http://www.dubstepeden.com/wp-content/uploads/2011/06/Skrillex-More-Monsters-And-Sprites-.jpg)**Skrillex "More Monsters And Sprites"** this kid can write some songs, it re-awakens my love of electronic music since _Amon Tobin's_ groundbreaking first few releases. That's not to compare the styles; _Skillex's_ dubstep sound will never be seen as old genre, this feels cutting edge, and is **as exciting and rush inducing as a heart attack** (I imagine). My friend Scott commented that some of it sounded like the _Transformers_ movie with the beasts walking down the street, and I see that - it fits. Also, I'm a big fan of tempo changes, and when this on this one changes, hold on!
-
-
-
-
-
-
-![](http://ecx.images-amazon.com/images/I/41z%2BD%2BJNtBL._SL500_AA300_.jpg)**Wild Flag "Wild Flag"** yep, I miss _Sleater-Kinney_, and hope they reform sometime in the future, but for now 2/3 of them are doing this, and Carrie just seems **so much more 'out there' and comfortable, it's a joy**. Most of the songs have a much more angluar, sharp feel to them, but the chorus still takes me back to S-K, so it feels new, but instantly familiar at the same time. I was jealous when they were playing live for _SXSW_ this year, I missed out, and they made no St. Louis stop (BOOO!) but they sure looked like they were having fun. This video tells the story better than I do, they look like they're having a blast, and just rawking out.
-
-
-
+**Wild Flag "Wild Flag"** yep, I miss _Sleater-Kinney_, and hope they reform sometime in the future, but for now 2/3 of them are doing this, and Carrie just seems **so much more 'out there' and comfortable, it's a joy**. Most of the songs have a much more angluar, sharp feel to them, but the chorus still takes me back to S-K, so it feels new, but instantly familiar at the same time. I was jealous when they were playing live for _SXSW_ this year, I missed out, and they made no St. Louis stop (BOOO!) but they sure looked like they were having fun. This video tells the story better than I do, they look like they're having a blast, and just rawking out.
 
 So what do you think? What did I miss that you couldn't live without this year? Also, at this time I'd like to again shamelessly plug my favorite local record shop, [Euclid Records](http://www.euclidrecords.com/) in St. Louis, which is just a 5 minute walk from my house (coincidence? :)) Thanks to Joe and crew for being there, offering a sanctuary for us music freaks, and the perfect place for the annual [Record Store Day](http://www.recordstoreday.com/) holiday!
-
-
-
-
