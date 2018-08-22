@@ -21,7 +21,7 @@ tags:
 - text
 ---
 
-[caption id="attachment_2775" align="alignright" width="210" caption="Ah, does it get any better than this?"][![](http://fak3r.com/files/2011/01/debian_arm_qemu_console-300x225.png)](http://fak3r.com/2011/01/31/howto-reclaim-your-linux-bootup-messages/debian_arm_qemu_console/)[/caption]
+
 
 You know the drill, you bootup a [Linux](http://www.debian.org/) box and **watch the boot messages scroll by** on the screen, now prepended with lines telling you the seconds since boot, and then you end up at a shell prompt for login. Ahh, **the way Linus intended, epic!** Oh, you don't see that? Instead you see some animated Linux distro logo or something as useless like a progress bar tracing across the screen? Uggh, I hate that, you don't know what's really going on behind the scenes, and **if Linux is anything, it's transparent**. So, let's get that fixed for you. Basically as Linux as 'matured', we've been forced to load and watch more animated boot 'splash' screens for branding, and to make Linux more user-friendly, or more likely, more Windows or Mac-like. This way new users won't run for the hills if they see something like:
 
@@ -193,6 +193,6 @@ Now you should quit and save and then issue the command 'reboot', or **if you w
 
 Ah, that's better :) Now after your machine comes on, the Grub menu will show up for a second, then you'll be dropped to the almighty text mode that you know you wanted all the time, so you can **see everything Linux is doing while it loads **and gets ready for work, just as it is supposed to be! Also, I once saw a scene similar to this when I was boarding a [Qantas](http://www.qantas.com.au/) flight in Australia when the onboard entertainment center was booting up, and it looked liked this, but aisle after aisle of it!
 
-[caption id="attachment_2778" align="aligncenter" width="300" caption="This is your captain speaking, enjoy your flight, and Linux!"][![](http://fak3r.com/files/2011/01/3412037083_729a1fb6a9_o-300x221.jpg)](http://fak3r.com/2011/01/31/howto-reclaim-your-linux-bootup-messages/3412037083_729a1fb6a9_o/)[/caption]
+
 
 So, what do you think, is it silly for me to wax nostalgic about such a low level thing as boot messages? Should I not worry that people learning Linux now might miss out on learning exactly what is happening? Do you have even more settings to get lower down? Great, spout off about them in the comments, but if I get criticized too much I'll break out some, "**When I was a kid, we didn't have a mouse**, keyboards were the only way to get work done, and don't get me started on those file managers..." and so on. ;)

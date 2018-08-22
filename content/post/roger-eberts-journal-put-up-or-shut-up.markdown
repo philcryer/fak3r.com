@@ -11,7 +11,7 @@ categories:
 - religion
 ---
 
-[caption id="attachment_2326" align="alignright" width="157" caption="Roger Ebert"][[/caption]
+
 
 Every now and then I read something that makes so much sense, it almost seems silly that it has to be said; but this does. Leave it to the brilliant mind of [Roger Ebert](http://blogs.suntimes.com/ebert/2010/09/put_up_or_shut_up.html) to make sense of the whole religious ferver that has been building up from Limbaugh, Beck, Palin and others keeping Republicans misinformed by spouting out fear based talk of Muslims with cries of Islamic law, religious wars and other crazy talk. Look, while I expect this from news salesmen like them, when people that I know and  used to admire use religion to promote bigotry of others because they are of another religion, all bets are off. While you'll hear other things on the news, our country was founded on the freedom of religion, which [Wikipedia cites as](http://en.wikipedia.org/wiki/Freedom_of_religion), "..._a principle that supports the freedom of an individual or community, in public or private, to manifest religion or belief in teaching, practice, worship, and observance; the concept is generally recognized also to include the freedom to change religion or not to follow any religion. The freedom to leave or discontinue membership in a religion or religious group —in religious terms called "apostasy" —is also a fundamental part of religious freedom._" When I spoke candidly with Europeans last week in London about this they shared my concern and bewilderment about the ever growing pollariztion of the religious camps on this issue, so it's not just us that are confused. I really appreciate Matt from [Obtuse View](http://obtuseview.com/2010/09/01/and-the-calculating-and-inaccurate-shall-inheret-the-world/#comment-456) for reposting this today, and I think it's something everyone should repost so at least a voice of reason can be heard over the din of commercial "news". Thanks Roger!<!-- more -->
 
@@ -78,6 +78,6 @@ _[ 11:39 p.m. 9/1/1010: Many readers have made the same point: What if Obama wer
 
 
 
-[caption id="attachment_2326" align="aligncenter" caption="Thumbs up from Roger"][![Thumbs up from Roger](http://fak3r.com/2010/09/roger-ebert-thumbs-up-2.jpg)](http://fak3r.com/2010/09/roger-ebert-thumbs-up-2.jpg)[/caption]
+
 
   *[[September 1, 2010 6:11 AM](http://blogs.suntimes.com/ebert/2010/09/put_up_or_shut_up.html)]: 2010-09-01T06:11:54-06:00

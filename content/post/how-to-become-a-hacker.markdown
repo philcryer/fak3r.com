@@ -17,7 +17,7 @@ tags:
 - unix
 ---
 
-[caption id="attachment_1098" align="alignright" width="140" caption="The Glider: A Universal Hacker Emblem "][[/caption]
+
 
 There has long been a movement in the geek community to expunge the negative thoughts attached to the word hacker, the image to the right [The Glider](http://www.catb.org/hacker-emblem/), being one of the latest and most visible.  In the beginning there were hackers (people who worked on computers, programmed and made things work) and crackers (people who would use computers for nefarious purposes, crimes, viruses, etc), these were two distinct camps, with some miscreants jumping the fence back and forth to confuse the issue.  Regardless, somewhere along the way popular culture (movies, news, your teachers probably) began to equate hacking as being the bad, crime ridden activity that cracker was supposed to cover.  I think it's a moot point now, as even my Dad was shocked when he learned my annual [DefCon](defcon.org) trip is billed as "largest hacking conference in the world".  I gave him the above explanation, but I'm unsure if he really believes it.  Regardless, the original "[How to become a hacker](http://www.catb.org/~esr/faqs/hacker-howto.html)" paper written by [Eric S Raymond](http://www.catb.org/esr/) is always cited as the quintessential word on the use of the word hacker.  I found it mirrored online, and it's a worthwhile read if you have any interest in the topic, or want to cement your own views of your hobby.  For now, if you don't want to read the entire verbiage, here's the intro to learn and take with you.<!-- more -->
 

@@ -7,7 +7,7 @@ categories:
 - blah
 ---
 
-[caption id="" align="alignright" width="237" caption="Tie goes to the runner, tie one on, fit to be tied, what other bad puns can I think up?"][/caption]
+
 
 I've had a ton of jobs, some would say this is a liability, but if questioned I have perfectly good reasons why I stayed at x company 3 years, and y company 5 months. For backup my references have no problem singing my praises and sighting my work ethic and humor as positive components that I bring to the scene.   My feeling about work is defined by a saying a former co-worker once shared with me, it's simple: **"What's the worst they can do, fire you?**"  Think about it, it's only a job, you owe it to yourself to do good work, but if it's not making you happy it's time to start looking. If you're ever been fired or laid off like me, you may have a better perspective on this; it happens, it's no big, people move on. This is reason why I (and you) have to keep networking with other worker (droids) and recruiters/consultants EVEN WHEN YOU'RE NOT LOOKING.
 

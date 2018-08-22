@@ -19,7 +19,7 @@ tags:
 - Scott McNealy
 ---
 
-[caption id="attachment_1432" align="alignright" width="150" caption="Obama, keeping it real, as promised!"][/caption]
+
 
 **UPDATE**: the memo is [already posted on the whitehouse.gov site](http://www.whitehouse.gov/the_press_office/ExecutiveOrderPresidentialRecords/) for anyone to review!  How refreshing!
 

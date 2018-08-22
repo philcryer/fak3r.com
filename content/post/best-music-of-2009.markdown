@@ -47,7 +47,7 @@ tags:
 - young team
 ---
 
-[caption id="attachment_2036" align="alignright" width="300" caption="live photo of Part Chimp courtesy of Last.FM "][[/caption]
+
 
 Well 2009 was another stellar year for music if you ask me, and as usual, my yearly 'top' list is going on a month late.  I always have these grand designs of writting a short paragragh about each selection, why I picked it, how I first heard it, etc, but you know how that goes.  I will say that this year, while I've gotten into many bands the way I have in years past (trolling record stores, randomly listening to anything I can find online), I've also found things I wouldn't have found thanks to [my Twitter account](http://twitter.com/fak3r).  While those who don't get  Twitter think it's just folks updating what they had for breakfast, if you stick around, dig deeper and find the right people to follow, it's amazing wealth of information.  Not requiring the effort of say a blog post allows rapid, unvarnished opinions, spouted out between people's day to day tasks, which I always prefer since I feel I'm more lucid after a few cups of coffee while something is blaring in my ears.  New this year is the reissues section, what with things like _OK Computer_ and _Young Team_ being reissued, I can't help but highlight them.
 

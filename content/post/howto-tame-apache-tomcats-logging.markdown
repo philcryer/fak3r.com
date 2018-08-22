@@ -17,7 +17,7 @@ tags:
 - tomcat
 ---
 
-[caption id="attachment_3248" align="alignright" width="240" caption="Apache Tomcat"][[/caption]
+
 
 If you're like me, you've had to support [Apache Tomcat](https://tomcat.apache.org/) for a good chunk of your IT career, and it hasn't all been wine and roses. Typically Tomcat will work great in a development, or in a proof of concept environment, but when it comes time to put it in production and have it face some real traffic, well, you get complaints. Now, why do I have a picture of Tomcat on a messenger bag here? It's because I would like to put Tomcat in a bag...**and throw it in a river!** But, since I haven't done that (yet), I'll talk about recently when I had some tomcat servers pumping out hundred of MGs of logfiles that weren't being rotated quickly enough, filling up the log partition and causing alerts to go off. Now [logrotate](https://iain.cx/src/logrotate/) is supposed to handle things, and while it's defaults will generally work fine, any persistant error from tomcat will make the logs quickly eat up all your space and cause you grief, so it's best to set it up to handle them ahead of time. First take a look at:
 

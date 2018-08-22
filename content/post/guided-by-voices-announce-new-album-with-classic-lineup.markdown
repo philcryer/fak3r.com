@@ -14,11 +14,11 @@ tags:
 - rock
 ---
 
-[caption id="attachment_3267" align="aligncenter" width="608" caption="Bob Pollard of Guided by Voices (Photo by Jasper Bernbaum)"][[/caption]
+
 
 Since 1993, [Guided by Voices](http://gbv.com/) has been one of my all time favorite bands, having seen them countless times, and hanging out having beers with Bob and the band a few times, they're unlink any other. The band's recorded output from 1992-1996 was amazing, but their live shows from the period were magical; it was just a perfect band. But after running through many other iterations of GbV, Bob Pollard (the heart of GbV) pulled the plug on the band in 2004. Fast forward to last year, Bob got the 'classic' lineup back together for a handful of shows, which turned into a 1 year victory lap around the country.<!-- more --> I saw one of the early gigs in Austin, and they did not disappoint; the magic was still there. Now the band has recorded a new album! [Mojo](http://www.mojo4music.com/blog/2011/09/guided_by_voices_classic_line.html  ) broke the news with, "_Last year, Robert Pollard reunited the mid-’90s “classic” lineup of Guided By Voices and played a whole bunch of beer-drenched marathon shows with them. There was talk that the band’s recent set at North Carolina’s Hopscotch Festival would be their final reunion show, but this reunion ain’t done yet. The lineup of Pollard, Tobin Sprout, Greg Demos, Mitch Mitchell, and Kevin Fennell have recorded a brand new album called Let’s Go Eat The Factory, their first since 1996′s Under The Bushes, Under The Stars, and they’re going to release it on New Years Day." _If this wasn't good enough, GbV's manager [Rich Turiel](https://twitter.com/#!/richturiel) chimed in on Twitter with some details on the release;  [1.](https://twitter.com/#!/richturiel/status/116555008249565184) New GBV lp is self produced & recorded at Toby's home studio and Mitch & Greg's houses  [2.](https://twitter.com/#!/richturiel/status/116560809244635136 ) Toby has lead vocals on 6 tracks. 5 written by him the other Tobe/Mitch/Jimmy/Bob  [3.](https://twitter.com/#!/richturiel/status/116555674028220416  ) New GBV lp facts; shortest song is :34 longest is 4:01  [4.](https://twitter.com/#!/richturiel/status/116866149202919424) So you know the new GBV album isn't a 1 off, there are already plans to record the next album.
 
-[caption id="attachment_3294" align="aligncenter" width="650" caption="Guided By Voices at Maxwells, Hoboken, NJ 2010 (clean-cut.org)"][[/caption]
+
 
 Here's the modest (by GbV standards at any rate) 21-strong track list:
 
@@ -48,7 +48,7 @@ TRACKLIST:
 
 Let's Go Eat The Factory will be released on January 1, 2012.
 
-[caption id="attachment_3295" align="aligncenter" width="650" caption="Guided By Voices at Maxwells, Hoboken, NJ 2010 (clean-cut.org)"][[/caption]
+
 
 Aww yea Bob, THE CLUB IS OPEN! AGAIN!
 

@@ -26,7 +26,7 @@ tags:
 - vice president
 ---
 
-[caption id="attachment_1001" align="aligncenter" width="344" caption="McCain and Dubya eating cake while Katrina kills"][[/caption]
+
 
 This shows what I hate about the conservative "right" - blatant hypocrisy.  As usual, [The Daily Show](http://www.thedailyshow.com/) highlights these ... let's say shifts of opinions, with recent videos that show them playing both sides of the issue, depending on the subject.  If it was a liberal issue, they're all over it, if the EXACT issue comes up with them, it's off limits and we're the "angry left" for bringing it up!  Just watch a few minutes here, you'll see what I mean.
 

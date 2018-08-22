@@ -18,7 +18,7 @@ tags:
 - ssl
 ---
 
-[caption id="attachment_2968" align="alignright" width="100" caption="fetchmail logo"][[/caption]
+
 
 I'm starting a new gig Monday, so I got a new email address for use while I work there. Now of course, I have many, many email addresses, but thanks to [Google Apps](http://www.google.com/apps/intl/en/index.html), I still check them all through a Gmail frontend, and can 'send as' any address I want; which makes it almost seamless to integrate new email accounts. However, today we hit a snag, whereas my last client offered to simply forward my mail to another address, the new one wouldn't with something about auditing as their reason, which I can completely understand, as long as they understand, having to check email via multiple clients just won't scale. That's right Anthony, 'this won't scale'. So, since we're rocking Linux and open source we know we can fix it some way, and that's what I live for, the challenge. Ya, that's right, I was given a stumbling block, I stared it down and proclaimed, "challenge accepted".<!-- more -->[  
 

@@ -7,4 +7,4 @@ categories:
 - blah
 ---
 
-[caption id="attachment_1676" align="aligncenter" width="450" caption="silos of info w/unreliable webapps to present them is bad: future apps MUST be more portable, sharable http://is.gd/1afwc #couchdb"][/caption]
+

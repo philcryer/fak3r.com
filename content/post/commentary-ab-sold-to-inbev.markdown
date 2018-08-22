@@ -26,7 +26,7 @@ tags:
 - wal mart
 ---
 
-[caption id="attachment_1047" align="alignright" width="299" caption="Where there's Life...there's Bud!"][[/caption]
+
 
 **NOTE**: _As a St. Louis native, I was asked to comment on the sale of local St. Louis brewer [Anheuser-Busch](http://www.anheuser-busch.com/) to [European beverage conglomerate InBev](http://www.keyetv.com/business/story.aspx?content_id=2895d9ac-a7c4-4412-829e-6f2722bbd053).  The following are my comments from the thread.
 _

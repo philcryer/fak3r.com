@@ -20,7 +20,7 @@ tags:
 - twitter
 ---
 
-[caption id="attachment_1135" align="alignright" width="128" caption="Tweet, tweet, bomb? "][[/caption]
+
 
 Hmmm...so the Army has claimed that terrorists may be 'tweeting' along to [plan and organize attacks](http://www.instantmessagingplanet.com/security/article.php/3780961).  Well yeah, I guess they could use Gmail, Slashdot comments and other things the same way, it seems their claim is that since this is more 'real time' it could be a danger.  Ok, oh, and they take a swipe at Skype as well.  Additionally they define a new name I would happily accept, _"The report describes hacktivists as politically motivated hackers_".  Hacktvist, that's awesome.  The report goes on with,
 

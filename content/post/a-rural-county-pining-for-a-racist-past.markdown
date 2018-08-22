@@ -19,7 +19,7 @@ tags:
 - white men
 ---
 
-[caption id="attachment_1129" align="alignright" width="175" caption="Ah, good memories"][[/caption]
+
 
 With all the polls it feels like there's been a sea change in how America sees race, or maybe not. Maybe it's W's 22% approval rating skewing the numbers, because there are obvious still some serious [misconceptions and racism playing big in the election](http://www.stltoday.com/stltoday/news/stories.nsf/politics/story/73C5ADD047F20A6F862574EF000CAF3E?OpenDocument).  Interviews in the 'bootheal' region of Missouri (only a few hours South of me here in St. Louis, where Obama drew 100,000 people under the Arch last week) show that indifference, mixed with the old school racism and ignorance, is still alive and well.   My favorite part is:
 

@@ -25,7 +25,7 @@ tags:
 - wal mart
 ---
 
-[caption id="attachment_1201" align="aligncenter" width="500" caption="When does a crowd become a mob?"][[/caption]
+
 
 When I was younger I worked retail, and I remember dreading the holiday season; we'd be completely busy, and customers were never ruder.  I've seen ads poking fun at rabid crowds trying to break down doors before stores open to get the latest deals around the holidays, and it's always some comment about how the store's prices left the customers chomping at the bit to save that 15%.  Of course when parody becomes reality, it's always ugly, and today had to be worst, aptly named, [Black Friday](http://en.wikipedia.org/wiki/Black_Friday_(shopping)) ever.  The reports of people getting violent in an effort to secure a cheap blue-ray dvd player, or flatscreen TV is enough to tell you things have gotten out of hand, but today there's plenty of examples that show that this kind of frenzied shopping needs to end.  I've compiled as many as I can stand just to point out that is a systemic problem, and our consumerism culture has once again gone too far.
 

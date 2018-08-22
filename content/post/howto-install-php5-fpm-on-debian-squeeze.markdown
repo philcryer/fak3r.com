@@ -16,7 +16,7 @@ tags:
 - squeeze
 ---
 
-[caption id="attachment_3298" align="alignright" width="281" caption="PHP5-FPM"][[/caption]
+
 
 Once [PHP](http://www.php.net/) hit version 5.3, it started shipping with [PHP-FPM](http://php-fpm.org/), which is the new way to handle PHP requests when serving web content. Their site describes it as, "_PHP-FPM (FastCGI Process Manager) is an alternative PHP FastCGI implementation with some additional features useful for sites of any size, especially busier sites_", but this is being pretty modest when you consider the [host of improvements](http://php-fpm.org/about/) it brings over the old way of doing things when running PHP with an 'alternate' webserver such as [lighttpd](http://www.lighttpd.net/) or [nginx](http://nginx.net/). So, it sounds like a slam dunk, time to remove all the handwritten fastcgi-php scripts from /etc/init.d, update PHP and go to town, right? Not so fast hot shot, in [Debian](http://debian.org) Squeeze (stable) they don't include PHP-FPM with PHP 5.3 (reasons for this tend to fall in the '[not enough testing](http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=603174)' variety), so we have to look elsewhere for a PHP with this (and other upgrades) enabled. This is exactly what the site and repo [Dotdeb](http://www.dotdeb.org/) is there for, and they have the updated PHP 5.3 that includes the FPM module. So, to get it installed on Debian Squeeze we first have to add the repo line to sources.list
 

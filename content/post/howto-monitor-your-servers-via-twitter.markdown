@@ -21,7 +21,7 @@ tags:
 - twitter
 ---
 
-[caption id="attachment_2228" align="alignright" width="240" caption="Alert: your server has failed!"][[/caption]
+
 
 **UPDATE: **thanks to a reader's comment I looked into what it would take to get this working again since Twitter has completely disabled the old style of authentication in favor of full on OAuth. Basically a lot. To just post messages now it seems far more complex than it once was.My original idea with this was to do it as low tech as possible so users wouldn't have to install a ton of stuff and configure it - I wanted it to 'just work' easily. Now with OAuth it seems this will never work easily, first of all you have to '[register an application](http://dev.twitter.com/apps/new)' for it to have access to OAuth - which seems crazy to me, we don't want it to have access, just the ability to push a message to an account. Then if you look [there are libraries out there that *can* post](//apiwiki.twitter.com/OAuth-Examples), but [look at the directions](http://github.com/abraham/twitteroauth/blob/master/DOCUMENTATION) for one of the libraries, it involves not only building the app and getting temporary access to the twitter API, then you also have to get the two keys from that and bake them into the app by recompiling it, and then more configuration, etc. So **for now I am MARKING THIS IDEA AS DEAD**. If I figure out a new way to do it that I can sketch out I will, or if anyone else has a simple way post it in the comments and I'll update it here. Thanks for your interest and good luck!
 

@@ -8,7 +8,7 @@ categories:
 - parenting
 ---
 
-[caption id="" align="alignright" width="180" caption="But...why not the real thing?"][/caption]
+
 
 I was amused, and then annoyed to learn that there is now a 'kid friendly' cd with Ramones tracks   called [Brats on the Beat:   Ramones for Kids](http://www.aversion.com/news/news_article.cfm?news_id=7443).  Coming out in November on Go-Kart Records, it, "...lets 12 punk and   hard-rock veterans get their Raffi on and recreate classic Ramones songs in a kid-friendly   format."  So the lineup of artists covering them seem cool enough, it will   expose kids to one of the best rock bands ever, which is fantastic, but my beef is, why?  Why water down   something as classic and  series. For   those that haven't seen the commercials, Kidz Bop, "_features newly recorded, kid-sung, and "kid friendly" versions of best-selling hit songs_."  I don't consider myself too much of a fuddy-duddy, but I'd much rather my kids listen to The Ramones singing "I wanna be sedated" or "Beat on the brat with a baseball bat" than some inappropriate Kidz Bop song.  Examples and more commentary after the jump.<!-- more -->
 

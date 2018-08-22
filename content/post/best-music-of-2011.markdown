@@ -134,6 +134,6 @@ Meanwhile she did a solo version of 'Swimmer', the track that kicks off the albu
 
 So what do you think? What did I miss that you couldn't live without this year? Also, at this time I'd like to again shamelessly plug my favorite local record shop, [Euclid Records](http://www.euclidrecords.com/) in St. Louis, which is just a 5 minute walk from my house (coincidence? :)) Thanks to Joe and crew for being there, offering a sanctuary for us music freaks, and the perfect place for the annual [Record Store Day](http://www.recordstoreday.com/) holiday!
 
-[caption id="attachment_3604" align="aligncenter" width="400" caption="Euclid Records, 601 East Lockwood Ave, St. Louis MO 63119"][[/caption]
+
 
 

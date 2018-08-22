@@ -20,7 +20,7 @@ tags:
 
 Wow, I hate to hear about new music this way, but the influential [DJ Mehdi](http://en.wikipedia.org/wiki/DJ_Mehdi) of Paris has died at the tragically young age of 34.
 
-[caption id="attachment_3192" align="aligncenter" width="608" caption="DJ Mehdi"][[/caption]
+
 
 The [quick background on his short life](http://www.residentadvisor.net/news.aspx?id=14847), “_Mehdi Favéris-Essadi was born in 1977 in the suburbs of Paris. He got his start as a hip-hop producer, and found his signature sound by combining the style and attitude of hip-hop with elements of electro and house. Arguably his most important break came in 2006 when he released his album Lucky Boy on Ed Banger Records, the Parisian label that would be his home for the rest of his career. Over the years he collaborated with the likes of Daft Punk, Cassius and Chromeo. His most recent project was a collaboration with Riton called Carte Blanche. DJ Mehdi is survived by his wife, the French model and artist Fafi. Our thoughts are with his friends and family at this time_.”
 

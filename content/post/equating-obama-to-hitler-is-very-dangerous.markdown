@@ -10,7 +10,7 @@ categories:
 - politics
 ---
 
-[caption id="attachment_1711" align="alignright" width="150" caption="Act now to stop...Obama's Nazi Health Plan? WTF!"][[/caption]
+
 
 I came across this image online, and I had to look into it to see if it was real or not.  After I did that I knew I had to bring more people's attention to it.   Look, this is just too much, agree or disagree with our president, but equating him with Hitler destroys any chance of a reasonable conversation of the issue. The URL on the pamphlet is a real website for the LaRouche PAC, so I hit their site, and read many of their beliefs and press releases. Among other things, heir site promotes **bringing swastikas and using SS symbols at anti-Health Care rallies**, and states "...the proposed legislation which is an exact copy of the legislation for which the Hitler regime was condemned"  I don't think I should be giving this insanity too much attention, but just read a bit more of what this person is calling for (emphasis mine):
 
