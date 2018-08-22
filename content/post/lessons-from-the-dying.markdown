@@ -10,7 +10,7 @@ categories:
 
 It's time to turn the page on another year, so I think it's a good time to reflect, and understand what's really important in our lives. So much is made of things that can be bought, with not enough focus on what we have, and what's most important to us. I found this post of regrets a nurse compiled from patients before they died, I think it provides the most honest perspective that it forces you to think about  what's important to you, and what you want to accomplish in your life. I also thought it was a perfect end to the year.
 
-[![](http://fak3r.com/wp-content/blogs.dir/12/files/Sunset-1-1024x768.jpg)](http://fak3r.com/commentary/lessons-from-the-dying/attachment/sunset-1/)
+[
 
 <!-- more -->
 

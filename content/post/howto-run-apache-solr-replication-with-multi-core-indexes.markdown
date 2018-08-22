@@ -14,7 +14,7 @@ tags:
 - solr
 ---
 
-[![Apache Solr](http://fak3r.com/wp-content/blogs.dir/12/files/logo_apache_solr-300x151.png)](http://fak3r.com/2012/03/29/howto-run-apache-solr-replication-with-multi-core-indexes/logo_apache_solr/)
+[
 
 After having an Apache Solr search server running across multicores (that's multiple "search" cores, it has nothing to do with multicore processors) we need to expand it by using replication for backups, as well as eventual load balancing for performance reasons. The 8 cores' indexes are currently about 18Gig, so it's no small undertaking to backup and move these suckers around, so we're using KVM vitual machines as new slave nodes. I setup these up on a stock Debian Squeeze (6.0) install and read up on how to make a master/slave Solr replication work. Since version 1.4 Solr boasts built in replication, so any external rsync enabled scripts are no longer needed. For this you'll need at least two Solr servers running, though my directions are in Debian, they'll be indentical if you're running Ubuntu, and the same, after the Tomcat home directory, on other Linux distros. <!-- more -->
 

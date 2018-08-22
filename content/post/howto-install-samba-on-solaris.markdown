@@ -13,7 +13,7 @@ tags:
 - sun
 ---
 
-[![Sun Fire X4500 (code-named Thumper)](http://fak3r.com/wp-content/blogs.dir/12/files/k3_j4500-array_1-300x239.jpg)](http://fak3r.com/2012/02/15/howto-install-samba-on-solaris/k3_j4500-array_1/)
+[
 
 At work we've had an old(ish) [Sun Fire X4500](http://en.wikipedia.org/wiki/Sun_Fire_X4500) (aka Thumper), that has been under utilized. With 48 harddisks, it has about 40 Terrabytes of storage, not too shabby for a 4 rack unit box. Of course digging in and actually doing stuff in Solaris is not as much fun as Linux, but we needed to get Samba running on this montster to give us some breathing room for our storage. From running Sun years ago I remember pkg-get, so I gave that a go, but by default, at least on this box, pkg-get used [Blastwave](http://blastwave.network.com/), which seems to has gone away, so I spec'd pkg-get manually and told it to use [Sunfreeware](http://sunfreeware.com) instead. That got the game going, but it was a long road to (evenutal) success. But hey, long road, this is why I do what I do, let's get it started!
 

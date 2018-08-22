@@ -25,7 +25,7 @@ tags:
 - wal mart
 ---
 
-[caption id="attachment_1201" align="aligncenter" width="500" caption="When does a crowd become a mob?"][![When does a crowd become a mob?](http://www.fak3r.com/wp-content/uploads/2008/11/utahshoppingcenter.jpg)](http://www.fak3r.com/wp-content/uploads/2008/11/utahshoppingcenter.jpg)[/caption]
+[caption id="attachment_1201" align="aligncenter" width="500" caption="When does a crowd become a mob?"][[/caption]
 
 When I was younger I worked retail, and I remember dreading the holiday season; we'd be completely busy, and customers were never ruder.  I've seen ads poking fun at rabid crowds trying to break down doors before stores open to get the latest deals around the holidays, and it's always some comment about how the store's prices left the customers chomping at the bit to save that 15%.  Of course when parody becomes reality, it's always ugly, and today had to be worst, aptly named, [Black Friday](http://en.wikipedia.org/wiki/Black_Friday_(shopping)) ever.  The reports of people getting violent in an effort to secure a cheap blue-ray dvd player, or flatscreen TV is enough to tell you things have gotten out of hand, but today there's plenty of examples that show that this kind of frenzied shopping needs to end.  I've compiled as many as I can stand just to point out that is a systemic problem, and our consumerism culture has once again gone too far.
 
@@ -69,7 +69,7 @@ In Torrance, California, again [The Mercury News](http://www.mercurynews.com/mld
 And finally, the most well known incident from black Friday, is [the death of a Wal-Mart employee](http://www.iht.com/articles/2008/11/28/business/29walmart.php):
 
 
-> [![](http://www.fak3r.com/wp-content/uploads/2008/11/artwalmartny.jpg)](http://www.fak3r.com/wp-content/uploads/2008/11/artwalmartny.jpg)At 4:55 a.m., just five minutes before the doors were set to open, a crowd of 2,000 anxious shoppers started pushing, shoving and piling against the locked sliding glass doors of the Wal-Mart in Valley Stream, New York, Nassau County police said. The shoppers broke the doors off their hinges and surged in, toppling a 34-year-old temporary employee who had been waiting with other workers in the store's entryway.
+> [At 4:55 a.m., just five minutes before the doors were set to open, a crowd of 2,000 anxious shoppers started pushing, shoving and piling against the locked sliding glass doors of the Wal-Mart in Valley Stream, New York, Nassau County police said. The shoppers broke the doors off their hinges and surged in, toppling a 34-year-old temporary employee who had been waiting with other workers in the store's entryway.
 
 People did not stop to help the employee as he lay on the ground, and they pushed against other Wal-Mart workers who were trying to aid the man. The crowd kept running into the store even after the police arrived, jostling and pushing officers who were trying to perform CPR, the police said.
 

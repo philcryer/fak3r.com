@@ -9,7 +9,7 @@ tags:
 - security
 ---
 
-![Bomb](http://fak3r.com/wp-content/uploads/2007/03/bomb.gif)In this day and age security is often OVER emphasised in the guise of erroring on the side of caution (cue to pictures of shoeless passengers muddling through security checkpoints).  I know people will say 'better safe than sorry', but [when things like this happen](http://www.canada.com/ottawacitizen/news/story.html?id=6a11bd67-f717-4aa3-80a9-840c07949730&k=28503%20it),  it makes you question if any of this is making us any safer.  "_iPod prompts airport scare in Ottawa - A suspicious package found in an aircraft washroom on a flight from Chicago on Tuesday afternoon brought out Ottawa police canine and bomb-disposal units. [...] The plane landed safely and was isolated away from the terminal. Passengers were taken off the plane and questioned by police while experts investigated the 'package.' Police issued a statement Tuesday evening saying the suspicious package 'has been identified as an electronic device commonly known as an iPod.' _"  That's the brief overview, but the story gets much better since the suspect was a World Of Warcraft player who was on his way to meet a friend he had met in the game, but never in person; a facet that only servered to magnify his supicious behavior.  I don't want to spoil any of it, so for the full story you need to read the full/detailed [forum post](http://forums.worldofwarcraft.com/thread.html?topicId=11211166&pageNo=1&sid=) post from the 'suspect' -- which I've mirrored below.   Enjoy.
+ post from the 'suspect' -- which I've mirrored below.   Enjoy.
 
 <!-- more -->
 

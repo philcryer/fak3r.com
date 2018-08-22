@@ -24,7 +24,7 @@ tags:
 - religious
 ---
 
-[caption id="attachment_1003" align="alignnone" width="420" caption="homosayswhat?"][![homosayswhat?](http://www.fak3r.com/wp-content/uploads/2008/09/onenewsnowgay.gif)](http://www.fak3r.com/wp-content/uploads/2008/09/onenewsnowgay.gif)[/caption]It looks like the ultra conservative news site, OneNewsNow, brought to you by our friends over at the American Family Ass ([remember them?](http://fak3r.com/2008/07/03/american-family-ass-boycotting-mcdonalds-gay-agenda/)), aren't very hip with those new web technologies.  Oh sure, they block plenty of news that doesn't meet their views so they can present the user with a tainted view of the world in order to support their viewpoints, but they also *fail* hard when they do a blind ['find and replace' of the word 'gay'](http://www.rightwingwatch.org/2008/06/the_dangers_of_1.html) to 'homosexual'.  A fun example is the image above, where runner Tyson Gay's accomplishments were introduced with the line "Gay eases into 100 final at Olympics" becomes the much more interesting headline, "Homosexual eases into 100 final at Olympics".  Other times when runner Tyson Gay's name is 're-spelt' to conform to the sensibilities of the more conservative set:
+[caption id="attachment_1003" align="alignnone" width="420" caption="homosayswhat?"][ to 'homosexual'.  A fun example is the image above, where runner Tyson Gay's accomplishments were introduced with the line "Gay eases into 100 final at Olympics" becomes the much more interesting headline, "Homosexual eases into 100 final at Olympics".  Other times when runner Tyson Gay's name is 're-spelt' to conform to the sensibilities of the more conservative set:
 
 <!-- more -->
 

@@ -12,7 +12,7 @@ tags:
 - varnish
 ---
 
-**![Varnish logo](http://fak3r.com/wp-content/uploads/2007/11/varnish-logo-red-64.gif)BACKGROUND**:**  **_The following is a proposal I submitted to the Varnish developers in order to make it simpler to integrate _[_Varnish_](http://varnish.projects.linpro.no/)_ (an HTTP accelerator for web sites) into production environments.  fak3r uses Varnish in front of its webserver, Lighttpd, so it's likely that the page you're now reading was served to you not by the webserver, but via Varnish_.
+** into production environments.  fak3r uses Varnish in front of its webserver, Lighttpd, so it's likely that the page you're now reading was served to you not by the webserver, but via Varnish_.
 
 Currently Varnish requires a C compiler to be present on the machine it's running on, since it needs to compile the VCL config file into a shared object each time it starts. During shutdown, Varnish removes this shared object since it will be rebuilt during the next start. This routine repeats regardless of if anything has changed in the VCL config file, and serves as a road bump to getting Varnish into certain production environments since traditionally development applications (such as the C compiler) are not allowed in such instances. For now I am putting aside the arguments as to why it's is acceptable to have development applications in production instances, since that argument's outcome will vary in different situations, and I am aiming for a solution that will cover all instances.
 <!-- more -->

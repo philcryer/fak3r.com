@@ -11,7 +11,7 @@ tags:
 - howto
 ---
 
-![RubyOnRails](http://fak3r.com/wp-content/uploads/2006/06/rails.png)Today I learned about [memcached](http://www.danga.com/memcached/), which I’d heard of before, but never really investigated. From the project’s site, ”_memcached is a high-performance, distributed memory object caching system, generic in nature, but intended for use in speeding up dynamic web applications by alleviating database load_.” So, even though I don’t have a huge amount of traffic, I still have dynamic sites, and I’m always looking at ways to speed up my Typo blog (<strike>this site</strike> not anymore). So, using memcached, you can get a big performance boost in databases calls, which sold me on giving it a go. I read two posts today, one about [howto set this up in Freebsd](http://habtm.com/articles/2006/03/23/big-performance-boost-with-memcached-freebsd), along with howto modify the source code for a boost over the default setting, and [how to make Ruby-on-Rails](http://wiki.rubyonrails.com/rails/pages/MemCached) take advantage of it. Below are steps compiled from both sites, and used on my FreeBSD 6.0 server, but most of the steps should work as well in Linux. Read more for the steps.
+ take advantage of it. Below are steps compiled from both sites, and used on my FreeBSD 6.0 server, but most of the steps should work as well in Linux. Read more for the steps.
 
 
 

@@ -27,7 +27,7 @@ tags:
 - varnish
 ---
 
-![page1](http://www.fak3r.com/wp-content/uploads/2009/01/page1.jpg)At the [Biodiversity Heritage Library](http://biodiversitylibrary.org), we have replaced a proprietary [jpeg2000](http://en.wikipedia.org/wiki/JPEG_2000) image server, that was straining under the load, with a new, [open source](http://en.wikipedia.org/wiki/Open_source) jpeg2000 server, [djatoka](http://african.lanl.gov/aDORe/projects/djatoka).  Chris Freeland and Chris Moyers cover the background in far more detail on the [BHL Blog](http://biodiversitylibrary.blogspot.com/2009/01/now-serving-all-page-images-via-djatoka.html), so here I'll cover my rationale and decisions I made to provide a scalable, stable infrastructure to provide the images as efficiently as possible.
+, so here I'll cover my rationale and decisions I made to provide a scalable, stable infrastructure to provide the images as efficiently as possible.
 
 
 
@@ -80,7 +80,7 @@ When I started sketching out how I wanted to run djatoka, I knew I wanted it to 
 
 
 
-![varnish-graph1](http://www.fak3r.com/wp-content/uploads/2009/01/varnish-graph1.gif)
+
 
 
 
@@ -99,7 +99,7 @@ When I started sketching out how I wanted to run djatoka, I knew I wanted it to 
 
 
 
-[![diagram2](http://www.fak3r.com/wp-content/uploads/2009/01/diagram2-1024x617.png)](http://www.gliffy.com/publish/1587073/)
+[
 
 
 
@@ -153,7 +153,7 @@ When I started sketching out how I wanted to run djatoka, I knew I wanted it to 
 We're very excited to be one of the early adopters of djatoka, and thus far are very encouraged by it's ability and stability.  We now have a secure solution with multiple layers of defense against hostile traffic, our scaling problems are now a thing of the past, with caching and fault tolerance allowing multiple,flexible paths as we look to expand our operations.  The CPU usage on the server is very light, giving us plenty of headroom, as seen form the following graph, where red and green represent system and user load respectively, and yellow being idle:
 
 
-![graphphp](http://www.fak3r.com/wp-content/uploads/2009/01/graphphp.png)
+
 
 
 
@@ -162,7 +162,7 @@ We're very excited to be one of the early adopters of djatoka, and thus far are 
 Meanwhile, server load shows a similar pattern, with a similar amount of headroom; it's going to take a lot more traffic for this server to be straining for any reason.
 
 
-![load](http://www.fak3r.com/wp-content/uploads/2009/01/load.png)
+
 
 
 

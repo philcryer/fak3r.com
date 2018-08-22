@@ -14,7 +14,7 @@ tags:
 - unbound
 ---
 
-[![Unbound DNS](http://fak3r.com/wp-content/blogs.dir/12/files/unbound-2501.png)](http://fak3r.com/2012/03/14/howto-run-a-secure-caching-dns-server-in-chroot/unbound-250-2/) Unbound DNS
+[ Unbound DNS
 
 I want to run my own DNS server, while I've done this before it was always a one off that I never spent much time researching or implementing it as well, and securely, as I wanted. When I tried out [DNSCrypt](http://www.opendns.com/technology/dnscrypt/) from the [OpenDNS](http://www.opendns.com/) folks, I emailed them and asked if it was available to run on a server, and sure enough, they have it in their [Github repo](https://github.com/opendns/dnscrypt-proxy), ready to compile in Linux. So I knew it was time to take things more seriously so I could properly run DNSCrypt as part of my DNS stack. So, first up, before getting DNSCrypt (and later [DNSSEC](http://www.dnssec.net/)) I need to have a good install of a local DNS server to handle things, and I've setted on using [Unbound](http://unbound.net/). Unbound [bills itself](http://unbound.net/) as "_...a validating, recursive, and caching DNS resolver. [...] Unbound is designed as a set of modular components, so that also DNSSEC (secure DNS) validation and stub-resolvers (that do not run as a server, but are linked into an application) are easily possible. The source code is under a BSD License._" Besides that the project has ties to some OpenBSD people, which bodes well for its security focus, and even has an option to chroot the install in the configuration file. In this article I'll share how I've setup Unbound running as a local, caching, recurisve DNS server in chroot. The next article in this series will deal with implementing DNSCrypt, and later DNSSEC.<!-- more -->
 

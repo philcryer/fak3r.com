@@ -29,4 +29,4 @@ Battling strong winds and clouds, Halverson used a robotic camera rig to snap hu
 As the Earth spins, the stars appear to spin with it. Longer exposures make them appear as streaks. Zooming airplanes, sunlight reflecting off satellites, and a ruddy orange glow from the town of Winner, South Dakota some 40 miles away are visible in the footage.
 
 
-[caption id="attachment_3078" align="aligncenter" width="594" caption="Plains Milky Way by Randy Halverson"][![Plains Milky Way by Randy Halverson](http://fak3r.com/wp-content/blogs.dir/12/files/milky-way-band-farmland-flickr-randy-halverson-dakotalapse1.jpg)](http://fak3r.com/commentary/environment/plains-milky-way-timelapse/attachment/milky-way-band-farmland-flickr-randy-halverson-dakotalapse1/)[/caption]
+[caption id="attachment_3078" align="aligncenter" width="594" caption="Plains Milky Way by Randy Halverson"][[/caption]

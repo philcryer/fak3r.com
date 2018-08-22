@@ -13,7 +13,7 @@ tags:
 - velvet underground
 ---
 
-[![Velvet Underground - eBay small](http://fak3r.com/wp-content/uploads/2006/12/vu-sm.jpg)](http://cgi.ebay.com/VELVET-UNDERGROUND-NICO-1966-Acetate-LP-ANDY-WARHOL_W0QQitemZ300054910309QQihZ020QQcategoryZ306QQrdZ1QQcmdZViewItem#ebayphotohosting)
+[
 
 **UPDATE4**: The top bid(s) were bogus, and the auction ended without a buyer. Looks like it was too good to be true. Regardless, sounds like he's going to give it another go, "[Montreal man thwarted in eBay auction of rare record to try again](http://www.canada.com/ottawacitizen/news/arts/story.html?id=a45107d2-3cd8-4892-a272-7cf9f04269f3&k=26047)" As always there's some fun Monday morning quarterbacking going on over at [digg.com](http://digg.com/music/Man_thwarted_in_EBay_auction_of_rare_record_to_try_again) on the issue.
 
@@ -124,7 +124,7 @@ Mr-N-Dolph
 
 
 
-![VU septer](http://fak3r.com/wp-content/uploads/2006/12/vu_scepter_acetates.jpg)
+
 
 
 

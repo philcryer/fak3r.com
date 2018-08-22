@@ -21,7 +21,7 @@ tags:
 - x-forwarded-for
 ---
 
-![Lighttpd - fly light](http://fak3r.com/wp-content/uploads/2008/01/light_logo_170px.png)When you run a webserver behind a reverse proxy or HTTP accelerator like [Squid](http://www.squid-cache.org) or [Varnish](http://varnish.projects.linpro.no/), the webserver access logs will display the IP of the proxy (generally 127.0.0.1) instead of the end user's IP.  This not only breaks any kind of tracking or reporting you want to run against your webserver logs, but it also takes away a datapoint I've had use for in general server admin tasks. This server runs Varnish in front of [Lighttpd](http://www.lighttpd.net/), and it reveals the end user's IP in the header as _X-Forwarded-For_, so it's just a matter of making Lighttpd (lighty) use that variable in its access logs instead of the default variable defining the referring IP.  Once we know that, the configuration is simple; in lighttpd.conf, enter this:
+ use that variable in its access logs instead of the default variable defining the referring IP.  Once we know that, the configuration is simple; in lighttpd.conf, enter this:
 
     
     accesslog.format = "%{X-Forwarded-For}i %l %u %t \"%r\" %>s %b /

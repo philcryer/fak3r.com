@@ -16,7 +16,7 @@ tags:
 - vostro 1500
 ---
 
-![Ignignokt says - Using a key to gouge expletives on another’s vehicle is a sign of trust and friendship](http://www.fak3r.com/wp-content/uploads/2008/02/ignignokt2.thumbnail.gif)With all the tweaking to get my [Dell Vostro 1500](http://www.fak3r.com/2007/10/10/buying-a-linux-laptop-in-2007/) working with Ubuntu, it's still been an annoyance to get sound working evertime after hibernation.  It goes to sleep fine, it wakes up fine, it obeys all of the power preferences I defined within Gnome fine too, it's just that when it comes out of hibernation, the sound is usually off.  It's not muted, it's off.  Trying to restart alsa (the sound server) is a lession in frustration, so until now I've been ignoring it since it was rare that I would need it, but still...come on.  This week I came across [a solution in the Debian Forums](http://forums.debian.net/viewtopic.php?t=21808&highlight=vostro+1500) that creates a new task for Linux to do before it shuts down and before it starts up.: "_Create the file /etc/pm/sleep.d/49sound..._
+ that creates a new task for Linux to do before it shuts down and before it starts up.: "_Create the file /etc/pm/sleep.d/49sound..._
 
     
     mkdir /etc/pm

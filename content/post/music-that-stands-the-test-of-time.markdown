@@ -14,7 +14,7 @@ tags:
 - rock and roll
 ---
 
-![Turntable](http://fak3r.com/wp-content/uploads/2007/11/auto.jpg)Carrie Brownstein (former Sleater-Kinney guitarist) now has a great blog on NPR called _Monitor Mix__.  _A [recent post](http://www.npr.org/blogs/monitormix/2007/11/tiny_giants.html#trackback) talked about her learning what bands were important to her father over the years, and it leads to a question I've always wondered, what music that is important to us be as important for our kids when they grow up?  In other words, what will make the jump.  I posted a comment, and the submission form wouldn't let me post it!  I'll try again later, but for now I've put it here.  What bands are important to you, or were growing up, that you can see making the jump to the next generation? <!-- more -->"_Carrie, Great post, music is so personal to people, it's impossible to tell why things stick and why they do not (but in Collective Soul's case I'd vote for 'repetition'). I'm more interested in your comment: _
+. I'm more interested in your comment: _
 
 
 "Who we recall a year later, or a decade later, are only a handful of the bands who exist at a given time. [...] Or who was the Collective Soul of previous decades?"

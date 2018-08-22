@@ -19,7 +19,7 @@ tags:
 - unix
 ---
 
-![0101010101](http://www.fak3r.com/wp-content/uploads/2009/01/0101010101.jpg)**UPDATE**: posted my workaround code below, good feedback already from Ryan (djatoka dev) and I'll be testing the proper fix on the server soon.
+ and I'll be testing the proper fix on the server soon.
 I've got a server that keeps filling up its disk space and failing to serve images after it gets to the _file system full_ error message.  First of all let me say, I don't blame it in the least, if the admin (aka me) doesn't do enough to secure the server enough disk space to do its job, I say, let me have it.  But after I've set the suspect daemon to use a *reasonable* amount of space I stopped thinking of it as the culprit, so when this issue arose again, I looked elsewhere for the cause.  Fast forward to today, the **server's file system filled up again**, and refused to serve any more data, again, I totally understand where the server is coming from, if it doesn't have enough disk space to do its job, it shouldn't have to apologize to anyone; it's all on the admin (again, aka, me), but what was going on?<!-- more --> So, after I finally figured things out, I was/am still a bit confused here, but to my defense, when I did an 'ls -ltrs /tmp' to look at directories of old cached files left over by [adore-djatoka](http://apps.sourceforge.net/mediawiki/djatoka/index.php?title=Main_Page) (which is the JPEG2000 (J2K) image server that I suspected of taking up all the disk space) :
 
 

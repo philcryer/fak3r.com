@@ -12,7 +12,7 @@ tags:
 - howto
 ---
 
-**![Ubuntu logo](http://fak3r.com/wp-content/uploads/2007/06/ubuntulogo.png)UPDATE**: thanks to a comment below from [Ted](http://1isa2isb.com/), we now have a solution to have this option persist across kernel updates.  In grub, "..._at the end of this new menu item add it as an argument to the line_:
+**, we now have a solution to have this option persist across kernel updates.  In grub, "..._at the end of this new menu item add it as an argument to the line_:
 
 
     

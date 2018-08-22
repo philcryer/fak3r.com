@@ -32,7 +32,7 @@ tags:
 
 Ah, just another line that revolves in my head after repeated listenings of the amazing '**[Dark Night Of The Soul](http://powerhousebooks.com/darknightofthesoul/)**', the Danger Mouse and Sparklehorse (Mark Linkous) musical collaboration with David Lynch. 
 
-![DARK NIGHT POSTER FINALai](http://fak3r.com/wp-content/uploads/2009/10/DNOS.jpg)
+
 
 <!-- more -->It took me a few full listens, to get over my pre-conceived notions of this opus.  See, while it was a musical/art project/book of David Lynch's, due to a dispute between [Danger Mouse](http://en.wikipedia.org/wiki/Danger_Mouse) and the record company, EMI, it has yet to be released.  Additionally, as if the pairing of Danger Mouse, Sparklehorse and David Lynch wouldn't draw enough attention from a starving music public, the album also features James Mercer (The Shins), The Flaming Lips, Gruff Rhys (Super Furry Animals), Jason Lytle (Grandaddy), Julian Casablancas (The Strokes), Frank Black (the Pixies), Iggy Pop, Nina Persson (The Cardigans), Suzanne Vega, Vic Chesnutt, Scott Spillane (Neutral Milk Hotel, The Gerbils) along with David Lynch, singing.
 
@@ -55,7 +55,7 @@ The [offical wording from the Danger Mouse camp](http://boingboing.net/2009/05/1
 
 
 
-[![david_lynch-untitled-insane_lullaby_no4-2009](http://fak3r.com/wp-content/uploads/2009/10/david_lynch-untitled-insane_lullaby_no4-2009.jpg)](http://lookintomyowl.com/david-lynch-danger-mouse-dark-night-of-the-soul.html)
+[
 
 
 
@@ -63,7 +63,7 @@ The [offical wording from the Danger Mouse camp](http://boingboing.net/2009/05/1
 Image from [Look Into My Owl](http://lookintomyowl.com/david-lynch-danger-mouse-dark-night-of-the-soul.html)
 
 
-So while EMI has refused to release the music, David Lynch was clear to his release his book/art project, which he did as planned, but with a blank CDR included.  "_A limited edition book of Lynch’s visuals for the album has been released and is available here. Due to an ongoing dispute with a record company, ![dark-night-of-the-soul](http://fak3r.com/wp-content/uploads/2009/10/dark-night-of-the-soul-150x150.jpg)the music that Danger Mouse produced has not been released. In place of the album, the book is supplemented with a recordable compact disc. Each copy of the book is clearly labelled, “For legal reasons, enclosed CD-R contains no music. Use it as you will_.”  The release happened as a collaboration between Lynch and Danger Mouse, [their first project](http://laist.com/2009/06/01/david_lynch_and_dangermouse_dark_ni.php), Dark Night of the Soul, 30 June – 11 July 2009 Michael Kohn Gallery, Los Angeles.
+So while EMI has refused to release the music, David Lynch was clear to his release his book/art project, which he did as planned, but with a blank CDR included.  "_A limited edition book of Lynch’s visuals for the album has been released and is available here. Due to an ongoing dispute with a record company, , Dark Night of the Soul, 30 June – 11 July 2009 Michael Kohn Gallery, Los Angeles.
 
 
 > **_From the site _**[**_LOOK INTO MY OWL_**](http://lookintomyowl.com/david-lynch-danger-mouse-dark-night-of-the-soul.html): Fifty of Lynch’s photographs were mounted on aluminum and displayed in small groups throughout the two room exhibition. The pieces are untitled but make reference to tracks from the album “Dark Night of the Soul” that Danger Mouse mixed with the pop band Sparklehorse. The album will be playing in the gallery for the duration of the show.
@@ -81,7 +81,7 @@ So Lynch's photos were on display in the gallery, and all made direct references
 
 
 
-[![david_lynch-untitled-little_girl_no3-2009](http://fak3r.com/wp-content/uploads/2009/10/david_lynch-untitled-little_girl_no3-2009.jpg)](http://lookintomyowl.com/david-lynch-danger-mouse-dark-night-of-the-soul.html)
+[
 
 
 
@@ -102,7 +102,7 @@ As with other critics darling releases, there's a ton being written about the mu
 So back to the music, yes, so far I'm really digging it.  As with everything I've heard from Danger Mouse, the production is incredible, but there is such a variety in this one, it serves like some full featured buffet that no one wants to leave. As [the NPR reviewer states](http://www.npr.org/templates/story/story.php?storyId=104129585), "._..Dark Night of the Soul delivers in every way you'd hope for. It's beautiful but haunting, surreal and dark, but sometimes comical and affecting, with ear-popping, multilayered production work. It just gets more mesmerizing with every listen_."  While that's pretty heddy praise, after living with it for a day, I have to agree.  After the coneptions about the music fade, it's replaced by the various moods in the music and it just feels right.  Although if you really listen to it, I'm not sure if it's supposed to...
 
 
-![0602lynch.2](http://fak3r.com/wp-content/uploads/2009/10/0602lynch.2.jpg)
+
 
 
 

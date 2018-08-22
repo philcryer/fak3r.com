@@ -21,7 +21,7 @@ tags:
 - web server
 ---
 
-![tux.jpg](http://fak3r.com/wp-content/uploads/2006/10/tux.jpg)While looking for something else, (which is mainly when I find *other* interesting things) I found an article which included links for four free Linux eBooks.  This is a great resource for anyone with some Linux experience, back to others who may be looking to get started with tux, and I would have loved to have this when I started, but that was before the Internet was available to most people.  So, if you're new to Linux, or want to get started (I used [Red Hat Unleashed](http://www.amazon.com/Red-Linux-Unleashed-Kamran-Husain/dp/0672309629) in 1996, here it is [online](http://wireless.ictp.it/school_2003/docs/linux/linux_guides/RH_Linux_Unleashed/)!), here's some great downloads to learn from:<!-- more -->
+, here's some great downloads to learn from:<!-- more -->
 
 
 ### Linux Starter Pack

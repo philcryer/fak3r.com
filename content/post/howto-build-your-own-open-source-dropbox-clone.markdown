@@ -19,7 +19,7 @@ tags:
 - sync
 ---
 
-![I KAN HAZ OPEN-SRC DROPBX?](http://fak3r.com/wp-content/uploads/2009/09/opensource-dropbox.png)****
+****
 
 **UPDATE #4 **It's 2012, and this project is still alive, although I haven't worked on lipsync as much as I should.  I want to, and have new ideas to implement and try out in the next few months. The two way sharing is a bit hacky, and I don't like it, the installer creates a [cronjob](https://github.com/philcryer/lipsync/blob/master/install.sh#L155):  that checks for server changes to sync back every minute - and it tries to avoid conflicts by [not running if a sync the other way is happening](https://github.com/philcryer/lipsync/blob/master/bin/lipsync#L9). Yes, if you're using 2 computers at once it could get confused, but so far, it's pretty good - but something I want to improve. I'm also very interested in [ownCloud](http://owncloud.org/)  and using [remote storage](http://www.w3.org/community/unhosted/wiki/RemoteStorage) auth protocol like [Unhosted](http://unhosted.org/) proposes - these are two things I'd love to integrate into lipsync over the next few months. I really think having something that is all owned by the user, and in full control of the user, is still the ultimate way. Watch the [lipsync.info](http://lipsync.info/) site for more details, thanks.
 

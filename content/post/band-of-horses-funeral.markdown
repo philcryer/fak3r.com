@@ -19,7 +19,7 @@ Here's a band that is definitely worth a listen; [Band of Horses](http://www.ban
 
 
 
-![Band of Horses](http://fak3r.com/wp-content/uploads/2006/07/bofhorses-thumb.jpg)
+
 
 
 

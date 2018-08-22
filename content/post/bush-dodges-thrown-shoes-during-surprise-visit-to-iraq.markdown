@@ -11,7 +11,7 @@ categories:
 - picture of the day
 ---
 
-[caption id="attachment_1232" align="alignright" width="234" caption="Shoe of mass destruction?"]![Shoe of mass destruction?](http://www.fak3r.com/wp-content/uploads/2008/12/apshoetwo1.jpg)[/caption]
+[caption id="attachment_1232" align="alignright" width="234" caption="Shoe of mass destruction?"][/caption]
 
 **UPDATE**: [Iraq Shoe Tosser Guy: The Animated Gifs](http://www.boingboing.net/2008/12/15/iraq-shoe-tosser-guy.html)
 

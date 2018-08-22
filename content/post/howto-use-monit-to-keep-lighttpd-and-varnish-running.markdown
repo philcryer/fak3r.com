@@ -14,7 +14,7 @@ tags:
 - varnish
 ---
 
-[![Ignignokt](http://www.fak3r.com/wp-content/uploads/2008/02/ignignokt2.thumbnail.gif)](http://www.fak3r.com/2008/02/19/howto-use-monit-to-keep-lighttpd-and-varnish-running/ignignokt/)Thanks to a [post from Steve](http://www.debian-administration.org/users/Steve/weblog/32) over at debian-administration.org, I finally got around to setting up [monit](http://www.tildeslash.com/monit/), the little monitoring app we use at work to keep things sane.  I was getting around to installing it at home, but it became more urgent when Varnish went down last week; without it running there's nothing to handle requests on :80, so as a webserver it's dead. So here's my monitrc for the webserver Lighttpd fronted by Varnish, acting in the reverse proxy/http accel role. Varn is listening on 80, then, if things aren't cached, it forwards things on to Lighttpd listening on 82. Lighty also listens on the standard 443 for HTTPS requests, so we check that as well.
+[, the little monitoring app we use at work to keep things sane.  I was getting around to installing it at home, but it became more urgent when Varnish went down last week; without it running there's nothing to handle requests on :80, so as a webserver it's dead. So here's my monitrc for the webserver Lighttpd fronted by Varnish, acting in the reverse proxy/http accel role. Varn is listening on 80, then, if things aren't cached, it forwards things on to Lighttpd listening on 82. Lighty also listens on the standard 443 for HTTPS requests, so we check that as well.
 
     
     check process varnish with pidfile /var/run/varnishd.pid

@@ -7,7 +7,7 @@ categories:
 - blah
 ---
 
-![Martin Luther King](http://fak3r.com/wp-content/uploads/2007/04/mlk.gif)
+
 
 
 On this, the anniversary of the death of Martin Luther King, there's an important article by some truthout guest contributors titled [The Martin Luther King You Don't See on TV](http://www.truthout.org/docs_2006/040407R.shtml).  It covers King's under reported life from 1965-1968 when he was assassinated.  After the civil rights bills were passed in 64 and 65 King took on economic rights.  He argued that that for poor people anti-discrimination laws were hollow, since they couldn't afford a house, or the right to eat in a now "equal" resturant.  As King so eloquently put it, "_True compassion is more than flinging a coin to a beggar; it comes to see that an edifice which produces beggars needs restructuring_."  On this day in 1967 he presented his "Beyond         Vietnam" speech delivered New York's Riverside Church where he called the         United States "_the greatest purveyor of violence in the world         today_."  The speech was criticized and ignored at the time, and it never gets the attention of his earlier thoughts, but listening to it now brings to mind how much it parallels our current situation.  I've mirrored the article from truthout below, it's just too good not to read, and it includes a link to the text and audio of the speech.   MLK was one amazing human being, and his words are still pertinent today, if not more so considering how history is repeating.

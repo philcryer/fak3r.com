@@ -25,4 +25,4 @@ This year [Mogwai](http://www.mogwai.co.uk/) will release a live cd and album, _
 
 
 
-[![](http://fak3r.com/wp-content/uploads/2010/01/Mogwai+1201304654_37967.jpg)](http://fak3r.com/wp-content/uploads/2010/01/Mogwai+1201304654_37967.jpg)
+[

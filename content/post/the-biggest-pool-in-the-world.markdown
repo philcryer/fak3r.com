@@ -18,12 +18,12 @@ tags:
 
 Ok, it covers 20 acres (eight hectares), is more than 1,000 yards long, is 115 feet deep at the deep end and holds 66 million gallons of water, so it's no surprise that this [pool in Chile has been named the biggest in the world](http://www.dailymail.co.uk/pages/live/articles/news/news.html?in_article_id=509718&in_page_id=1770) by the Guinness Book of Records.  The previous champ is in Morocco, but it's a mere 150 yards long and 100 yards wide.  For reference, an Olympicsize pool measures 50 yards by 25 yards.  I don't know what to say besides, how much are tickets to Chile?
 
-[![](http://www.fak3r.com/wp-content/uploads/2008/09/massivepool3r_468x307.jpg)](http://www.fak3r.com/wp-content/uploads/2008/09/massivepool3r_468x307.jpg)
+[
 
 This man-made saltwater lagoon, "..._has been attracting huge crowds to the San Alfonso del Mar resort at Algarrobo, on Chile's southern coast, since it opened last month. Its turquoise waters are so crystal clear that you can see the bottom even in the deep end._"<!-- more -->
 
 
-[![](http://www.fak3r.com/wp-content/uploads/2008/09/massivepool3r_468x307.jpg)](http://www.fak3r.com/wp-content/uploads/2008/09/massivepool3r_468x307.jpg)
+[
 
 
 _It took over five years to build and cost nearly £1billion.  It's estimated that the annual maintenance bill will be£2million._

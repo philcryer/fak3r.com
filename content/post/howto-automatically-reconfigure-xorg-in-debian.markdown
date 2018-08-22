@@ -15,7 +15,7 @@ tags:
 - xorg
 ---
 
-![Xorg logo](http://www.fak3r.com/wp-content/uploads/2008/05/xorg.png)If you're like me, you've messed up your xorg.conf before and wanted to start over with the default that you know dpkg-reconfigure can set it to.  Because of this I'm posting here because I've needed it multiple times in the past and have tired of looking it up!  To automatically reconfigure Xorg in Debian or Ubuntu issue the following:
+If you're like me, you've messed up your xorg.conf before and wanted to start over with the default that you know dpkg-reconfigure can set it to.  Because of this I'm posting here because I've needed it multiple times in the past and have tired of looking it up!  To automatically reconfigure Xorg in Debian or Ubuntu issue the following:
 
     
     sudo dpkg-reconfigure -phigh xserver-xorg

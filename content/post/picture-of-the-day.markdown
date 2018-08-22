@@ -14,4 +14,4 @@ tags:
 - sitting
 ---
 
-[caption id="attachment_843" align="aligncenter" width="500" caption="Here's another new feature I'm implementing, Picture Of The Day.  We'll kick things off with this killer image, enjoy!"][![Picture of the day](http://fak3r.com/wp-content/uploads/2008/07/28sc228.jpg)](http://fak3r.com/wp-content/uploads/2008/07/28sc228.jpg)[/caption]
+[caption id="attachment_843" align="aligncenter" width="500" caption="Here's another new feature I'm implementing, Picture Of The Day.  We'll kick things off with this killer image, enjoy!"][[/caption]

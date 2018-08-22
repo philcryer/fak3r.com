@@ -19,7 +19,7 @@ tags:
 - www
 ---
 
-[![](http://www.fak3r.com/wp-content/uploads/2008/03/opensource.png)](http://www.fak3r.com/wp-content/uploads/2008/03/opensource.png)I'm a big [Bash](http://netcat.sourceforge.net/) fan, I know [Perl](http://netcat.sourceforge.net/) is the more popular scripting language, and I'm slowly using it more, but hey, if I need something done, I can do it quicker in Bash (keeping in mind that I'm a systems guy, not a dev guy).  While at work looking up Bash related syntax I came across a page describing [how to run a webserver with 100 lines of Bash](http://quake.wikidot.com/www-server-in-100-lines-bash-script).  It uses the old school GNU utility [Netcat](http://netcat.sourceforge.net/) (nc) for communication between the pipes, and just a ton of basic logic and functions to pass it on to the user.  It's one of those things I look at and can't believe it works, but it does.  Of course security is unknown, as is the original author, but I consider this a reference on how to do networking things in Bash; who knows what I'll use (parts) of it for.  If anyone has details on who originally wrote this I'm all ears.[sourcecode language='xml']#!/bin/bash
+[ of it for.  If anyone has details on who originally wrote this I'm all ears.[sourcecode language='xml']#!/bin/bash
 
 function debug {
 local severity="$1"

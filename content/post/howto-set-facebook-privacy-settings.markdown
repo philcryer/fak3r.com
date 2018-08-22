@@ -33,7 +33,7 @@ You need to understand that this lack of privacy also makes you *more* available
 Next is my current settings, notice I've limited all the sharing here to **Friends Only**:
 
 
-[![Facebook privacy](http://fak3r.com/wp-content/blogs.dir/12/files/2010/10/fb_privacy_mine1.jpg)](http://fak3r.com/commentary/commerce/howto-set-facebook-privacy-settings/attachment/fb_privacy_mine/)
+[
 
 
 From here you can customize other privacy settings, but remember, as we learned above, your general info in your profile will still be exposed to **Everybody**:

@@ -16,7 +16,7 @@ tags:
 
 This best of list has taken time to compile, all year I guess, and some of fallen off as the year has moved on, as it should be. <del>I still need to put up slicks to look at and sample tracks to listen to, but I haven't had the time or motivation, so until then</del> Now that I've gotten the slicks and sample tracks all lined up, here are the ones that I think are the best from 2011. (and congrats to PJ on winning the Mercury prize...again)
 
-[![](http://fak3r.com/wp-content/blogs.dir/12/files/PJHarvey02PR171210.jpg)<!-- more -->](http://fak3r.com/best-music-of-2011/pjharvey02pr171210/)
+[
 
 
 
@@ -134,6 +134,6 @@ Meanwhile she did a solo version of 'Swimmer', the track that kicks off the albu
 
 So what do you think? What did I miss that you couldn't live without this year? Also, at this time I'd like to again shamelessly plug my favorite local record shop, [Euclid Records](http://www.euclidrecords.com/) in St. Louis, which is just a 5 minute walk from my house (coincidence? :)) Thanks to Joe and crew for being there, offering a sanctuary for us music freaks, and the perfect place for the annual [Record Store Day](http://www.recordstoreday.com/) holiday!
 
-[caption id="attachment_3604" align="aligncenter" width="400" caption="Euclid Records, 601 East Lockwood Ave, St. Louis MO 63119"][![Euclid Records, St. Louis MO](http://fak3r.com/wp-content/blogs.dir/12/files/08.05.18_stl_020.jpg)](http://fak3r.com/best-music-of-2011/08-05-18_stl_020/)[/caption]
+[caption id="attachment_3604" align="aligncenter" width="400" caption="Euclid Records, 601 East Lockwood Ave, St. Louis MO 63119"][[/caption]
 
 

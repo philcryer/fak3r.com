@@ -12,13 +12,13 @@ tags:
 - homosexuality
 ---
 
-![Jim Rutz](http://fak3r.com/wp-content/uploads/2006/12/jimrutz.jpg)An amazing proclamation from a column by James Rutz (pictured), chairman of Megashift Ministries and founder-chairman of Open Church Ministries, titled, "[Soy is making kids 'gay'](http://www.wnd.com/news/article.asp?ARTICLE_ID=53327)".  Yep, apparently it's just that simple folks, Mr Rutz blazes on without nary a mention of sources or anything resembling science, but I'm sure those things will just fall into place.  Here's the gist of his commentary, but feel free to read it yourself from the link above.
+".  Yep, apparently it's just that simple folks, Mr Rutz blazes on without nary a mention of sources or anything resembling science, but I'm sure those things will just fall into place.  Here's the gist of his commentary, but feel free to read it yourself from the link above.
 
 
-> ![Soy](http://fak3r.com/wp-content/uploads/2006/12/soy.thumbnail.jpg)There's a slow poison out there that's severely damaging our children and threatening to tear apart our culture […] The dangerous food I'm speaking of is soy. Soybean products are feminizing, and they're all over the place. You can hardly escape them anymore. [...] Soy is feminizing, and commonly leads to a decrease in the size of the penis, sexual confusion and homosexuality. **That's why most of the medical (not socio-spiritual) blame for today's rise in homosexuality must fall upon the rise in soy formula and other soy products. **(Most babies are bottle-fed during some part of their infancy, and one-fourth of them are getting soy milk!) Homosexuals often argue that their homosexuality is inborn because "I can't remember a time when I wasn't homosexual." No, homosexuality is always deviant. But now many of them can truthfully say that they can't remember a time when excess estrogen wasn't influencing them.
+>  Homosexuals often argue that their homosexuality is inborn because "I can't remember a time when I wasn't homosexual." No, homosexuality is always deviant. But now many of them can truthfully say that they can't remember a time when excess estrogen wasn't influencing them.
 
 
-![mustard](http://fak3r.com/wp-content/uploads/2006/12/mustard.thumbnail.jpg)As you can see, irrefutable (errr...irresponsible?) proof!  Of course there's no mention about how lesbians come to be, but my sneaking suspicion says that it's Dijon Mustard.  What other use can there be for it?  As for anyone ordering out for Chinese tonight, they can rest easy because...
+ proof!  Of course there's no mention about how lesbians come to be, but my sneaking suspicion says that it's Dijon Mustard.  What other use can there be for it?  As for anyone ordering out for Chinese tonight, they can rest easy because...
 
 
 > P.S.: Soy sauce is fine. Unlike soy milk, it's perfectly safe because it's fermented, which changes its molecular structure. Miso, natto and tempeh are also OK, but avoid tofu.

@@ -18,7 +18,7 @@ tags:
 - vob
 ---
 
-[![](http://www.fak3r.com/wp-content/uploads/2008/09/dvd_icon.jpg)](http://www.fak3r.com/wp-content/uploads/2008/09/dvd_icon.jpg)I have some AVIs that I needed to get into the VOB format so I could burn them to DVD.  I knew I could do this in Linux, but didn't know how.  Here is how I did it with Debian GNU/Linux (testing - Lenny).  First I installed the GTK+ app, [Avidemux](http://fixounet.free.fr/avidemux/) (don't worry, we'll get back to the commandline soon).  The I opened the AVI in Avidemux - after it imported it I clicked on FILE -> SAVE -> SAVE VIDEO - then choose where to save the file.  I saved it as movie.mpg so it would work with my next step.  This took some time for me, even with my duo-core 1.6Mhz 1Gig RAM laptop, but once it was complete I could play the mpg file in multimedia apps, so it worked.  Now we need to make it into the format that you can burn to DVD.  These are the weird looking folders named VIDEO_TS and AUDIO_TS that you'll burn to the root of the DVD.  To build this from an mpg is pretty easy, you need to install the commandline app [dvdauthor](http://dvdauthor.sourceforge.net/).  Once this is downloaded we need a simple XML file to tell dvdauthor what to do, so I created a base/simple one - open your text editor of choice (vim ftw!) and create a new file:
+[ and create a new file:
 
     
     vi dvdauthor.xml

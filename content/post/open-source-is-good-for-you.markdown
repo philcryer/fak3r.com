@@ -13,7 +13,7 @@ tags:
 - open source
 ---
 
-![Open Source](http://www.fak3r.com/wp-content/uploads/2008/03/opensource.png)A recent study by a tech group talks about not only there being a positive monetary benefit for IT workers to know Open Source, but a more fulfilling sense of purpose as well.  While this tells me nothing I don't already know, it's something that's important as the next wave of IT geeks start knocking on the doors.  "_Want to make more money as an enterprise application developer? You're in luck--if you know open source. [According to a recent report from Bluewolf Consulting](http://www.crn.com/it-channel/206900235), enterprises increasingly deploy open-source software, and look to specialized application development on top of it, to drive business value:_
+, enterprises increasingly deploy open-source software, and look to specialized application development on top of it, to drive business value:_
 
 
 > The rise of open-source software in application development puts developers with a specialization in those technologies in a position to ask for a 30 (percent) or 40 percent pay increase, Kirven says. "We've gotten more requests from our permanent-placement division for open-source developers in the last six months than in the last five or six years combined," he says. "It's not as easy as getting free software; someone has to get it up and running. LAMP is everywhere now--these types of technologies no one heard of 18 months ago are all the sudden becoming a hot commodity."

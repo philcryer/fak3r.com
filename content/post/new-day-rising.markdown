@@ -17,7 +17,7 @@ tags:
 ### 
 
 
-![It was a momentous day...](http://www.fak3r.com/wp-content/uploads/2009/01/012009-momentous-day-p7.jpg)
+
 
 
 

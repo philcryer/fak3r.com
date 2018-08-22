@@ -23,4 +23,4 @@ Stream the new David Byrne / Brian Eno disk, [Everything That Happens Will Happe
 
 
 
-[![](http://www.fak3r.com/wp-content/uploads/2008/09/cd_plus_dig_promo.jpg)](http://www.fak3r.com/wp-content/uploads/2008/09/cd_plus_dig_promo.jpg)
+[

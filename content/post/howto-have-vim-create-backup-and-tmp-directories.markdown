@@ -12,7 +12,7 @@ tags:
 - howto
 ---
 
-![vim](http://fak3r.com/wp-content/uploads/2007/01/vim_editor.gif)This may only apply to those of us geeks that use [vim](http://www.vim.org/) to admin servers daily, but today I needed a way to backup, and automate the creation of backup and tmp directories to house those ever annoying `~` and `.swp` files from showing up in my working directory (`$PWD`).  I didn't want to lose them, just move them somewhere so they don't clutter up the directory I'm working in.   The solution was a function I [found on the vim forums](http://www.vim.org/tips/tip.php?tip_id=1393).  Basically  it uses directories it creates in your home directory, so you'll have something like `~/.vim/backup` and `~/.vim/tmp` which is perfect; files are moved out of the way, but still backed up in a place you can rely on. I slightly reworked this, you can try it out by opening your `~/.vimrc` file, and find the line:
+.  Basically  it uses directories it creates in your home directory, so you'll have something like `~/.vim/backup` and `~/.vim/tmp` which is perfect; files are moved out of the way, but still backed up in a place you can rely on. I slightly reworked this, you can try it out by opening your `~/.vimrc` file, and find the line:
 
     
     <code>set backup            " keep a backup file</code>

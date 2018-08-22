@@ -7,7 +7,7 @@ categories:
 - music
 ---
 
-![holdsteady.gif](http://fak3r.com/wp-content/uploads/2006/10/holdsteady.gif)
+
 
 I've been going back and forth with the "Boys and Girls in America" by [The Hold Steady](http://www.theholdsteady.com/), listened to the standout single, and streamed the full CD...it's got some really good tunes, but I'm not sure if it's going to get the nod at the local rekerd store or not.  Feel free to give your feedback after some listens, it shouldn't hurt.
 

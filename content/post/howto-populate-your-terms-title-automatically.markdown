@@ -13,7 +13,7 @@ tags:
 - howto
 ---
 
-![g33k](http://fak3r.com/wp-content/uploads/2007/06/g33k.jpg)When you're running a ton of termial windows or tabs, it helps to have the title of the box name, along with some environment values, easily available to keep you orientated. Here's a quick script I created to do this automatically when called via your `.profile` file in your home directory.
+When you're running a ton of termial windows or tabs, it helps to have the title of the box name, along with some environment values, easily available to keep you orientated. Here's a quick script I created to do this automatically when called via your `.profile` file in your home directory.
 
 
     

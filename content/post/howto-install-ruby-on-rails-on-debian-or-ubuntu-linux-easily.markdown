@@ -27,7 +27,7 @@ tags:
 - wordpress
 ---
 
-[![](http://www.fak3r.com/wp-content/uploads/2008/10/rails1.png)](http://www.fak3r.com/wp-content/uploads/2008/10/rails1.png)In the early days of this blog I used to run it on [Typo](http://www.typosphere.org/projects/show/typo), which *was* a great [Ruby on Rails](http://rubyonrails.org/) blogging platform (at one time).  Unfortunately the project stalled (for years) and I ended up jumping ship after a few months of bugs and the ever crashing Rails server, WEBrick.  Yes, if you search [Netcraft](http://netcraft.com) you could see that was my *exposed* server at the time...not good! ;)  Now if you look, Typo is still kicking, and it *may* be a solid platform now, I hope it is, as I even contributed a ton of the achieved themes that live on in the 'Theme Garden' there.  But on I moved into the world of MySQL/PHP front end sites via great apps like [Drupal](http://drupal.org) and [Wordpress](http://wordpress.org), fast forward, Ruby on Rails is a mature platform now, and I am evaluating webapps at work, so I needed to install Rails on [Debian GNU/Linux](http://debian.org) (but of course these directions would work just as well in [Ubuntu Linux](http://ubuntu.com).  It's amazing simple, I took some steps from the [Ruby on Rails wiki](http://wiki.rubyonrails.org/rails/pages/Installation), first install the dependencies for good measure:<!-- more -->
+[, first install the dependencies for good measure:<!-- more -->
 
 `apt-get -y install ruby irb ri rdoc ruby1.8-dev build-essential`
 

@@ -11,7 +11,7 @@ tags:
 - tech
 ---
 
-![Black iPod Classic](http://fak3r.com/wp-content/uploads/2007/09/product-black-classic.jpg)
+
 
 **UPDATE:** Hold the phone here, before going too gaga over the new iPods, it's been revealed that they've been 're-engineered' to lock out folks trying to sync their iPods using 3rd party apps, or (gasp) Linux!  That's right, they want you to use ONLY Windows or OSX and iTunes...this is ridiculous.  See my [post on our sister site Left to chance ](http://lefttochance.com/?p=9)to learn more.  This is what we talk about when we say Digital Rights, we can't give them up now and expect to have them in the future!
 

@@ -16,7 +16,7 @@ tags:
 - ubuntu
 ---
 
-![Fonts FTW](http://fak3r.com/wp-content/uploads/2008/07/font-bitmap.png)**UPDATE**: also, before you try this, make sure you have some good fonts installed, after a fresh install of Lenny at work, I needed to run this first: _apt-get install ttf-mscorefonts-installer msttcorefonts_
+**UPDATE**: also, before you try this, make sure you have some good fonts installed, after a fresh install of Lenny at work, I needed to run this first: _apt-get install ttf-mscorefonts-installer msttcorefonts_
 
 After a...slight slip up, I finally had the chance to install Linux from scratch on my laptop (Dell Vostro 1500) the way I've always wanted it with Debian GNU/Linux - Lenny and partitioned with LVM (Linux Volume Management).  After that I set out to get the desktop fonts to look as good in Debian as they did (by default) in Ubuntu.  After much scouring around online I found a pretty easy tweak that got me most of the way.  As root:
 

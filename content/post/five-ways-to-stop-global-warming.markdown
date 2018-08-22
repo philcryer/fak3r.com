@@ -10,7 +10,7 @@ tags:
 - health
 ---
 
-![Stop global warming](http://www.fak3r.com/wp-content/uploads/2007/05/stopglobalwarming.JPG)I'm a big fan of Working Assets, and lately they sent out an email with five suggestion how you can help to stop global warming.  Yes, the last suggestion is to get their credit card (I have had one for years now), but look at the benefits you get from theirs, versus what you're getting from yours and decide if that's important for you.  When they offer things like planting a tree and donating .10 to alternative energy groups every time you buy gas with the card, or .10 to progressive non-profits fighting for human rights with any other purchase, it makes it a no brainer for me.   See more [benefits](http://www.workingassets.com/fuel/fuelingfuture.html) here, or read more for their Five Cool Ways to Stop Global Warming.
+ here, or read more for their Five Cool Ways to Stop Global Warming.
 
 <!-- more -->
 

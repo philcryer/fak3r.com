@@ -19,7 +19,7 @@ tags:
 - tunes
 ---
 
-[caption id="attachment_1167" align="alignright" width="173" caption="YouTube"]![YouTube](http://www.fak3r.com/wp-content/uploads/2008/10/youtube1.jpg)[/caption]
+[caption id="attachment_1167" align="alignright" width="173" caption="YouTube"][/caption]
 
 Found this mashup of a script that searches +5000 mp3blogs for tunes.  Just type something in and see what you can find.  I still contend that MP3s are the best way to discover new music - and having something so open like this allows you to hear any band you can think of.  Put quotes around multi-word entries to narrow things down. (ie- "The Smoking Popes")
 

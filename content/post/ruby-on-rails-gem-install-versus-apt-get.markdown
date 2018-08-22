@@ -21,7 +21,7 @@ tags:
 - update
 ---
 
-![rails](http://fak3r.com/wp-content/uploads/2008/10/rails.png)**UPDATE:** Thanks to Ryan, Ant and Fern for the tips.  With that in mind I found an online [Slicehost tutorial](http://articles.slicehost.com/2009/4/9/debian-lenny-ruby-on-rails) that contained the steps and explained how to install ruby via apt-get, then get the latest rubygems, install that manually, ran gem to update itself, then run gem to install rails - as suggested.  The steps I took from that page:
+ that contained the steps and explained how to install ruby via apt-get, then get the latest rubygems, install that manually, ran gem to update itself, then run gem to install rails - as suggested.  The steps I took from that page:
 <!-- more -->
 On a _Debian Lenny_ system that does not have ruby, rubygems or rails installed on it yet:
 

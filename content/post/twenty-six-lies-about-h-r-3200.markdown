@@ -15,7 +15,7 @@ tags:
 - politics
 ---
 
-![factcheck_thumb](http://fak3r.com/wp-content/uploads/2009/09/factcheck_thumb.jpg)With all the craziness around the health care debate, the facts are getting lost.  There is simply no way we're going to have a productive conversation on the issues when the facts are not known or heeded.  There is a great article on [Factcheck.org](http://wordpress.asc.upenn.edu) that debunks many of the non-truths that are being thrown around as justification for calling people Nazis.  Let's grow up and figure out a way to see both sides without name calling, please review these and expose them to others who are not using facts in their arguments.<!-- more -->
+ that debunks many of the non-truths that are being thrown around as justification for calling people Nazis.  Let's grow up and figure out a way to see both sides without name calling, please review these and expose them to others who are not using facts in their arguments.<!-- more -->
 
 
 > 

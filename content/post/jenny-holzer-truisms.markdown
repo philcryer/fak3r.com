@@ -15,14 +15,14 @@ tags:
 - truisms
 ---
 
-[caption id="attachment_2885" align="aligncenter" width="456" caption="Jenny Holzer 'Truisms' 1977"][![Jenny Holzer 'Truisms' 1977](http://fak3r.com/wp-content/blogs.dir/12/files/2008-12-05-Holzer20Truisms2019779.jpg)](http://fak3r.com/media/jenny-holzer-truisms/attachment/2008-12-05-holzer20truisms2019779/)[/caption]
+[caption id="attachment_2885" align="aligncenter" width="456" caption="Jenny Holzer 'Truisms' 1977"][[/caption]
 
 I've long been a fan of [Jenny Holzer's](http://en.wikipedia.org/wiki/Jenny_Holzer) art, dealing with text, originally printed as photostat, but later displayed on billboards, in Times Square on the big screen (pictured) and later projected in huge letters on buildings. The idea of presenting ones ideas, or as in this case, declared maxims for her _Trusims_. I can't recall where i first came across this piece, but I love reading through them all, with the one "_abuse of power comes as no surprise_" being my favorite. Even after I forgot about this piece, I never forgot that line and thought of it often. I mean think about it, does that ever *not* happen? She's an American artist, born in 1950 in Ohio, who started using text as her primary means in the late 70s. An original version of the piece is now part of [The Museum of Modern Art](https://www.moma.org/collection/browse_results.php?criteria=O%3AAD%3AE%3A2714&page_number=1&template_id=1&sort_order=1) (MoMA) in New York, and they described it as "..._her pithy, ironic, and often disturbing statements have been presented on posters, T-shirts, baseball caps, and a flashing screen in Times Square, New York_."
 
 
 > _ _
 
-[caption id="attachment_2886" align="alignright" width="202" caption="Jenny Holzer"][![Jenny Holzer](http://fak3r.com/wp-content/blogs.dir/12/files/jenny.jpg)](http://fak3r.com/media/jenny-holzer-truisms/attachment/jenny/)[/caption]
+[caption id="attachment_2886" align="alignright" width="202" caption="Jenny Holzer"][[/caption]
 
 __The Photostat, _Truisms_, seen here presents eighty-six of Holzer's ongoing series of maxims. Variously insightful, aggressive, or comic, they express multiple viewpoints that the artist hopes will arouse a wide range of responses. A small selection of _Truisms_ includes: "A lot of professionals are crackpots"; "Abuse of power comes as no surprise"; "Bad intentions can yield good results"; and "Categorizing fear is calming."_
 

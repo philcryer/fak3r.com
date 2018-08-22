@@ -10,7 +10,7 @@ categories:
 "_Let this be a warning, this is what 48 looks like... So you may not want to stick around._"  This is how Morrissey started his Saint Louis show, celebrating a birthday, and giving an all out incredible show, his first here since 1992.
 
 
-![Morrissey](http://fak3r.com/wp-content/uploads/2007/06/moz1.jpg)
+
 
 
 Appearing completely at ease, he commanded the stage while the crowd went absolutely nuts; he could do no wrong.

@@ -14,7 +14,7 @@ tags:
 - windows
 ---
 
-![bsod on an iMac](http://www.fak3r.com/wp-content/uploads/2008/01/bsodimac.jpg)Today at work someone running Windows on a Mac was having an issue communicating through the third party firewall software.  The response from the third party was that they don't support Mac, but my contention is that Mac has nothing to do with someone running Windows, after installing it via Boot Camp.  I want to know the answer to this, so I'm posting it here, feel free to educate me if I'm missing something.  (Note: names have been changed to protect the (non) supporting party).  So, it is my understanding that Boot Camp only installs Windows on a Mac machine (does the partitioning, installs some drivers for the hardware and guides you through installing Windows from an existing CD) after that when you boot the system you can choose Mac's OS X or Windows, and that after choosing Windows it's running 'natively' on the hardware and not under any kind of virtualization.  [From Apple's site](http://www.apple.com/pr/library/2006/apr/05bootcamp.html):
+:
 
 
 > Boot Camp simplifies Windows installation on an Intel-based Mac by providing a simple graphical step-by-step assistant application to dynamically create a second partition on the hard drive for Windows, to burn a CD with all the necessary Windows drivers, and to install Windows from a Windows XP installation CD. After installation is complete, users can choose to run either Mac OS X or Windows when they restart their computer.<!-- more -->

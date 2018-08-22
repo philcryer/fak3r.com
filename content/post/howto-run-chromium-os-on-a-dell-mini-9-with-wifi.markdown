@@ -26,7 +26,7 @@ tags:
 - ubuntu
 ---
 
-![chrome-icon-200x200](http://fak3r.com/wp-content/uploads/2009/12/chrome-icon-200x200.jpg)
+
 
 **UPDATE 2: **it's 2012, and now I'm running the special Dell builds, with wifi (Hexxeh's builds (even Lime) don't support wifi on the Dell Mini 9 for me, even though the docs say it supports Broadcom BCM43xx chipsets), but there are docs to get Dell's custom builds rolling. The updated instructions are available on [kirsle.net](http://www.kirsle.net/blog/kirsle/install-chromium-os-lime) (thanks Kirsle!) Note that I also had the issue with the Dell April 15 build not booting after install without the USB drive, but there was a solution in the comments pointing to [this page](http://www.mydellmini.com/forum/google-chrome-os/28131-nice-new-chromeos-dell-4-15-2012-install-solid-state-drive-issue.html#post195917) on My Dell Mini and now it's all good. It's so nice to have this working again, looks like now it's going to be my laptop for next week's DEF CON 20!
 

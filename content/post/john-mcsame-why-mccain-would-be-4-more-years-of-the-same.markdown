@@ -18,7 +18,7 @@ tags:
 - vote
 ---
 
-[![Why McCain would be another 4 years of the same](http://www.fak3r.com/wp-content/uploads/2008/06/mcbush-mccain-bush-230x300.jpg)](http://www.fak3r.com/wp-content/uploads/2008/06/mcbush-mccain-bush.jpg)**UPDATE**: months after confusing [Iran and Iraq](http://thecaucus.blogs.nytimes.com/2008/03/18/mccain-misspeaks-on-iran-al-qaeda/), ([multiple](http://www.timesonline.co.uk/tol/news/world/us_and_americas/us_elections/article3582503.ece) - [times](http://www.huffingtonpost.com/2008/03/19/mccain-repeats-iranal-qa_n_92349.html)), M.c.Cain continues to try to upstage Bush's famous canon of mis-spoken quotes by stating that [Putin is President of Germany](http://www.someofnothing.com/2008/06/john-mccain-putin-germany-nothing-to.html).
+[.
 
 Say what you want about Barack Obama's 'change' message, just know if you go with J.o.hn M.c.Cain you're saying yes to four more years of Bush style politics.  While he's still hawking that 'maverick' tag, don't believe the hype, instead, let's look at some statements by the senator.  Recently M.c.Cain perked my interest when he came out _in favor _of FISA, warrantless wiretapping/eavesdropping and executive power.  Funny thing is, he had the [exact opposite opinion on these topics](http://www.salon.com/opinion/greenwald/2008/06/06/mccain/print.html) when he was asked in December 2007!
 

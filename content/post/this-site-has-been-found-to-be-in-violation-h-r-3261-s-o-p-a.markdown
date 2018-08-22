@@ -8,7 +8,7 @@ categories:
 - headline
 ---
 
-[![](https://fak3r.com/wp-content/blogs.dir/12/files/sopa-logo.jpg)](http://fak3r.com/2012/01/12/this-site-has-been-found-to-be-in-violation-h-r-3261-s-o-p-a/sopa-logo/)
+[
 
 
 "Congress is about to pass internet censorship, even though the vast majority of Americans are opposed. We need to kill the bill - PIPA in the Senate and SOPA in the House - to protect our rights to free speech, privacy, and prosperity. Click [here](http://americancensorship.org/infographic.html) to learn more."

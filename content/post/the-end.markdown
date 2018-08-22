@@ -17,7 +17,7 @@ tags:
 - Washington DC
 ---
 
-![george_bush_holding_breath](http://www.fak3r.com/wp-content/uploads/2009/01/george_bush_holding_breath.jpg)
+
 
 
 

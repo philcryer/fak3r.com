@@ -19,7 +19,7 @@ tags:
 On December 9, 10 [Robert Pollard](http://robertpollard.net/) had his debut art exhibit called _Do The Collage_ (a play on the title of [Guided by Voices](http://gbv.com) 1999 release, _Do The Collapse_) at [Studio Dante](http://www.studiodante.com). in New York City.  Now [the entire exhibit is online](http://robertpollard.net/1.html) (but note the person pictured at that link is not Bob), and  it displays the talents of Bob's cut and paste collages, much like the sound of his band's early recordings.
 
 
-[![WHAT SO EVER IS YOUR TRIP TOTALLY](http://fak3r.com/wp-content/uploads/2008/01/whatsoeverisyourtrip.jpg)](http://robertpollard.net/49.html)
+[
 
 
 

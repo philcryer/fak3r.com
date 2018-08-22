@@ -9,7 +9,7 @@ categories:
 - music
 ---
 
-[![John Daker](http://fak3r.com/wp-content/uploads/2010/07/john_daker.jpg)](http://fak3r.com/wp-content/uploads/2010/07/john_daker.jpg)Internet memes come, and internet memes go. Some have more traction than others and just become part of the lexicon, while some, seemingly worthy of adoration, don't. When I first saw this one it was linked to on Twitter by Charlie Day (aka Charlie on the incredible [It's Always Sunny in Philadelphia](http://en.wikipedia.org/wiki/It's_Always_Sunny_in_Philadelphia)) who posted, _@TheCharlieDay: http://bit.ly/aCUAAz Also Glenn sent this to me and it rules. _The backstory to is that John Daker, in 1990, was on a Peoria, Illinois public access channel singing for a music teachers' bi-annual recital, and the tape ended up online, and people (naturally) took notice. Now it's your turn, I present to you the video entitled, My name is John Daker...
+[ took notice. Now it's your turn, I present to you the video entitled, My name is John Daker...
 http://www.youtube.com/watch?v=Zi8beYR1iBQ
 <!-- more -->
 More background on this fun from the [Statemaster Encyclopedia](http://www.statemaster.com/encyclopedia/John-Daker)

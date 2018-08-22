@@ -17,7 +17,7 @@ tags:
 - tweak
 ---
 
-![Firefox logo](http://www.fak3r.com/wp-content/uploads/2008/01/firefox-logo.jpg)These are some basic tweaks to speed up Firefox that have been tried and true for some time now.  I haven't seen these collected in one place recently, so if you have Firefox and want to improve its performance, try these steps.  If you have a broadband connection (who doesn't?), you can speed up your page loads considerably using these steps.   Basically you're allowing Firefox to load multiple things on a page instead of one at a time. By default, it’s optimized for dialup connections (lowest common denominator) so here's what you need to do to fix that.
+ so here's what you need to do to fix that.
 
 
 

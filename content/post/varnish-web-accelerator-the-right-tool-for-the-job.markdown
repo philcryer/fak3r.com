@@ -13,7 +13,7 @@ tags:
 - varnish
 ---
 
-![Varnish logo](http://www.fak3r.com/wp-content/uploads/2007/11/varnish-logo-red-64.gif)_**Note**: The following testing and writeup occurred in the Fall of 2007 following months of research and conjecture.  I repost it now because it was not originally posted publicly, and because the results are still a driving factor in how I architect systems for web production.  This week I am implementing Varnish to enhance an image server's ability to scale and serve images online._
+_**Note**: The following testing and writeup occurred in the Fall of 2007 following months of research and conjecture.  I repost it now because it was not originally posted publicly, and because the results are still a driving factor in how I architect systems for web production.  This week I am implementing Varnish to enhance an image server's ability to scale and serve images online._
 
 **The Job**
 
@@ -29,7 +29,7 @@ A client's new 'enterprise' content management system proves to be far too slow 
 
 
 
-![Varnish, versus other options](http://www.fak3r.com/wp-content/uploads/2008/12/varnish-graph.gif)
+
 
 
 After testing Varnish against other solutions for over a month, the following strengths and weaknesses have been observed:

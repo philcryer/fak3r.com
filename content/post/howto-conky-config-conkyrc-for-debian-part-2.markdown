@@ -17,7 +17,7 @@ tags:
 - openbox
 ---
 
-[![](http://www.fak3r.com/wp-content/uploads/2008/09/conky-unix-program-screen-shot.png)](http://www.fak3r.com/wp-content/uploads/2008/09/conky-unix-program-screen-shot.png)I changed around my [Conky](http://conky.sourceforge.net/) config, and it's something you could do forever, but it's great because it can be as heavy or light as you want it.  Recently I dropped Gnome almost all together to run Openbox (full HOWTO on this forthcoming).  I found a panel that will house things like nm-applet output, but was missing things like a simple clock, network activity, etc.  So now, using most of the same code/look that I used [here](http://fak3r.com/2008/07/01/howto-conky-config-conkyrc-for-debian/), I have a small, transparent strip at the bottom of the screen showing me time, date, proc, proc temp, network up, network down, and power status (battery, AC and the level of charge).  It looks good, it's light, it's all I need.  Nice to bring some of the memory requirements down from Gnome as well.
+[.  It looks good, it's light, it's all I need.  Nice to bring some of the memory requirements down from Gnome as well.
 
 
 > # Create own window instead of using desktop (required in nautilus)

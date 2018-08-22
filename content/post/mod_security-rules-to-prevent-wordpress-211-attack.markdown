@@ -10,7 +10,7 @@ tags:
 - security
 ---
 
-[![mod_security](http://fak3r.com/wp-content/uploads/2007/03/modsecurity-button.gif)](http://www.modsecurity.org/)Anyone hosting a Wordpress 2.1.1 install should upgrade or immediately prevent access to certain queries to prevent an attack described [here](http://wordpress.org/development/2007/03/upgrade-212/). If the server is running Apache with [mod_security](http://www.modsecurity.org/), simply update your httpd.conf with the following rules:
+[, simply update your httpd.conf with the following rules:
 
 `<IfModule mod_security.c>
 SecFilterEngine On

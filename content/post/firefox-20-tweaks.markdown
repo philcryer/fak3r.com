@@ -9,7 +9,7 @@ tags:
 - code
 ---
 
-![firefox-logo.jpg](http://fak3r.com/wp-content/uploads/2006/10/firefox-logo.jpg)By now you should know that if you surf the web, you should be using [Firefox](http://www.mozilla.com/en-US/firefox/).  Earlier this week they released version 2.0 with a host of improvements (many small) and some needed polish.  While the jump to 2.0 may have been a bit of a reach, the direction Firefox is heading is always interesting.  Of course being an open source project there's always room for tweaking, and while I now take a much more conservative approach to it, I still think changing some things make it (much) better.  After a recent post on Digg I reworked a fresh copy of 2.0 to have minimal tweaks that don't overwhelm or cause instability.  Here I'll document my basic changes and welcome comments on them, or any others that users prefer.  ([Continue reading](http://fak3r.com/2006/10/26/firefox-20-tweaks/#more-231))<!-- more -->
+<!-- more -->
 
 
 * * *
@@ -22,7 +22,7 @@ First, the only add-on or extension that I install is called [Fission](https://a
 
 
 
-![fission-1.jpg](http://fak3r.com/wp-content/uploads/2006/10/fission-1.jpg)
+
 
 
 Another of its options (and one that I now use) is to also allow the 'Status bar' messages to appear in the Address bar, this way when a page is loading, or when your cursor hovers over a link, the URL appears in the Address bar.  Now you can click 'View -> Status bar' and turn it off, giving you a tad more real estate, but also making the browser that much cleaner.  Hard to explain, but really nice in my mind.  Check out Fission's preferences for a guide.

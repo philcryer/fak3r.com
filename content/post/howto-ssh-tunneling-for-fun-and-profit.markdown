@@ -12,7 +12,7 @@ tags:
 - howto
 ---
 
-![OpenSSH book](http://fak3r.com/wp-content/uploads/2007/04/0596000111_cat.gif)Recently I had an issue at work; while trying to transfer files between Unix hosts we were unable to hit the known scp port, but we could still hit the ssh port. All of this was occurring from home, late at night on a Saturday where I was the main technical point man to move/install these files. In the past I had done ssh tunneling, but never on the fly to fix something like this, so I cracked open my notes and did a quick Google search for a refresher.
+Recently I had an issue at work; while trying to transfer files between Unix hosts we were unable to hit the known scp port, but we could still hit the ssh port. All of this was occurring from home, late at night on a Saturday where I was the main technical point man to move/install these files. In the past I had done ssh tunneling, but never on the fly to fix something like this, so I cracked open my notes and did a quick Google search for a refresher.
 
 The first we'll look at the basic syntax of the command to setup the SSH tunnel:
 

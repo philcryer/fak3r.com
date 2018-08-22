@@ -19,7 +19,7 @@ tags:
 - vote
 ---
 
-![Hillary beats Obama?](http://fak3r.com/wp-content/uploads/2008/01/20071031_dn_0jqr5btl_0.jpg)Hillary is being crowned the 'come from behind kid' after 'winning' the New Hampshire primary; but this appears to be nothing but spin.  First of all the results, Hillary took 39% of the popular vote to Barack 's 37%, so Hillary wins, right?  Not exactly, if you look at the delegate count you'll see a different picture.  Remember, people can win the popular vote and loose the election (Gore).  From the article/discussion on [CNN's Political Ticker](http://politicalticker.blogs.cnn.com/2008/01/09/final-the-new-hampshire-delegate-breakdown/) you'll see the results:<!-- more -->
+ you'll see the results:<!-- more -->
 
 
 > In the New Hampshire Democratic primary

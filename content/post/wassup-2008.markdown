@@ -14,4 +14,4 @@ tags:
 
 File under: it's funny cause it's true.  I mean, tru, tru.
 
-![](http://www.fak3r.com/wp-content/uploads/2008/11/2.jpg)
+

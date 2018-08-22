@@ -20,7 +20,7 @@ tags:
 - shop local
 ---
 
-[![](http://fak3r.com/wp-content/blogs.dir/12/files/RSD2011DATE-300x210.jpg)](http://fak3r.com/commentary/commerce/howto-make-a-diy-record-store-day-sign/attachment/print/)**UPDATE**: My wife got a great picture of me enjoying myself at [Euclid Records](http://www.euclidrecords.com/) (see it at the bottom of this post) celebrating Record Store Day 2011 - such a great day! Thanks again to all at Euclid, thanks to[ Dave the St. Louis PBR rep](https://twitter.com/#!/pbr_stlouis) and to RSD organizers everywhere!
+[ and to RSD organizers everywhere!
 
 **BONUS**: I've got a shot of the finished sign, installed in my yard, at the end of the post now. Enjoy, and I'll see some of you Saturday!
 
@@ -28,7 +28,7 @@ As you should know by now, [Record Store Day](http://www.recordstoreday.com/) (A
 
 <!-- more -->
 
-[caption id="attachment_2903" align="aligncenter" width="488" caption="I confront RSD and, with fists raised, demand justice!"][![fak3r confronts RSD and demands justice](http://fak3r.com/wp-content/blogs.dir/12/files/rsd_twitter.png)](http://fak3r.com/commentary/commerce/howto-make-a-diy-record-store-day-sign/attachment/rsd_twitter/)[/caption]
+[caption id="attachment_2903" align="aligncenter" width="488" caption="I confront RSD and, with fists raised, demand justice!"][[/caption]
 
 ..and since they didn't - my mind full of morning coffee starting cranking on the problem and quickly came up with an (almost) free DIY solution. One that would promote RSD and allow others to do the same, in their own way, or a new way, using my simple idea as a base (hmm...sounds like why I like open source software...but I digress, we're talking about MUSIC in this post people!). I know of a few places online that you can upload an image and have it blown up so it can be printed across multiple pages that you can then piece together like a puzzle, but my favorite one is [Block Posters](http://www.blockposters.com/). Now I'm sure some crazy Photoshop people can do this better, and I hope they do, but I wanted to keep a free option for those that don't have the chops and/or software to go that route. So, if ready for the challenge, here are the steps:
 
@@ -52,7 +52,7 @@ As you should know by now, [Record Store Day](http://www.recordstoreday.com/) (A
 
 For people that are happy with the basic size of 2.8 feet wide by 2 feet high, I've saved a copy so as not to hammer the nice folks at Block Posters, it was created with the preferred JPG from above and these basic options...
 
-[caption id="attachment_2908" align="aligncenter" width="493" caption="Default settings make it 2.8 feet wide and 2 feet high"][![Default settings make it 2.8 feet wide and 2 feet high](http://fak3r.com/wp-content/blogs.dir/12/files/rsd_bp.png)](http://fak3r.com/commentary/commerce/howto-make-a-diy-record-store-day-sign/attachment/rsd_bp/)[/caption]
+[caption id="attachment_2908" align="aligncenter" width="493" caption="Default settings make it 2.8 feet wide and 2 feet high"][[/caption]
 
 and you can [grab it here](http://dl.dropbox.com/u/649440/BlockPosters-YourPoster-809.pdf). Wow, how considerate am I?
 
@@ -68,7 +68,7 @@ Here's the finished product, installed and ready for the passing motorists!
 
 
 
-[caption id="attachment_2927" align="aligncenter" width="420" caption="Another roadside attraction "][![Another roadside attraction](http://fak3r.com/wp-content/blogs.dir/12/files/rsd_sign.jpg)](http://fak3r.com/commentary/commerce/howto-make-a-diy-record-store-day-sign/attachment/rsd_sign/)[/caption]
+[caption id="attachment_2927" align="aligncenter" width="420" caption="Another roadside attraction "][[/caption]
 
 
 I went to Record Store Day 2011, and all I got was an armful of records and cds, earfuls of live music by bands all day, free beer, a goofy grin and the realization that if stores and communities like this continue to exist through this part of our history, things just might be ok.
@@ -76,4 +76,4 @@ I went to Record Store Day 2011, and all I got was an armful of records and cds,
 
 
 
-[caption id="attachment_2941" align="aligncenter" width="408" caption="Me, fak3r, thoroughly enjoying myself at Record Store Day 2011"][![Me, fak3r, thoroughly enjoying myself at Record Store Day 2011](http://fak3r.com/wp-content/blogs.dir/12/files/rsd11.jpg)](http://fak3r.com/commentary/commerce/howto-make-a-diy-record-store-day-sign/attachment/rsd11/)[/caption]
+[caption id="attachment_2941" align="aligncenter" width="408" caption="Me, fak3r, thoroughly enjoying myself at Record Store Day 2011"][[/caption]

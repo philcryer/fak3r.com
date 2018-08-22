@@ -9,7 +9,7 @@ tags:
 - newstudy
 ---
 
-[![erasism](http://fak3r.com/wp-content/uploads/2007/01/rally.jpg)](http://www.eracismneworleans.org/)A sad study showing that most [kids are already prejudiced by age 6](http://www.psychologytoday.com/rss/pto-20031022-000004.html).  Damn, this is awful.
+[.  Damn, this is awful.
 
 
 
@@ -48,4 +48,4 @@ Go to the [Eracism site](http://www.eracismneworleans.org/) and get a sticker, s
 
 
 
-[![eracism](http://fak3r.com/wp-content/uploads/2007/01/eracism-logo-391.jpg)](http://www.eracismneworleans.org/)
+[

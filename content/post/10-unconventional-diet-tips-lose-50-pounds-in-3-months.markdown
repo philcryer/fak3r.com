@@ -15,7 +15,7 @@ tags:
 - weight loss tips
 ---
 
-[![Weigh loss](http://www.fak3r.com/wp-content/uploads/2008/05/scale.jpg)](http://www.fak3r.com/wp-content/uploads/2008/05/scale.jpg)I found this inspirational post on [Lifehack](http://www.lifehack.org/articles/lifestyle/10-unconventional-diet-tips-how-to-lose-50-pounds-in-three-months.html) once about losing 50 pounds in 3 months, and I've had it bookmarked ever since.  It seems to promote 10 positive steps to loose weight that are sensible and attainable.  Perhaps I'll give this a go sometime soon, even though I only want to loose 15-20 pounds (hello?  Wii Fit?)
+[
 
 "_The following are 10 unconventional weight loss tips that worked for me. Between January 4, 2006 and March 31, 2006 I lost fifty pounds. These tips work well because almost every tip is focused around completing a small goal. In my opinion, to stay motivated and lose a significant amount of weight, you should complete many goals in a short period of time. The reason I call these tips unconventional is that I had not seen a majority of them before starting my diet._
 

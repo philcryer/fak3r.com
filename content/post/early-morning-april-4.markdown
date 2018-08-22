@@ -13,7 +13,7 @@ tags:
 - mlk
 ---
 
-![April 4](http://www.fak3r.com/wp-content/uploads/2008/04/april4.jpg)![april 4](http://www.fak3r.com/wp-content/uploads/2008/04/april4.gif)![april 4](http://www.fak3r.com/wp-content/uploads/2008/04/april4.gif)
+
 
 
 

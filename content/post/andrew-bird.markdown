@@ -7,7 +7,7 @@ categories:
 - blah
 ---
 
-![abird2.jpg](http://fak3r.com/wp-content/uploads/2006/08/abird2.thumbnail.jpg)![abird3.jpg](http://fak3r.com/wp-content/uploads/2006/08/abird3.thumbnail.jpg)![abird.jpg](http://fak3r.com/wp-content/uploads/2006/08/abird.thumbnail.jpg)![abird4.jpg](http://www.fak3r.com/wp-content/uploads/2006/08/abird4.thumbnail.jpg)
+
 
 
 

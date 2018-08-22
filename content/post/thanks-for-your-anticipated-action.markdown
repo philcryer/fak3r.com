@@ -8,7 +8,7 @@ categories:
 - spam
 ---
 
-![Spam](http://fak3r.com/wp-content/uploads/2007/01/spam.gif)I'll admit it, I'm often entertained by spam, and with the slew of job opportunity emails I've been seeing lately it's easy to get them confused, except for this one.  It really stands out, and while it's not the right opportunity for me, I hope it is for someone (I'd like to know exactly how they scam people with this, since it's not apparent from the intro).
+.
 
 
 > From         Alfonzo Merrill <bbpesq@aol.com>

@@ -20,7 +20,7 @@ tags:
 - records
 ---
 
-![Record Store Day 2009](http://www.fak3r.com/wp-content/uploads/2009/03/recordstoreday2009.jpg)
+
 
 
 

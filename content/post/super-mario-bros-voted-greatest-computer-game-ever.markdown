@@ -17,7 +17,7 @@ tags:
 - wii
 ---
 
-[![](http://www.fak3r.com/wp-content/uploads/2008/09/super-mario-bros.jpg)](http://www.fak3r.com/wp-content/uploads/2008/09/super-mario-bros.jpg)
+[
 
 
 

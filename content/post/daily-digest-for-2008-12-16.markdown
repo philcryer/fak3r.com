@@ -13,7 +13,7 @@ categories:
 
         
 
-            ![twitter (feed #10)](http://www.fak3r.com/wp-content/plugins/lifestream/images/twitter.png)
+            
         
 
         
@@ -35,7 +35,7 @@ Open Semantic Collaboration Architecture Foundation [http://www.oscaf.org/node/1
 
         
 
-            ![twitter (feed #10)](http://www.fak3r.com/wp-content/plugins/lifestream/images/twitter.png)
+            
         
 
         
@@ -57,7 +57,7 @@ Open Semantic Collaboration Architecture Foundation [http://www.oscaf.org/node/1
 
         
 
-            ![twitter (feed #10)](http://www.fak3r.com/wp-content/plugins/lifestream/images/twitter.png)
+            
         
 
         
@@ -79,7 +79,7 @@ Open Semantic Collaboration Architecture Foundation [http://www.oscaf.org/node/1
 
         
 
-            ![twitter (feed #10)](http://www.fak3r.com/wp-content/plugins/lifestream/images/twitter.png)
+            
         
 
         
@@ -101,7 +101,7 @@ Dries on his software Drupal, the semantic web and search - [http://tinyurl.com/
 
         
 
-            ![delicious (feed #2)](http://www.fak3r.com/wp-content/plugins/lifestream/images/delicious.png)
+            
         
 
         
@@ -123,7 +123,7 @@ Dries on his software Drupal, the semantic web and search - [http://tinyurl.com/
 
         
 
-            ![delicious (feed #2)](http://www.fak3r.com/wp-content/plugins/lifestream/images/delicious.png)
+            
         
 
         
@@ -145,7 +145,7 @@ Dries on his software Drupal, the semantic web and search - [http://tinyurl.com/
 
         
 
-            ![twitter (feed #10)](http://www.fak3r.com/wp-content/plugins/lifestream/images/twitter.png)
+            
         
 
         

@@ -18,7 +18,7 @@ tags:
 - unison
 ---
 
-[![DEFCON 19](http://fak3r.com/wp-content/blogs.dir/12/files/dc19-logo_smsq.png)](http://fak3r.com/geek/defcon-19-taking-your-ball-and-going-home/attachment/dc19-logo_smsq/)
+[
     DEFCON 19 logo
 **UPDATE** you can now view a video of my slides, along with the audio of my talk on the [DC archive page](https://www.defcon.org/html/links/dc-archives/dc-19-archive.html#Cryer) (45 Megs)
 
@@ -37,14 +37,14 @@ View more [of my presentations at Slideshare.](http://www.slideshare.net/phil.cr
 
 Some pictures of me, during my talk in Track 2 at the Rio on Sunday:
 
-[caption id="attachment_3178" align="alignnone" width="576"][![Me talking at DECON 19](http://fak3r.com/wp-content/blogs.dir/12/files/6019454925_dfc1cb35e0_z.jpg)](http://fak3r.com/geek/defcon-19-taking-your-ball-and-going-home/attachment/6019454925_dfc1cb35e0_z/) Me talking at DECON 19[/caption]
+[caption id="attachment_3178" align="alignnone" width="576"][ Me talking at DECON 19[/caption]
 
 Special thanks to my old friend Fern, and time traveler Dave for coming in town, enjoying the insanity and showing their support. DEFCON is the annual meetup that never disappoints, and I was really humbled to be part of it this year.
 
-[caption id="attachment_3179" align="alignnone" width="576"][![Me talking at DECON 19](http://fak3r.com/wp-content/blogs.dir/12/files/6019998670_fa3799df28_z.jpg)](http://fak3r.com/geek/defcon-19-taking-your-ball-and-going-home/attachment/6019998670_fa3799df28_z/) Me talking at DECON 19[/caption]
+[caption id="attachment_3179" align="alignnone" width="576"][ Me talking at DECON 19[/caption]
 
 And a feel for what it looked like from the crowd; you'll notice a bunch of people gathered around me at the table asking questions, and helping themselves to the free [Tootsie Pops](http://www.tootsie.com/products.php?pid=168) I brought for everyone! Ya, it was a big hit, and helped me distribute the simple (personal) business cards I printed at home (DIY FTW!)
 
-[caption id="attachment_3180" align="alignnone" width="576"][![Me talking at DECON 19](http://fak3r.com/wp-content/blogs.dir/12/files/6019457419_f7511657e7_z.jpg)](http://fak3r.com/geek/defcon-19-taking-your-ball-and-going-home/attachment/6019457419_f7511657e7_z/) The crowd at DECON 19[/caption]
+[caption id="attachment_3180" align="alignnone" width="576"][ The crowd at DECON 19[/caption]
 
 The DEFCON conference this year was held at the [Rio](http://www.riolasvegas.com/) for the first, time, which was a huge improvement over the [Riviera](https://www.rivierahotel.com/) in terms of conference space, and amenities. While the crowd was recently estimated as being 11,500, there were very few lines, and none of the overcrowding that pervaded the prior years (I've been coming since DEFCON 14) we saw at the Riviera.

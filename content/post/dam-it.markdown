@@ -7,7 +7,7 @@ categories:
 - blah
 ---
 
-[![Dam it](http://fak3r.com/wp-content/uploads/2007/02/lake_travis_dam_as_the_sun_setswebsized.jpg)](http://fak3r.com/wp-content/uploads/2007/02/dam_it.pdf)
+[
 
 
 

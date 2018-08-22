@@ -18,10 +18,10 @@ tags:
 - ssl
 ---
 
-[caption id="attachment_2968" align="alignright" width="100" caption="fetchmail logo"][![fetchmail](http://fak3r.com/wp-content/blogs.dir/12/files/bighand.png)](http://fak3r.com/geek/howto-retrieve-email-with-fetchmail-and-forward-it-on-with-procmail/attachment/bighand/)[/caption]
+[caption id="attachment_2968" align="alignright" width="100" caption="fetchmail logo"][[/caption]
 
 I'm starting a new gig Monday, so I got a new email address for use while I work there. Now of course, I have many, many email addresses, but thanks to [Google Apps](http://www.google.com/apps/intl/en/index.html), I still check them all through a Gmail frontend, and can 'send as' any address I want; which makes it almost seamless to integrate new email accounts. However, today we hit a snag, whereas my last client offered to simply forward my mail to another address, the new one wouldn't with something about auditing as their reason, which I can completely understand, as long as they understand, having to check email via multiple clients just won't scale. That's right Anthony, 'this won't scale'. So, since we're rocking Linux and open source we know we can fix it some way, and that's what I live for, the challenge. Ya, that's right, I was given a stumbling block, I stared it down and proclaimed, "challenge accepted".<!-- more -->[  
-![challenge accepted](http://fak3r.com/wp-content/blogs.dir/12/files/challenge_accepted_Amazing_Feats_Fails_WIns_Lolz_and_A_Contest-s325x265-158648-535.png)](http://fak3r.com/geek/howto-retrieve-email-with-fetchmail-and-forward-it-on-with-procmail/attachment/challenge_accepted_amazing_feats_fails_wins_lolz_and_a_contest-s325x265-158648-535/)
+
 
 Some quick runs at Google told me what I already know, [fetchmail](http://fetchmail.berlios.de/) is king of the pond when it comes to grabbing mail from mailservers. It handles protocols POP2, POP3, RPOP, APOP, KPOP, all flavors of [IMAP](http://www.imap.org/), ETRN, and ODMR. It can even support IPv6 and IPSEC. Considering how I don't know all of those protocols I figure it can handle things. So on my server I install fetchmail, along with [procmail](http://www.procmail.org/), which will route the mail once I get it to my server.
 

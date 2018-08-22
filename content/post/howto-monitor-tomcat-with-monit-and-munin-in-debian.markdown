@@ -19,7 +19,7 @@ tags:
 - ubuntu
 ---
 
-[![](http://fak3r.com/wp-content/uploads/2010/10/apache-tomcat.jpg)](http://fak3r.com/wp-content/uploads/2010/10/apache-tomcat.jpg)I have an existing [Tomcat](http://tomcat.apache.org/) installation in production that has been running hot and causing monit to send me notices that such and such service is down, only to come back clear on the next run. Of course since I use [monit](http://mmonit.com/monit/) I can see that the service was never restarted, plus I've never had this happen on other servers with monit, so I'm convinced that Tomcat, with its hunger for Java, is the culrprit here. I've been running [munin](http://munin-monitoring.org/) for years on this server too, however I never got the Tomcat plugins to work with it, so I can't gauge how hot Tomcat is running, and how changing the heap size is effecting things. Because of this, yesterday I got serious about it and finally got it working, but I had to take an end run to get it rolling and it wasn't fun; which is why I'm posting it here. If anyone knows a better way to do this, please share in the comments and I'll update this, but here's how I was successful.
+[ for years on this server too, however I never got the Tomcat plugins to work with it, so I can't gauge how hot Tomcat is running, and how changing the heap size is effecting things. Because of this, yesterday I got serious about it and finally got it working, but I had to take an end run to get it rolling and it wasn't fun; which is why I'm posting it here. If anyone knows a better way to do this, please share in the comments and I'll update this, but here's how I was successful.
 
 <!-- more -->
 
@@ -47,7 +47,7 @@ And then tell it to watch Tomcat with a config like this
     <span>	if 5 restarts within 5 cycles then timeout</span>
 
 
-[![](http://fak3r.com/wp-content/uploads/2010/10/munin.png)](http://fak3r.com/wp-content/uploads/2010/10/munin.png)Easy cheesy, so next we'll look at munin. Munin is described as a networked resource monitoring tool that helps analyze resource trends and problems or hickups on your setup. It's pretty simple to get up and running and proves quite a few graphs right off the bat, so let's install  munin and munin-node
+[Easy cheesy, so next we'll look at munin. Munin is described as a networked resource monitoring tool that helps analyze resource trends and problems or hickups on your setup. It's pretty simple to get up and running and proves quite a few graphs right off the bat, so let's install  munin and munin-node
 
     
     apt-get install munin munin-node munin-plugins-extra

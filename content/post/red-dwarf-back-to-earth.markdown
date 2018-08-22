@@ -22,7 +22,7 @@ tags:
 - tv
 ---
 
-![red-dwarf_first-shot_1000v2](http://www.fak3r.com/wp-content/uploads/2009/02/red-dwarf_first-shot_1000v2.jpg)
+
 
 
 

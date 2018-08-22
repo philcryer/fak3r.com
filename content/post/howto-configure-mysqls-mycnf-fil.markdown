@@ -15,7 +15,7 @@ tags:
 - tuning
 ---
 
-![mysql-logo](http://www.fak3r.com/wp-content/uploads/2009/02/mysql-logo.png)**UPDATE: **I recently used this [MySQL tuner script](http://www.ricardoamaro.com/2009/12/opensource/more-speed-in-mysql-with-tuning-primer-script/), I basically went with what it told me, but I'm using a higher query_cache_size than it recommends, basically because I don't see anything online saying it will hurt things.  So I'm now using the following values on my server:
+, I basically went with what it told me, but I'm using a higher query_cache_size than it recommends, basically because I don't see anything online saying it will hurt things.  So I'm now using the following values on my server:
 
     
     [mysqld]

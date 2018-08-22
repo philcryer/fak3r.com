@@ -9,7 +9,7 @@ tags:
 - health
 ---
 
-![stress](http://fak3r.com/wp-content/uploads/2007/01/stress.gif)I found [this article](http://community.emeraldcoast.com/article.showarticle.db.php?a=6414) about _10 Steps to Becoming Stress Free_ before the holidays, but I saved it to post for later, at a time when we're through with thinking about that time of year, and have a chance to really integrate it (or at least plan on integrating it) into our lives.  We always have more to do and less time to do it in, this causes stress, but what to do about it?  See if the following give you any good ideas.  Here I'll list the 10 suggestions, read more for the list with descriptions and examples.
+ into our lives.  We always have more to do and less time to do it in, this causes stress, but what to do about it?  See if the following give you any good ideas.  Here I'll list the 10 suggestions, read more for the list with descriptions and examples.
 
 
 > 1. Start by saying no.

@@ -7,7 +7,7 @@ categories:
 - music
 ---
 
-![Voxtrot](http://fak3r.com/wp-content/uploads/2007/01/sway.jpg)The news is out, Austin's [Voxtrot](http://www.voxtrot.net/) has finally started work on a proper debut album.  So far we've had 3 very strong CDEPs, for sale on their site and iTunes, but now we should really see them stretch out and gain the following they deserve.  No release date is set, however it will be released on Beggars Banquet.  With their Smiths/Belle and Sebastian sound (and completely nice Smiths style cover art) they put forth something that I hadn't associated with my former hometown prior.  Today's news comes from lead crooner [Ramesh's blog](http://www.thevoxtrotkid.blogspot.com/), and includes a tease to the rather subdued (compared with their hyper/poppy earlier efforts that I'm familiar with) demo of a new song titled Sway.
+ demo of a new song titled Sway.
 _Sway_
 [Sway](http://www.voxtrot.net/swaydemo.mp3)
 

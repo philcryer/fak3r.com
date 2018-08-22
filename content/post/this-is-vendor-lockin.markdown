@@ -10,4 +10,4 @@ tags:
 - vendor
 ---
 
-![home_cartoon_1](http://fak3r.com/wp-content/uploads/2009/06/home_cartoon_1.gif)
+

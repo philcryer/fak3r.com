@@ -26,7 +26,7 @@ tags:
 Moved by Obama's acceptance speech in Denver?  Yeah, me too.  I wanted to find out how I could help highlight the differences in Obama's vs McCain's stances. [Chris Bowers](http://Chris-Bowers.dailykos.com/) had some great points about finding factual McCain quotes and the easiest way to get these facts in front of voters is to raise their prominence in search engine results; this is my attempt to help.  If you have a site and want to participate, [read Chris' comments here](http://www.dailykos.com/story/2008/5/29/131437/342/899/524884).  So, lets get on with it:
 
 
-[![](http://www.fak3r.com/wp-content/uploads/2008/09/bushmccain1.jpg)](http://www.fak3r.com/wp-content/uploads/2008/09/bushmccain1.jpg)
+[
 
 
 

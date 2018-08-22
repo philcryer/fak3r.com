@@ -16,7 +16,7 @@ tags:
 - MySQL store
 ---
 
-![newlogo2](http://www.fak3r.com/wp-content/uploads/2009/03/newlogo2.jpg)So I've been using [Fedora-commons](http://www.fedora-commons.org/) for almost a year, first off, no it is NOT the [Linux distribution](http://fedoraproject.org/), it is a digital repository used by libraries, museums, etc, worldwide to keep track of their digital collections.  For this Fedora-commons is very good at its job, but there was a steep learning curve when I first jumped in with, a complaint I've heard repeated by many who aren't Java jockeys (just made that up).  Today I had to reinstall Fedora-commons on a new development server, and to be honest I had a couple of missteps along the way as I tried to remember my super cool moves to install this app.  Once something like this happens it's a prime candidate for a HOWTO, so here is my super, simple HOWTO get Feodora-commons up and running in a development environment in Debian GNU/Linux (I'm running Lenny - 5.0) or Ubuntu Linux.  Notice that for simplicity's sake, this uses Fedora-commons built in Tomcat implementation, for developing this is fine, for production I highly recommend installing a Tomcat via dpkg/apt-get, or whatever package manager you use, so that any security patches will be available for apt-get to automatically update.  I've also set it to use a local [MySQL](http://www.mysql.com/) store, change to a different database if you need to.<!-- more -->
+ store, change to a different database if you need to.<!-- more -->
 
 
 
