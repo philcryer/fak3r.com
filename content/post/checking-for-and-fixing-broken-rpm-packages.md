@@ -19,4 +19,4 @@ However, this gives me a big list and how did I even know it knew about all the 
 yum reinstall \*
 ```
 
-And once it was completed, everything just worked again! It feels like a punt, but hey, it worked - and nobody had to know... well until now, but I only shared to help someone else, so there you go. As always, hHave fun out there, but be careful!
+And once it was completed, everything just worked again! It feels like a punt, but hey, it worked - and nobody had to know... well until now, but I only shared to help someone else, so there you go. As always, have fun out there, but be careful!
