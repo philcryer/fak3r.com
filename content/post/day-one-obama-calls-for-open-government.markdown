@@ -82,11 +82,3 @@ And lastly, there's a new technology agenda posted on the new [whitehouse.gov](h
 
 
 So far, so very, very good - thanks Mr. Obama, bringing openness back to our government and a fresh outlook on open source is going to make a huge difference not only for our government, but throughout our society.
-
-
-
-
-
-
-
-[![Reblog this post [with Zemanta]](http://img.zemanta.com/reblog_e.png?x-id=6edddc1a-42b8-4fc5-840b-d51723fcdabd)](http://reblog.zemanta.com/zemified/6edddc1a-42b8-4fc5-840b-d51723fcdabd/)
