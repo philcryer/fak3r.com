@@ -1,46 +1,31 @@
 ### already in
 
+* At The Gates "To Drink From The Night Itself"
+* Culture Abuse "Bay Dream"
 * DJ Koze "Knock Knock"
+* Father John Misty "God’s Favorite Customer"
 * Gorillaz "The Now Now"
 * Hot Snakes "Jericho Sirens"
+* Ought "Room Inside The World"
 * Jeff Rosenstock "POST-"
 * Screaming Females "All At Once"
+* Swearin' "Fall Into the Sun"
 * Amanda Shires "To The Sunset"
 * Smoking Popes "Into The Agony"
 * Snail Mail "Lush"
 
-
-
-18. Father John Misty: God’s Favorite Customer 
-
-
-
-6. Mitski: Be the Cowboy 
-
-4. Soccer Mommy: Clean 
-
-
-
-
-Ought "Room Inside The World"
-
+###
+Mitski: Be the Cowboy 
 Kacey Musgraves: Golden Hour 
-
-
-
 Spider Bags "Someday Everything Will Be Fine" 
-
-Culture Abuse "Bay Dream"
 Nothing "Dance on the blacktop"
 The 1975 ""
-
-Swearin' "Fall Into the Sun"
-
 Surf Dads "Long Weekend"
-
-### possible
-
-* At The Gates – To Drink From The Night Itself
 * Beach House - 7
-* Father John Misty – God’s Favorite Customer
 * Soccer Mommy – Clean
+
+Titus Andronicus
+Courtney Barnett
+Idles
+Rolling Blackouts Coastal Fever
+Neko Case
