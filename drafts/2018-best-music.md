@@ -25,6 +25,7 @@ Here it is. It's the end of 2018, and it's time for another in the series of my 
 * Beach House "7"
 * Neko Case "Hell-On"
 * Cloud Nothings "Last Building Burning"
+* Guided by Voices "Space Gun"
 * Kitten Forever "Semi-Permanent"
 * Mitski "Be the Cowboy" 
 * Kacey Musgraves "Golden Hour" 
