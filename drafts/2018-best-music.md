@@ -2,76 +2,91 @@ Here it is. It's the end of 2018, and it's time for another in the series of my 
 
 ## The list
 
+2018/best/at.jpg
+2018/best/john.jpg
+2018/best/culture.jpg
+2018/best/koze.jpg
+
 * At The Gates "To Drink From The Night Itself"
 * John Coltrane "Both Directions At Once"
 * Culture Abuse "Bay Dream"
 * DJ Koze "Knock Knock"
+
+2018/best/father.jpg
+2018/best/gorillaz.jpg
+2018/best/hot.jpg
+2018/best/matt.jpg
+
 * Father John Misty "God’s Favorite Customer"
 * Gorillaz "The Now Now"
 * Hot Snakes "Jericho Sirens"
+* Matt and Kim "Almost Everyday"
+
+2018/best/charles.jpg
+2018/best/ought.jpg
+2018/best/jeff.jpg
+2018/best/screaming.jpg
+
 * Charles Mingus "Jazz In Detroit"
 * Ought "Room Inside The World"
 * Jeff Rosenstock "POST-"
 * Screaming Females "All At Once"
+
+2018/best/swearing.jpg
+2018/best/amanda.jpg
+2018/best/sloan.gif
+2018/best/smoking.jpg
+
 * Swearin' "Fall Into the Sun"
 * Amanda Shires "To The Sunset"
 * Sloan "12"
 * Smoking Popes "Into The Agony"
+
+2018/best/snail.jpg
+2018/best/surf.jpg
+2018/best/kurt.jpg
+
 * Snail Mail "Lush"
+* Surf Dads "Long Weekend" 
+* Kurt Vile "Bottle it In"
 
-### The honorable mentions
+* Spiritualized "And Nothing Hurt"
 
-* Courtney Barnett "Tell Me How You Really Feel"
-* Beach House "7"
-* Neko Case "Hell-On"
 * Cloud Nothings "Last Building Burning"
-* Guided by Voices "Space Gun"
 * Kitten Forever "Semi-Permanent"
 * Mitski "Be the Cowboy" 
+### The honorable mentions
+
+There was a ton of great music that came out this year, lot of these I liked but for whatever reason they didn't catch fire. Give em a go, maybe you'll dig.
+
+* Beach House "7"
+* Neko Case "Hell-On"
+* Courtney Barnett "Tell Me How You Really Feel"
+* Deafheaven "Ordinary Corrupt Human Love"
+* Guided by Voices "Space Gun"
 * Kacey Musgraves "Golden Hour" 
 * Nap Eyes "I’m Bad Now"
 * Rolling Blackouts Coastal Fever "Hope Downs"
 * Sleaford Mods "English Tapas"
 * Soccer Mommy "Clean"
-* Spiritualized "And Nothing Hurt"
-* Surf Dads "Long Weekend"
 * Titus Andronicus "A Productive Cough"
+* Colter Wall "Songs of the Plains"
 * Thom Yorke "Suspiria"
 
-Shame - Songs of Praise
- Sleep - The Sciences
- 41) Interpol - Marauder 
- 21 IDLES - Joy As An Act of Resistance 
+
+* Shame "Songs of Praise"
+* Sleep "The Sciences"
+* Interpol "Marauder" 
+* Spider Bags "Someday Everything Will Be Fine" 
+* Nothing "Dance on the Blacktop"
+
+* IDLES "Joy As An Act of Resistance" 
+
 Luby Sparks
-Spider Bags "Someday Everything Will Be Fine" 
-Nothing "Dance on the blacktop"
 
 ## The shows
 
-• Jonathan Richman w/Tommy Larkin - Mohawk - Sun, Feb 18 (AUSTIN)
-• Ought w/Snail Mail - Off Broadway - Sat, Mar 10 
-• Hot Snakes - Duck Room - Wed, Mar 14
-• Matt and Kim w/Cruisr - Pageant - Tues, Mar 27 
-• Coast Modern - Firebird - Fri, April 6
-• Willie Nelson and Family - Peabody - April 18
-• The Decemberists - Peabody - Wed, April 25
-• Jeff Rosenstock - Off Broadway - Sun, Apr 29
-• U2 - Scottrade Center - Fri, May 4
-• Spoon - The Pageant - Wed, May 16
-• Vance Joy - Fox Theater - Sat, May 26
-• Dropkick Murphies w/Flogging Molly - Pop's - Tues, June 12
-• Guided by Voices - Showcase St. Louis - Sun, June 17 (missed)
-• Sloan - Duck Room - June 22
-• TWRP w/Planet Booty - Old Rock House - Sept 4
-• Jason Isbell and the 400 Unit - Peabody - Mon, Sept 10
-• Screaming Females - Off Broadway -Sun, Sep 30
-• Swinging Utters - Duck Room - Oct 2
-• The English Beat - Duck Room - Sun, Oct 28
-• The Alarm -  Off Broadway - Tue, Nov 06
-• Cloud Nothings w/Nap Eyes - Old Rock House - Wed, Nov 14
-• Smoking Popes - Firebird - Sat, Nov 17
-• Starwolf - Duck Room - Fri, Nov 23
-• Amanda Shires - Off Broadway - Thurs, Nov 29
-• Thom Yorke - Stiffel - Sat, Dec 8
+Jonathan Richman w/Tommy Larkin (back in Austin, at the Mohawk), Ought with Snail Mail, Hot Snakes, Matt and Kim with Cruisr, Coast Modern, Willie Nelson and Family, The Decemberists, Jeff Rosenstock, U2, Spoon, Vance Joy with Alice Merton, Dropkick Murphies with Flogging Molly, Guided by Voices, Sloan, TWRP with Planet Booty, Jason Isbell and the 400 Unit, Screaming Females with Kitten Forever, Swinging Utters, The English Beat, The Alarm, Cloud Nothings with Nap Eyes, Smoking Popes, Starwolf, Amanda Shires, and Thom Yorke.
 
 ## The parting shot
+
