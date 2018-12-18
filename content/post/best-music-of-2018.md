@@ -6,7 +6,7 @@ Tags = ["music"]
 Categories = ["bestof", "2018"]
 +++
 
-<p>Here it is. It's the end of 2018, and it's time for another in the series of my obligatory year-end music review. The following is an alphabetical list of albums that caught, and kept, my attention in 2018.</p>
+<p>Here it is. It's the end of 2018, and it's time for another in the series of my obligatory year-end music reviews. The following is an alphabetical list of albums that caught, and kept, my attention this year.</p>
 
 ## The list
 
@@ -62,7 +62,7 @@ Categories = ["bestof", "2018"]
 <img src="/2018/best/spirit.jpg" alt="Spiritualized"> &nbsp;&nbsp;
 <img src="/2018/best/surf.jpg" alt="Surf Dads"> &nbsp;&nbsp;
 <img src="/2018/best/swearing.jpg" alt="Swearin'"> &nbsp;&nbsp;
-<img src="/2018/best/kurt.jpg" alt="Kurt Vile"> &nbsp;&nbsp;
+<img src="/2018/best/kurt.png" alt="Kurt Vile"> &nbsp;&nbsp;
 </p>
 
 * Spiritualized "And Nothing Hurt"
@@ -102,9 +102,9 @@ Categories = ["bestof", "2018"]
 
 ## The shows
 
-<p>Seeing bands live is still one of my favorite things, and wow, this old guy got out to see 25 of them again this year. Didn't plan to match last year's total, but here we are. If I had to pick the best of the year it'd have to go to Jeff Rosenstock, who completely sold his release, `POST-`, it was just such a fun show. Right behind him though is Hot Snakes, which put on an inspired set of noise for faithful.</p>
+<p>Seeing bands live is still one of my favorite things, and wow, this old guy got out to see 25 of them again this year. Didn't plan to match last year's total, but here we are. If I had to pick the best of the year it'd have to be the Jeff Rosenstock show at Off Broadway, which was just such a fun show. Right behind him though is Hot Snakes, which put on an inspired set of noise for faithful. The list of all the shows...</p>
 
-    Jonathan Richman w/Tommy Larkin (back in Austin, at the Mohawk), Ought with Snail Mail, Hot Snakes, Matt and Kim with Cruisr, Coast Modern, Willie Nelson and Family, The Decemberists, Jeff Rosenstock, U2, Spoon, Vance Joy with Alice Merton, Dropkick Murphies with Flogging Molly, Guided by Voices, Sloan, TWRP with Planet Booty, Jason Isbell and the 400 Unit, Screaming Females with Kitten Forever, Swinging Utters, The English Beat, The Alarm, Cloud Nothings with Nap Eyes, Smoking Popes, Starwolf, Amanda Shires, and Thom Yorke.
+<p>Jonathan Richman w/Tommy Larkin (in Austin, at the Mohawk), Ought with Snail Mail, Hot Snakes, Matt and Kim with Cruisr, Coast Modern, Willie Nelson and Family, The Decemberists, Jeff Rosenstock, U2, Spoon, Vance Joy with Alice Merton, Dropkick Murphies with Flogging Molly, Guided by Voices, Sloan, TWRP with Planet Booty, Jason Isbell and the 400 Unit, Screaming Females with Kitten Forever, Swinging Utters, The English Beat, The Alarm, Cloud Nothings with Nap Eyes, Smoking Popes, Starwolf, Amanda Shires, and Thom Yorke.</p> 
 
 ## The parting shot
 
