@@ -1,14 +1,12 @@
 +++
 title = "Best music of 2018"
-Description = ""
+Description = "The year that was"
 date = 2018-12-18T10:14:58-05:00
 Tags = ["music"]
 Categories = ["bestof", "2018"]
 +++
 
-<p align="center"><img src="/2017/best/gord.jpg" alt="Gord Downie">
-
-Here it is. It's the end of 2018, and it's time for another in the series of my obligatory year-end music review. The following is an alphabetical list of albums that caught, and kept, my attention in 2018.
+<p>Here it is. It's the end of 2018, and it's time for another in the series of my obligatory year-end music review. The following is an alphabetical list of albums that caught, and kept, my attention in 2018.</p>
 
 ## The list
 
@@ -66,21 +64,21 @@ Here it is. It's the end of 2018, and it's time for another in the series of my 
 
 ### The honorable mentions
 
-There was a ton of great music that came out this year, many of these I liked but for whatever reason they didn't catch fire as much as the ones above. I list them here for both of our benefit, since I may move some of these up as time goes on. Give em a go, maybe you'll dig them more than I did.
-
-* Kitten Forever "Semi-Permanent"
-* Mitski "Be the Cowboy" 
+<p>There was a ton of great music that came out this year, many of these I liked but for whatever reason they didn't catch fire as much as the ones above. I list them here for both of our benefit, since I may move some of these up as time goes on. Give em a go, maybe you'll dig them more than I did.</p>
 
 * Beach House "7"
 * Neko Case "Hell-On"
 * Cloud Nothings "Last Building Burning"
 * Courtney Barnett "Tell Me How You Really Feel"
 * Deafheaven "Ordinary Corrupt Human Love"
+* Dilly Dally "Heaven"
 * Guided by Voices "Space Gun"
 * IDLES "Joy As An Act of Resistance" 
 * Interpol "Marauder" 
 * Vance Joy "Natoin of Two"
+* Kitten Forever "Semi-Permanent"
 * Luby Sparks "Luby Sparks"
+* Mitski "Be the Cowboy" 
 * Kacey Musgraves "Golden Hour" 
 * Nap Eyes "I’m Bad Now"
 * Nothing "Dance on the Blacktop"
@@ -96,7 +94,9 @@ There was a ton of great music that came out this year, many of these I liked bu
 
 ## The shows
 
-Jonathan Richman w/Tommy Larkin (back in Austin, at the Mohawk), Ought with Snail Mail, Hot Snakes, Matt and Kim with Cruisr, Coast Modern, Willie Nelson and Family, The Decemberists, Jeff Rosenstock, U2, Spoon, Vance Joy with Alice Merton, Dropkick Murphies with Flogging Molly, Guided by Voices, Sloan, TWRP with Planet Booty, Jason Isbell and the 400 Unit, Screaming Females with Kitten Forever, Swinging Utters, The English Beat, The Alarm, Cloud Nothings with Nap Eyes, Smoking Popes, Starwolf, Amanda Shires, and Thom Yorke.
+<p>Seeing bands live is still one of my favorite things, and wow, this old guy got out to see 25 of them again this year. Didn't plan to match last year's total, but here we are. If I had to pick the best of the year it'd have to go to Jeff Rosenstock, who completely sold his release, `POST-`, it was just such a fun show. Right behind him though is Hot Snakes, which put on an inspired set of noise for faithful.</p>
+
+<p>Jonathan Richman w/Tommy Larkin (back in Austin, at the Mohawk), Ought with Snail Mail, Hot Snakes, Matt and Kim with Cruisr, Coast Modern, Willie Nelson and Family, The Decemberists, Jeff Rosenstock, U2, Spoon, Vance Joy with Alice Merton, Dropkick Murphies with Flogging Molly, Guided by Voices, Sloan, TWRP with Planet Booty, Jason Isbell and the 400 Unit, Screaming Females with Kitten Forever, Swinging Utters, The English Beat, The Alarm, Cloud Nothings with Nap Eyes, Smoking Popes, Starwolf, Amanda Shires, and Thom Yorke.</p>
 
 ## The parting shot
 
