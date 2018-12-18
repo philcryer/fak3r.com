@@ -22,40 +22,48 @@ Categories = ["bestof", "2018"]
 * Culture Abuse "Bay Dream"
 * DJ Koze "Knock Knock"
 
-2018/best/father.jpg
-2018/best/gorillaz.jpg
-2018/best/hot.jpg
-2018/best/matt.jpg
+<p align="center">
+<img src="/2018/best/father.jpg" alt="Father John Misty"> &nbsp;&nbsp;
+<img src="/2018/best/gorillaz.jpg" alt="Gorillaz"> &nbsp;&nbsp;
+<img src="/2018/best/hot.jpg" alt="Hot Snakes"> &nbsp;&nbsp;
+<img src="/2018/best/matt.jpg" alt="Matt and Kim"> &nbsp;&nbsp;
+</p>
 
 * Father John Misty "God’s Favorite Customer"
 * Gorillaz "The Now Now"
 * Hot Snakes "Jericho Sirens"
 * Matt and Kim "Almost Everyday"
 
-2018/best/charles.jpg
-2018/best/ought.jpg
-2018/best/jeff.jpg
-2018/best/screaming.jpg
+<p align="center">
+<img src="/2018/best/charles.jpg" alt="Charles Mingus"> &nbsp;&nbsp;
+<img src="/2018/best/ought.jpg" alt="Ought"> &nbsp;&nbsp;
+<img src="/2018/best/jeff.jpg" alt="Jeff Rosenstock"> &nbsp;&nbsp;
+<img src="/2018/best/screaming.jpg" alt="Screaming Females"> &nbsp;&nbsp;
+</p>
 
 * Charles Mingus "Jazz In Detroit"
 * Ought "Room Inside The World"
 * Jeff Rosenstock "POST-"
 * Screaming Females "All At Once"
 
-2018/best/amanda.jpg
-2018/best/sloan.gif
-2018/best/smoking.jpg
-2018/best/snail.jpg
+<p align="center">
+<img src="/2018/best/amanda.jpg" alt="Amanda Shires"> &nbsp;&nbsp;
+<img src="/2018/best/sloan.gif" alt="Sloan"> &nbsp;&nbsp;
+<img src="/2018/best/smoking.jpg" alt="Smoking Popes"> &nbsp;&nbsp;
+<img src="/2018/best/snail.jpg" alt="Snail Mail"> &nbsp;&nbsp;
+</p>
 
 * Amanda Shires "To The Sunset"
 * Sloan "12"
 * Smoking Popes "Into The Agony"
 * Snail Mail "Lush"
 
-2018/best/spirit.jpg
-2018/best/surf.jpg
-2018/best/swearing.jpg
-2018/best/kurt.jpg
+<p align="center">
+<img src="/2018/best/spirit.jpg" alt="Spiritualized"> &nbsp;&nbsp;
+<img src="/2018/best/surf.jpg" alt="Surf Dads"> &nbsp;&nbsp;
+<img src="/2018/best/swearing.jpg" alt="Swearin'"> &nbsp;&nbsp;
+<img src="/2018/best/kurt.jpg" alt="Kurt Vile"> &nbsp;&nbsp;
+</p>
 
 * Spiritualized "And Nothing Hurt"
 * Surf Dads "Long Weekend" 
@@ -96,8 +104,11 @@ Categories = ["bestof", "2018"]
 
 <p>Seeing bands live is still one of my favorite things, and wow, this old guy got out to see 25 of them again this year. Didn't plan to match last year's total, but here we are. If I had to pick the best of the year it'd have to go to Jeff Rosenstock, who completely sold his release, `POST-`, it was just such a fun show. Right behind him though is Hot Snakes, which put on an inspired set of noise for faithful.</p>
 
-<p>Jonathan Richman w/Tommy Larkin (back in Austin, at the Mohawk), Ought with Snail Mail, Hot Snakes, Matt and Kim with Cruisr, Coast Modern, Willie Nelson and Family, The Decemberists, Jeff Rosenstock, U2, Spoon, Vance Joy with Alice Merton, Dropkick Murphies with Flogging Molly, Guided by Voices, Sloan, TWRP with Planet Booty, Jason Isbell and the 400 Unit, Screaming Females with Kitten Forever, Swinging Utters, The English Beat, The Alarm, Cloud Nothings with Nap Eyes, Smoking Popes, Starwolf, Amanda Shires, and Thom Yorke.</p>
+    Jonathan Richman w/Tommy Larkin (back in Austin, at the Mohawk), Ought with Snail Mail, Hot Snakes, Matt and Kim with Cruisr, Coast Modern, Willie Nelson and Family, The Decemberists, Jeff Rosenstock, U2, Spoon, Vance Joy with Alice Merton, Dropkick Murphies with Flogging Molly, Guided by Voices, Sloan, TWRP with Planet Booty, Jason Isbell and the 400 Unit, Screaming Females with Kitten Forever, Swinging Utters, The English Beat, The Alarm, Cloud Nothings with Nap Eyes, Smoking Popes, Starwolf, Amanda Shires, and Thom Yorke.
 
 ## The parting shot
 
-<font size="3">TBD - the fine print<br />
+<div align="center">
+<img src="/2018/best/jason.jpg" alt="Jason Isbell and the 400 Unit"> &nbsp;&nbsp;
+<font size="3">Jason Isbell and the 400 Unit, Stifel Theatre (Sept 13, 2018)<br />
+</div>
