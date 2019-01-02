@@ -11,91 +11,89 @@ tags:
 - howto
 ---
 
- take advantage of it. Below are steps compiled from both sites, and used on my FreeBSD 6.0 server, but most of the steps should work as well in Linux. Read more for the steps.
+I wanted Memcached to speed up my CMS Typo, by allowing Ruby to take advantage of it for higher performance. Below are steps compiled from both sites, and used on my FreeBSD 6.0 server, but most of the steps should work as well in Linux. Read more for the steps.
 
-
-
+<!--more-->
 
 First let’s get memcached installed
 
-    
-    <code>cd /usr/ports/databases/memcached/</code>
-
+```
+cd /usr/ports/databases/memcached/
+```
 
 We only want it to get past the configure step before we modify code
 
-    
-    <code>make configure</code>
-
+```
+make configure
+```
 
 Now it’s time to modify the code (NOTE: the howto linked to above was specific to a FreeBSD issue, if using Linux you may not need to make this modification)
-
     
-    <code>vi work/memcached-1.1.12/memcached.c</code>
-
+```
+vi work/memcached-1.1.12/memcached.c
+```
 
 Find this line
 
-    
-    <code>#include "memcached.h"</code>
-
+```
+#include "memcached.h"
+```
 
 Add the undef line below it and save
 
-    
-    <code>#include "memcached.h"
-    #undef TCP_NOPUSH</code>
-
+```
+#include "memcached.h"
+#undef TCP_NOPUSH
+```
 
 Now we want it to compile and install
 
-    
-    <code>make install</code>
-
+```
+make install
+```
 
 Once that’s complete, we want to enable memcached in rc.conf
 
+```
+echo "memcached_enable="YES"" >> /etc/rc.conf
+```
+
+Then start memcached
     
-    <code>echo "memcached_enable="YES"" >> /etc/rc.conf</code>
-
-
-Then we’ll start memcached
-
-    
-    <code>/usr/local/etc/rc.d/memcached.sh start</code>
-
+```
+/usr/local/etc/rc.d/memcached.sh start
+```
 
 Next we’ll install the ruby-memcache client
 
-    
-    <code>cd ../ruby-memcache/
-    make install</code>
-
+```
+cd ../ruby-memcache/
+make install
+```
 
 Finally we’ll modify our Ruby-on-Rails app’s environment to use memcache as its session store (make a backup first!)
 
-    
-    <code>cp config/environment.rb config/environment.rb.dist
-    vi config/environment.rb</code>
-
+```
+cp config/environment.rb config/environment.rb.dist
+vi config/environment.rb
+```
 
 Find the line that tells session_store to use the database instead of the file system
 
-    
-    <code>#config.action_controller.session_store = :active_record_store</code>
-
+```
+#config.action_controller.session_store = :active_record_store
+```
 
 Modify it so it tells it to use memcached, and save
 
-    
-    <code>config.action_controller.session_store = :mem_cache_store</code>
-
+```
+config.action_controller.session_store = :mem_cache_store
+```
 
 Stop Typo, and then manually clear the cache
 
-    
-    <code>rake sweep_cache</code>
-
+```
+rake sweep_cache
+```
 
 Now restart your Typo server, and you’re done! It should now be storing all session data via memcached instead of your database.
-
