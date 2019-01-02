@@ -7,7 +7,6 @@ nodate = true
 nopaging = true
 #noread = true
 #layout = "page"
-
 +++
 
 <h3>Songs to learn and sing</h3>
