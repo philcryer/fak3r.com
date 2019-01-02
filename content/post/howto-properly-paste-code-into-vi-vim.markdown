@@ -4,6 +4,8 @@ date: "2013-09-04T12:35:00-06:00"
 categories: 
 - geek
 - howto
+tags:
+- howto
 ---
 I'm sure you've done this before, you copy a big block of text or code and paste it into [vi/vim](http://www.vim.org/) (from now on referred to simply as vi). Instead of looking like you want it to, it takes every tab and just autoindents like crazy giving you a mess to clean up. So, for example, you copy the following
 

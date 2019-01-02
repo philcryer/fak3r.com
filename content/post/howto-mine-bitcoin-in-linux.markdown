@@ -1,6 +1,8 @@
 ---
 title: "HOWTO mine Bitcoin in Linux"
 date: "2013-12-08T18:10:00-06:00"
+tags:
+- howto
 categories:
 - howto
 - geek

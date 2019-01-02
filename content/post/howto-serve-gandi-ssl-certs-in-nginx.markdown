@@ -3,6 +3,8 @@ layout: post
 title: "HOWTO serve Gandi SSL certs in nginx"
 date: "2014-08-04T13:37:00-06:00"
 comments: true
+tags:
+- howto
 categories:
 - howto
 - ssl

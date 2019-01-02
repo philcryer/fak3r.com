@@ -5,6 +5,7 @@ categories:
 - howto
 - geek
 tags:
+- howto
 - icons
 - yosemite
 ---

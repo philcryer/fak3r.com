@@ -1,8 +1,8 @@
 +++
 linktitle = "howto-use-systemd-to-control-vpn-connections"
 featuredalt = ""
-categories = [ "howto", "vpn"
-]
+categories = [ "howto", "vpn" ]
+tags = ["howto"]
 description = ""
 title = "HOWTO Use Systemd to Control VPN Connections"
 featured = ""

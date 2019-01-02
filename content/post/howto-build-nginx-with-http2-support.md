@@ -3,7 +3,7 @@ title = "HOWTO build nginx with HTTP 2 support"
 Description = "Latest nginx builds have expermental support for HTTP 2 here's how to enable it"
 date = "2015-09-29T22:27:42-06:00"
 Categories = ["howto", "geek"]
-Tags = ["nginx", "http2"]
+Tags = ["howto", "nginx", "http2"]
 
 +++
 

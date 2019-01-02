@@ -3,7 +3,7 @@ title = "HOWTO Get a New CoreOS AMI ID"
 Description = "Determine the AMI ID for a CoreOS image from the commandline"
 date = "2015-07-09T21:12:06-06:00"
 Categories = ["howto", "geek"]
-Tags = ["docker", "coreos"]
+Tags = ["howto", "docker", "coreos"]
 
 +++
 I've used [CoreOS](https://coreos.com/) a good deal for the last few months, automating it on [Amazon Web Services](http://aws.amazon.com/) to run [Docker](https://www.docker.com/) instances like a boss, but when a new version comes out, figuring out the new AMI ID to target is cumbersome. What happens is that a new CoreOS version will be built with AWS, resulting in a new AMI ID, but going to the CoreOS [cloud provider's page](https://coreos.com/docs/running-coreos/cloud-providers/ec2/) to manually grok the ID is no fun. I knew there had to be a automated way to do this, but earlier attempts failed. That changed today as I got a clue from the <i>#coreos</i> channel on [irc.freenode.net] (h/t guys!). Here's the [gist](https://gist.github.com/philcryer/4a4ed1d0142af00a442c):

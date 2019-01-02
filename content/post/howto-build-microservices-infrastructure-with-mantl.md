@@ -3,7 +3,7 @@ title = "HOWTO build microservices infrastructure with Mantl"
 Description = "Mantl is a platform for rapidly deploying a global distributed infrastructure"
 date = "2015-05-27T18:41:06-06:00"
 Categories = ["howto"]
-Tags = ["mantl", "terraform", "ansible", "aws", "docker"]
+Tags = ["howto", "mantl", "terraform", "ansible", "aws", "docker"]
 
 +++
 

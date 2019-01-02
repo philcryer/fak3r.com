@@ -1,6 +1,8 @@
 ---
 title: "HOWTO install open source Adobe terminal fonts"
 date: "2014-03-13T12:47:00-06:00"
+tags:
+- howto
 categories:
 - howto
 - geek

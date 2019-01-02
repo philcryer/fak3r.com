@@ -3,7 +3,7 @@ title = "Does your employer run SSL MiTM attacks on you?"
 Description = "If you're working for a F500 company, most likely, yes"
 date = "2015-07-22T18:23:29-06:00"
 Categories = ["geek", "surveillance"]
-Tags = ["ssl", "mitm", "infosec", "websense", "wsg_subca"]
+Tags = ["howto", "ssl", "mitm", "infosec", "websense", "wsg_subca"]
 +++
 
 > __TL;DR__ companies are buying appliances that run SSL MiTM (Man in The Middle) attacks against their users, decrypting sessions on the fly without the user's knowledge. You should find out if this is happening to you.

@@ -1,7 +1,7 @@
 +++
 title = "HOWTO setup a very secure webserver"
 draft = false
-tags = [ "ssl", "h2", "http2", "nginx", "let's encrypt" ]
+tags = ["howto", "ssl", "h2", "http2", "nginx", "let's encrypt" ]
 topics = [ "howto", "openbsd" ]
 description = "The most secure way (that I currently know) to serve websites"
 date = "2016-12-05T19:19:21-06:00"

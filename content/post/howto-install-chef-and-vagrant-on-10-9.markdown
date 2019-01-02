@@ -2,6 +2,8 @@
 title: "HOWTO install chef and vagrant on 10-9"
 slug: "howto-install-chef-and-vagrant-on-10-9.markdown"
 date: "2013-10-28T14:21:00-06:00"
+tags:
+- howto
 categories:
 - howto
 - geek

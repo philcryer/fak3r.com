@@ -1,7 +1,7 @@
 +++
 Categories = ["howto", "geek"]
 Description = ""
-Tags = ["lxc", "lxd", "containers", "ubuntu"]
+Tags = ["howto", "lxc", "lxd", "containers", "ubuntu"]
 date = "2015-04-23T19:13:29-06:00"
 title = "HOWTO get started with lxc and lxd"
 

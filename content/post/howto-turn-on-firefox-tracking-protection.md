@@ -3,7 +3,7 @@ title = "HOWTO Turn On Firefox Tracking Protection"
 Description = "DNT was somewhat of a bust, but Firefox has a new way to do it"
 date = "2015-07-10T23:43:49-06:00"
 Categories = ["howto", "geek"]
-Tags = ["firefox", "dnt", "do not track"]
+Tags = ["howto", "firefox", "dnt", "do not track"]
 
 +++
 Years ago there was a lot of excitment about Do Not Track (DNT) as a way to enhance online privacy for users by allowing them to 'opt-out' of tracking by websites and advertisers. The idea as defined on [Wikipedia](https://en.wikipedia.org/wiki/List_of_HTTP_header_fields):

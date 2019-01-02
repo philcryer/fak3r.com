@@ -2,7 +2,7 @@
 title = "Quickly Setup a Decent Vimrc"
 Description = "On new servers, we need a sane start to our vim setup"
 date = 2018-08-16T18:22:58-05:00
-Tags = ["Development"]
+Tags = ["howto", "Development"]
 Categories = ["Development", "vim", "vimrc"]
 +++
 

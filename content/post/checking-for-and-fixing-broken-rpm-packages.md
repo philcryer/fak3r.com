@@ -1,6 +1,6 @@
 +++
 draft = false
-tags = [ "commandline", "rpm", "yum", "linux" ]
+tags = ["howto", "commandline", "rpm", "yum", "linux" ]
 topics = [ "sysadmin" ]
 title = "Checking for, and fixing, broken RPM packages"
 description = "Recovering from a disaster when you thought all hope was lost"

@@ -1,7 +1,7 @@
 +++
 featuredalt = ""
 categories = [ "howto", "security" ]
-tags = [ "gist", "lynis" ]
+tags = ["howto", "gist", "lynis" ]
 description = ""
 title = "HOWTO Automate the Lynis auditing tool"
 featured = ""
