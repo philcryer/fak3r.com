@@ -5,14 +5,11 @@ http://articles.chicagotribune.com/1994-01-21/entertainment/9401210005_1_pere-ub
 
 January 21, 1994|By Greg Kot.
  
-Privacy Badger has replaced this FacebookLike button.Privacy Badger has replaced this Twitter button.
- New
 Rock history regenerates every time a couple of high school nerds fantasize in their basements about being Keith Richards or Bob Mould or Spiral Stairs. Maybe they buy scads of records with their lunch money, maybe they live in a dreary town like Dayton, maybe they can't even play an instrument.
 
 "Me, Mitch (Mitchell) and Kevin (Fennell)-we always were in a band, at least fictitiously," says Robert Pollard, singer for the decade-old and, until lately, virtually anonymous Dayton group Guided By Voices. "We used to make our own record covers for unrecorded albums, we did fake interviews. We couldn't play, but we'd plunk along on a one-string guitar and write songs a cappella. It was a fantasy we thought we couldn't realize, but eventually we became a band. We're late bloomers-almost too late."
 
-
-
+<!--more-->
 
 What makes the story of Guided By Voices different from that of so many other would-be bands is that they persevered, and as they collectively push 40, have found a measure of recognition.
 

@@ -24,7 +24,7 @@ tags:
 - religious
 ---
 
-[caption id="attachment_1003" align="alignnone" width="420" caption="homosayswhat?"][ to 'homosexual'.  A fun example is the image above, where runner Tyson Gay's accomplishments were introduced with the line "Gay eases into 100 final at Olympics" becomes the much more interesting headline, "Homosexual eases into 100 final at Olympics".  Other times when runner Tyson Gay's name is 're-spelt' to conform to the sensibilities of the more conservative set:
+A auto-replace fail example, where runner Tyson Gay's accomplishments were introduced with the line "Gay eases into 100 final at Olympics" becomes the much more interesting headline, "Homosexual eases into 100 final at Olympics".  Other times when runner Tyson Gay's name is 're-spelt' to conform to the sensibilities of the more conservative set:
 
 <!-- more -->
 
