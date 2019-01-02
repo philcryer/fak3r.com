@@ -1,9 +1,9 @@
 +++
-title = "HOWTO use npm behind a corporate proxy"
-Description = "The continuing story about working behind 'security' proxies"
-date = "2015-07-31T07:22:18-06:00"
-Categories = ["howto"]
-Tags = ["infosec", "firewall", "proxy"]
+title: "HOWTO use npm behind a corporate proxy"
+Description: "The continuing story about working behind 'security' proxies"
+date: "2015-07-31T07:22:18-06:00"
+Categories: ["howto"]
+Tags: ["infosec", "firewall", "proxy"]
 
 +++
 # Overview

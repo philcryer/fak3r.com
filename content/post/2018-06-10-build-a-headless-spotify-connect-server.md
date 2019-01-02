@@ -1,11 +1,9 @@
 +++
-title = "Build a Headless Spotify Connect Server"
-Description = "Setup a Spotify connect server that your stereo will respect"
-date = 2018-06-10T17:26:38-05:00
-Tags = ["howto", "spotify", "linux", "debian", "raspberry-pi", "hifiberry"]
-Categories = ["howto", "hacking", "music"]
-#menu = "main"
-#draft = true
+title: "Build a Headless Spotify Connect Server"
+Description: "Setup a Spotify connect server that your stereo will respect"
+date: "2018-06-10T17:26:38-05:00"
+Tags: ["howto", "spotify", "linux", "debian", "raspberry-pi", "hifiberry"]
+Categories: ["howto", "hacking", "music"]
 +++
 
 # Overview

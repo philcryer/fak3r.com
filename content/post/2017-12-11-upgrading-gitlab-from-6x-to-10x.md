@@ -1,10 +1,10 @@
 +++
-title = "Upgrading GitLab from 6x to 10x"
-description = "Adventures in updating, and migrating, an old GitLab server to the latest version"
-draft = false
-tags = [ "howto", "gitlab" ]
-topics = [ "sysadmin" ]
-date = "2017-12-11T19:14:56-06:00"
+title: "Upgrading GitLab from 6x to 10x"
+description: "Adventures in updating, and migrating, an old GitLab server to the latest version"
+draft: false
+tags: [ "howto", "gitlab" ]
+topics: [ "sysadmin" ]
+date: "2017-12-11T19:14:56-06:00"
 
 +++
 
