@@ -1,5 +1,5 @@
 ---
-title: "HOWTO build a simple log server with Splunk-like features"
+title: "Build a log server with Splunk-like features"
 date: "2013-08-22T13:03:00-06:00"
 categories: 
 - linux

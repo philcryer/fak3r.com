@@ -1,5 +1,5 @@
 ---
-title: "HOWTO: install Ruby on Rails on Debian or Ubuntu Linux easily"
+title: "Install Ruby on Rails on Debian or Ubuntu Linux"
 slug: "howto-install-ruby-on-rails-on-debian-or-ubuntu-linux-easily"
 date: "2008-10-29T17:07:59-06:00"
 author: "fak3r"

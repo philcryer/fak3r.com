@@ -1,10 +1,10 @@
-+++
+---
 date: "2016-04-01T14:44:44-05:00"
 description: "An unpublished sketch from 2007"
 keywords: ["text"]
 title: "What About Them?"
+---
 
-+++
 This is a previously unpublished sketch written on 2007-04-18 of two people talking about the constant state of fear in a nation controlled by the media. Strangely it's still relevant today.
 
 <div align="center"><img src="/2016/terroralert.png" alt="Terror Alert" border="0"></div>

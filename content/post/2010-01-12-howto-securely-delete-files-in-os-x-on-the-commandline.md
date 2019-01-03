@@ -1,5 +1,5 @@
 ---
-title: "HOWTO securely delete files in OS X on the commandline"
+title: "Securely delete files in OS X on the commandline"
 slug: "howto-securely-delete-files-in-os-x-on-the-commandline"
 date: "2010-01-12T20:51:44-06:00"
 author: "fak3r"

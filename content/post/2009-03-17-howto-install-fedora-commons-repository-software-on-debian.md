@@ -1,5 +1,5 @@
 ---
-title: "HOWTO: install Fedora-commons repository software on Debian"
+title: "Install Fedora-commons repository on Debian"
 slug: "howto-install-fedora-commons-repository-software-on-debian"
 date: "2009-03-17T20:25:57-06:00"
 author: "fak3r"

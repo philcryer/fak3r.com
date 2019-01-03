@@ -1,5 +1,5 @@
 ---
-title: "PayPerPost.com: Bribing Bloggers to Promote Products?"
+title: "PayPerPost: Bribing Bloggers to Promote Products"
 slug: "payperpostcom-bribing-bloggers-to-promote-products"
 date: "2006-06-30T14:56:57-06:00"
 author: "fak3r"

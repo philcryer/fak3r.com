@@ -1,5 +1,5 @@
 ---
-title: "HOWTO retrieve email with fetchmail and forward it on with procmail"
+title: "Get email with fetchmail, forward it with procmail"
 slug: "howto-retrieve-email-with-fetchmail-and-forward-it-on-with-procmail"
 date: "2011-07-07T22:40:56-06:00"
 author: "fak3r"

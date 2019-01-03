@@ -1,11 +1,10 @@
-+++
+---
 title: "Bruce on privacy"
 Description: "Bruce Schneir perfectly captures why we all need to be concerned about our only privacy"
 date: "2015-09-16T20:13:18-06:00"
 Categories: ["quotes"]
-Tags" ["online privacy", "privacy", "bruce", "bruce schnier"]
-
-+++
+Tags: ["online privacy", "privacy", "bruce", "bruce schnier"]
+---
 
 I've written about Bruce Schnier [many times before](https://duckduckgo.com/?q=Bruce+schnier+site%3Afak3r.com), but this recent comment perfectly captures why we all need to be concerned about our only privacy
 <!--more-->

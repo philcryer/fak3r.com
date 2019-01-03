@@ -1,5 +1,5 @@
 ---
-title: "Radiohead groundbreaking release 'In Rainbows' eminent"
+title: "Radiohead groundbreaking release 'In Rainbows'"
 slug: "radiohead-groundbreaking-release-in-rainbows-eminent"
 date: "2007-10-02T22:22:45-06:00"
 author: "fak3r"

@@ -1,5 +1,5 @@
 ---
-title: "John McSame - why M.c.Cain would be 4 more years of the same"
+title: "John McSame: McCain = 4 more years of the same"
 slug: "john-mcsame-why-mccain-would-be-4-more-years-of-the-same"
 date: "2008-06-09T11:17:04-06:00"
 author: "fak3r"

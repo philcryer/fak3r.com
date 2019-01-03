@@ -10,12 +10,9 @@ I've wanted to get into tube audio amplifiers for my stereo systems for a long t
 same, or similar, amps from Antique Sound Labs.
 
 <div align="center">
-    <img src="https://farm4.static.flickr.com/3168/2842788484_4bd332c3aa.jpg" alt="AV-20" border="0">
+    <img src="/2016/asl_av25.jpg" alt="AV-25" border="0">
 </div> 
 <br />
-<div align="center">
-    <img src="https://farm4.static.flickr.com/3034/2841958473_9e306caa82.jpg" alt="AV-20" border="0">
-</div> 
 
 ##  AV-20 DT / AV-25 DT Tube Mono Power Amplifiers
 

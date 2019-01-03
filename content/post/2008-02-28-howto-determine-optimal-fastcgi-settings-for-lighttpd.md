@@ -1,5 +1,5 @@
 ---
-title: "HOWTO: determine optimal fastcgi settings for Lighttpd"
+title: "Determine optimal fastcgi settings for Lighttpd"
 slug: "howto-determine-optimal-fastcgi-settings-for-lighttpd"
 date: "2008-02-28T11:50:58-06:00"
 author: "fak3r"

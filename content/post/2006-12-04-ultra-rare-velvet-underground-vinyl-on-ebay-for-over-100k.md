@@ -1,5 +1,5 @@
 ---
-title: "Ultra-rare Velvet Underground Vinyl on eBay for over $100K - DENIED"
+title: "Velvet Underground Vinyl on eBay for over $100K"
 slug: "ultra-rare-velvet-underground-vinyl-on-ebay-for-over-100k"
 date: "2006-12-04T14:00:42-06:00"
 author: "fak3r"

@@ -1,5 +1,5 @@
 ---
-title: "HOWTO: log the user's IP, not the proxy's, in Lighttpd access log"
+title: "Log user's IP, not proxy's IP in Lighttpd"
 slug: "howto-log-the-users-ip-not-the-proxys-in-lighttpd-access-log"
 date: "2008-01-09T10:17:41-06:00"
 author: "fak3r"

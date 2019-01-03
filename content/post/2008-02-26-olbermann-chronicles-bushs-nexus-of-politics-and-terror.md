@@ -1,5 +1,5 @@
 ---
-title: "Olbermann chronicles Bush's nexus of politics and terror"
+title: "Olbermann: Bush's nexus of politics and terror"
 slug: "olbermann-chronicles-bushs-nexus-of-politics-and-terror"
 date: "2008-02-26T11:48:11-06:00"
 author: "fak3r"

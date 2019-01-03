@@ -1,5 +1,5 @@
 ---
-title: "ten things you need to know before buying a solar electric system"
+title: "10 things to know before buying a solar system"
 slug: "ten-things-you-need-to-know-before-buying-a-solar-electric-system"
 date: "2007-06-29T13:03:24-06:00"
 author: "fak3r"

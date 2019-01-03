@@ -1,5 +1,5 @@
 ---
-title: "HOWTO: replicate, backup, copy or move a mySQL database"
+title: "Replicate backup copy or move a mySQL database"
 slug: "howto-replicate-backup-copy-or-move-a-mysql-database"
 date: "2006-03-21T19:25:00-06:00"
 author: "fak3r"

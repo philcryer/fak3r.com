@@ -1,12 +1,11 @@
-+++
+---
 title: "Upgrading GitLab from 6x to 10x"
 description: "Adventures in updating, and migrating, an old GitLab server to the latest version"
 draft: false
 tags: [ "howto", "gitlab" ]
 topics: [ "sysadmin" ]
 date: "2017-12-11T19:14:56-06:00"
-
-+++
+---
 
 <p><img src="/2017/gitlab.png" width="330" height="150" align="right">Recently at my day job, the client tasked me with bringing their development stack up to date. The (fun) difficultly here was that these servers were about 4 years out of date and included Jenkins, Sonar, <a href="https://gitlab.com">GitLab</a>), and Nexus. Jenkins was the jumbled mess you'd expect with unsupported plugins, new configurations breaking builds, and more fun, Sonar was so out of date I started from scratch after dropping the old databse, but GitLab was the one I was looking forward to, and while it was enlightening, it wasn't much fun! First I'll say that I'm a big fan of GitLab, it's the only thing I'd want to use internally at a company, and the community edition has a ton of great features. The main issue with my setup was that it was so out of date and required us to step up one major verision at a time; so 6.x up to 7.x, 7.x up to 8.x, 8.x up to 9.x, and finally, 9.x up to 10.2.x.</p>
 

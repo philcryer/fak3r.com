@@ -1,5 +1,5 @@
 ---
-title: "Amy Winehouse had to cover up pin-up girl tattoo for Grammys"
+title: "Amy Winehouse had to cover up pin-up girl tattoo"
 slug: "amy-winehouse-had-to-cover-up-pin-up-girl-tattoo-for-grammys"
 date: "2008-02-15T09:26:30-06:00"
 author: "fak3r"

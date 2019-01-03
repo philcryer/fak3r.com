@@ -1,5 +1,5 @@
 ---
-title: "Please Listen Closely, As Our Menu Options Have Changed"
+title: "Please Listen Closely, Menu Options Have Changed"
 slug: "please-listen-closely-as-our-menu-options-have-changed"
 date: "2006-09-05T15:17:19-06:00"
 author: "fak3r"

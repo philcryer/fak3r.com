@@ -1,5 +1,5 @@
 ---
-title: "Personal info more likely to be stolen from the Government than hacked"
+title: "PPI more likely stolen by the Gov than hacked"
 slug: "personal-info-lost-by-government-more-likely-than-hacked"
 date: "2006-06-20T15:43:06-06:00"
 author: "fak3r"

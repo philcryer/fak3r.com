@@ -1,5 +1,5 @@
 ---
-title: "HOWTO: Install Roundcube Webmail from SVN (was CVS) on FreeBSD"
+title: "Install RoundcubeWebmail from SVN on FreeBSD"
 slug: "howto-install-roundcube-webmail-from-svn-was-cvs-on-freebsd"
 date: "2005-11-15T18:59:00-06:00"
 author: "fak3r"

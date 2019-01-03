@@ -1,5 +1,5 @@
 ---
-title: "HOWTO monitor Tomcat with monit and munin in Debian"
+title: "Monitor Tomcat with monit/munin in Debian"
 slug: "howto-monitor-tomcat-with-monit-and-munin-in-debian"
 date: "2010-10-07T18:45:58-06:00"
 author: "fak3r"

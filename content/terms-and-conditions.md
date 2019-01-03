@@ -97,4 +97,6 @@ layout: page
 
 <p>Get in contact via the email address on the <a href="/privacy-policy">Privacy Policy</a> page if you have any questions or concerns.</p>
 
+<h3>NOTICE: This was last modified on January 01, 2019</h3>
+
 <p>Thanks</p>

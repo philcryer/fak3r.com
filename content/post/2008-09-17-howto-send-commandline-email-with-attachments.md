@@ -1,5 +1,5 @@
 ---
-title: "HOWTO: send commandline email with attachments"
+title: "Send commandline email with attachments"
 slug: "howto-send-commandline-email-with-attachments"
 date: "2008-09-17T07:36:55-06:00"
 author: "fak3r"

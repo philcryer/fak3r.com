@@ -1,5 +1,5 @@
 ---
-title: "Bush dodges thrown shoes during surprise visit to Iraq"
+title: "Bush dodges shoes during surprise visit to Iraq"
 slug: "bush-dodges-thrown-shoes-during-surprise-visit-to-iraq"
 date: "2008-12-15T09:55:29-06:00"
 author: "fak3r"

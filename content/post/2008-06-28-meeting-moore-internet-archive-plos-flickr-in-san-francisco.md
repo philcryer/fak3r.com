@@ -1,5 +1,5 @@
 ---
-title: "Meeting Moore, Internet Archive, PLoS, Flickr in San Francisco"
+title: "Moore, Internet Archive, PLoS, Flickr in San Fran"
 slug: "meeting-moore-internet-archive-plos-flickr-in-san-francisco"
 date: "2008-06-28T03:56:43-06:00"
 author: "fak3r"

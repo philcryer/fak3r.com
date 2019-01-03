@@ -1,5 +1,5 @@
 ---
-title: "Jon Stewart to pay his writers out of own pocket during strike"
+title: "Stewart pays writers out of pocket during strike"
 slug: "jon-stewart-to-pay-his-writers-out-of-own-pocket-during-strike"
 date: "2007-11-05T14:40:38-06:00"
 author: "fak3r"

@@ -1,5 +1,5 @@
 ---
-title: "American Family Ass. boycotting McDonald's homosexual agenda"
+title: "American Family Ass. boycotting McDonald"
 slug: "american-family-ass-boycotting-mcdonalds-gay-agenda"
 date: "2008-07-03T19:52:42-06:00"
 author: "fak3r"

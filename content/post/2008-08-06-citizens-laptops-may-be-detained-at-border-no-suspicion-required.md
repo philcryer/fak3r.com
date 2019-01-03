@@ -1,5 +1,5 @@
 ---
-title: "Citizen's laptops may be detained at border: no suspicion required"
+title: "US Citizen's laptops may be detained at border"
 slug: "citizens-laptops-may-be-detained-at-border-no-suspicion-required"
 date: "2008-08-06T17:32:50-06:00"
 author: "fak3r"

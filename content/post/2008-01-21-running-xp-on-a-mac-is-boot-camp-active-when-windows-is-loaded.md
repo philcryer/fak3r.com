@@ -1,5 +1,5 @@
 ---
-title: "Running XP on a Mac - is Boot Camp active when Windows is loaded?"
+title: "Running Windows XP on a Mac"
 slug: "running-xp-on-a-mac-is-boot-camp-active-when-windows-is-loaded"
 date: "2008-01-21T10:36:48-06:00"
 author: "fak3r"

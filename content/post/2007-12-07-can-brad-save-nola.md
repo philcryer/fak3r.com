@@ -1,5 +1,5 @@
 ---
-title: "Little pink houses for you and me; can Brad save NOLA?"
+title: "Little pink houses for you and me; Brad saves NOLA?"
 slug: "can-brad-save-nola"
 date: "2007-12-07T00:08:30-06:00"
 author: "fak3r"

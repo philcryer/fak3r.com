@@ -1,5 +1,5 @@
 ---
-title: "Daydream Nation now on the National Recording Registry"
+title: "Daydream Nation in the National Recording Registry"
 slug: "daydream-nation-now-on-the-national-recording-registry"
 date: "2006-04-13T17:10:00-06:00"
 author: "fak3r"

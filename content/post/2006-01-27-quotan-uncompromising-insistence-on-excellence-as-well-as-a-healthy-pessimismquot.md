@@ -1,5 +1,5 @@
 ---
-title: "An uncompromising insistence on excellence, as well as a healthy pessimism"
+title: "An uncompromising insistence on excellence"
 slug: "quotan-uncompromising-insistence-on-excellence-as-well-as-a-healthy-pessimismquot"
 date: "2006-01-27T16:54:00-06:00"
 author: "fak3r"

@@ -1,5 +1,5 @@
 ---
-title: "Aquadots sweetened with the date-rape drug 1,4-butanediol"
+title: "Aquadots sweetened with the date-rape drug"
 slug: "aquadots-sweetened-with-the-date-rape-drug-14-butanediol"
 date: "2007-11-12T10:52:49-06:00"
 author: "fak3r"

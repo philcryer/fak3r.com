@@ -1,5 +1,5 @@
 ---
-title: "HOWTO generate a list of installed packages for disaster recovery"
+title: "Generate a list of installed packages for DR"
 slug: "howto-generate-a-list-of-installed-packages-for-disaster-recovery"
 date: "2007-01-07T21:25:48-06:00"
 author: "fak3r"

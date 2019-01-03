@@ -1,5 +1,5 @@
 ---
-title: "HOWTO: sound after hibernate in Linux (Gusty/Lenny)"
+title: "Sound after hibernate in Linux (Gusty/Lenny)"
 slug: "howto-sound-after-hibernate-in-linux-gustylenny"
 date: "2008-02-25T11:51:31-06:00"
 author: "fak3r"

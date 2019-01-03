@@ -1,5 +1,5 @@
 ---
-title: "HOWTO: Ultimate Ubuntu eye-candy with Xgl and Compiz"
+title: "Ultimate Ubuntu eye-candy with Xgl and Compiz"
 slug: "howto-ultimate-ubuntu-eye-candy-with-xgl-and-compiz"
 date: "2006-08-08T11:54:45-06:00"
 author: "fak3r"

@@ -1,5 +1,5 @@
 ---
-title: "HOWTO run Chromium OS on a Dell Mini 9 with wifi"
+title: "Run ChromiumOS on Dell Mini 9 with wifi"
 slug: "howto-run-chromium-os-on-a-dell-mini-9-with-wifi"
 date: "2010-01-12T03:48:23-06:00"
 author: "fak3r"

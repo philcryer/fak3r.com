@@ -1,5 +1,5 @@
 ---
-title: "HOWTO: Use a file list in Ubuntu for quick system restore"
+title: "A file list in Ubuntu for quick system restore"
 slug: "howto-use-a-file-list-in-ubuntu-for-quick-system-restore"
 date: "2006-09-20T09:43:19-06:00"
 author: "fak3r"

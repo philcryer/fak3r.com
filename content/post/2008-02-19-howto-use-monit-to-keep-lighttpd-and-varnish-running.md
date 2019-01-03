@@ -1,5 +1,5 @@
 ---
-title: "HOWTO: use monit to keep Lighttpd and Varnish running"
+title: "Use monit to keep Lighttpd, Varnish running"
 slug: "howto-use-monit-to-keep-lighttpd-and-varnish-running"
 date: "2008-02-19T13:51:00-06:00"
 author: "fak3r"

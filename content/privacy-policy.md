@@ -20,7 +20,7 @@ What you should know when visiting my site, fak3r.com; pay attention, this stuff
 <p><b>NO</b>, I do not collect, thus I do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. Also, since I don't have it, I will never release any of your information to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety. Additionally, non-personally identifiable visitor information is not being collected, so I could never provide that data to other parties for marketing, advertising, or other uses.</p>
 
 <h3>Then why are you telling me this?</h3>
-<p>Because you're being watched online. The average website has around 14 cookies per page; roughly 32 percent come from the website owner, and the rest come from third parties. Source: <a href="http://www.truste.com/uk-privacy-index-2012-websites/">TRUSTe Privacy Index</a>. It's important for me to point this out, so you know what you're up against out there. You're pay for all of those "free" services somehow!</p>
+<p>Because you're being watched online. The average website has around 14 cookies per page; roughly 32 percent come from the website owner, and the rest come from third parties. (Source: <a href="http://www.truste.com/uk-privacy-index-2012-websites/">TRUSTe Privacy Index</a>)</p>
 
 <h3>Disqus</h3>
 <p>As of early 2018, I've turned off Disqus comments for good. If you want to comment on a post, feel free to send me a DM or tag me, <a href="https://twitter.com/fak3r">@fak3r</a> on Twitter.</p>
@@ -42,6 +42,6 @@ What you should know when visiting my site, fak3r.com; pay attention, this stuff
 <li>twitter: @fak3r</li>
 </ul>
 
-<h3>NOTE: This policy was last modified on January 01, 2019</h3>
+<h3>NOTICE: This was last modified on January 01, 2019</h3>
 
 <p>Thanks</p>

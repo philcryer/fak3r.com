@@ -1,11 +1,11 @@
-+++
+---
 title: "HOWTO use npm behind a corporate proxy"
 Description: "The continuing story about working behind 'security' proxies"
 date: "2015-07-31T07:22:18-06:00"
 Categories: ["howto"]
 Tags: ["infosec", "firewall", "proxy"]
+---
 
-+++
 # Overview
 
 Working at __$big_company__ is not without its challenges, but the least of which should be network access, right? No, of course not. Installed "security appliances" (see the [SSL MiTM post](https://fak3r.com/2015/07/22/does-your-employer-run-ssl-mitm-attacks-on-you/) for more on that) on the network always limit access from within the corporate firewall out to the __I__ernet at large to protect from security vulurables. This is all great and fine, but that kind of protection always errs on blocking, so working with open source projects that are easy to install and run out in the real world become a nightmare when you're inside the coporate firewall.<!--more-->

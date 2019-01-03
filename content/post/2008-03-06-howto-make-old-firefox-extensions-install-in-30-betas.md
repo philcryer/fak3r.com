@@ -1,5 +1,5 @@
 ---
-title: "HOWTO: make old Firefox extensions install in 3.0 betas"
+title: "Make old Firefox extensions install in 3.0 betas"
 slug: "howto-make-old-firefox-extensions-install-in-30-betas"
 date: "2008-03-06T23:14:06-06:00"
 author: "fak3r"
