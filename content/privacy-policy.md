@@ -1,10 +1,10 @@
-+++
+---
 date: "2018-01-01T15:07:00-06:00"
 title: "Privacy Policy"
 slug: "privacy-policy"
 nodate: "true"
 nopaging: true
-+++
+---
 What you should know when visiting my site, fak3r.com; pay attention, this stuff is important!
 
 <h3>Does fak3r.com use cookies?</h3>
