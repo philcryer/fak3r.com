@@ -1,13 +1,10 @@
----
++++
+date: "2018-01-01T15:07:00-06:00"
 title: "Terms and Conditions"
-date: "2013-06-28T10:08:00-06:00"
 slug: "terms-and-conditions"
-nodate: true
-nopaging: true
-noread: true
-layout: page
-
----
+nodate = "true"
+nopaging = true
++++
 <h3>
 	1. Terms
 </h3>
