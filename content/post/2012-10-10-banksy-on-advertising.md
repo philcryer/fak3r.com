@@ -17,6 +17,7 @@ tags:
 
 <div align="center">
 [![](/2012/the-joy-of-not-being-sold-anything.jpg)]
+<img src="/2012/the-joy-of-not-being-sold-anything.jpg" alt="Banksy" border="0">
 </div>
 
 This excerpt of [Banksy’s](https://en.wikipedia.org/wiki/Banksy) thoughts on advertising is making the rounds, and it's spot on. With companies tricking consumers into revealing more of themselves becoming the norm, this kind of blowback needs to happen. Somebody get this guy a drink, he's making more sense than anyone else these days; he's a smart chap.
