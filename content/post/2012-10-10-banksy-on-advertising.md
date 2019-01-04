@@ -16,7 +16,6 @@ tags:
 ---
 
 <div align="center">
-[![](/2012/the-joy-of-not-being-sold-anything.jpg)]
 <img src="/2012/the-joy-of-not-being-sold-anything.jpg" alt="Banksy" border="0">
 </div>
 
