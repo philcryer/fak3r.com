@@ -7,7 +7,7 @@ categories:
 - music
 ---
 
-Sonic Youth's 1998 epic, "Daydream Nation" is now part of the National Library of Contgress. Here's the link for [Daydream Nation](https://www.loc.gov/programs/static/national-recording-preservation-board/documents/daydream%20nation.pdf), so very cool that it’s now in the Library of Congress.
+Sonic Youth's 1988 epic, "Daydream Nation" is now part of the National Library of Contgress. Here's the link for [Daydream Nation](https://www.loc.gov/programs/static/national-recording-preservation-board/documents/daydream%20nation.pdf) in the library, so very cool that it’s now in the Library of Congress.
 
 <div align="center"><img src="/2006/daydream-nation.jpg" alt="Daydream Nation"></div>
 
