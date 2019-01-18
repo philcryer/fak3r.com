@@ -1,6 +1,6 @@
 +++
 title: "Automate Ansible Tower cli"
-date: 2019-01-17T20:48:13-06:00
+date: "2019-01-17T20:48:13-06:00"
 draft: false
 Tags: ["ansible", "tower", "automate"]
 Categories: ["howto"]
