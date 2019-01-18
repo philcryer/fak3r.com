@@ -1,6 +1,6 @@
 ---
 title: "Automate Ansible Tower cli"
-description: "This should work"
+description: "Automate tower-cli with this wrapper script to run repeatable Ansible jobs"
 date: "2019-01-17T20:48:13-06:00"
 Tags: ["ansible", "tower", "automate"]
 Categories: ["howto"]
