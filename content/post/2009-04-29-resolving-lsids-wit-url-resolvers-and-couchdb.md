@@ -1,5 +1,5 @@
 ---
-title: "Resolving LSIDs with URL resolvers and CouchDB"
+title: "Resolving LSIDs with CouchDB"
 slug: "resolving-lsids-wit-url-resolvers-and-couchdb"
 date: "2009-04-29T08:29:04-06:00"
 author: "fak3r"

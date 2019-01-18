@@ -1,5 +1,5 @@
 ---
-title: "HOWTO enable automatic security updates in Debian"
+title: "Enable auto security updates in Debian"
 slug: "howto-enable-automatic-security-updates-in-debian"
 date: "2012-06-21T21:50:24-06:00"
 author: "fak3r"

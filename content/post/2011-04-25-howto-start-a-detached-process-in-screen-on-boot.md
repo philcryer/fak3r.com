@@ -1,5 +1,5 @@
 ---
-title: "HOWTO start a detached process in screen on boot"
+title: "Start a detached process in screen"
 slug: "howto-start-a-detached-process-in-screen-on-boot"
 date: "2011-04-25T09:43:22-06:00"
 author: "fak3r"

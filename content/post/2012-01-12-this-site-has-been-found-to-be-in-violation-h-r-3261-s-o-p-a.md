@@ -1,5 +1,6 @@
 ---
-title: "This site has been found to be in violation HR 3261"
+title: "This site is in violation of HR3261"
+description: "This site has been found to be in violationHR 3261, yikes"
 slug: "this-site-has-been-found-to-be-in-violation-h-r-3261-s-o-p-a"
 date: "2012-01-12T10:47:06-06:00"
 author: "fak3r"

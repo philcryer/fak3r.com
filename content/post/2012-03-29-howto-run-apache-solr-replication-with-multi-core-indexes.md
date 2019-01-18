@@ -1,5 +1,5 @@
 ---
-title: "Apache Solr replication with multi-core indexes"
+title: "ApacheSolr replication with multi-core indexes"
 slug: "howto-run-apache-solr-replication-with-multi-core-indexes"
 date: "2012-03-29T22:13:08-06:00"
 author: "fak3r"

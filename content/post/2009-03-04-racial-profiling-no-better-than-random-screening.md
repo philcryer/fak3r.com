@@ -1,5 +1,5 @@
 ---
-title: "Racial profiling no better than random screening"
+title: "Profiling no better than random screening"
 slug: "racial-profiling-no-better-than-random-screening"
 date: "2009-03-04T09:05:45-06:00"
 author: "fak3r"

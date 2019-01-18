@@ -1,5 +1,5 @@
 ---
-title: "HOWTO run a secure, caching DNS server in chroot"
+title: "Run secure, caching DNS server in chroot"
 slug: "howto-run-a-secure-caching-dns-server-in-chroot"
 date: "2012-03-14T21:50:17-06:00"
 author: "fak3r"

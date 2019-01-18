@@ -1,5 +1,5 @@
 ---
-title: "LinkedIn is spamming all of my Gmail contacts"
+title: "LinkedIn spams all of my Gmail contacts"
 slug: "linkedin-is-spamming-all-of-my-gmail-contacts"
 date: "2011-10-12T12:01:27-06:00"
 author: "fak3r"

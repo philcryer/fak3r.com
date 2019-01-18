@@ -1,5 +1,5 @@
 ---
-title: "HOWTO automate Debian installs with preseed"
+title: "Automate Debian installs via preseed"
 slug: "howto-automate-debian-installs-with-preseed"
 date: "2011-08-18T14:41:14-06:00"
 author: "fak3r"

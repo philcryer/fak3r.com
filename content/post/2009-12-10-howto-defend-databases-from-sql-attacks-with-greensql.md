@@ -1,5 +1,5 @@
 ---
-title: "Defend databases from SQL attacks with GreenSQL"
+title: "Defend DB from SQL attacks w/GreenSQL"
 slug: "howto-defend-databases-from-sql-attacks-with-greensql"
 date: "2009-12-10T17:26:16-06:00"
 author: "fak3r"

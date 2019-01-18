@@ -1,5 +1,5 @@
 ---
-title: "HOWTO build your own open source Dropbox clone"
+title: "Build an open source Dropbox clone"
 slug: "howto-build-your-own-open-source-dropbox-clone"
 date: "2009-09-14T23:21:03-06:00"
 author: "fak3r"

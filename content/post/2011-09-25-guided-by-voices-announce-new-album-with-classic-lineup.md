@@ -1,5 +1,5 @@
 ---
-title: "Guided by Voices: new album with classic lineup!"
+title: "Guided by Voices new album, classic lineup"
 slug: "guided-by-voices-announce-new-album-with-classic-lineup"
 date: "2011-09-25T22:54:09-06:00"
 author: "fak3r"

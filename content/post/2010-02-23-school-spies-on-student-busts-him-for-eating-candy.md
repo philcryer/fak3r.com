@@ -1,5 +1,5 @@
 ---
-title: "School spies on student, busts him for...eating candy"
+title: "School spies on student, he's eating candy"
 slug: "school-spies-on-student-busts-him-for-eating-candy"
 date: "2010-02-23T13:35:51-06:00"
 author: "fak3r"

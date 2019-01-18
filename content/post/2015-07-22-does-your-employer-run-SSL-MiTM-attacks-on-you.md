@@ -1,6 +1,6 @@
 ---
-title: "Does your employer run SSL MiTM attacks on you?"
-Description: "If you're working for a F500 company, most likely, yes"
+title: "Your employer runs SSL MiTM attacks on you"
+Description: "If you're working for a F500 company, most likely, yes, they're running MiTM attacks on you"
 date: "2015-07-22T18:23:29-06:00"
 Categories: ["geek", "surveillance"]
 Tags: ["howto", "ssl", "mitm", "infosec", "websense", "wsg_subca"]

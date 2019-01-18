@@ -1,5 +1,5 @@
 ---
-title: "HOWTO run DD-WRT on a Netgear WNDR3700"
+title: "Run DD-WRT on Netgear WNDR3700"
 slug: "howto-run-dd-wrt-on-a-netgear-wndr3700"
 date: "2011-10-25T12:03:03-06:00"
 author: "fak3r"

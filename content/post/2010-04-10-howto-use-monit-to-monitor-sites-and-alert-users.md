@@ -1,5 +1,5 @@
 ---
-title: "HOWTO use monit to monitor sites and alert users"
+title: "Monit monitors sites and alert users"
 slug: "howto-use-monit-to-monitor-sites-and-alert-users"
 date: "2010-04-10T11:20:06-06:00"
 author: "fak3r"

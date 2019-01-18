@@ -1,5 +1,5 @@
 ---
-title: Update Googledrive icons to match dark Yosemite
+title: Match dark Yosemite Googledrive icons 
 date: "2014-11-11T12:15:09-06:00"
 categories:
 - howto

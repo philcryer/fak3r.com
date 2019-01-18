@@ -1,5 +1,5 @@
 ---
-title: "Serve jpeg2000 within a scalable infrastructure"
+title: "Jpeg2000 from a scalable infrastructure"
 slug: "howto-serve-jpeg2000-images-with-a-scalable-infrastructure"
 date: "2009-01-27T00:47:51-06:00"
 author: "fak3r"

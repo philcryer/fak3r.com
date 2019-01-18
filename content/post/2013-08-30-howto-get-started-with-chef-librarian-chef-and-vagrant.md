@@ -1,5 +1,5 @@
 ---
-title: "Get started with chef, librarian-chef and vagrant"
+title: "Setup chef and librarian in vagrant"
 date: "2013-08-30T14:51:00-06:00"
 categories: 
 - geek
