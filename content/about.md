@@ -26,6 +26,7 @@ nopaging = true
 <img src="/colophon/hugo.png" height="16" width="16" border="0">&nbsp;&nbsp;<a href="http://gohugo.io/">Hugo</a> a fast and modern static website engine built in Go<br />
 <img src="/colophon/le.png" width="16" height="16" border="0">&nbsp;&nbsp;<a href="https://letsencrypt.org">Let's Encrypt</a> a free, automated, open Certificate Authority for SSL certificates<br />
 <img src="/colophon/netlify.png" border="0">&nbsp;&nbsp;<a href="https://www.netlify.com">Netlify</a> an all-in-one workflow: combines global deployment, continuous integration<br />
+<img src="/colophon/vultr.png" border="0">&nbsp;&nbsp;<a href="https://www.vultr.com/?ref=7050737">Vultr</a> (ref link) easily deploy cloud servers, bare metal, and storage worldwide, starting at $5/month!<br />
 <img src="/colophon/vim.png" border="0">&nbsp;&nbsp;<a href="http://www.vim.org">Vim</a> the Unix editor with a more complete feature set<br />
 <br />
 
