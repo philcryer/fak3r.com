@@ -1,3 +1,5 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/2a5caefe-fdd1-4093-ac55-f0dc106b8c69/deploy-status)](https://app.netlify.com/sites/wizardly-liskov-e4f96e/deploys)
+
 # fak3r.com
 
 ## Summary
