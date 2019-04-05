@@ -19,13 +19,13 @@ tags:
 My install is going to be in Debian 6.0 (Squeeze), but it should be identical for Ubuntu Linux users, and for any other Linux users, after the Unbound is installed. So first we'll install Unbound, it's as easy as...
 
 ```
-apt-get install unbound
+    apt-get install unbound
 ```
 
 Thrilling, I know! Next up lets modify unbound's config.
 
 ```    
-vi /etc/unbound/unbound.conf
+    vi /etc/unbound/unbound.conf
 ```
 
 
