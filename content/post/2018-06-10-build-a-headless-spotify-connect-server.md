@@ -8,7 +8,7 @@ Categories: ["howto", "hacking", "music"]
 
 # Overview
 
-I've run various projects on [Raspberry Pi](https://www.raspberrypi.org/) computers since they came out, but the one I've used the most has been the one I bought an external DAC (digital audio converter) for, and hooked it up to a stereo so I could remotely stream music. Technically you could use a Y-cord (3.5mm Mini to RCA Stereo) plugged into the headphone out of the Pi, and have it connect via RCA to your stereo, but then you're using the on board audio, which is far inferior to a dedicated DAC. While I liked frontends like [Pi Musicbox](http://www.pimusicbox.com/), [Rune Audio](http://www.runeaudio.com/), and the polished looking [Volumio](https://volumio.org/), they did far more than I needed, and over time I'd have random issues that would take me longer to fix than I'd like, so I decided to rebuild my setup from scratch, and just make it a [Spotify Connect](https://support.spotify.com/us/listen_everywhere/on_other_devices/spotify-connect/) server. This means that the system can be a 'source' for any Spotify client to stream audio to, cutting out the need for a web-based front end like the other projects.
+I've run various projects on [Raspberry Pi](https://www.raspberrypi.org/) computers since they came out, but the one I've used the most has been the one I bought an external DAC (digital audio converter) for, and hooked it up to a stereo so I could remotely stream music. Technically you could use a Y-cord (3.5mm Mini to RCA Stereo) plugged into the headphone out of the Pi, and have it connect via RCA to your stereo, but then you're using the on board audio, which is far inferior to a dedicated DAC. While I liked frontends like [Pi Musicbox](https://www.pimusicbox.com/), [Rune Audio](https://www.runeaudio.com/), and the polished looking [Volumio](https://volumio.org/), they did far more than I needed, and over time I'd have random issues that would take me longer to fix than I'd like, so I decided to rebuild my setup from scratch, and just make it a [Spotify Connect](https://support.spotify.com/us/listen_everywhere/on_other_devices/spotify-connect/) server. This means that the system can be a 'source' for any Spotify client to stream audio to, cutting out the need for a web-based front end like the other projects.
 
 ![Rapberry Pi w/HiFi Berry DAC+ PRO in case](/2018/finished-product.jpg)
 
@@ -27,7 +27,7 @@ My current setup consists of:
 
 * [Acrylic case for DAC+ (RCA)](https://www.hifiberry.com/shop/cases/hifiberry-case-for-dac-rca-and-digi-black/), currently about $12 USD
 * [SanDisk Ultra 32GB microSDHC](https://www.amazon.com/SanDisk-microSDHC-Standard-Packaging-SDSQUNC-032G-GN6MA/dp/B010Q57T02), currently about $12 USD
-* [CAT6 Gigabit Ethernet Cable](http://www.microcenter.com/product/431178/CAT6_Gigabit_Ethernet_Cable_for_Raspberry_Pi), about $6 USD
+* [CAT6 Gigabit Ethernet Cable](https://www.microcenter.com/product/431178/CAT6_Gigabit_Ethernet_Cable_for_Raspberry_Pi), about $6 USD
 * [Blue Jeans Cable LC-1 Low Capacitance Audio Cable (RCA)](https://www.bluejeanscable.com/store/audio/index.htm), which is priced by length, so for a 2 foot pair with Techflex it's about $35 USD.
 
 So I've had this setup for years, if I were to do it again today I'd take a fresh look and review a few things before I stated: 
