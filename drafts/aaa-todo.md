@@ -3,13 +3,12 @@
 * Big Bite ""
 * The National "I am easy to find"
 * Julia Jacklin "Crushing"
-
-Sharon Van Etten - Remind Me Tomorrow
-Jenny Lewis - On The Line
-Foals - Everything Not Saved Will Be Lost Part 1
-Deerhunter - Why Hasn’t Everything Already Disappeared?
-PUP - Morbid Stuff
-Stella Donnelly - Beware of the Dogs
+* Sharon Van Etten - Remind Me Tomorrow
+* Jenny Lewis - On The Line
+* Foals - Everything Not Saved Will Be Lost Part 1
+* Deerhunter - Why Hasn’t Everything Already Disappeared?
+* PUP - Morbid Stuff
+* Stella Donnelly - Beware of the Dogs
 
 ## Other
 
