@@ -14,39 +14,24 @@ tags:
 - text
 - truisms
 ---
-
-
-
 I've long been a fan of [Jenny Holzer's](http://en.wikipedia.org/wiki/Jenny_Holzer) art, dealing with text, originally printed as photostat, but later displayed on billboards, in Times Square on the big screen (pictured) and later projected in huge letters on buildings. The idea of presenting ones ideas, or as in this case, declared maxims for her _Trusims_. I can't recall where i first came across this piece, but I love reading through them all, with the one "_abuse of power comes as no surprise_" being my favorite. Even after I forgot about this piece, I never forgot that line and thought of it often. I mean think about it, does that ever *not* happen? She's an American artist, born in 1950 in Ohio, who started using text as her primary means in the late 70s. An original version of the piece is now part of [The Museum of Modern Art](https://www.moma.org/collection/browse_results.php?criteria=O%3AAD%3AE%3A2714&page_number=1&template_id=1&sort_order=1) (MoMA) in New York, and they described it as "..._her pithy, ironic, and often disturbing statements have been presented on posters, T-shirts, baseball caps, and a flashing screen in Times Square, New York_."
 
+<img src="/2011/truisms.jpg" title="Truisms" alt="Truisms">
 
-> _ _
+> Holzer, Jenny (1950-) © ARS, NY
+> From Truisms, 1982. Spectacolor electronic sign, 20 x 40 ft.; 6.1 x 12.2 m.
+> Times Square, New York, USA.
+> Organized by Public Art Fund, Inc.
+> Text: Truisms, 1977-79.
+> Photo: Lisa Kahane.
 
+> Holzer began creating these works in 1977, when she was a student in an independent study program. She hand-typed numerous "one liners," or "Truisms", which she has likened, partly in jest, to a "Jenny Holzer's Reader's Digest version of Western and Eastern thought." She typeset the sentences in alphabetical order and printed them inexpensively, using commercial printing processes. She then distributed the sheets at random and pasted them up as posters around the city. Her _Truisms_ eventually adorned a variety of formats, including T-shirts and baseball caps.
 
-
-__The Photostat, _Truisms_, seen here presents eighty-six of Holzer's ongoing series of maxims. Variously insightful, aggressive, or comic, they express multiple viewpoints that the artist hopes will arouse a wide range of responses. A small selection of _Truisms_ includes: "A lot of professionals are crackpots"; "Abuse of power comes as no surprise"; "Bad intentions can yield good results"; and "Categorizing fear is calming."_
-
-_Holzer began creating these works in 1977, when she was a student in an independent study program. She hand-typed numerous "one liners," or _Truisms_, which she has likened, partly in jest, to a "Jenny Holzer's _Reader's Digest_ version of Western and Eastern thought." She typeset the sentences in alphabetical order and printed them inexpensively, using commercial printing processes. She then distributed the sheets at random and pasted them up as posters around the city. Her _Truisms_ eventually adorned a variety of formats, including T-shirts and baseball caps._
-
-_ __ _
-
-
-_ _I'm assuming she won't mind me adding to the way she displays, so I found a version of her text online and present it here, reading through them again now brought a smile to my face more than a few times.
-
-
-> **Jenny Holzer (American, born 1950) (1978-87).**
-** (Original) Photostat, composition: 8' x 40" (243.9 x 101.6 cm)**
-** (c) 2010 Jenny Holzer / Artists Rights Society (ARS), New York 177.1988**
-
-
-
+Assuming she won't mind me adding to the way she displays, so I found a version of her text online and present it here, reading through them again now brought a smile to my face more than a few times.
 
 <!-- more -->
 
-
-
-> 
-
+```
 a little knowledge can go a long way
 
 a lot of professionals are crackpots
@@ -552,8 +537,4 @@ you should study as much as possible
 your actions ae pointless if no one notices
 
 your oldest fears are the worst ones
-
-
-_
-
-_ _
+```
