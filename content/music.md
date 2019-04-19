@@ -88,6 +88,7 @@ The following are what I believe to be the greatest recorded works ever created.
 <li>Refused "The Shape of Punk to Come"</li>
 <li>Sleater-Kinney "Call The Doctor"</li>
 <li>Elliott Smith "Either/Or"</li>
+<li>The Wedding Present "Seamonsters"</li>
 <li>Wilco "Yankee Hotel Foxtrot"</li>
 </ul>
 
