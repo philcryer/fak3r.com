@@ -1,15 +1,26 @@
 Charly Bliss "Young Enough"
 
-6. Remind Me Tomorrow by Sharon Van Etten
+Remind Me Tomorrow by Sharon Van Etten
 
-5. On the Line by Jenny Lewis
-10. Punk by CHAI
-13. What Chaos Is Imaginary by Girlpool
-14. Better Oblivion Community Center by Better Oblivion Community Center
+On the Line by Jenny Lewis
+
+Punk by CHAI
+
+What Chaos Is Imaginary by Girlpool
+
+Better Oblivion Community Center by Better Oblivion Community Center
+
 Julia Jacklin - Crushing
+
 Sunn O))) - Life Metal
+
 PUP - Morbid Stuff
 
 Craig Finn - I Need a New War
 
 nots "3"
+
+Mannequin Pussy: Patience
+
+St Pierre Snake Invasion
+http://tspsi.bandcamp.com/album/everyones-entitled-to-my-opinion?from=fanpub_fnb_merch
