@@ -30,7 +30,7 @@ mv fak3r.com new-name
 
 ```
 cd new-name
-rm -rf content/*.markdown content/post/* static/*
+rm -rf content/*.markdown content/*.md content/post/* static/*
 ```
 
 * Edit the config.toml to match your values:
