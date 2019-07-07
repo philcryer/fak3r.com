@@ -11,35 +11,35 @@ nopaging = true
 
 # Shows
 
-I still go to a lot of shows, here are a list of ones from the past years. These are all in the Saint Louis, MO (USA) region, unless otherwise specifie These are all in the Saint Louis, MO (USA) region, unless otherwise specified. Thanks
+I still go to a lot of shows, here are a list of ones from the past years. These are all in the Saint Louis, MO (USA) region, unless otherwise specified. Thanks
 
 ## 2018
 
-• Jonathan Richman w/Tommy Larkin - Mohawk - Sun, Feb 18 (AUSTIN)
-• Ought w/Snail Mail - Off Broadway - Sat, Mar 10 
-• Hot Snakes - Duck Room - Wed, Mar 14
-• Matt and Kim w/Cruisr - Pageant - Tues, Mar 27 
-• Coast Modern - Firebird - Fri, April 6
-• Willie Nelson and Family - Peabody - April 18
-• The Decemberists - Peabody - Wed, April 25
-• Jeff Rosenstock - Off Broadway - Sun, Apr 29
-• U2 - Scottrade Center - Fri, May 4
-• Spoon - The Pageant - Wed, May 16
-• Vance Joy - Fox Theater - Sat, May 26
-• Dropkick Murphies w/Flogging Molly - Pop's - Tues, June 12
-• Guided by Voices - Showcase St. Louis - Sun, June 17 (missed)
-• Sloan - Duck Room - June 22
-• TWRP w/Planet Booty - Old Rock House - Sept 4
-• Jason Isbell and the 400 Unit - Peabody - Mon, Sept 10
-• Screaming Females - Off Broadway -Sun, Sep 30
-• Swinging Utters - Duck Room - Oct 2
-• The English Beat - Duck Room - Sun, Oct 28
-• The Alarm -  Off Broadway - Tue, Nov 06
-• Cloud Nothings w/Nap Eyes - Old Rock House - Wed, Nov 14
-• Smoking Popes - Firebird - Sat, Nov 17
-• Starwolf - Duck Room - Fri, Nov 23
-• Amanda Shires - Off Broadway - Thurs, Nov 29
-• Thom Yorke - Stiffel - Sat, Dec 8
+* Jonathan Richman w/Tommy Larkin - Mohawk - Sun, Feb 18 (AUSTIN)
+* Ought w/Snail Mail - Off Broadway - Sat, Mar 10 
+* Hot Snakes - Duck Room - Wed, Mar 14
+* Matt and Kim w/Cruisr - Pageant - Tues, Mar 27 
+* Coast Modern - Firebird - Fri, April 6
+* Willie Nelson and Family - Peabody - April 18
+* The Decemberists - Peabody - Wed, April 25
+* Jeff Rosenstock - Off Broadway - Sun, Apr 29
+* U2 - Scottrade Center - Fri, May 4
+* Spoon - The Pageant - Wed, May 16
+* Vance Joy - Fox Theater - Sat, May 26
+* Dropkick Murphies w/Flogging Molly - Pop's - Tues, June 12
+* Guided by Voices - Showcase St. Louis - Sun, June 17 (missed)
+* Sloan - Duck Room - June 22
+* TWRP w/Planet Booty - Old Rock House - Sept 4
+* Jason Isbell and the 400 Unit - Peabody - Mon, Sept 10
+* Screaming Females - Off Broadway -Sun, Sep 30
+* Swinging Utters - Duck Room - Oct 2
+* The English Beat - Duck Room - Sun, Oct 28
+* The Alarm -  Off Broadway - Tue, Nov 06
+* Cloud Nothings w/Nap Eyes - Old Rock House - Wed, Nov 14
+* Smoking Popes - Firebird - Sat, Nov 17
+* Starwolf - Duck Room - Fri, Nov 23
+* Amanda Shires - Off Broadway - Thurs, Nov 29
+* Thom Yorke - Stiffel - Sat, Dec 8
 
 ## 2017
 
