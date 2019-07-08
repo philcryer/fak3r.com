@@ -8,12 +8,15 @@ nopaging = true
 
 # Music
 
-## Best
+## Best of Lists
 
-### Year end lists(music-year-end)
+* [Ever](/music-best-ever)
+* [By year](/music-best-by-year)
 
-### [Ever](music-best-ever)
+## Concerts attended
 
-## Concerts
+* [By year](/music-concerts)
 
-### [By year](music-concerts)
+## Ticketstubs scanned
+
+* Coming soon...
