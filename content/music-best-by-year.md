@@ -6,22 +6,20 @@ nodate = true
 nopaging = true
 +++
 
-* [2005](2006-01-02-best-of-2005.md)
-* [2005](2006/01/02/best-of-2005)
-* [2005](best-of-2005)
+I've published my best of lists for years, here linked to the specific post for each year.
 
-post//2006-12-26-best-of-2006.md:slug: "best-of-2006"
-post//2007-12-27-best-music-of-2007.md:slug: "best-music-of-2007"
-post//2009-01-13-best-music-of-2008.md:slug: "best-music-of-2008"
-post//2010-02-05-best-music-of-2009.md:slug: "best-music-of-2009"
-post//2010-12-30-best-music-of-2010.md:slug: "best-music-of-2010"
-post//2011-12-29-best-music-of-2011.md:slug: "best-music-of-2011"
-post//2012-12-08-best-music-of-2012.md:slug: "best-music-of-2012"
-post//2014-11-28-best-music-of-2014.md
+* [2005](/2006/01/02/best-of-2005)
+* [2006](/2006/12/26/best-of-2006)
+* [2007](/2007/12/27/best-music-of-2007)
+* [2008](/2009/01/13/best-music-of-2008)
+* [2009](/2010/02/05/best-music-of-2009)
+* [2010](/2010/12/30/best-music-of-2010)
+* [2011](/2011/12/29/best-music-of-2011)
+* [2012](/2012/12/08/best-music-of-2012)
+* [2013]
+* [2014](/2014/11/28/best-music-of-2014)
+* [2015]
+* [2016]
+* [2017]
+* [2018]
 
-post//2012-12-08-best-music-of-2012.md:slug: "best-music-of-2012"
-post//2007-12-27-best-music-of-2007.md:slug: "best-music-of-2007"
-post//2009-01-13-best-music-of-2008.md:slug: "best-music-of-2008"
-post//2010-02-05-best-music-of-2009.md:slug: "best-music-of-2009"
-post//2010-12-30-best-music-of-2010.md:slug: "best-music-of-2010"
-post//2011-12-29-best-music-of-2011.md:slug: "best-music-of-2011"

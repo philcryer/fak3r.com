@@ -26,5 +26,5 @@ Note: checks denote that ticket(s) are already purchased.
 - [ ] Lucero w/The Huntress and Holder of Hands - Off Broadway - Wed, Oct 2 / Thurs, Oct 3
 - [ ] Luna (performing Penthouse) - Off Broadway - Fri, Oct 11 
 - [x] Mudhoney w/ Kid Congo and the Pink Monkey Birds - Off Broadway - Oct 14
-- [] Mike Watt + the missingmen - Duck Room - Oct 21
+- [ ] Mike Watt + the missingmen - Duck Room - Oct 21
 - [x] Sleater-Kinney - Pageant - Tues, Nov 5
