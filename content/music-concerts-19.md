@@ -1,12 +1,10 @@
 +++
 date = "2019-07-07T18:39:12-05:00"
 title = "Music - Concerts (upcoming)"
-slug = "music-shows-19"
+slug = "music-concerts-19"
 nodate = true
 nopaging = true
 +++
-
-## 2019 (upcoming)
 
 Note: checks denote that ticket(s) are already purchased.
 

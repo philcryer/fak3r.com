@@ -6,8 +6,6 @@ nodate = true
 nopaging = true
 +++
 
-# Music - Best Ever
-
 The following are what I believe to be the greatest recorded works ever created. Feel free to disagree and/or complain, but I hope you discover some new favorites.
 
 ## pre 1969

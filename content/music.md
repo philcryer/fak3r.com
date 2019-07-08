@@ -6,8 +6,6 @@ nodate = true
 nopaging = true
 +++
 
-# Music
-
 ## Best of Lists
 
 * [Ever](/music-best-ever)
