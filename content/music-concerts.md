@@ -1,17 +1,35 @@
 +++
 date = "2019-07-07T18:39:12-05:00"
-title = "Music - Shows"
-slug = "music-shows"
+title = "Music - Concerts"
+slug = "music-concerts"
 nodate = true
-#menu = "main"
 nopaging = true
-#noread = true
-#layout = "page"
 +++
 
-# Shows
+# Concerts
 
-I still go to a lot of shows, here are a list of ones from the past years. These are all in the Saint Louis, MO (USA) region, unless otherwise specified. Thanks
+I still go to a lot of concerts, here are a list of past ones from a few years back. These are all in the Saint Louis, MO (USA) region, unless otherwise specified. Thanks
+
+## 2019 (so far)
+
+* Soccer Mommy - Off Broadway - Wed, Feb 27
+* John Mellencamp - Stifel - Mar 12
+* The Coathangers with Big Bite + The Kuhlies - Old Rock House - Apr 6
+* Mitski - Delmar Hall - Sun, Apr 7
+* Lucinda Williams - Pageant - Thur, Apr 11
+* Victor Wooten - Old Rock House - Apr 16
+* Jeremy Enigk with Tomo Nakayama - Duck Room - Fri, Apr 26
+* Julia Jacklin w/ Black Belt Eagle Scout - RecordBar - Sat, May 11 (KANSAS CITY)
+* Colter Wall - The Ready Room - Sat, May 18
+* The Hives and Refused - The Vic Theatre - Mon, May 20 (CHICAGO)
+* The Hives and Refused - Pageant - Tues, May 21
+* Tacocat - Off Broadway - May 24
+* Craig Finn + The Uptown Controllers, The Delines, Rough Shop - Off Broadway - Wed, June 5
+* Sarah Shook & The Disarmers, Amanda Anne Platt & The Honeycutters, Kevin Gordon - Off Broadway - Fri, June 7
+* Superchunk - Woods House Concert - Sat, June 8 (day)
+* Superchunk, Wussy, Essential Knots - Off Broadway - Sat, June 8 (night)
+* Erika Wennerstrom (of Heartless Bastards) - Off Broadway - Wed, Jul 3
+* The Flaming Lips, Vertical Horizon - VP Fair, the Arch - Sat, Jul 6
 
 ## 2018
 
