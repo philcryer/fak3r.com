@@ -8,8 +8,6 @@ nopaging = true
 
 Note: checks denote that ticket(s) are already purchased.
 
-- [x] Built To Spill: Keep It Like A Secret Tour - Ready Room - Mon, Jul 8
-- [x] TWRP - Fri, Jul 12 (CHICAGO)
 - [x] Supersuckers - Fubar - Tue, Jul 16
 - [x] Sebadoh - Ready Room - Wed, Jul 17
 - [x] Snail Mail with SASAMI - Off Broadway - Thu, Jul 18
@@ -17,7 +15,7 @@ Note: checks denote that ticket(s) are already purchased.
 - [x] The Alarm with Modern English - Delmar Hall - Mon, Aug 12
 - [x] The Bouncing Souls with The Bronx, Swingin' Utters, The Bar Stool Preachers - Delmar Hall - Fri, Aug 16
 - [ ] Jenny Lewis - Pageant - Sat, Aug 17
-- [ ] Purple Mountains - Duck Room - Tues, Aug 20
+- [X] Purple Mountains - Duck Room - Tues, Aug 20
 - [ ] Boris - Delmar Hall - Sept 18
 - [ ] Xiu Xiu - Off Broadway - Sept 23
 - [x] PUP- Delmar Hall - Tues, Sept 24
@@ -28,3 +26,4 @@ Note: checks denote that ticket(s) are already purchased.
 - [x] Mudhoney w/ Kid Congo and the Pink Monkey Birds - Off Broadway - Oct 14
 - [ ] Mike Watt + the missingmen - Duck Room - Oct 21
 - [x] Sleater-Kinney - Pageant - Tues, Nov 5
+- [ ] Cursive w/Cloud Nothings - Delmar Hall - Thurs, Nov 7
