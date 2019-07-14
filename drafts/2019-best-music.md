@@ -1,26 +1,30 @@
 Charly Bliss "Young Enough"
 
-Remind Me Tomorrow by Sharon Van Etten
+Sharon Van Etten "Remind Me Tomorrow"
 
-On the Line by Jenny Lewis
+Jenny Lewis "On the Line"
 
-Punk by CHAI
+CHAI "Punk"
 
-What Chaos Is Imaginary by Girlpool
+Girlpool "What Chaos Is Imaginary"
 
-Better Oblivion Community Center by Better Oblivion Community Center
+Better Oblivion Community Center "s/t"
 
-Julia Jacklin - Crushing
+Julia Jacklin "Crushing"
 
-Sunn O))) - Life Metal
+Sunn O))) "Life Metal"
 
-PUP - Morbid Stuff
+PUP "Morbid Stuff"
 
-Craig Finn - I Need a New War
+Craig Finn "I Need a New War"
 
 nots "3"
 
-Mannequin Pussy: Patience
+Mannequin Pussy "Patience"
 
-St Pierre Snake Invasion
+Bleached "Don't You Think You've Had Enough?"
+
+Purple Mountains "s/t"
+
+St Pierre Snake Invasion "Everyone's Entitled to My Opinion"
 http://tspsi.bandcamp.com/album/everyones-entitled-to-my-opinion?from=fanpub_fnb_merch
