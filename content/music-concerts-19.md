@@ -8,8 +8,6 @@ nopaging = true
 
 Note: checks denote that ticket(s) are already purchased.
 
-- [x] Supersuckers - Fubar - Tue, Jul 16
-- [x] Sebadoh - Ready Room - Wed, Jul 17
 - [x] Snail Mail with SASAMI - Off Broadway - Thu, Jul 18
 - [x] Justin Townes Earle - Off Broadway - Sat, Aug 3 
 - [x] The Alarm with Modern English - Delmar Hall - Mon, Aug 12

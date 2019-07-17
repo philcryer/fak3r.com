@@ -30,6 +30,8 @@ I still go to a lot of concerts, here are a list of past ones from a few years b
 * The Flaming Lips, Vertical Horizon - VP Fair, the Arch - Sat, Jul 6
 * Built To Spill: Keep It Like A Secret Tour - Ready Room - Mon, Jul 8
 * TWRP - Lincoln Hall - Fri, Jul 12 (CHICAGO)
+* Supersuckers - Fubar - Tue, Jul 16
+* Sebadoh - Ready Room - Wed, Jul 17
 
 ## 2018
 
