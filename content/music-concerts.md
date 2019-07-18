@@ -32,6 +32,7 @@ I still go to a lot of concerts, here are a list of past ones from a few years b
 * TWRP - Lincoln Hall - Fri, Jul 12 (CHICAGO)
 * Supersuckers - Fubar - Tue, Jul 16
 * Sebadoh - Ready Room - Wed, Jul 17
+* Snail Mail with SASAMI - Off Broadway - Thu, Jul 18
 
 ## 2018
 
