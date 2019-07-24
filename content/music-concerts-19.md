@@ -25,4 +25,5 @@ Note: checks denote that ticket(s) are already purchased.
 - [x] Mudhoney w/ Kid Congo and the Pink Monkey Birds - Off Broadway - Oct 14
 - [ ] Mike Watt + the missingmen - Duck Room - Oct 21
 - [x] Sleater-Kinney - Pageant - Tues, Nov 5
+- [ ] Black Belt Eagle Scout - Foam - Wed, Nov 6
 - [ ] Cursive w/Cloud Nothings - Delmar Hall - Thurs, Nov 7
