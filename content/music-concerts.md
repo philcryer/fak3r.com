@@ -12,22 +12,22 @@ I still go to a lot of concerts, here are a list of past ones from a few years b
 
 * Soccer Mommy - Off Broadway - Wed, Feb 27
 * John Mellencamp - Stifel - Mar 12
-* The Coathangers with Big Bite + The Kuhlies - Old Rock House - Apr 6
-* Mitski - Delmar Hall - Sun, Apr 7
+* The Coathangers w/Big Bite - Old Rock House - Apr 6
+* Mitski w/Jay Som - Delmar Hall - Sun, Apr 7
 * Lucinda Williams - Pageant - Thur, Apr 11
 * Victor Wooten - Old Rock House - Apr 16
-* Jeremy Enigk with Tomo Nakayama - Duck Room - Fri, Apr 26
-* Julia Jacklin w/ Black Belt Eagle Scout - RecordBar - Sat, May 11 (KANSAS CITY)
+* Jeremy Enigk w/Tomo Nakayama - Duck Room - Fri, Apr 26
+* Julia Jacklin w/Black Belt Eagle Scout - RecordBar - Sat, May 11 (KANSAS CITY)
 * Colter Wall - The Ready Room - Sat, May 18
-* The Hives and Refused - The Vic Theatre - Mon, May 20 (CHICAGO)
-* The Hives and Refused - Pageant - Tues, May 21
-* Tacocat - Off Broadway - May 24
+* The Hives and Refused w/Bleached - The Vic Theatre - Mon, May 20 (CHICAGO)
+* The Hives and Refused w/Bleached - Pageant - Tues, May 21
+* Tacocat w/Sammi Lamzetta - Off Broadway - Fri, May 24
 * Craig Finn + The Uptown Controllers, The Delines, Rough Shop - Off Broadway - Wed, June 5
-* Sarah Shook & The Disarmers, Amanda Anne Platt & The Honeycutters, Kevin Gordon - Off Broadway - Fri, June 7
+* Sarah Shook & The Disarmers, Amanda Anne Platt, Kevin Gordon - Off Broadway - Fri, June 7
 * Superchunk - Woods House Concert - Sat, June 8 (day)
 * Superchunk, Wussy, Essential Knots - Off Broadway - Sat, June 8 (night)
 * Erika Wennerstrom (of Heartless Bastards) - Off Broadway - Wed, Jul 3
-* The Flaming Lips, Vertical Horizon - VP Fair, the Arch - Sat, Jul 6
+* The Flaming Lips w/Vertical Horizon - VP Fair, the Arch - Sat, Jul 6
 * Built To Spill: Keep It Like A Secret Tour - Ready Room - Mon, Jul 8
 * TWRP - Lincoln Hall - Fri, Jul 12 (CHICAGO)
 * Supersuckers - Fubar - Tue, Jul 16
