@@ -26,7 +26,7 @@ I still go to a lot of concerts, here are a list of past ones from a few years b
 * Sarah Shook & The Disarmers, Amanda Anne Platt, Kevin Gordon - Off Broadway - Fri, June 7
 * Superchunk - Woods House Concert - Sat, June 8 (day)
 * Superchunk, Wussy, Essential Knots - Off Broadway - Sat, June 8 (night)
-* Erika Wennerstrom (of Heartless Bastards) - Off Broadway - Wed, Jul 3
+* Erika Wennerstrom (Heartless Bastards) - Off Broadway - Wed, Jul 3
 * The Flaming Lips w/Vertical Horizon - VP Fair, the Arch - Sat, Jul 6
 * Built To Spill: Keep It Like A Secret Tour - Ready Room - Mon, Jul 8
 * TWRP and Protomen - Lincoln Hall - Fri, Jul 12 (CHICAGO)
