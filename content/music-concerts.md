@@ -32,7 +32,11 @@ I still go to a lot of concerts, here are a list of past ones from a few years b
 * TWRP and Protomen - Lincoln Hall - Fri, Jul 12 (CHICAGO)
 * Supersuckers - Fubar - Tue, Jul 16
 * Sebadoh - Ready Room - Wed, Jul 17
-* Snail Mail with SASAMI - Off Broadway - Thu, Jul 18
+* Snail Mail w/SASAMI - Off Broadway - Thu, Jul 18
+* Justin Townes Earle - Off Broadway - Sat, Aug 3 
+* MC Frontalot w/Dual Core - Paris Las Vegas - Fri, August 9th (LAS VEGAS)
+* The Alarm w/Modern English - Delmar Hall - Mon, Aug 12
+* (CANCELLED) Purple Mountains - Duck Room - Tues, Aug 20 ([RIP David Berman](https://www.dragcity.com/news/2019-08-12-call-me-from-albemarle))
 
 ## 2018
 
@@ -74,7 +78,7 @@ I still go to a lot of concerts, here are a list of past ones from a few years b
 * Explosions in the Sky - Pageant - Fri, April 28
 * X - Delmar Hall - Sat, May 6
 * The Shins - Pageant - Fri, May 19
-* Ninja Sex Party with TWRP - Marathon Music Works - Fri, May 19 (Nashville)
+* Ninja Sex Party w/TWRP - Marathon Music Works - Fri, May 19 (Nashville)
 * Sigur Ros - Peabody Opera House - June 5
 * Kasey Chambers - Off Broadway - June 19
 * Jason Isbell - Peabody Opera House - July 12
@@ -82,7 +86,7 @@ I still go to a lot of concerts, here are a list of past ones from a few years b
 * The Alarm - Ready Room - Thu, Aug 24
 * Loufest (Spoon, Run The Jewels, Weezer, Nathaniel Rateliff & the Night Sweats) - Forest Park - Sat-Sun, Sep 9-10
 * Kevin Morby - Off Broadway - Wed, Sep 13
-* (CANCELLED) U2 with Beck - The Dome - Sat Sep 16
+* (CANCELLED) U2 w/Beck - The Dome - Sat Sep 16
 * Gorillaz - Sprint Center - Fri Sep 22 (Kansas City)
 * Screaming Females w/Street Eaters - Off Broadway - Tues, Oct 3
 * Jason Isbell - Ryman Auditorium - Sat, Oct 14 (Nashville)
@@ -91,3 +95,4 @@ I still go to a lot of concerts, here are a list of past ones from a few years b
 * Morrissey - Peabody - Wed, Nov 22
 * Colter Wall - Off Broadway - Sat, Dec 2
 * Portugal. The Man w/Vance Joy - Peabody - December 14
+
