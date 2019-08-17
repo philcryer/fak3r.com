@@ -36,6 +36,8 @@ I still go to a lot of concerts, here are a list of past ones from a few years b
 * Justin Townes Earle - Off Broadway - Sat, Aug 3 
 * MC Frontalot w/Dual Core - Paris Las Vegas - Fri, August 9th (LAS VEGAS)
 * The Alarm w/Modern English - Delmar Hall - Mon, Aug 12
+* The Bouncing Souls w/The Bronx, Swingin' Utters, The Bar Stool Preachers - Delmar Hall - Fri, Aug 16
+* American Aquarium - Off Broadway - Mon, Aug 19
 * (CANCELLED) Purple Mountains - Duck Room - Tues, Aug 20 ([RIP David Berman](https://www.dragcity.com/news/2019-08-12-call-me-from-albemarle))
 
 ## 2018
@@ -95,4 +97,3 @@ I still go to a lot of concerts, here are a list of past ones from a few years b
 * Morrissey - Peabody - Wed, Nov 22
 * Colter Wall - Off Broadway - Sat, Dec 2
 * Portugal. The Man w/Vance Joy - Peabody - December 14
-
