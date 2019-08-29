@@ -8,9 +8,7 @@ nopaging = true
 
 Note: checks denote that ticket(s) are already purchased.
 
-- [ ] Summer Cannibals - Duck Room - Fri, Aug 23
-- [ ] Hot Snakes w/Des Demonas - Duck Room - Sun, Sept 8
-- [ ] Boris - Delmar Hall - Sept 18
+- [X] Boris - Delmar Hall - Sept 18
 - [ ] Xiu Xiu - Off Broadway - Sept 23
 - [x] PUP- Delmar Hall - Tues, Sept 24
 - [ ] Tycho w/Poolside - Pageant - Thurs, Sept 26
