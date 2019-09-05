@@ -34,7 +34,7 @@ I still go to a lot of concerts, here are a list of past ones from a few years b
 * Sebadoh - Ready Room - Wed, Jul 17
 * Snail Mail w/SASAMI - Off Broadway - Thu, Jul 18
 * Justin Townes Earle - Off Broadway - Sat, Aug 3 
-* MC Frontalot w/Dual Core - Paris Las Vegas - Fri, August 9th (LAS VEGAS)
+* MC Frontalot w/Dual Core - Paris Las Vegas - Fri, Aug 9 (LAS VEGAS)
 * The Alarm w/Modern English - Delmar Hall - Mon, Aug 12
 * The Bouncing Souls w/The Bronx, Swingin' Utters, The Bar Stool Preachers - Delmar Hall - Fri, Aug 16
 * American Aquarium - Off Broadway - Mon, Aug 19
