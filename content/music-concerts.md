@@ -39,6 +39,7 @@ I still go to a lot of concerts, here are a list of past ones from a few years b
 * The Bouncing Souls w/The Bronx, Swingin' Utters, The Bar Stool Preachers - Delmar Hall - Fri, Aug 16
 * American Aquarium - Off Broadway - Mon, Aug 19
 * (CANCELLED) Purple Mountains - Duck Room - Tues, Aug 20 ([RIP David Berman](https://www.dragcity.com/news/2019-08-12-call-me-from-albemarle))
+* Hot Snakes w/Spells - Oriental Theater - Thu, Sept 4 (DENVER)
 
 ## 2018
 
