@@ -40,6 +40,9 @@ I still go to a lot of concerts, here are a list of past ones from a few years b
 * American Aquarium - Off Broadway - Mon, Aug 19
 * (CANCELLED) Purple Mountains - Duck Room - Tues, Aug 20 ([RIP David Berman](https://www.dragcity.com/news/2019-08-12-call-me-from-albemarle))
 * Hot Snakes w/Spells - Oriental Theater - Thu, Sept 4 (DENVER)
+* Boris w/Uniform - Delmar Hall - Sept 18
+* PUP w/Illuminati Hotties, Potty Mouth - Delmar Hall - Tues, Sept 24
+* Tycho w/Poolside - Pageant - Thurs, Sept 26
 
 ## 2018
 
