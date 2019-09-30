@@ -6,6 +6,8 @@ categories:
 - howto
 ---
 
+<strong>UPDATE</strong>: Fixed the link to [Password Safe](https://pwsafe.org/), and also learned about an updated guide covering why people shouldn’t [reuse passwords](https://pixelprivacy.com/resources/reusing-passwords/). Thanks Bill, happy to hear the project is still being actively developed, it's still needed!
+
 Ok, I'm not typical by any means when it comes to operating systems, but desktop systems - even less so.  I've  run Linux on the desktop since ~1997, and I'm very comfortable with it...at home.  While there are a few exceptions where companies would let me run Linux on the desktop, that's not the theme of the larger companies I've frequented of late, so of course I've had  to use XP for the past 3 years, and it hasn't been all blood and roses.  First of all I can't stand the  Fisher-Price UI - it's awful, really, how dumb do I look? (that's a rhetorical question)  The first thing I do  to a new system I have to use is to revert the UI back to its 'classic' looks - at least this way I wouldn't be  reminded of how much better XP was supposed to be since they changed the way some widgets look (seriously,  right click on yr desktop, choose 'Properties' then look at that same dialog box that you saw in Windows 95!).  I usually end up  making Windows look and act as much like a Linux desktop, to make it more tolerable for me to use, but first we'll start with what really bugs us about Windows, resources that seem to be constantly straining, regardless  installed RAM!  Disclaimer: use my suggestions as just that, if things catch on fire, businesses fail, war breaks out, I can't be held responsible.  Having said that, life is short, and what's the worst that can happen?<!--more-->
 
 <strong>I. RESOURCES</strong>
@@ -33,7 +35,7 @@ There are a number of applications I use and recommend others use to help make W
 	<li>Use IEtab for Firefox (https://addons.mozilla.org/en-US/firefox/addon/1419) - once you have Firefox installed you'll have a myriad of plugins to choose from to  further enhance your browsing experience.  In a corporate environment there's always going to be that Intranet  page or some other site that you _need_ to have IE to use.  While hacking the user agent in Firefox is fun, it  doesn't always work, so instead install IEtab.  Now a click on an icon in Firefox will switch the rendering  engine to IE, all within the confines of Firefox.</li>
 </ul>
 <ul>
-	<li>Password safe (http://passwordsafe.sourceforge.net/) - originally developed by security consultant Bruce  Schneider, Password Safe is a must have to house your various passwords.  Never write down your password on a  post it note again (ever).  Easy to use .exe to run that creates the encrypted database file on the fly.  Put  those together somewhere and you'll have everything secure in one place.</li>
+	<li>Password Safe (https://pwsafe.org/) - originally developed by security consultant Bruce  Schneider, Password Safe is a must have to house your various passwords.  Never write down your password on a  post it note again (ever).  Easy to use .exe to run that creates the encrypted database file on the fly.  Put  those together somewhere and you'll have everything secure in one place.</li>
 </ul>
 <ul>
 	<li>Xming (http://sourceforge.net/projects/xming) - the most up-to-date and advanced X server for Windows, simple  to setup with some nice features.</li>
