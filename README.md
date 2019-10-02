@@ -4,7 +4,7 @@
 
 ## Summary
 
-This repository contains the source code for fak3r.com, which has been my blog since 2005, and it's currently built by [Hugo](http://gohugo.io/).
+This repository contains the source code for fak3r.com, which has been my blog since 2005, and it's currently built by [Hugo](http://gohugo.io/), and hosted on [Netlify](https://www.netlify.com/).
 
 ## Contents
 
