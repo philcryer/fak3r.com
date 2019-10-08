@@ -8,9 +8,6 @@ nopaging = true
 
 Note: checks denote that ticket(s) are already purchased.
 
-- [X] Lucero w/The Huntress and Holder of Hands - Off Broadway - Thurs, Oct 3
-- [ ] Deep Sea Diver - Fubar (moved from Firebird) - Fri, Oct 4
-- [ ] Titus Andronicus - Off Broadway - Fri, Oct 4
 - [ ] Luna (performing Penthouse) - Off Broadway - Fri, Oct 11 
 - [x] Mudhoney w/Kid Congo and the Pink Monkey Birds - Off Broadway - Oct 14
 - [ ] Tiger Army - Delmar Hall - Oct 15

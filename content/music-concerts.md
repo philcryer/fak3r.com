@@ -43,6 +43,7 @@ I still go to a lot of concerts, here are a list of past ones from a few years b
 * Boris w/Uniform - Delmar Hall - Sept 18
 * PUP w/Illuminati Hotties, Potty Mouth - Delmar Hall - Tues, Sept 24
 * Tycho w/Poolside - Pageant - Thurs, Sept 26
+* Lucero w/The Huntress and Holder of Hands - Off Broadway - Thurs, Oct 3
 
 ## 2018
 
