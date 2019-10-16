@@ -44,6 +44,9 @@ I still go to a lot of concerts, here are a list of past ones from a few years b
 * PUP w/Illuminati Hotties, Potty Mouth - Delmar Hall - Tues, Sept 24
 * Tycho w/Poolside - Pageant - Thurs, Sept 26
 * Lucero w/The Huntress and Holder of Hands - Off Broadway - Thurs, Oct 3
+* Luna (performing Penthouse) - Off Broadway - Fri, Oct 11 
+* Mudhoney w/Kid Congo and the Pink Monkey Birds, and Porcupine - Off Broadway - Oct 14
+* Justin Townes Earle w/Cerney Brothers - Rose Music Hall - Thurs, Oct 17 (COLUMBIA)
 
 ## 2018
 
