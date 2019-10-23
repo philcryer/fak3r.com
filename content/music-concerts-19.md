@@ -1,14 +1,15 @@
 +++
 date = "2019-07-07T18:39:12-05:00"
 title = "Music - Concerts (upcoming)"
-slug = "music-concerts-19"
+slug = "music-concerts-up"
 nodate = true
 nopaging = true
 +++
 
 Note: checks denote that ticket(s) are already purchased.
 
-- [ ] Mike Watt + the missingmen - Duck Room - Oct 21
+## 2019
+
 - [ ] Menzingers - Delmar Hall - Duck Room - Oct 31
 - [x] Sleater-Kinney - Pageant - Tues, Nov 5
 - [ ] Black Belt Eagle Scout - Foam - Wed, Nov 6
@@ -16,3 +17,7 @@ Note: checks denote that ticket(s) are already purchased.
 - [X] Sloan - Duck Room - Nov 22
 - [ ] Son Volt - Delmar Hall - Sat, Nov 22
 - [ ] Old 97s - Off Broadway - Sat, Dec 14
+
+## 2020
+
+- [ ] Shovels and Rope - Delmar Hall - Wed, Apr 15
