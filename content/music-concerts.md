@@ -47,6 +47,8 @@ I still go to a lot of concerts, here are a list of past ones from a few years b
 * Luna (performing Penthouse) - Off Broadway - Fri, Oct 11 
 * Mudhoney w/Kid Congo and the Pink Monkey Birds, and Porcupine - Off Broadway - Oct 14
 * Justin Townes Earle w/Cerney Brothers - Rose Music Hall - Thurs, Oct 17 (COLUMBIA)
+* Sleater-Kinney - Pageant - Tues, Nov 5
+* Black Belt Eagle Scout - Foam - Wed, Nov 6
 
 ## 2018
 

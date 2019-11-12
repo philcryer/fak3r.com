@@ -10,10 +10,7 @@ Note: checks denote that ticket(s) are already purchased.
 
 ## 2019
 
-- [ ] Menzingers - Delmar Hall - Duck Room - Oct 31
-- [x] Sleater-Kinney - Pageant - Tues, Nov 5
-- [ ] Black Belt Eagle Scout - Foam - Wed, Nov 6
-- [ ] Cursive w/Cloud Nothings - Delmar Hall - Thurs, Nov 7
+- [X] Pinata Protest w/Bruiser Queen - Thurs, Nov 14
 - [X] Sloan - Duck Room - Nov 22
 - [ ] Son Volt - Delmar Hall - Sat, Nov 22
 - [ ] Old 97s - Off Broadway - Sat, Dec 14
