@@ -18,4 +18,5 @@ Note: checks denote that ticket(s) are already purchased.
 ## 2020
 
 - [ ] Shovels and Rope - Delmar Hall - Wed, Apr 15
+- [ ] Sharon Van Etten w/Julien Baker and Jay Som - Ryman (NASHVILLE) - Wed, Apr 22
 - [ ] They Might Be Giants: Flood 30th Anniversary - The Pageant - Sun, May 17
