@@ -25,5 +25,5 @@ Note: checks denote that ticket(s) are already purchased.
 - [ ] Shovels and Rope - Delmar Hall - Wed, Apr 15
 - [X] Sharon Van Etten w/Julien Baker and Jay Som - Ryman (NASHVILLE) - Wed, Apr 22
 - [X] Amanda Shires w/LA Edwards - Off Broadway - Wed, Apr 29
-- [ ] They Might Be Giants: Flood 30th Anniversary - The Pageant - Sun, May 17
+- [ ] They Might Be Giants: Flood 30th - Pageant - Sun, May 17
 - [ ] Roots N Blues Festival (COLUMBIA) - Fri, Oct 2 – Sun, Oct 4
