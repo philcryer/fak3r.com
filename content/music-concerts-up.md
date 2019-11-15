@@ -20,7 +20,7 @@ Note: checks denote that ticket(s) are already purchased.
 - [ ] Fitz and the Tantrums w/Twin XL - Pageant - Tue, Mar 3
 - [ ] Black Lips - Duck Room - Tue, Mar 10
 - [ ] Destroyer w/Nap Eyes - Duck Room - Sat, Mar 14
-- [ ] pf Montreal w/Locate S,1 - Ready Room - Fri, Mar 27
+- [ ] of Montreal w/Locate S,1 - Ready Room - Fri, Mar 27
 - [ ] Real Estate - Ready Room - Wed, Apr 15
 - [ ] Shovels and Rope - Delmar Hall - Wed, Apr 15
 - [X] Sharon Van Etten w/Julien Baker and Jay Som - Ryman (NASHVILLE) - Wed, Apr 22
