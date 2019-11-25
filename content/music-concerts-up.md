@@ -15,6 +15,7 @@ Note: checks denote that ticket(s) are already purchased.
 
 ## 2020
 
+- [ ] Juliana Hatfield - Duck Room - Fri, Feb 7
 - [X] Sloan - Duck Room - Sat, Feb 15
 - [ ] Fitz and the Tantrums w/Twin XL - Pageant - Tue, Mar 3
 - [ ] Black Lips - Duck Room - Tue, Mar 10
