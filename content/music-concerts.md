@@ -49,6 +49,7 @@ I still go to a lot of concerts, here are a list of past ones from a few years b
 * Justin Townes Earle w/Cerney Brothers - Rose Music Hall - Thur, Oct 17 (COLUMBIA)
 * Sleater-Kinney - Pageant - Tues, Nov 5
 * Black Belt Eagle Scout - Foam - Wed, Nov 6
+* Son Volt w/Old Salt Union - Delmar hall - Sat, Nov 23
 
 ## 2018
 

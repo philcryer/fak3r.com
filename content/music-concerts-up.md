@@ -10,13 +10,12 @@ Note: checks denote that ticket(s) are already purchased.
 
 ## 2019
 
-- [X] Sloan - Duck Room - Fri, Nov 22
-- [ ] Son Volt - Delmar Hall - Sat, Nov 23
 - [ ] The Get Up Kids w/Hembree - Duck Room - Tue, Dec 10
 - [ ] Old 97s - Off Broadway - Sat, Dec 14
 
 ## 2020
 
+- [X] Sloan - Duck Room - Sat, Feb 15
 - [ ] Fitz and the Tantrums w/Twin XL - Pageant - Tue, Mar 3
 - [ ] Black Lips - Duck Room - Tue, Mar 10
 - [ ] Destroyer w/Nap Eyes - Duck Room - Sat, Mar 14
