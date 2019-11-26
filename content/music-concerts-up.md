@@ -24,6 +24,7 @@ Note: checks denote that ticket(s) are already purchased.
 - [ ] Real Estate - Ready Room - Wed, Apr 15
 - [ ] Shovels and Rope - Delmar Hall - Wed, Apr 15
 - [ ] Soccer Mommy w/Emily Reo - Delmar Hall - Fri, Apr 17
+- [ ] Josh Rouse - Off Broadway - Fri, Apr 17
 - [X] Sharon Van Etten w/Julien Baker and Jay Som - Ryman (NASHVILLE) - Wed, Apr 22
 - [X] Amanda Shires w/LA Edwards - Off Broadway - Wed, Apr 29
 - [ ] They Might Be Giants: Flood 30th - Pageant - Sun, May 17
