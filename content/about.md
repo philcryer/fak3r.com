@@ -19,13 +19,13 @@ nopaging = true
 <br />
 
 <h3>Colophon</h3>
-<img src="/colophon/gandi.png" border="0" height="16" width="16">&nbsp;&nbsp;<a href="https://www.gandi.net">Gandi</a> domain name registration, DNS, SSL certificates, and web hosting<br />
-<img src="/colophon/gimp.png" border="0">&nbsp;&nbsp;<a href="http://www.gimp.org">Gimp</a> a free and open-source raster graphics editor used for image editing<br />
-<img src="/colophon/github.png" border="0">&nbsp;&nbsp;<a href="http://github.com">Github</a> hosted git for source control, in an open and collaborative environment<br />
-<img src="/colophon/hugo.png" height="16" width="16" border="0">&nbsp;&nbsp;<a href="http://gohugo.io/">Hugo</a> a fast and modern static website engine built in Go<br />
-<img src="/colophon/le.png" width="16" height="16" border="0">&nbsp;&nbsp;<a href="https://letsencrypt.org">Let's Encrypt</a> a free, automated, open Certificate Authority for SSL certificates<br />
-<img src="/colophon/netlify.png" border="0">&nbsp;&nbsp;<a href="https://www.netlify.com">Netlify</a> an all-in-one workflow: combines global deployment, continuous integration<br />
-<img src="/colophon/vultr.png" border="0">&nbsp;&nbsp;<a href="https://www.vultr.com/?ref=7050737">Vultr</a> (ref link) easily deploy cloud servers, bare metal, and storage worldwide, starting at $5/month!<br />
+<img src="/colophon/gandi.png" border="0" height="16" width="16">&nbsp;&nbsp;<a href="https://www.gandi.net">Gandi</a> domain name registration and DNS service<br />
+<img src="/colophon/gimp.png" border="0">&nbsp;&nbsp;<a href="http://www.gimp.org">Gimp</a> an open-source raster graphics editor used for image editing<br />
+<img src="/colophon/github.png" border="0">&nbsp;&nbsp;<a href="http://github.com">Github</a> hosted git for source control in an open environment<br />
+<img src="/colophon/hugo.png" height="16" width="16" border="0">&nbsp;&nbsp;<a href="http://gohugo.io/">Hugo</a> a fast and modern static website engine<br />
+<img src="/colophon/le.png" width="16" height="16" border="0">&nbsp;&nbsp;<a href="https://letsencrypt.org">Let's Encrypt</a> a free, automated, CA for SSL certificates<br />
+<img src="/colophon/netlify.png" border="0">&nbsp;&nbsp;<a href="https://www.netlify.com">Netlify</a> site hosting and deployment with continuous integration<br />
+<img src="/colophon/vultr.png" border="0">&nbsp;&nbsp;<a href="https://www.vultr.com/?ref=7050737">Vultr</a> (ref link) worldwide cloud servers starting at $5/month<br />
 <img src="/colophon/vim.png" border="0">&nbsp;&nbsp;<a href="http://www.vim.org">Vim</a> the Unix editor with a more complete feature set<br />
 <br />
 
