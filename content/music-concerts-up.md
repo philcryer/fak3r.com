@@ -16,10 +16,12 @@ Note: checks denote that ticket(s) are already purchased.
 ## 2020
 
 - [ ] Juliana Hatfield - Duck Room - Fri, Feb 7
+- [ ] AJJ w/Tacocat & Emperor X - Growlers (MEMPHIS) - Sat, Feb 8
 - [X] Sloan - Duck Room - Sat, Feb 15
 - [ ] Fitz and the Tantrums w/Twin XL - Pageant - Tue, Mar 3
 - [ ] Black Lips - Duck Room - Tue, Mar 10
 - [ ] Destroyer w/Nap Eyes - Duck Room - Sat, Mar 14
+- [ ] Bob Mould (solo electric) - Off Broadway - Sat, Mar 21
 - [ ] of Montreal w/Locate S,1 - Ready Room - Fri, Mar 27
 - [ ] Real Estate - Ready Room - Wed, Apr 15
 - [ ] Shovels and Rope - Delmar Hall - Wed, Apr 15
