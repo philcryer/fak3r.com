@@ -11,7 +11,6 @@ Note: checks denote that ticket(s) are already purchased.
 ## 2019
 
 - [ ] The Get Up Kids w/Hembree - Duck Room - Tue, Dec 10
-- [ ] Old 97s - Off Broadway - Sat, Dec 14
 
 ## 2020
 
@@ -30,4 +29,5 @@ Note: checks denote that ticket(s) are already purchased.
 - [X] Sharon Van Etten w/Julien Baker and Jay Som - Ryman (NASHVILLE) - Wed, Apr 22
 - [X] Amanda Shires w/LA Edwards - Off Broadway - Wed, Apr 29
 - [ ] They Might Be Giants: Flood 30th - Pageant - Sun, May 17
+- [ ] Tame Impala w/ Perfume Genius - Enterprise Center - Sun, Jul 19
 - [ ] Roots N Blues Festival (COLUMBIA) - Fri, Oct 2 – Sun, Oct 4

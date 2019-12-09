@@ -10,6 +10,7 @@ CHAI "Punk"
 Charly Bliss "Young Enough"
 
 Craig Finn "I Need a New War"
+Frail Body "A Brief Memoriam"
 
 Julia Jacklin "Crushing"
 
@@ -31,6 +32,7 @@ Justin Townes Earle "The Saint of Lost Causes"
 Tycho "Weather"
 
 #####
+
 Jenny Lewis "On the Line"
 Bob Mould - Sunshine Rock
 
