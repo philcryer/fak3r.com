@@ -73,6 +73,7 @@ The following are what I believe to be the greatest recorded works ever created.
 <li>Beck "Odelay"</li>
 <li>Boards of Canada "Music Has the Right to Children"</li>
 <li>Crystal Method "Vegas"</li>
+<li>Drive Like Jehu "Yank Crime"</li>
 <li>DJ Shadow "...Endtroducing"</li>
 <li>The Flaming Lips "The Soft Bulletin"</li>
 <li>Fugazi "Repeater"</li>
