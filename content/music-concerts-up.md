@@ -8,10 +8,6 @@ nopaging = true
 
 Note: checks denote that ticket(s) are already purchased.
 
-## 2019
-
-- [ ] The Get Up Kids w/Hembree - Duck Room - Tue, Dec 10
-
 ## 2020
 
 - [ ] Juliana Hatfield - Duck Room - Fri, Feb 7

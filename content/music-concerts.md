@@ -50,6 +50,7 @@ I still go to a lot of concerts, here are a list of past ones from a few years b
 * Sleater-Kinney - Pageant - Tues, Nov 5
 * Black Belt Eagle Scout - Foam - Wed, Nov 6
 * Son Volt w/Old Salt Union - Delmar hall - Sat, Nov 23
+* Angels and Airwaves w/I Dont Know How but They Found Me - Pageant - Mon, Dec 16
 
 ## 2018
 
