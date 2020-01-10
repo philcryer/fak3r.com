@@ -16,10 +16,10 @@ I've published my best of lists for years, here linked to the specific post for 
 * [2010](/2010/12/30/best-music-of-2010)
 * [2011](/2011/12/29/best-music-of-2011)
 * [2012](/2012/12/08/best-music-of-2012)
-* [2013]
+* [2013](/2013/12/30/best-music-of-2013/)
 * [2014](/2014/11/28/best-music-of-2014)
-* [2015]
-* [2016]
-* [2017]
-* [2018]
-
+* [2015](/2015/12/29/best-music-of-2015/)
+* [2016](/2016/12/22/best-music-of-2016/)
+* [2017](/2017/12/31/best-music-of-2017/)
+* [2018](/2018/12/18/best-music-of-2018/)
+* [2019](/2019/12/20/best-music-of-2019/)
