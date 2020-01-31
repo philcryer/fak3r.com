@@ -21,6 +21,7 @@ Note: checks denote that ticket(s) are already purchased.
 - [ ] Destroyer w/Nap Eyes - Duck Room - Sat, Mar 14
 - [ ] Bob Mould (solo electric) - Off Broadway - Sat, Mar 21
 - [ ] of Montreal w/Locate S,1 - Ready Room - Fri, Mar 27
+- [ ] The Murder Captial - Schubas - Wed, Apr 1 (CHICAGO)
 - [ ] Real Estate - Ready Room - Wed, Apr 15
 - [ ] Shovels and Rope - Delmar Hall - Wed, Apr 15
 - [ ] Soccer Mommy w/Emily Reo - Delmar Hall - Fri, Apr 17
