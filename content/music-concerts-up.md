@@ -27,6 +27,7 @@ Note: checks denote that ticket(s) are already purchased.
 - [ ] Soccer Mommy w/Emily Reo - Delmar Hall - Fri, Apr 17
 - [ ] Josh Rouse (solo) - Off Broadway - Fri, Apr 17
 - [X] Sharon Van Etten w/Julien Baker and Jay Som - Ryman (NASHVILLE) - Wed, Apr 22
+- [ ] Pears w/Single Mothers - Red Flag - Thu, Apr 23
 - [ ] Mannequin Pussy w/Glittererlive - Off Broadway - Fri, Apr 24
 - [X] Amanda Shires w/LA Edwards - Off Broadway - Wed, Apr 29
 - [ ] Archers of Loaf - Delmar Hall - Thur, Apr 30
