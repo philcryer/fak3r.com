@@ -10,8 +10,6 @@ Note: checks denote that ticket(s) are already purchased.
 
 ## 2020
 
-- [ ] Juliana Hatfield - Duck Room - Fri, Feb 7
-- [ ] AJJ w/Tacocat & Emperor X - Growlers (MEMPHIS) - Sat, Feb 8
 - [X] Joseph w/Deep Sea Diver - Wed, Feb 12
 - [X] Sloan - Duck Room - Sat, Feb 15
 - [ ] Hot Snakes - Empty Bottle - Sun, Feb 23 (CHICAGO)
@@ -33,6 +31,8 @@ Note: checks denote that ticket(s) are already purchased.
 - [ ] Archers of Loaf - Delmar Hall - Thur, Apr 30
 - [ ] They Might Be Giants: Flood 30th - Pageant - Sun, May 17
 - [ ] The Growlers - Ready Room - Mon, Jun 8 
+- [X] Elton John - Enterprise Center - Tue, Jul 7
 - [X] Big Thief - Delmar Hall - Sat, Jul 18
 - [ ] Tame Impala w/ Perfume Genius - Enterprise Center - Sun, Jul 19
+- [X] Black Crowes - Hollywood Casino - Sun, Aug 23
 - [ ] Roots N Blues Festival (COLUMBIA) - Fri, Oct 2 – Sun, Oct 4
