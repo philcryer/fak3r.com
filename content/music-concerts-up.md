@@ -27,6 +27,7 @@ Note: checks denote that ticket(s) are already purchased.
 - [X] Sharon Van Etten w/Julien Baker and Jay Som - Ryman (NASHVILLE) - Wed, Apr 22
 - [ ] Pears w/Single Mothers - Red Flag - Thu, Apr 23
 - [ ] Mannequin Pussy w/Glittererlive - Off Broadway - Fri, Apr 24
+- [ ] Kevin Morby - recordBar - Sat, Apr 25 (KANSAS CITY)
 - [X] Amanda Shires w/LA Edwards - Off Broadway - Wed, Apr 29
 - [ ] Archers of Loaf - Delmar Hall - Thur, Apr 30
 - [ ] They Might Be Giants: Flood 30th - Pageant - Sun, May 17
