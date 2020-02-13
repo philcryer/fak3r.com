@@ -30,6 +30,7 @@ Note: checks denote that ticket(s) are already purchased.
 - [ ] Kevin Morby - recordBar - Sat, Apr 25 (KANSAS CITY)
 - [X] Amanda Shires w/LA Edwards - Off Broadway - Wed, Apr 29
 - [ ] Archers of Loaf - Delmar Hall - Thur, Apr 30
+- [ ] Dropkick Murphys and Rancid - Pops (outside) - May 16
 - [ ] They Might Be Giants: Flood 30th - Pageant - Sun, May 17
 - [ ] The Growlers - Ready Room - Mon, Jun 8 
 - [ ] Neko Case - Sheldon - Friday, Jun 26
