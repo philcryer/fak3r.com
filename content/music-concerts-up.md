@@ -10,8 +10,6 @@ Note: checks denote that ticket(s) are already purchased.
 
 ## 2020
 
-- [X] Joseph w/Deep Sea Diver - Wed, Feb 12
-- [X] Sloan - Duck Room - Sat, Feb 15
 - [ ] Hot Snakes - Empty Bottle - Sun, Feb 23 (CHICAGO)
 - [X] Justin Townes Earle - Off Broadway - Fri Feb 28
 - [X] Fitz and the Tantrums w/Twin XL - Pageant - Tue, Mar 3
@@ -30,9 +28,11 @@ Note: checks denote that ticket(s) are already purchased.
 - [ ] Kevin Morby - recordBar - Sat, Apr 25 (KANSAS CITY)
 - [X] Amanda Shires w/LA Edwards - Off Broadway - Wed, Apr 29
 - [ ] Archers of Loaf - Delmar Hall - Thur, Apr 30
-- [ ] Dropkick Murphys and Rancid - Pops (outside) - May 16
+- [ ] Dropkick Murphys and Rancid - Pops (outside) - Sat, May 16
+- [X] Rage Against The Machine - Enterprise - Sat, May 16
 - [ ] They Might Be Giants: Flood 30th - Pageant - Sun, May 17
 - [ ] The Growlers - Ready Room - Mon, Jun 8 
+- [X] Jason Isbell w/Strand of Oaks - Stifel - Sun, Jun 21
 - [ ] Andrew Bird, Iron & Wine, Calexico - Pageant - Mon, Jun 22
 - [ ] Neko Case - Sheldon - Friday, Jun 26
 - [X] Elton John - Enterprise Center - Tue, Jul 7

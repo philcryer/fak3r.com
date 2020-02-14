@@ -8,6 +8,12 @@ nopaging = true
 
 I still go to a lot of concerts, here are a list of past ones from a few years back. These are all in the Saint Louis, MO (USA) region, unless otherwise specified. Thanks
 
+## 2020 
+
+* Joseph w/Deep Sea Diver - Delmar Hall - Wed, Feb 12
+* Bruiser Queen w/Steve Ewing - Schlafly Bottleworks - Fri, Feb 14
+* Sloan - Duck Room - Sat, Feb 15
+
 ## 2019
 
 * Soccer Mommy - Off Broadway - Wed, Feb 27
