@@ -33,8 +33,8 @@ Note: checks denote that ticket(s) are already purchased.
 - [ ] They Might Be Giants: Flood 30th - Pageant - Sun, May 17
 - [ ] The Growlers - Ready Room - Mon, Jun 8 
 - [X] Jason Isbell w/Strand of Oaks - Stifel - Sun, Jun 21
-- [ ] Andrew Bird, Iron & Wine, Calexico - Pageant - Mon, Jun 22
-- [ ] Neko Case - Sheldon - Friday, Jun 26
+- [X] Andrew Bird, Iron & Wine, Calexico - Pageant - Mon, Jun 22
+- [ ] Neko Case w/Kississippi - Sheldon - Friday, Jun 26
 - [X] Elton John - Enterprise Center - Tue, Jul 7
 - [X] Big Thief - Delmar Hall - Sat, Jul 18
 - [ ] Tame Impala w/ Perfume Genius - Enterprise Center - Sun, Jul 19
