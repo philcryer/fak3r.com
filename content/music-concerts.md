@@ -10,6 +10,7 @@ I still go to a lot of concerts, here are a list of past ones from a few years b
 
 ## 2020 
 
+* Justin Townes Earle (solo) w/John Henry - Off Broadway - Fri Feb 28
 * Joseph w/Deep Sea Diver - Delmar Hall - Wed, Feb 12
 * Bruiser Queen w/Steve Ewing - Schlafly Bottleworks - Fri, Feb 14
 * Sloan - Duck Room - Sat, Feb 15

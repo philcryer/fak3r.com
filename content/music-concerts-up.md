@@ -10,8 +10,6 @@ Note: checks denote that ticket(s) are already purchased.
 
 ## 2020
 
-- [ ] Hot Snakes - Empty Bottle - Sun, Feb 23 (CHICAGO)
-- [X] Justin Townes Earle - Off Broadway - Fri Feb 28
 - [X] Fitz and the Tantrums w/Twin XL - Pageant - Tue, Mar 3
 - [ ] Black Lips w/Poppy Jean Crawford - Duck Room - Tue, Mar 10
 - [ ] Destroyer w/Nap Eyes - Duck Room - Sat, Mar 14
@@ -24,6 +22,7 @@ Note: checks denote that ticket(s) are already purchased.
 - [X] Josh Rouse (solo) - Off Broadway - Fri, Apr 17
 - [X] Sharon Van Etten w/Julien Baker and Jay Som - Ryman (NASHVILLE) - Wed, Apr 22
 - [ ] Pears w/Single Mothers - Red Flag - Thu, Apr 23
+- [X] Drive By Truckers - Pageant - Fri, Apr 24
 - [ ] Mannequin Pussy w/Glittererlive - Off Broadway - Fri, Apr 24
 - [ ] Kevin Morby - recordBar - Sat, Apr 25 (KANSAS CITY)
 - [X] Amanda Shires w/LA Edwards - Off Broadway - Wed, Apr 29
