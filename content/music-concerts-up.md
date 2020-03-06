@@ -10,7 +10,6 @@ Note: checks denote that ticket(s) are already purchased.
 
 ## 2020
 
-- [X] Fitz and the Tantrums w/Twin XL - Pageant - Tue, Mar 3
 - [ ] Black Lips w/Poppy Jean Crawford - Duck Room - Tue, Mar 10
 - [ ] Destroyer w/Nap Eyes - Duck Room - Sat, Mar 14
 - [ ] Bob Mould (solo electric) - Off Broadway - Sat, Mar 21
@@ -37,5 +36,6 @@ Note: checks denote that ticket(s) are already purchased.
 - [X] Elton John - Enterprise Center - Tue, Jul 7
 - [X] Big Thief - Delmar Hall - Sat, Jul 18
 - [ ] Tame Impala w/ Perfume Genius - Enterprise Center - Sun, Jul 19
+- [X] American Aquarium - Delmar Hall - Fri, Jul 24
 - [X] Black Crowes - Hollywood Casino - Sun, Aug 23
 - [ ] Roots N Blues Festival (COLUMBIA) - Fri, Oct 2 – Sun, Oct 4
