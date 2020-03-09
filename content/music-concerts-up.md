@@ -19,7 +19,7 @@ Note: checks denote that ticket(s) are already purchased.
 - [ ] Shovels and Rope - Delmar Hall - Wed, Apr 15
 - [ ] Soccer Mommy w/Emily Reo - Delmar Hall - Fri, Apr 17
 - [X] Josh Rouse (solo) - Off Broadway - Fri, Apr 17
-- [X] Sharon Van Etten w/Julien Baker and Jay Som - Ryman (NASHVILLE) - Wed, Apr 22
+- [X] Sharon Van Etten w/Julien Baker and Jay Som - Ryman - Wed, Apr 22 (NASHVILLE)
 - [ ] Pears w/Single Mothers - Red Flag - Thu, Apr 23
 - [X] Drive By Truckers - Pageant - Fri, Apr 24
 - [ ] Mannequin Pussy w/Glittererlive - Off Broadway - Fri, Apr 24
@@ -38,4 +38,6 @@ Note: checks denote that ticket(s) are already purchased.
 - [ ] Tame Impala w/ Perfume Genius - Enterprise Center - Sun, Jul 19
 - [X] American Aquarium - Delmar Hall - Fri, Jul 24
 - [X] Black Crowes - Hollywood Casino - Sun, Aug 23
-- [ ] Roots N Blues Festival (COLUMBIA) - Fri, Oct 2 – Sun, Oct 4
+- [ ] Nick Cave & The Bad Seeds w/Weyes Blood - Credit Union 1 Arena - Sept 19 (CHICAGO)
+- [ ] Roots N Blues Festival - Fri, Oct 2 – Sun, Oct 4 (COLUMBIA) 
+- [ ] Nick Cave & The Bad Seeds - Grand Ole Opry - Sun, Oct 4 (NASHVILLE)
