@@ -26,6 +26,7 @@ Note: checks denote that ticket(s) are already purchased.
 - [ ] Kevin Morby - recordBar - Sat, Apr 25 (KANSAS CITY)
 - [X] Amanda Shires w/LA Edwards - Off Broadway - Wed, Apr 29
 - [ ] Archers of Loaf - Delmar Hall - Thur, Apr 30
+- [ ] The Lemon Twigs - Off Broadway - Tue, May 5.
 - [ ] Dropkick Murphys and Rancid - Pops (outside) - Sat, May 16
 - [X] Rage Against The Machine w/Run The Jewels - Enterprise - Sat, May 16
 - [ ] They Might Be Giants: Flood 30th - Pageant - Sun, May 17
