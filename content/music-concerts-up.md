@@ -39,12 +39,12 @@ Note: checks denote that ticket(s) are already purchased.
 - [ ] Roots N Blues Festival - Fri, Oct 2 – Sun, Oct 4 (COLUMBIA) 
 - [ ] Nick Cave & The Bad Seeds - Grand Ole Opry - Sun, Oct 4 (NASHVILLE)
 
+***** ***UPDATE ***** With COVID-19 lots of things are being postponed and cancelled, we're getting word that gatherings of 50 or more people will be banned for at least the next few weeks. We'll see, in the meantime I'll move shows I want to see down here, and hope they'll be rescheduled later this year.
+
 ### Postponed
 
-With COVID-19 lots of things are being cancelled, we're getting word things all may be postponed or cancelled for events from now until May. We'll see, in the meantime I'll move shows I want to see down here, and hope they'll be rescheduled later this year.
-
-- [ ] Soccer Mommy w/Emily Reo - Delmar Hall - Fri, Apr 17
-- [X] Rage Against The Machine w/Run The Jewels - Enterprise - Sat, May 16
+- [ ] Soccer Mommy w/Emily Reo - Delmar Hall - <s>Fri, Apr 17</s>
+- [X] Rage Against The Machine w/Run The Jewels - Enterprise - <s>Sat, May 16</s>
 
 ### Cancelled
 
