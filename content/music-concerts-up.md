@@ -10,13 +10,11 @@ Note: checks denote that ticket(s) are already purchased.
 
 ## 2020
 
-- [ ] Destroyer w/Nap Eyes - Duck Room - Sat, Mar 14
 - [ ] Bob Mould (solo electric) - Off Broadway - Sat, Mar 21
 - [ ] of Montreal w/Locate S,1 - Ready Room - Fri, Mar 27
 - [ ] The Murder Captial - Schubas - Wed, Apr 1 (CHICAGO)
 - [ ] Real Estate - Ready Room - Wed, Apr 15
 - [ ] Shovels and Rope - Delmar Hall - Wed, Apr 15
-- [ ] Soccer Mommy w/Emily Reo - Delmar Hall - Fri, Apr 17
 - [X] Josh Rouse (solo) - Off Broadway - Fri, Apr 17
 - [X] Sharon Van Etten w/Julien Baker and Jay Som - Ryman - Wed, Apr 22 (NASHVILLE)
 - [ ] Pears w/Single Mothers - Red Flag - Thu, Apr 23
@@ -45,4 +43,9 @@ Note: checks denote that ticket(s) are already purchased.
 
 With COVID-19 lots of things are being cancelled, we're getting word things all may be postponed or cancelled for events from now until May. We'll see, in the meantime I'll move shows I want to see down here, and hope they'll be rescheduled later this year.
 
+- [ ] Soccer Mommy w/Emily Reo - Delmar Hall - Fri, Apr 17
 - [X] Rage Against The Machine w/Run The Jewels - Enterprise - Sat, May 16
+
+### Cancelled
+
+None.. yet!
