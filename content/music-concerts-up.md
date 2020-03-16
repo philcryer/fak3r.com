@@ -10,7 +10,6 @@ Note: checks denote that ticket(s) are already purchased.
 
 ## 2020
 
-- [ ] Black Lips w/Poppy Jean Crawford - Duck Room - Tue, Mar 10
 - [ ] Destroyer w/Nap Eyes - Duck Room - Sat, Mar 14
 - [ ] Bob Mould (solo electric) - Off Broadway - Sat, Mar 21
 - [ ] of Montreal w/Locate S,1 - Ready Room - Fri, Mar 27
@@ -28,7 +27,6 @@ Note: checks denote that ticket(s) are already purchased.
 - [ ] Archers of Loaf - Delmar Hall - Thur, Apr 30
 - [ ] The Lemon Twigs - Off Broadway - Tue, May 5.
 - [ ] Dropkick Murphys and Rancid - Pops (outside) - Sat, May 16
-- [X] Rage Against The Machine w/Run The Jewels - Enterprise - Sat, May 16
 - [ ] They Might Be Giants: Flood 30th - Pageant - Sun, May 17
 - [ ] The Growlers - Ready Room - Mon, Jun 8 
 - [X] Jason Isbell w/Strand of Oaks - Stifel - Sun, Jun 21
@@ -42,3 +40,9 @@ Note: checks denote that ticket(s) are already purchased.
 - [ ] Nick Cave & The Bad Seeds w/Weyes Blood - Credit Union 1 Arena - Sept 19 (CHICAGO)
 - [ ] Roots N Blues Festival - Fri, Oct 2 – Sun, Oct 4 (COLUMBIA) 
 - [ ] Nick Cave & The Bad Seeds - Grand Ole Opry - Sun, Oct 4 (NASHVILLE)
+
+### Postponed
+
+With COVID-19 lots of things are being cancelled, we're getting word things all may be postponed or cancelled for events from now until May. We'll see, in the meantime I'll move shows I want to see down here, and hope they'll be rescheduled later this year.
+
+- [X] Rage Against The Machine w/Run The Jewels - Enterprise - Sat, May 16
