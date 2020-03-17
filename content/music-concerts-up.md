@@ -48,4 +48,4 @@ Note: checks denote that ticket(s) are already purchased.
 
 ### Cancelled
 
-None.. yet!
+None... yet!
