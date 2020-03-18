@@ -15,7 +15,6 @@ Note: checks denote that ticket(s) are already purchased.
 - [ ] Real Estate - Ready Room - Wed, Apr 15
 - [ ] Shovels and Rope - Delmar Hall - Wed, Apr 15
 - [X] Sharon Van Etten w/Julien Baker and Jay Som - Ryman - Wed, Apr 22 (NASHVILLE)
-- [ ] Pears w/Single Mothers - Red Flag - Thu, Apr 23
 - [X] Drive By Truckers - Pageant - Fri, Apr 24
 - [ ] Mannequin Pussy w/Glittererlive - Off Broadway - Fri, Apr 24
 - [ ] Kevin Morby - recordBar - Sat, Apr 25 (KANSAS CITY)
@@ -43,7 +42,7 @@ Note: checks denote that ticket(s) are already purchased.
 
 ### Postponed
 
-- [ ] Beach Bunny - Delmar Hall - <s>Wed, Apr 29</s>
+- [ ] Beach Bunny w/Miloe - Delmar Hall - <s>Wed, Apr 29</s>
 - [ ] Bob Mould (solo electric) - Off Broadway - <s>Sat, Mar 21</s>
 - [ ] Soccer Mommy w/Emily Reo - Delmar Hall - <s>Fri, Apr 17</s>
 - [X] Rage Against The Machine w/Run The Jewels - Enterprise - <s>Sat, May 16</s>
@@ -51,4 +50,5 @@ Note: checks denote that ticket(s) are already purchased.
 
 ### Cancelled
 
-None... yet!
+- [ ] Destroyer w/Nap Eyes - Duck Room - <s>Sat, March 14</s>
+- [ ] Pears w/Single Mothers - Red Flag - <s>Thu, Apr 23</s>
