@@ -15,7 +15,6 @@ Note: checks denote that ticket(s) are already purchased.
 - [ ] The Murder Captial - Schubas - Wed, Apr 1 (CHICAGO)
 - [ ] Real Estate - Ready Room - Wed, Apr 15
 - [ ] Shovels and Rope - Delmar Hall - Wed, Apr 15
-- [X] Josh Rouse (solo) - Off Broadway - Fri, Apr 17
 - [X] Sharon Van Etten w/Julien Baker and Jay Som - Ryman - Wed, Apr 22 (NASHVILLE)
 - [ ] Pears w/Single Mothers - Red Flag - Thu, Apr 23
 - [X] Drive By Truckers - Pageant - Fri, Apr 24
@@ -45,6 +44,7 @@ Note: checks denote that ticket(s) are already purchased.
 
 - [ ] Soccer Mommy w/Emily Reo - Delmar Hall - <s>Fri, Apr 17</s>
 - [X] Rage Against The Machine w/Run The Jewels - Enterprise - <s>Sat, May 16</s>
+- [X] Josh Rouse (solo) - Off Broadway - <s>Fri, Apr 17</s> Fri, Oct 23
 
 ### Cancelled
 
