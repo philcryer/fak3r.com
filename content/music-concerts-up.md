@@ -37,6 +37,7 @@ Note: checks denote that ticket(s) are already purchased.
 - [ ] Nick Cave & The Bad Seeds w/Weyes Blood - Credit Union 1 Arena - Sept 19 (CHICAGO)
 - [ ] Roots N Blues Festival - Fri, Oct 2 – Sun, Oct 4 (COLUMBIA) 
 - [ ] Nick Cave & The Bad Seeds - Grand Ole Opry - Sun, Oct 4 (NASHVILLE)
+- [ ] Diet Cig - Duck Room - Wed, Oct 7
 
 **UPDATE**: With COVID-19 lots of things are being postponed and cancelled, we're getting word that gatherings of 50 or more people will be banned for at least the next few weeks. We'll see, in the meantime I'll move shows I want to see down here, and hope they'll be rescheduled later this year.
 
