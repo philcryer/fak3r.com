@@ -10,7 +10,6 @@ Note: checks denote that ticket(s) are already purchased.
 
 ## 2020
 
-- [ ] Bob Mould (solo electric) - Off Broadway - Sat, Mar 21
 - [ ] of Montreal w/Locate S,1 - Ready Room - Fri, Mar 27
 - [ ] The Murder Captial - Schubas - Wed, Apr 1 (CHICAGO)
 - [ ] Real Estate - Ready Room - Wed, Apr 15
@@ -43,6 +42,7 @@ Note: checks denote that ticket(s) are already purchased.
 
 ### Postponed
 
+- [ ] Bob Mould (solo electric) - Off Broadway - <s>Sat, Mar 21</s>
 - [ ] Soccer Mommy w/Emily Reo - Delmar Hall - <s>Fri, Apr 17</s>
 - [X] Rage Against The Machine w/Run The Jewels - Enterprise - <s>Sat, May 16</s>
 - [X] Josh Rouse (solo) - Off Broadway - <s>Fri, Apr 17</s> Fri, Oct 23
