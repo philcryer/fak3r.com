@@ -6,5 +6,7 @@ The Strokes "The New Abnormal"
 Sorry "925"
 Jason Isbell "Reunions"
 
-American Aquarium ""
-Lucinda Williams ""
+Run The Jewels "RTJ4"
+
+American Aquarium "Lamentations"
+Lucinda Williams "Good Souls Better Angels"
