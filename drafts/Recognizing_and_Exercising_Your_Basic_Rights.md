@@ -1,4 +1,4 @@
-Content copied from [The Anxiety & Phobia Workbook](https://psychcentralreviews.com/2016/the-anxiety-phobia-workbook/) by Edmund J. Bourne
+_Content copied from [The Anxiety & Phobia Workbook](https://psychcentralreviews.com/2016/the-anxiety-phobia-workbook/) by Edmund J. Bourne_
 
 # Recognizing and Exercising Your Basic Rights 
 
