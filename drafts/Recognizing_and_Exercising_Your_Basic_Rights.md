@@ -17,8 +17,8 @@ As adult human beings we all have certain basic rights. Often, though, we have e
 9. I have the right not to be responsible for others' behavior, actions, feelings, or problems. 
 10. I have the right to expect honesty from others. 
 11. I have the right to be angry at someone I love. 
-12. I have the right be uniquely myself. 
-13 I have the right to feel scared and say "I'm afraid." 
+12. I have the right be uniquely myself.
+13. I have the right to feel scared and say "I'm afraid." 
 14. 1 have the right to say "I don't know."
 15. I have the right not to give excuses or reasons for my behavior. 
 16. I have the right to make decisions based on my feelings. 
