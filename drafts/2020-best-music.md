@@ -8,3 +8,10 @@
 * Sorry "925"
 * The Strokes "The New Abnormal"
 * Lucinda Williams "Good Souls Better Angels"
+
+
+IDLES "Mono"
+
+Fontaines DC "A Hero's Death"
+
+
