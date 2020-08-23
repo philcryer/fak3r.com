@@ -9,9 +9,11 @@
 * The Strokes "The New Abnormal"
 * Lucinda Williams "Good Souls Better Angels"
 
-
 IDLES "Mono"
 
 Fontaines DC "A Hero's Death"
 
+Waxachacee "Saint Cloud"
+Phoebe Bridges "Punisher"
 
+Lydia Loveless "Daughter"

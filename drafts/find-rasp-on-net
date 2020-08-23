@@ -1,8 +1,0 @@
-v
-
-
- sudo nmap -sP 192.168.1.0/24 | awk '/^Nmap/{ip=$NF}/B8:27:EB/{print ip}'
-
- sudo arp -n | awk '/b8:27:eb/ {print $1}'
- 192.168.1.4
-

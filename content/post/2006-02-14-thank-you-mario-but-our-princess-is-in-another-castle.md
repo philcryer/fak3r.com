@@ -14,7 +14,7 @@ tags:
 - super mario brothers
 ---
 
-![](http://cdn.stumble-upon.com/mthumb/323/5063323.jpg)
+![](/2006/mario.png)
 
 **UPDATE**: eek! That page has gone away, but never fear, the Shockwave file is still out there to enjoy, just do a [Google search for smb_super_synth.swf](http://www.google.com/search?hl=en&q=smb_super_synth.swf&btnG=Google+Search).  I found it [here](http://shingaku-jump.skr.jp/j08/data/smb_super_synth.swf), [here](http://mirell.org/swf/smb_super_synth.swf) and [here](http://www.masamune.se/tippen4ever/smb_super_synth.swf).
 
