@@ -1,6 +1,6 @@
 ---
 title: "Find Raspberry Pi On Your Network"
-date: "2020-08-22T20:21:13-06:00"
+date: "2020-08-22T18:21:13-06:00"
 Tags: ["network", "nmap", "rasberrypi"]
 Categories: ["howto"]
 ---
