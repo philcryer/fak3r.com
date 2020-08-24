@@ -1,6 +1,5 @@
 # Hugo Lithium
 
-
 A simple responsive blog theme for [Hugo](https://gohugo.io/).
 
 ![Hugo Lithium Theme Screenshot](https://raw.githubusercontent.com/jrutheiser/hugo-lithium-theme/master/images/screenshot.png)
@@ -31,7 +30,7 @@ file located in the [exampleSite](https://github.com/jrutheiser/hugo-lithium-the
 
 ### Post
 
-Used for blog posts. Blog posts are listed on the homepage.
+Used for blog posts.
 
 Run `hugo new post/<post-name>.md` to create a post.
 

@@ -3,12 +3,9 @@ date = "2013-03-24T22:54:12-05:00"
 title = "About"
 slug = "about"
 nodate = "true"
-#menu = "main"
-nopaging = true
-#noread = true
-#layout = "page"
-
+nopaging = "true"
 +++
+
 <h3>Me</h3>
 <p><img style="margin: 0em 0em 1em 2em" align="right" padding="20" width="300" src="/about/me.jpg" width="300" height="300" />I am a hacker, open source technologist at-large, sometimes writer and speaker. I&rsquo;ve been honored to speak at <a href="http://en.wikipedia.org/wiki/Information_security">infosec</a> conferences like <a href="http://www.defcon.org">DEF CON</a>, <a href="http://www.derbycon.com/">DerbyCon</a>, <a href="http://www.bsideslv.org/">BsidesLV</a>, <a title="SecureWorld" href="http://secureworldpost.secureworldexpo.com/">SecureWorld</a> and <a href="http://konferencje.computerworld.pl/konferencje/semafor2012/zagadnienia.html">SEMAFOR</a> (ISACA Warsaw Chapter). I am an active member of the <a href="http://eff.org">EFF</a> (Electronic Frontier Foundation), I lead and moderate discussions about electronic rights and civil liberties while educating users how their data is used by companies without their knowledge; things that are &lsquo;free&rsquo; online, actually aren&rsquo;t free. In fact, most of my research over the past few years has focused more on companies weaknesses in protecting customer&rsquo;s data, and their failures in keeping that data private. Speaking engagements on earlier work dealth with system architecture in the global biodiversity realm, and slides of those are available on my <a href="http://www.slideshare.net/">Slideshare</a> account.</p>
 

@@ -4,6 +4,7 @@ title = "fak3r"
 theme = "lithium"
 #googleAnalytics = ""
 #disqusShortname = ""
+disableKinds = ["taxonomy", "taxonomyTerm", "section", "404"]
 
 [permalinks]
     post = "/:year/:month/:day/:title/"
@@ -29,7 +30,11 @@ theme = "lithium"
 #    url = ""
 
 [params]
+# mainSections = ["post"]
     description = "slower traffic keep right"
+
+    # path to the favicon, under "static"
+    favicon = "favicon.ico"
 
     [params.logo]
     url = "logo.png"
@@ -41,3 +46,5 @@ theme = "lithium"
     #url = "favicon.ico"
     url = "logo.png"
 
+    [markup.goldmark.renderer]
+    unsafe= true
