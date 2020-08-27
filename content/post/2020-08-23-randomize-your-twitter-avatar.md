@@ -18,6 +18,8 @@ Follow the steps to do this for your own Twitter avatar.
 
 # Install
 
+With all of my work, I'll assume you're comfortable playing around on a Linux system, and have git installed, if not you should be, it's endless amounts of fun! (Disclaimer: it may not be fun for you, no refunds)
+
 ## Get the code
 
 Clone the git repo and start to configure your environment
@@ -33,7 +35,25 @@ cp config.json.dist config.json
 
 The first step you should take is to create a new Twitter App so you can get permissions to update your user's avatar. While there are many howtos out there, this one is complete and should get you going; [How to create a Twitter application](https://docs.inboundnow.com/guide/create-twitter-application/)
 
-Once you get to "8. Make a note of your OAuth Settings", be sure and save the Consumer Key, Consumer secret, Access token and Access token secret, defining each of the values in your newly created `config.json` file
+Once you get to "8. Make a note of your OAuth Settings", be sure and save:
+
+**** Consumer Key
+* Consumer secret
+* Access token
+* Access token secret
+
+Then define each of these values in your newly created config.json file:
+
+```
+{
+    "consumer_key":        "<enter value here>",
+    "consumer_secret":     "<enter value here>",
+    "access_token":        "<enter value here>",
+    "access_token_secret": "<enter value here>"
+}
+```
+
+and save that.
 
 ## Glitch your avatar
 
@@ -41,8 +61,10 @@ To glitch your avatar, play on here, otherwise if you just want to use standard 
 
 1) save your avatar locally
 2) hit [jpg-glitch](https://snorpey.github.io/jpg-glitch/), upload your avatar, glitch it as much as you want, or just choose the 'random' option
-3) save the file into a directory `img`
+3) save the file into a directory /img
 4) repeat as many times as you'd like to increase your randomness
+
+TODO: I'd like to have an automated way to do this, maybe using some [ImageMagik](https://imagemagick.org/) commands, that way we could have the script glitch the original on the fly and really get randomized images! Of course one strange blip and the images are unrecognizable to the original, but hey, that's random
 
 ## Install requirements
 
@@ -68,4 +90,4 @@ Add a new line to your user's crontab, fill out the path to where your code is
 
 ## What's next?
 
-So when I started this I wanted it to just randomize my avatar for some variety and for fun, but what else could we do? Obviously it could be more active, for example, your hockey team wins, maybe it puts up an icon of your team (much like the [Cub's W flag](https://en.wikipedia.org/wiki/Cubs_Win_Flag)). Maybe it shows an umbrella if it's raining, mabye something related to the news of the day. I've also thought of having it change your displayed name in Twitter, again, responding to some action in the "real world" that changes something on your account. Think of something cooler to do than just this and please fork, make a PR, or share your thoughts. Thanks!
+So when I started this I wanted it to just randomize my avatar for some variety and for fun, but what else could we do? Obviously it could be more active, for example, your hockey team wins, maybe it puts up an icon of your team (much like the [Cub's W flag](https://en.wikipedia.org/wiki/Cubs_Win_Flag)). Maybe it shows an umbrella if it's raining, maybe something related to the news of the day. Maybe you're a different Pokemon everyday. I've also thought of having it change the displayed name in Twitter, again, responding to some action in the "real world" that changes something on your account. Think of something cooler to do than just this and please fork, make a PR, or share your thoughts. Thanks!
