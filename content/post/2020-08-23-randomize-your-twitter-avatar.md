@@ -35,9 +35,9 @@ cp config.json.dist config.json
 
 The first step you should take is to create a new Twitter App so you can get permissions to update your user's avatar. While there are many howtos out there, this one is complete and should get you going; [How to create a Twitter application](https://docs.inboundnow.com/guide/create-twitter-application/)
 
-Once you get to "8. Make a note of your OAuth Settings", be sure and save:
+Once you get to step "8. Make a note of your OAuth Settings", be sure and save:
 
-**** Consumer Key
+* Consumer Key
 * Consumer secret
 * Access token
 * Access token secret
