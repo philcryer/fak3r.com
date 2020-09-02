@@ -8,7 +8,7 @@ nopaging = true
 
 ## Lists
 
-I've kept lists of my favorite music seeminly forever, here I break it out by listing all of my favorites, and more recently, year by year.
+I've kept lists of my favorite music seemingly forever, here I break it out by listing all of my favorites, and more recently, year by year.
 
 * [Ever](/music-best-ever)
 * [By year](/music-best-by-year)

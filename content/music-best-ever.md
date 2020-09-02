@@ -53,7 +53,7 @@ The following are what I believe to be the greatest recorded works ever created.
 <li>Cowboy Junkies "The Trinity Session"</li>
 <li>The Cure "Disintegration"</li>
 <li>Husker Du "New Day Rising"</li>
-<li>The Jesus &amp; Mary Chain "Psychocandy\"</li>
+<li>The Jesus &amp; Mary Chain "Psychocandy"</li>
 <li>Pixies "Doolittle"</li>
 <li>The Replacements "Tim"</li>
 <li>The Smiths "The Queen Is Dead"</li>
