@@ -51,31 +51,32 @@ The following are what I believe to be the greatest recorded works ever created.
 
 Due to a Twitter [#7albums80s](https://twitter.com/RichardS7370/status/1300455982057902080) poll conducted by [@RichardS7370](https://twitter.com/RichardS7370), I took a hard look and exanded my best of 80s list. 
 
-### [My top 7](https://twitter.com/fak3r/status/1301968232308527104)
+#### [My top 7 (in order)](https://twitter.com/fak3r/status/1301968232308527104)
 
 <ul>
-#) The Smiths "Strangeways, Here We Come"
-#) The Stone Roses "The Stone Roses"
-#) Violent Femmes "Violent Femmes"
-#) Lou Reed "New York"
-#) The Wedding Present "Bizarro"
-#) REM "Life's Rich Pageant"
-#) The Cure "Disintegration"
+<li>The Smiths "Strangeways, Here We Come"</li>
+<li>The Stone Roses "The Stone Roses"</li>
+<li>Violent Femmes "Violent Femmes"</li>
+<li>Lou Reed "New York"</li>
+<li>The Wedding Present "Bizarro"</li>
+<li>REM "Life's Rich Pageant"</li>
+<li>The Cure "Disintegration"</li>
 </ul>
 
-### [7 just outside the bubble](https://twitter.com/fak3r/status/1301968470389796865)
+#### [7 just outside the bubble](https://twitter.com/fak3r/status/1301968470389796865)
 
 <ul>
-* Hüsker Dü "New Day Rising"
-* Sonic Youth "Daydream Nation"
-* The Fall "Hex Induction Hour"
-* The Birthday Party "Junkyard"
-* The Jesus & Mary Chain "Psychocandy"
-* X "Los Angeles"
-* The Replacements "Tim"
+<li>Hüsker Dü "New Day Rising"</li>
+<li>Sonic Youth "Daydream Nation"</li>
+<li>The Fall "Hex Induction Hour"</li>
+<li>The Birthday Party "Junkyard"</li>
+<li>The Jesus & Mary Chain "Psychocandy"</li>
+<li>X "Los Angeles"</li>
+<li>The Replacements "Tim"</li>
 </ul>
 
-### And a few just outside of that
+#### And a few more
+
 <ul>
 <li>Cowboy Junkies "The Trinity Session"</li>
 <li>Pixies "Doolittle"</li>
