@@ -49,7 +49,7 @@ The following are what I believe to be the greatest recorded works ever created.
 
 ## 1980s
 
-Due to a Twitter [#7albums80s](https://twitter.com/RichardS7370/status/1300455982057902080) poll conducted by [@RichardS7370](https://twitter.com/RichardS7370), I took a hard look and exanded my best of 80s list. 
+Due to a Twitter [#7albums80s](https://twitter.com/RichardS7370/status/1300455982057902080) poll conducted by [@RichardS7370](https://twitter.com/RichardS7370), I took a hard look and expanded my best of 80s list. 
 
 #### [My top 7 (in order)](https://twitter.com/fak3r/status/1301968232308527104)
 
@@ -80,8 +80,10 @@ Due to a Twitter [#7albums80s](https://twitter.com/RichardS7370/status/130045598
 <ul>
 <li>Cowboy Junkies "The Trinity Session"</li>
 <li>Pixies "Doolittle"</li>
+<li>New Order "Power, Corruption & Lies"</li>
 <li>The Smiths "The Queen Is Dead"</li>
 <li>They Might Be Giants "Lincoln"</li>
+<li>Wedding Present "George Best"</li>
 <li>U2 "War"</li>
 </ul>
 
