@@ -51,7 +51,7 @@ The following are what I believe to be the greatest recorded works ever created.
 
 Due to a Twitter [#7albums80s](https://twitter.com/RichardS7370/status/1300455982057902080) poll conducted by [@RichardS7370](https://twitter.com/RichardS7370), I took a hard look and expanded my best of 80s list. 
 
-#### [My top 7 (in order)](https://twitter.com/fak3r/status/1301968232308527104)
+#### [My top 7](https://twitter.com/fak3r/status/1301968232308527104) (in order)
 
 <ul>
 <li>The Smiths "Strangeways, Here We Come"</li>
@@ -63,7 +63,12 @@ Due to a Twitter [#7albums80s](https://twitter.com/RichardS7370/status/130045598
 <li>The Cure "Disintegration"</li>
 </ul>
 
-#### [7 just outside the bubble](https://twitter.com/fak3r/status/1301968470389796865)
+<div align="center">
+<img src="/2020/7albums80s.png" border="0" alt="7albums80s" title="7albums80s">
+From <a href="https://www.top7albums.com/">top7albums.com</a>
+</div>
+
+#### [7 just outside the bubble](https://twitter.com/fak3r/status/1301968470389796865) (in order)
 
 <ul>
 <li>Hüsker Dü "New Day Rising"</li>
