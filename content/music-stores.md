@@ -37,4 +37,4 @@ I've been visiting, and buying music at record shops since the late 1970s. I sti
 
 ![](https://cdn.shoplightspeed.com/shops/636018/themes/9682/v/13224/assets/cta-background.jpg)
 
-* I have not visited these shops (yet) but have ordered from them
+\* *I have not visited these shops (yet) but have ordered from them*
