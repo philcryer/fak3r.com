@@ -17,11 +17,13 @@ I've been visiting, and buying music at record shops since the late 1970s. I sti
 
 ### United States
 
+* [Amoeba Music](https://www.amoeba.com/) (San Francisco, CA) *
 * [Lunchbox Records](https://lunchboxrecords.com/) (Charlotte, NC)
 * [Magnolia Thunderpussy](https://thunderpussy.com/) (Columbus, OH)
 * [Reckless Records](https://www.reckless.com/) (Chicago, IL)
 * [Records Per Minute](https://www.facebook.com/RecordsPerMinute) (Columbus, OH)
 * [Revolution Records](http://www.revolutionrecordskc.com/) (Kansas City, MO)
+* [Rockaway Records](https://www.rockaway.com/) (Los Angeles, CA)
 * [Used Kids](https://www.usedkidsrecords.com/) (Columbus, OH)
 * [Waterloo Records](https://waterloorecords.com/) (Austin, TX)
 * [Wax Trax Records](https://www.waxtraxrecords.com/) (Denver, CO)
@@ -35,4 +37,4 @@ I've been visiting, and buying music at record shops since the late 1970s. I sti
 
 ![](https://cdn.shoplightspeed.com/shops/636018/themes/9682/v/13224/assets/cta-background.jpg)
 
-* I have not visited this shop (yet) but have ordered from them
+* I have not visited these shops (yet) but have ordered from them
