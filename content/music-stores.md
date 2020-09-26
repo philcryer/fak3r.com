@@ -1,7 +1,7 @@
 +++
 date = "2020-09-25T17:39-05:00"
 title = "Music Stores"
-slug = "music-concerts"
+slug = "music-stores"
 nodate = true
 nopaging = true
 +++
@@ -35,4 +35,4 @@ I've been visiting, and buying music at record shops since the late 1970s. I sti
 
 ![](https://cdn.shoplightspeed.com/shops/636018/themes/9682/v/13224/assets/cta-background.jpg)
 
-* _I have not visited these stores (yet), but have ordered items by mail_
+* _I have not visited this shop (yet) but have mail-ordered from them_
