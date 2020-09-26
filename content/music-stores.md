@@ -1,7 +1,7 @@
 +++
 date = "2020-09-25T17:39-05:00"
 title = "Music Stores"
-slug = "music, music stores"
+slug = "music-concerts"
 nodate = true
 nopaging = true
 +++
@@ -17,6 +17,7 @@ I've been visiting, and buying music at record shops since the late 1970s. I sti
 
 ### United States
 
+* [Lunchbox Records](https://lunchboxrecords.com/) (Charlotte, NC)
 * [Magnolia Thunderpussy](https://thunderpussy.com/) (Columbus, OH)
 * [Reckless Records](https://www.reckless.com/) (Chicago, IL)
 * [Records Per Minute](https://www.facebook.com/RecordsPerMinute) (Columbus, OH)
@@ -29,6 +30,8 @@ I've been visiting, and buying music at record shops since the late 1970s. I sti
 
 * [Drift Records](https://driftrecords.com/) (Devon, England) *
 * [HMV](https://store.hmv.com/store/music) (London, England)
+* [The Record Finder](https://www.facebook.com/therecordfinderfreo/) (Freemantle, Australia)
+* [Red Eye Records](https://www.redeye.com.au/) (Sydney, Australia)
 
 ![](https://cdn.shoplightspeed.com/shops/636018/themes/9682/v/13224/assets/cta-background.jpg)
 
