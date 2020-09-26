@@ -12,18 +12,24 @@ I've been visiting, and buying music at record shops since the late 1970s. I sti
 
 * [Euclid Records](https://www.euclidrecords.com/) (Saint Louis, MO)
 * [Planet Score](https://planetscorerecordsdotcom.wordpress.com/) (Saint Louis, MO)
+* [Record Exchange](http://www.recordexchangestl.com/) (Saint Louis, MO)
 * [Trusty Chords Records](http://www.trustychordsrecordshop.com/) (Edwardsville, IL)
 * [Vintage Vinyl](https://vintagevinyl.com/) (Saint Louis, MO)
 
 ### United States
 
 * [Amoeba Music](https://www.amoeba.com/) (San Francisco, CA) *
+* [Bill's Records](https://www.facebook.com/BillsRecordsAndTapes/) (Dallas, TX)
+* [Ernest Tubb Record Shop](http://etrecordshop.com/) (Nashville, TN)
+* [Goner Records](https://goner-records.com/) (Memphis, TN)
+* [Grimey's](https://www.grimeys.com/) (Nashville, TN)
 * [Lunchbox Records](https://lunchboxrecords.com/) (Charlotte, NC)
 * [Magnolia Thunderpussy](https://thunderpussy.com/) (Columbus, OH)
 * [Reckless Records](https://www.reckless.com/) (Chicago, IL)
 * [Records Per Minute](https://www.facebook.com/RecordsPerMinute) (Columbus, OH)
 * [Revolution Records](http://www.revolutionrecordskc.com/) (Kansas City, MO)
 * [Rockaway Records](https://www.rockaway.com/) (Los Angeles, CA)
+* [ShangriLa Records](https://shangri.com/) (Memphis, TN)
 * [Used Kids](https://www.usedkidsrecords.com/) (Columbus, OH)
 * [Waterloo Records](https://waterloorecords.com/) (Austin, TX)
 * [Wax Trax Records](https://www.waxtraxrecords.com/) (Denver, CO)
@@ -33,6 +39,7 @@ I've been visiting, and buying music at record shops since the late 1970s. I sti
 * [Drift Records](https://driftrecords.com/) (Devon, England) *
 * [HMV](https://store.hmv.com/store/music) (London, England)
 * [The Record Finder](https://www.facebook.com/therecordfinderfreo/) (Freemantle, Australia)
+* [The Recordstore Berlin](http://therecordstore-berlin.com/) (Berlin, Germany)
 * [Red Eye Records](https://www.redeye.com.au/) (Sydney, Australia)
 
 ![](https://cdn.shoplightspeed.com/shops/636018/themes/9682/v/13224/assets/cta-background.jpg)
