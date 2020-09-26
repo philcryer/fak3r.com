@@ -6,7 +6,13 @@ nodate = true
 nopaging = true
 +++
 
-## Lists
+## Record stores
+
+I've often said that going to a record store is my version of going to church. I'll spend hours there, get lost in my own thoughts, explore what's available, and talk with others that are similarly afflicted to (still) buying records, and CDs. I wanted to make a list of my favorite stores, since that's always a huge part of what I do in new cities.. well and my own city for that matter!
+
+* [Music Stores](/music-stores)
+
+## Best of lists
 
 I've kept lists of my favorite music seemingly forever, here I break it out by listing all of my favorites, and more recently, year by year.
 
