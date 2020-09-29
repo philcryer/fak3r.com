@@ -15,7 +15,7 @@ Of course since then I've been going to as many shops as I can, and locally (in 
 ### Local, to me
 
 * [Euclid Records](https://www.euclidrecords.com/) (Saint Louis, MO)
-* [Music Record Shop](https://www.musicrecordshop.com/) (Saint Louis, MO)
+* [Music Record Shop](https://www.musicrecordshop.com/) (Saint Louis, MO) *
 * [Planet Score](https://planetscorerecordsdotcom.wordpress.com/) (Saint Louis, MO)
 * [Record Exchange](http://www.recordexchangestl.com/) (Saint Louis, MO)
 * [Trusty Chords Records](http://www.trustychordsrecordshop.com/) (Edwardsville, IL)
@@ -35,6 +35,7 @@ Of course since then I've been going to as many shops as I can, and locally (in 
 * [Records Per Minute](https://www.facebook.com/RecordsPerMinute) (Columbus, OH)
 * [Revolution Records](http://www.revolutionrecordskc.com/) (Kansas City, MO)
 * [Rockaway Records](https://www.rockaway.com/) (Los Angeles, CA)
+* [Rough Trade NYC](https://www.roughtrade.com/us/stores#rough-trade-nyc) *
 * [ShangriLa Records](https://shangri.com/) (Memphis, TN)
 * [Used Kids](https://www.usedkidsrecords.com/) (Columbus, OH)
 * [Waterloo Records](https://waterloorecords.com/) (Austin, TX)
