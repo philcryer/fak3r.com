@@ -6,11 +6,16 @@ nodate = true
 nopaging = true
 +++
 
-I've been visiting, and buying music at record shops since the late 1970s. I still have some records my Pops bought me back when we'd go to [Streetside Records](https://www.bbb.org/us/mo/saint-louis/profile/music-store/streetside-records-0734-110170575) RIP, which was located at 742 N Ballas Road, Saint Louis, MO 63141. Since then I've been going to as many shops as I can, and locally (in Saint Louis) we have many good ones, but of course there are some amazing ones I've hit over the years. I wanted to start a list of shops I like so that I have something to refer to when I'm looking for somehting I can't find locally, and want to find it out there to order it from. I'll list shops that I've ordered from, but haven't visited (yet) as well.
+I've been visiting, and buying music at record shops since the late 1970s, in fact, I still have some records my Pops bought me back when we'd go to [Streetside Records](https://www.bbb.org/us/mo/saint-louis/profile/music-store/streetside-records-0734-110170575) RIP, mine was located at 742 N Ballas Road, Saint Louis, MO 63141, but then I spent some time at the Columbia, MO outlet when I went to school down there.
+
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Streetside_delmar.jpg/1200px-Streetside_delmar.jpg)
+
+Of course since then I've been going to as many shops as I can, and locally (in Saint Louis) we have many good ones, but of course there are some amazing ones I've hit over the years during my travels. I've often said that going to a record store is my version of going to church. I'll spend hours there, get lost in my own thoughts, explore what's available, and talk with others that are similarly afflicted to (still) buying records, and CDs. I wanted to start a list of shops I like so that I have links to refer to when I'm looking for something I can't find locally, and want to order it from another independant record shop, as one does. I'll list a few shops that I've ordered from, but haven't visited (yet) as well.
 
 ### Local, to me
 
 * [Euclid Records](https://www.euclidrecords.com/) (Saint Louis, MO)
+* [Music Record Shop](https://www.musicrecordshop.com/) (Saint Louis, MO)
 * [Planet Score](https://planetscorerecordsdotcom.wordpress.com/) (Saint Louis, MO)
 * [Record Exchange](http://www.recordexchangestl.com/) (Saint Louis, MO)
 * [Trusty Chords Records](http://www.trustychordsrecordshop.com/) (Edwardsville, IL)
@@ -23,6 +28,7 @@ I've been visiting, and buying music at record shops since the late 1970s. I sti
 * [Ernest Tubb Record Shop](http://etrecordshop.com/) (Nashville, TN)
 * [Goner Records](https://goner-records.com/) (Memphis, TN)
 * [Grimey's](https://www.grimeys.com/) (Nashville, TN)
+* [Josey Records](https://www.joseyrecords.com/) (Kansas City, MO)
 * [Lunchbox Records](https://lunchboxrecords.com/) (Charlotte, NC)
 * [Magnolia Thunderpussy](https://thunderpussy.com/) (Columbus, OH)
 * [Reckless Records](https://www.reckless.com/) (Chicago, IL)

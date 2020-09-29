@@ -8,7 +8,7 @@ nopaging = true
 
 ## Record stores
 
-I've often said that going to a record store is my version of going to church. I'll spend hours there, get lost in my own thoughts, explore what's available, and talk with others that are similarly afflicted to (still) buying records, and CDs. Here's a list of my favorite shops.
+I've shopped at lots of music stores over the years, and it's always been one of my favorite things to do. Here's a list of my favorite shops.
 
 * [Music Stores](/music-stores)
 
