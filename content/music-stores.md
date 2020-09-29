@@ -6,7 +6,7 @@ nodate = true
 nopaging = true
 +++
 
-I've been visiting, and buying music at record shops since the late 1970s, in fact, I still have some records my Pops bought me back when we'd go to [Streetside Records](https://www.bbb.org/us/mo/saint-louis/profile/music-store/streetside-records-0734-110170575) (RIP), at 742 N Ballas Road, Saint Louis, MO 63141, but then I spent some time at the Columbia, MO outlet when I went to school down there. Factiod: that's where I bought all the orginal cds from [The Smiths](https://en.wikipedia.org/wiki/The_Smiths).
+I've been visiting, and buying music at record shops since the late 1970s, in fact, I still have some records my Pops bought me back when we'd go to [Streetside Records](https://www.bbb.org/us/mo/saint-louis/profile/music-store/streetside-records-0734-110170575) (RIP), at 742 N Ballas Road, Saint Louis, MO 63141, but then I spent some time at the Columbia, MO outlet when I went to school down there. Factiod: that's where I bought all the original cds from [The Smiths](https://en.wikipedia.org/wiki/The_Smiths).
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Streetside_delmar.jpg/1200px-Streetside_delmar.jpg)
 
