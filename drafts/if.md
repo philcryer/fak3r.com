@@ -1,0 +1,5 @@
+# If you're unhappy with your life it's your responsibility to change it
+
+If you’re unhappy with your love life, end it. They aren’t the last people on earth. Romantic relationships are more than forehead kisses, dinner dates, tight hugs and sweet letters – romantic relationships just like any other vital connection you have, is supposed to mature with you. Romantic relationships are supposed to let you flourish and develop in every aspect of who you are. It is supposed to hearten you every morning and not weigh you down with doubts and resentments. If your partner becomes a constant instrument of heartache and toxicity, then cut them off. You are not obliged to burden yourself with such. They are supposed to be one of the top people who will propel you to be at your best, to motivate you and allow you to discover the extent of your grandeur. Remember that, always. Who knows, maybe in the near future you’ll meet someone who’ll contribute to your soul even more.
+
+[Source](https://thoughtcatalog.com/dian-tinio/2016/07/if-youre-unhappy-with-your-life-its-your-responsibility-to-change-it/)
