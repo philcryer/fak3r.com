@@ -11,7 +11,6 @@ nopaging = true
 +++
 
 <h3>Follow me, or get in touch</h3>
-<img src="/contact/pgp.gif" border="0">&nbsp;&nbsp;pgp public key fingerprint <a href="https://keybase.io/fak3r/key.asc">04A1 69CC A79F 7188</a><br />
 <img src="/contact/email.jpg" border="0">&nbsp;&nbsp;email <a href="http://fak3r.com">fak3r @ fak3r . com</a><br />
 <img src="/contact/freenode.png" border="0" height="16" width="16">&nbsp;&nbsp;freenode <a href="https://www.freenode.net/">fak3r</a><br />
 <img src="/contact/twitter.bmp" border="0">&nbsp;&nbsp;twitter <a href="https://twitter.com/fak3r" alt="Twitter" title="Twitter">fak3r</a><br />
@@ -21,3 +20,8 @@ nopaging = true
 <img src="/contact/flickr.png" border="0">&nbsp;&nbsp;flickr <a href="https://secure.flickr.com/photos/fak3r/sets/" alt="Flickr" title="Flickr">fak3r</a><br />
 <!--<img src="/contact/lanyrd.bmp" border="0">&nbsp;&nbsp;lanyrd <a href="https://lanyrd.com/profile/fak3r/" alt="Lanyrd" title="Lanyrd">fak3r</a><br />-->
 <img src="/contact/bitcoin.png" border="0">&nbsp;&nbsp;bitcoin <a href="https://blockchain.info/address/1AubVQPJ41SFThtKMHV7p7rYYRqGFQGPAu">1AubVQPJ41SFThtKMHV7p7rYYRqGFQGPAu</a><br />
+<img src="/contact/pgp.gif" border="0">&nbsp;&nbsp;pgp public key fingerprint <a href="https://keybase.io/fak3r/key.asc">04A1 69CC A79F 7188</a><br />
+
+`curl -sf https://fak3r.com/.well-known/pgpkey.txt | gpg --import`
+
+<div align="center"><img src="/contact/Sigur_Ros-logo.png" border="0"></div>
