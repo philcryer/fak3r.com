@@ -7,7 +7,7 @@ Categories: ["howto"]
 
 I'm pretty active on [Twitter](https://twitter.com/fak3r), and I wanted a way to change my Twitter avatar, to a randomly 'glitched' out version, on a set time (say hourly). I figured out a way to do this using Python, Twitter's API, and some random glitch services online. This method requires that you manually glitch the images you want, drop them in a directory, create a new Twitter App to get permissions to change your avatar, then install and use [Tweepy](https://www.tweepy.org/) to do the heavy lifting, all called by cron. I called the project [randota](https://github.com/philcryer/randota.git) = randomize twitter avatar = randomize your Twitter avatar from the commandline.
 
-<img src="https://raw.githubusercontent.com/philcryer/randota/master/img/me.jpg" heigh=150 width=150> &nbsp;&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/philcryer/randota/master/img/me.jpg" height=150 width=150> &nbsp;&nbsp;&nbsp;
 <img src="https://raw.githubusercontent.com/philcryer/randota/master/img/me-glitched-11-23-2019-3-55-53-PM.png" height=150 width=150> &nbsp;&nbsp;&nbsp;
 <img src="https://raw.githubusercontent.com/philcryer/randota/master/img/me-glitched-11-23-2019-3-54-18-PM.png" height=150 width=150> &nbsp;&nbsp;&nbsp;
 <img src="https://raw.githubusercontent.com/philcryer/randota/master/img/me-glitched-11-23-2019-3-53-48-PM.png" height=150 width=150>
