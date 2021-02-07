@@ -58,7 +58,17 @@ If you see a version of Python starting with a 2, such as Python 2.7.10, then tr
 
 If it's not and you only have version 2.x, continue, if it's 3.x, skip down to 'Installing generiter via pip'
 
-Install Python 3.x as defined at [Install Python](https://installpython3.com/linux/) (for Debian, or Ubuntu)
+### GNU Debian Linux and Ubuntu Linux
+
+Install Python 3.x as defined at [Install Python](https://installpython3.com/linux/)
+
+### Arch Linux
+
+Install Python 3.x via `pacman`:
+
+```
+pacman -S python3
+```
 
 ### Installing generiter via pip
 
