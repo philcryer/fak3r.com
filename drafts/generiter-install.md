@@ -60,7 +60,13 @@ If it's not and you only have version 2.x, continue, if it's 3.x, skip down to '
 
 ### GNU Debian Linux and Ubuntu Linux
 
-Install Python 3.x as defined at [Install Python](https://installpython3.com/linux/)
+Install Python 3.x as defined at [Install Python](https://installpython3.com/linux/), by using the deadsnakes PPA:
+
+```
+sudo add-apt-repository ppa:deadsnakes/ppa
+sudo apt-get update
+sudo apt install python3.8
+```
 
 ### Arch Linux
 
