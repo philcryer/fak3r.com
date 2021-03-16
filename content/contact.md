@@ -22,6 +22,10 @@ nopaging = true
 <img src="/contact/bitcoin.png" border="0">&nbsp;&nbsp;bitcoin <a href="https://blockchain.info/address/1AubVQPJ41SFThtKMHV7p7rYYRqGFQGPAu">1AubVQPJ41SFThtKMHV7p7rYYRqGFQGPAu</a><br />
 <img src="/contact/pgp.gif" border="0">&nbsp;&nbsp;pgp public key fingerprint <a href="https://keybase.io/fak3r/key.asc">04A1 69CC A79F 7188</a><br />
 
+<h3>Import my public key manually</h3>
+
 `curl -sf https://fak3r.com/.well-known/pgpkey.txt | gpg --import`
+
+<h3>Me, in real life</h3>
 
 <div align="center"><img src="/contact/Sigur_Ros-logo.png" border="0"></div>
