@@ -35,7 +35,7 @@ Of course since then I've been going to as many shops as I can, and locally (in 
 * [Records Per Minute](https://www.facebook.com/RecordsPerMinute) (Columbus, OH)
 * [Revolution Records](http://www.revolutionrecordskc.com/) (Kansas City, MO)
 * [Rockaway Records](https://www.rockaway.com/) (Los Angeles, CA)
-* [Rough Trade NYC](https://www.roughtrade.com/us/stores#rough-trade-nyc) *
+* [Rough Trade NYC](https://www.roughtrade.com/us/stores#rough-trade-nyc) (New York City, NY) *
 * [ShangriLa Records](https://shangri.com/) (Memphis, TN)
 * [Used Kids](https://www.usedkidsrecords.com/) (Columbus, OH)
 * [Waterloo Records](https://waterloorecords.com/) (Austin, TX)
