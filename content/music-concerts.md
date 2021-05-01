@@ -6,7 +6,20 @@ nodate = true
 nopaging = true
 +++
 
-I still go to a lot of concerts, here are a list of past ones from a few years back. These are all in the Saint Louis, MO (USA) region, unless otherwise specified. Thanks
+I still go to a lot of concerts, here are the upcoming ones. These are all in the Saint Louis, MO (USA) region, unless otherwise specified. 
+
+## 2021-2022
+
+* American Aquariam - Delmar Hall - Wed, Jul 14
+* Waxahatchee w/ Shy Boys - Knuckleheads Saloon - Tues, Aug 31 (KANSAS CITY, MO) **
+* IDLES w/Gustaf - The Riviera Theatre - Fri, Oct 8 (CHICAGO)
+* Soccer Mommy w/Emily Reo - Delmar Hall - Tues, Nov 9 **
+* Beach Bunny - Delmar Hall - Fri, Dec 17 **
+* Bikini Kill w/Hurry Up - Marathon Music Works - Thu, Jun 30, 2022 (NASHVILLE)
+
+** haven't gotten tickets (yet)
+
+I've gone to a lot of concerts, here are a list of past ones from a few years back. Again, these are all in the Saint Louis, MO (USA) region, unless otherwise specified. Thanks
 
 ## 2020 
 
