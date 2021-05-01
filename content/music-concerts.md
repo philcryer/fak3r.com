@@ -6,7 +6,7 @@ nodate = true
 nopaging = true
 +++
 
-I still go to a lot of concerts, here are the upcoming ones. These are all in the Saint Louis, MO (USA) region, unless otherwise specified. 
+I still go to a lot of concerts, here are the upcoming ones, and here's a promise: if you see me at a show and say hi I will buy you a drink of your choice. These are all in the Saint Louis, MO (USA) region, unless otherwise specified. 
 
 ## 2021-2022
 
