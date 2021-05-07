@@ -12,6 +12,7 @@ I still go to a lot of concerts, here are the upcoming ones, and here's a promis
 
 * American Aquariam - Delmar Hall - Wed, Jul 14
 * Waxahatchee w/ Shy Boys - Knuckleheads Saloon - Tues, Aug 31 (KANSAS CITY, MO) **
+* Dinosaur Jr - The Pageant - Thu, Sep 16
 * IDLES w/Gustaf - The Riviera Theatre - Fri, Oct 8 (CHICAGO)
 * Soccer Mommy w/Emily Reo - Delmar Hall - Tues, Nov 9 **
 * Beach Bunny - Delmar Hall - Fri, Dec 17 **
