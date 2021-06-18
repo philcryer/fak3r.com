@@ -64,5 +64,4 @@ As with any server, you shouldn't have extranious things installed, so this scri
 ./base-secure clean
 ```
 
-Hit the [GitHub](https://github.com/philcryer/base-secure) page for the code. Feedback EXTREMELY appreicated either on that page, or my twitter, where I'm still [@fak3r](https://twitter.com/fak3r)
-
+Hit the [GitHub](https://github.com/philcryer/base-secure) page for the code. Feedback EXTREMELY appreciated, either on that page, or my twitter, where I'm still [@fak3r](https://twitter.com/fak3r)
