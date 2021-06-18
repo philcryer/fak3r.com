@@ -1,6 +1,6 @@
 ---
 title: "Secure Linux Servers by Default"
-date: "2021-07-18T10:44:18-06:00"
+date: "2021-06-18T10:44:18-06:00"
 Tags: ["linux", "server", "infosec", "ansible"]
 Categories: ["howto"]
 ---
