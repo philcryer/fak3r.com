@@ -8,6 +8,10 @@ nopaging = true
 
 I still go to a lot of concerts, here are the upcoming ones, and here's a promise: if you see me at a show and say hi I will buy you a drink of your choice. These are all in the Saint Louis, MO (USA) region, unless otherwise specified. 
 
+## 2022
+
+* Bikini Kill w/Hurry Up - Marathon Music Works - Thu, Jun 30 (NASHVILLE)
+
 ## 2021
 
 * Phoebe Bridgers - Chesterfield Amphitheater (moved from The Pageant) - Fri, Sep 3
@@ -15,12 +19,6 @@ I still go to a lot of concerts, here are the upcoming ones, and here's a promis
 * Dinosaur Jr - The Pageant - Thu, Sep 16
 * IDLES w/Gustaf - The Riviera Theatre - Fri, Oct 8 (CHICAGO)
 * Lilly Hiatt / Lydia Loveless - Off Broadway - Sat, Nov 13
-
-## 2022
-
-* Bikini Kill w/Hurry Up - Marathon Music Works - Thu, Jun 30 (NASHVILLE)
-
-I've gone to a lot of concerts, here are a list of past ones from a few years back. Again, these are all in the Saint Louis, MO (USA) region, unless otherwise specified. Thanks
 
 ## 2020 
 
