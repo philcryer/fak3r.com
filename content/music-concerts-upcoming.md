@@ -13,6 +13,7 @@ _NOTE_ \* means I don't have a ticket yet
 
 ## 2021
 
+* American Aquarium w/Morgan Wade - Delmar Hall - Jul, Wed 14
 * Phoebe Bridgers w/Bartees Strange - Chesterfield Amphitheater - Fri, Sep 3
 * Bayside, Senses Fail, Hawthorne Heights, The Bombpops - Pop's Concert Venue - Sun, Sep 12
 * Dinosaur Jr - The Pageant - Thu, Sep 16 - POSTPONED
