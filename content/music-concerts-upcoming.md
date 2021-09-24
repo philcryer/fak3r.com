@@ -20,7 +20,7 @@ _NOTE_ \* means I don't have a ticket yet
 
 ----upcoming---
 
-* The Get Up Kids - Red Flag - Sat, Sep 25 *
+* The Get Up Kids - Red Flag - Sat, Sep 25
 * Drive-By Truckers w/Buffalo Nichols - The Pageant - Sat, Oct 2
 * IDLES w/Gustaf - The Riviera Theatre - Fri, Oct 8 (CHICAGO)
 * Teenage Bottlerockets w/Broadway Calls, The Haddonfields - Sat, Oct 16 *
@@ -32,7 +32,7 @@ _NOTE_ \* means I don't have a ticket yet
 * Soccer Mommy - Delmar Hall - Tue, Nov 9
 * The Lemonheads - Red Flag - Fri, Nov 12 *
 * Lilly Hiatt and Lydia Loveless - Off Broadway - Sat, Nov 13
-* The Fixx & The English Beat - Delmar Hall - Mon, Nov 15 *
+* The Fixx & The English Beat - Delmar Hall - Mon, Nov 15
 * Julien Baker w/DEHD , Katie Malco - Delmar Hall - Tue, Nov 16
 * Bad Religion & Alkaline Trio w/War On Women - The Pageant - Wed, Nov 17 *
 * Shovels & Rope - Off Broadway - Wed, Nov 17 *
