@@ -22,6 +22,9 @@ disableKinds = ["taxonomy", "taxonomyTerm", "section", "404"]
 [[menu.main]]
     name = "Contact"
     url = "/contact/"
+[[menu.main]]
+    name = "Onion site"
+    url = "http://ypc326vsdovry7dvgulcej67covlvx74nbndrvynuea5mqwz7rwzpaqd.onion/"
 #[[menu.main]]
 #    name = "GitHub"
 #    url = ""
