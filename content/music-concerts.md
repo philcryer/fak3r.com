@@ -18,7 +18,6 @@ _NOTE_ - \* means I don't have a ticket yet
 * The Get Up Kids w/The Casket Lottery - Red Flag - Sat, Sep 25
 
 _UPCOMING_
-
 * Dinosaur Jr - The Pageant - Thu, Sep 16 - POSTPONED, new date TBA
 * Drive-By Truckers w/Buffalo Nichols - The Pageant - Sat, Oct 2
 * Deep Sea Diver - Angard Arts Hotel - Sun, Oct 03
@@ -33,6 +32,7 @@ _UPCOMING_
 * Lilly Hiatt and Lydia Loveless - Off Broadway - Sat, Nov 13
 * The Fixx & The English Beat - Delmar Hall - Mon, Nov 15
 * Julien Baker w/DEHD , Katie Malco - Delmar Hall - Tue, Nov 16
+* Cloud Nothings w/Mourning [A] BLKstar - Old Rock House - Nov, Tues 16 *
 * Bad Religion & Alkaline Trio w/War On Women - The Pageant - Wed, Nov 17 *
 * Shovels & Rope - Off Broadway - Wed, Nov 17 *
 * CHVRCHES w/ Donna Missai - The Pageant - Mon, Dec 6
