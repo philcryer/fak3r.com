@@ -8,7 +8,7 @@ nopaging = true
 
 I still go to a lot of concerts, here are the upcoming ones, and a promise: if you see me at a show and say hi I will buy you a drink of your choice. These are all in the Saint Louis, MO (USA) region, unless otherwise specified. 
 
-_NOTE_ \* means I don't have a ticket yet
+_NOTE_ - \* means I don't have a ticket yet
 
 ## 2021
 
@@ -38,7 +38,7 @@ _UPCOMING_
 * CHVRCHES w/ Donna Missai - The Pageant - Mon, Dec 6
 * Snail Mail - The Pageant - Fri, Dec 10
 
-_NOTE_ ya 2022 is below 2021, look it's been a crazy time, you understand
+_NOTE_ - yes 2022 is below 2021, look it's been a crazy time, you understand
 
 ## 2022
 
