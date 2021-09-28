@@ -2,19 +2,19 @@
 
 #set -x
 
-echo "setting url.."
+echo "Setting tor url …"
 cp config.toml-tor config.toml
 
-echo "building.."
+echo "Building …"
 hugo
 
-echo "clearing old site.."
+echo "Clearing old site …"
 rm -rf /var/www/html/fak3r.com/*
 
-echo "deploying new site.."
+echo "Deploying new site …"
 mv public/* /var/www/html/fak3r.com/
 
-echo "resetting url.."
+echo "Resetting url to www …"
 cp config.toml-www config.toml
 
 exit 0

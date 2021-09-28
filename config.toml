@@ -1,4 +1,4 @@
-baseurl = "https://fak3r.com/"
+baseurl = "https://fak3r.com"
 languageCode = "en-us"
 title = "fak3r"
 theme = "lithium"
@@ -49,5 +49,4 @@ disableKinds = ["taxonomy", "taxonomyTerm", "section", "404"]
     #url = "favicon.ico"
     url = "logo.png"
 
-    [markup.goldmark.renderer]
-    unsafe= true
+    [markup.goldmark.renderer]v

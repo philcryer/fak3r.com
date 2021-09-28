@@ -28,4 +28,4 @@ nopaging = true
 
 <h3>Me, in real life</h3>
 
-<div align="center"><img src="/contact/Sigur_Ros-logo.png" border="0"></div>
+<div align="center"><img src="/contact/sigur_ros-logo.png" border="0"></div>
