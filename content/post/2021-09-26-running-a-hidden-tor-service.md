@@ -80,9 +80,7 @@ To keep it simple, I'm just going to add my server block to the default, enabled
 ```
 server {
         listen unix:/var/run/tor_hidden_www.sock
-
 	server_name ypc326vsdovry7dvgulcej67covlvx74nbndrvynuea5mqwz7rwzpaqd.onion;
-
 	root /var/www/html;
 	index index.html;
 }
@@ -101,8 +99,8 @@ echo "Hello from ypc326vsdovry7dvgulcej67covlvx74nbndrvynuea5mqwz7rwzpaqd.onion 
 Restart nginx to pickup our config changes, and enable it so that it will start on boot:
 
 ```
-systemctl enable nginx
 systemctl restart nginx
+systemctl enable nginx
 ```
 
 ## View your new Tor site
