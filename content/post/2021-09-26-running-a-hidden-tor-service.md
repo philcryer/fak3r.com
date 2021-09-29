@@ -6,11 +6,12 @@ Categories: ["howto"]
 ---
 
 <img align="right" src="/2021/tor_icon.png" alt="Tor" title="Tor">
+
 Today I'm going to walk you through setting up a simple [Tor](https://www.torproject.org/) hidden service, in this case, a webserver. I've played with Tor for a long time, but mostly using it as a client, not hosting a site. I wanted a fak3r version on Tor, so here we are.
 
-I won't go into what Tor is, hit their [About](https://www.torproject.org/about/history/) page for that, but the software allows ANY user, "...to experience real private browsing without tracking, surveillance, or censorship." So think of the privacy missing on the 'normal' internet, well Tor subverts that by basically building a different Internet for you to travel on. Yes it can improve your standing even if you're hitting the 'normal' internet, but also opens up the ability to browse to `.onion` URLs, aka hidden services on "the dark web" (don't be afraid, it's just gotten a bad rap), which is what we'll build today.
+I won't go into what Tor is, hit their [About](https://www.torproject.org/about/history/) page for that, but the software allows ANY user, "...to experience real private browsing without tracking, surveillance, or censorship." So think of the privacy missing on the 'normal' internet, well Tor subverts that by basically building a different Internet for you to travel on. Yes it can improve your standing even if you're hitting the 'normal' internet, but also opens up the ability to browse to .onion URLs, aka hidden services on "the dark web" (don't be afraid, it's just gotten a bad rap), which is what we'll build today.
 
-I highly recommend you download the [Tor Browser Bundle](https://www.torproject.org/download/), which is a customized Firefox browser with Tor integration built-in, so you can surf to your new site and travel to other `.onion` sites.
+I highly recommend you download the [Tor Browser Bundle](https://www.torproject.org/download/), which is a customized Firefox browser with Tor integration built-in, so you can surf to your new site and travel to other .onion sites.
 
 <!--more-->
 
@@ -35,7 +36,7 @@ apt install tor
 
 ### Configure Tor
 
-Here we are going to modify the Tor config (`torrc` file), and add two lines to it. One is to the HiddenServiceDir (think of this as Tor's web docroot), and the HiddenServicePort, what Tor will listen on. In this example I'm going to go with port 80, the standard www port. Notice we're going to run our site on a Unix socket instead of a Port, since, even though we're staying on the same host, this should be more secure:
+Here we are going to modify the Tor config (torrc file), and add two lines to it. One is to the HiddenServiceDir (think of this as Tor's web docroot), and the HiddenServicePort, what Tor will listen on. In this example I'm going to go with port 80, the standard www port. Notice we're going to run our site on a Unix socket instead of a Port, since, even though we're staying on the same host, this should be more secure:
 
 ```
 echo "HiddenServiceDir /var/lib/tor/hidden_www/
@@ -74,7 +75,7 @@ apt install tor nginx-full
 
 ### Configure nginx
 
-To keep it simple, I'm just going to add my server block to the default, enabled site, so edit: `/etc/nginx/sites-enabled/default`. Notice: change the 'server_name' to your unique one that we discovered before:
+To keep it simple, I'm just going to add my server block to the default, enabled site, so edit: /etc/nginx/sites-enabled/default. Notice: change the 'server_name' to your unique one that we discovered before:
 
 ```
 server {
@@ -89,7 +90,7 @@ server {
 
 ## Build a landing page
 
-Now we'll host a simple page on your site just for you to see, if you have a site, or want to add one later, just throw it in `/var/www/html` - again, update your .onion link, and again, use sudo or root:
+Now we'll host a simple page on your site just for you to see, if you have a site, or want to add one later, just throw it in /var/www/html - again, update your .onion link, and again, use sudo or root:
 
 ```
 echo "Hello from ypc326vsdovry7dvgulcej67covlvx74nbndrvynuea5mqwz7rwzpaqd.onion on the Tor network!" > /var/www/html/index.html
