@@ -11,6 +11,8 @@ Today I'm going to walk you through setting up a simple [Tor](https://www.torpro
 
 I won't go into what Tor is, hit their [About](https://www.torproject.org/about/history/) page for that, but the software allows ANY user, "...to experience real private browsing without tracking, surveillance, or censorship." So think of the privacy missing on the 'normal' internet, well Tor subverts that by basically building a different Internet for you to travel on. Yes it can improve your standing even if you're hitting the 'normal' internet, but also opens up the ability to browse to .onion URLs, aka hidden services on "the dark web" (don't be afraid, it's just gotten a bad rap), which is what we'll build today.
 
+<div class="tenor-gif-embed" data-postid="13935653" data-share-method="host" data-aspect-ratio="0.903955" data-width="100%"><a href="https://tenor.com/view/letterkenny-the-dark-web-roald-gif-13935653">Letterkenny The Dark Web GIF</a>from <a href="https://tenor.com/search/letterkenny-gifs">Letterkenny GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+
 I highly recommend you download the [Tor Browser Bundle](https://www.torproject.org/download/), which is a customized Firefox browser with Tor integration built-in, so you can surf to your new site and travel to other .onion sites.
 
 <!--more-->
