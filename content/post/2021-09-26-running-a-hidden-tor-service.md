@@ -6,11 +6,11 @@ Categories: ["howto"]
 ---
 
 <img align="right" src="/2021/tor_icon.png" alt="Tor" title="Tor">
-<p>Today I'm going to walk you through setting up a simple [Tor](https://www.torproject.org/) hidden service, in this case, a webserver. I've played with Tor for a long time, but mostly using it as a client, not hosting a site. I wanted a fak3r version on Tor, so here we are.</p>
+Today I'm going to walk you through setting up a simple [Tor](https://www.torproject.org/) hidden service, in this case, a webserver. I've played with Tor for a long time, but mostly using it as a client, not hosting a site. I wanted a fak3r version on Tor, so here we are.
 
-<p>I won't go into what Tor is, hit their [About](https://www.torproject.org/about/history/) page for that, but the software allows ANY user, "...to experience real private browsing without tracking, surveillance, or censorship." So think of the privacy missing on the 'normal' internet, well Tor subverts that by basically building a different Internet for you to travel on. Yes it can improve your standing even if you're hitting the 'normal' internet, but also opens up the ability to browse to `.onion` URLs, aka hidden services on "the dark web" (don't be afraid, it's just gotten a bad rap), which is what we'll build today.</p>
+I won't go into what Tor is, hit their [About](https://www.torproject.org/about/history/) page for that, but the software allows ANY user, "...to experience real private browsing without tracking, surveillance, or censorship." So think of the privacy missing on the 'normal' internet, well Tor subverts that by basically building a different Internet for you to travel on. Yes it can improve your standing even if you're hitting the 'normal' internet, but also opens up the ability to browse to `.onion` URLs, aka hidden services on "the dark web" (don't be afraid, it's just gotten a bad rap), which is what we'll build today.
 
-<p>I highly recommend you download the [Tor Browser Bundle](https://www.torproject.org/download/), which is a customized Firefox browser with Tor integration built-in, so you can surf to your new site and travel to other `.onion` sites.</p>
+I highly recommend you download the [Tor Browser Bundle](https://www.torproject.org/download/), which is a customized Firefox browser with Tor integration built-in, so you can surf to your new site and travel to other `.onion` sites.
 
 <!--more-->
 
