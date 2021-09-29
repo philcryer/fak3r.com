@@ -102,7 +102,7 @@ Restart nginx to pickup our config changes, and enable it so that it will start 
 
 ```
 systemctl enable nginx
-service nginx restart
+systemctl restart nginx
 ```
 
 ## View your new Tor site
