@@ -49,4 +49,7 @@ disableKinds = ["taxonomy", "taxonomyTerm", "section", "404"]
     #url = "favicon.ico"
     url = "logo.png"
 
-    [markup.goldmark.renderer]v
+    [markup.goldmark.renderer]
+    hardWraps = false
+    unsafe = false
+    xhtml = false
