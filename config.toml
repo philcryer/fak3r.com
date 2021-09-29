@@ -1,4 +1,4 @@
-baseurl = "https://fak3r.com"
+baseurl = "https://fak3r.com/"
 languageCode = "en-us"
 title = "fak3r"
 theme = "lithium"
