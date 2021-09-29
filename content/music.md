@@ -21,7 +21,7 @@ I've kept lists of my favorite music seemingly forever, here I break it out by l
 
 ## Concerts
 
-I still love going to concerts, here's some of the more recent years listing the conerts I've attended.
+I still love going to concerts, here's my list of current and upcoming shows, as well as some of the more recent years listing the conerts I've attended.
 
 * [Current](/music-concerts-current)
 * [By year](/music-concerts-by-year)
