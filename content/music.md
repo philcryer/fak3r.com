@@ -23,7 +23,8 @@ I've kept lists of my favorite music seemingly forever, here I break it out by l
 
 I still love going to concerts, here's some of the more recent years listing the conerts I've attended.
 
-* [By year](/music-concerts)
+* [Current](/music-concerts-current)
+* [By year](/music-concerts-by-year)
 
 ## Ticketstubs
 
