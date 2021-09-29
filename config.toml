@@ -50,6 +50,4 @@ disableKinds = ["taxonomy", "taxonomyTerm", "section", "404"]
     url = "logo.png"
 
     [markup.goldmark.renderer]
-    hardWraps = false
-    unsafe = false
-    xhtml = false
+    unsafe= true
