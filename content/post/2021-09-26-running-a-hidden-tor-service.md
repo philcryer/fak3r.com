@@ -11,8 +11,6 @@ Today I'm going to walk you through setting up a simple [Tor](https://www.torpro
 
 I won't go into what Tor is, hit their [About](https://www.torproject.org/about/history/) page for that, but the software allows ANY user, "...to experience real private browsing without tracking, surveillance, or censorship." So think of the privacy missing on the 'normal' internet, well Tor subverts that by basically building a different Internet for you to travel on. Yes it can improve your standing even if you're hitting the 'normal' internet, but also opens up the ability to browse to .onion URLs, aka hidden services on THE DARK WEB!
 
-<div class="tenor-gif-embed" data-postid="13935653" data-share-method="host" data-aspect-ratio="0.903955" data-width="100%"><a href="https://tenor.com/view/letterkenny-the-dark-web-roald-gif-13935653">Letterkenny The Dark Web GIF</a>from <a href="https://tenor.com/search/letterkenny-gifs">Letterkenny GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
-
 Na, don't be afraid, it's just gotten a bad rap, just think of it as an alternative internet which can be used and abused just like the 'normal' one. To get started, download and install the [Tor Browser Bundle](https://www.torproject.org/download/), which is a customized Firefox browser with Tor integration built-in, so you can surf to your new site and travel to other .onion sites after we get ours built. Vámonos!
 
 <!--more-->
@@ -120,5 +118,3 @@ Once you've done that, hit other .onion links on the Tor network:
 * [The CIA](http://ciadotgov4sjwlzihbbgxnqg3xiyrg7so2r2o3lt5wz5ypk4sxyjstad.onion) - The CIA? Yep, it's all part of the history... "Tor has an unlikely history. It was first developed by the U.S. Navy to help informants posted in foreign countries to relay information back safely. In that spirit, the CIA launched an Onion site to help people around the world access its resources securely." And you though it was all illegal stuff, no.
 
 Ok, that's it, surf around, look at your site, know that you can run anything you ran run with a normal webserver, so spin up a LAMP stack if you want, or anything else. As always I welcome questions, comments, critiques or anonomous Bitcoin deposits, just connect to me on one of the various ways on my Contact page.
-
-<div class="tenor-gif-embed" data-postid="20148761" data-share-method="host" data-aspect-ratio="1.77778" data-width="100%"><a href="https://tenor.com/view/good-great-letterkenny-gif-20148761">Good Great GIF</a>from <a href="https://tenor.com/search/good-gifs">Good GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
