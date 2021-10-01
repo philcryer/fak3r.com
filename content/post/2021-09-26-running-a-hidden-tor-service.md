@@ -23,7 +23,7 @@ First go install Linux on some host, VPS, or anywhere you want to run it. Get it
 
 ## Install services
 
-Notice: I'm running [Debian GNU/Linux](https://www.debian.org/), Bullseye:11, so if you're using another Linux distro just install the applications however you do, but the configs will mostly be the same. In fact, these same concepts will get you going on any of the \*BSD varients too, which would be a fine choice for this application.
+Notice: I'm running [Debian GNU/Linux](https://www.debian.org/), Bullseye:11, so if you're using another Linux distro just install the applications however you do, but the configs will mostly be the same. In fact, these same concepts will get you going on any of the \*BSD variants too, which would be a fine choice for this application.
 
 ## Install Tor
 
