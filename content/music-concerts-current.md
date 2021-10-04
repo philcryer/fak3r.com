@@ -16,12 +16,12 @@ I still go to a lot of concerts, here are the upcoming ones, and a promise: if y
 * Phoebe Bridgers w/Bartees Strange - Chesterfield Amphitheater - Fri, Sep 3
 * Senses Fail w/Hawthorne Heights, The Bombpops - Pop's Concert Venue - Sun, Sep 12
 * The Get Up Kids w/The Casket Lottery - Red Flag - Sat, Sep 25
+* Drive-By Truckers w/Buffalo Nichols - The Pageant - Sat, Oct 2
+* Deep Sea Diver - Angard Arts Hotel - Sun, Oct 03
 
 _UPCOMING_
 
 * Dinosaur Jr - The Pageant - Thu, Sep 16 - POSTPONED, new date TBA
-* Drive-By Truckers w/Buffalo Nichols - The Pageant - Sat, Oct 2
-* Deep Sea Diver - Angard Arts Hotel - Sun, Oct 03
 * IDLES w/Gustaf - The Riviera Theatre - Fri, Oct 8 (CHICAGO)
 * Teenage Bottlerockets w/Broadway Calls, The Haddonfields - Sat, Oct 16 *
 * Frank Turner w/Matt Nasir, Austin Meade - Delmar Hall - Sun, Oct 17
