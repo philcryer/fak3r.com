@@ -18,11 +18,10 @@ I still go to a lot of concerts, here are the upcoming ones, and a promise: if y
 * The Get Up Kids w/The Casket Lottery - Red Flag - Sat, Sep 25
 * Drive-By Truckers w/Buffalo Nichols - The Pageant - Sat, Oct 2
 * Deep Sea Diver - Angard Arts Hotel - Sun, Oct 03
+* IDLES w/Gustaf - The Riviera Theatre - Fri, Oct 8 (CHICAGO)
 
 _UPCOMING_
 
-* Dinosaur Jr - The Pageant - Thu, Sep 16 - POSTPONED, new date TBA
-* IDLES w/Gustaf - The Riviera Theatre - Fri, Oct 8 (CHICAGO)
 * Teenage Bottlerockets w/Broadway Calls, The Haddonfields - Sat, Oct 16 *
 * Frank Turner w/Matt Nasir, Austin Meade - Delmar Hall - Sun, Oct 17
 * Josh Rouse (solo) - Off Broadway - Thu, Oct 21
@@ -33,8 +32,7 @@ _UPCOMING_
 * Lilly Hiatt and Lydia Loveless - Off Broadway - Sat, Nov 13 *
 * The Fixx & The English Beat - Delmar Hall - Mon, Nov 15
 * Julien Baker w/DEHD, Katie Malco - Delmar Hall - Tue, Nov 16
-* Bad Religion & Alkaline Trio w/War On Women - The Pageant - Wed, Nov 17 *
-* Shovels & Rope - Off Broadway - Wed, Nov 17 *
+* Bad Religion & Alkaline Trio w/War On Women - The Pageant - Wed, Nov 17
 * CHVRCHES w/Donna Missai - The Pageant - Mon, Dec 6
 * Snail Mail - The Pageant - Fri, Dec 10
 
@@ -50,5 +48,6 @@ _NOTE_ - yes 2022 is below 2021, look it's been a crazy time, you understand
 * Circle Jerks w/Negative Approach - Red Flag - Mar 22 *
 * The Flaming Lips - The Pageant - Mon, Apr 4
 * Bikini Kill w/Hurry Up - Marathon Music Works - Thu, Jun 30 (NASHVILLE)
-* Agent Orange - Red Flag - Sept 28 *
+* Dinosaur Jr - The Pageant - Fri, Sep 23
+* Agent Orange - Red Flag - Wed, Sep 28 *
 
