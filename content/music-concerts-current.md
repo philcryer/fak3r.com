@@ -1,6 +1,6 @@
 +++
 date = "2019-07-07T18:39:12-05:00"
-title = "Music - Concerts current"
+title = "Music - Concerts (current)"
 slug = "music-concerts-current"
 nodate = true
 nopaging = true
