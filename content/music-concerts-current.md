@@ -22,7 +22,7 @@ I still go to a lot of concerts, here are the upcoming ones, and a promise: if y
 
 _UPCOMING_
 
-* Teenage Bottlerockets w/Broadway Calls, The Haddonfields - Sat, Oct 16 *
+* Teenage Bottlerockets w/Broadway Calls, The Haddonfields - Off Broadway - Sat, Oct 16
 * Frank Turner w/Matt Nasir, Austin Meade - Delmar Hall - Sun, Oct 17
 * Josh Rouse (solo) - Off Broadway - Thu, Oct 21
 * Planet Booty - Red Flag - Tue, Nov 2
@@ -30,13 +30,11 @@ _UPCOMING_
 * Soccer Mommy - Delmar Hall - Tue, Nov 9
 * The Lemonheads - Red Flag - Fri, Nov 12
 * Lilly Hiatt and Lydia Loveless - Off Broadway - Sat, Nov 13 *
-* The Fixx & The English Beat - Delmar Hall - Mon, Nov 15
+* The Fixx & The English Beat (EB CANCELLED, possible refund) - Delmar Hall - Mon, Nov 15
 * Julien Baker w/DEHD, Katie Malco - Delmar Hall - Tue, Nov 16
 * Bad Religion & Alkaline Trio w/War On Women - The Pageant - Wed, Nov 17
 * CHVRCHES w/Donna Missai - The Pageant - Mon, Dec 6
 * Snail Mail - The Pageant - Fri, Dec 10
-
-_NOTE_ - yes 2022 is below 2021, look it's been a crazy time, you understand
 
 ## 2022
 
@@ -45,7 +43,7 @@ _NOTE_ - yes 2022 is below 2021, look it's been a crazy time, you understand
 * Sleigh Bells - Red Flag - Feb 11 *
 * Hiss Golden Messenger - Off Broadway - Tue, Mar 8 *
 * The Dollyrots w/The Haddonfields - Old Rock House - Mar 16 *
-* Circle Jerks w/Negative Approach - Red Flag - Mar 22 *
+* Circle Jerks w/7 Seconds, Negative Approach - Red Flag - Mar 22 *
 * The Flaming Lips - The Pageant - Mon, Apr 4
 * Bikini Kill w/Hurry Up - Marathon Music Works - Thu, Jun 30 (NASHVILLE)
 * Dinosaur Jr - The Pageant - Fri, Sep 23
