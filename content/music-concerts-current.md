@@ -22,7 +22,7 @@ I still go to a lot of concerts, here are the upcoming ones, and a promise: if y
 
 _UPCOMING_
 
-* Teenage Bottlerockets w/Broadway Calls, The Haddonfields - Off Broadway - Sat, Oct 16
+* Teenage Bottlerockets w/Stars Go Out, The Haddonfields - Off Broadway - Sat, Oct 16
 * Frank Turner w/Matt Nasir, Austin Meade - Delmar Hall - Sun, Oct 17
 * Josh Rouse (solo) - Off Broadway - Thu, Oct 21
 * Planet Booty - Red Flag - Tue, Nov 2
@@ -42,6 +42,7 @@ _UPCOMING_
 * The Black Angels w/The Vacant Lots - Delmar Hall - Tue, Feb 8 *
 * Sleigh Bells - Red Flag - Feb 11 *
 * Hiss Golden Messenger - Off Broadway - Tue, Mar 8 *
+* Sunflower Bean - Off Broadway - Sat, Mar 12 *
 * The Dollyrots w/The Haddonfields - Old Rock House - Mar 16 *
 * Circle Jerks w/7 Seconds, Negative Approach - Red Flag - Mar 22 *
 * The Flaming Lips - The Pageant - Mon, Apr 4
