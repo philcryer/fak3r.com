@@ -79,7 +79,7 @@ To keep it simple, I'm just going to add my server block to the default, enabled
 
 ```
 server {
-        listen unix:/var/run/tor_hidden_www.sock
+        listen unix:/var/run/tor_hidden_www.sock;
 	server_name ypc326vsdovry7dvgulcej67covlvx74nbndrvynuea5mqwz7rwzpaqd.onion;
 	root /var/www/html;
 	index index.html;
