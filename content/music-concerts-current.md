@@ -19,12 +19,13 @@ I still go to a lot of concerts, here are the upcoming ones, and a promise: if y
 * Drive-By Truckers w/Buffalo Nichols - The Pageant - Sat, Oct 2
 * Deep Sea Diver - Angard Arts Hotel - Sun, Oct 03
 * IDLES w/Gustaf - The Riviera Theatre - Fri, Oct 8 (CHICAGO)
-* Teenage Bottlerockets w/Stars Go Out, The Haddonfields - Off Broadway - Sat, Oct 16
-* Frank Turner w/Matt Nasir, Austin Meade - Delmar Hall - Sun, Oct 17
+* Teenage Bottlerockets w/The Haddonfields - Off Broadway - Sat, Oct 16
+* Frank Turner w/Nathan Gray - Delmar Hall - Sun, Oct 17
 
 _UPCOMING_
 
 * Josh Rouse (solo) - Off Broadway - Thu, Oct 21
+
 * Planet Booty - Red Flag - Tue, Nov 2
 * Lucero w/Morgan Wade - Old Rock House - Thu, Nov 4
 * Soccer Mommy - Delmar Hall - Tue, Nov 9
@@ -32,6 +33,7 @@ _UPCOMING_
 * Lilly Hiatt and Lydia Loveless - Off Broadway - Sat, Nov 13 *
 * Julien Baker w/DEHD, Katie Malco - Delmar Hall - Tue, Nov 16
 * Bad Religion & Alkaline Trio w/War On Women - The Pageant - Wed, Nov 17
+
 * CHVRCHES w/Donna Missai - The Pageant - Mon, Dec 6
 * Snail Mail - The Pageant - Fri, Dec 10
 
