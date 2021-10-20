@@ -25,7 +25,7 @@ I still go to a lot of concerts, here are the upcoming ones, and a promise: if y
 _UPCOMING_
 
 * Josh Rouse (solo) - Off Broadway - Thu, Oct 21
-
+* Nothing w/Frankie Rose, Enumclaw - Duck Room - Sat, Oct 23 *
 * Planet Booty - Red Flag - Tue, Nov 2
 * Lucero w/Morgan Wade - Old Rock House - Thu, Nov 4
 * Soccer Mommy - Delmar Hall - Tue, Nov 9
@@ -33,7 +33,6 @@ _UPCOMING_
 * Lilly Hiatt and Lydia Loveless - Off Broadway - Sat, Nov 13 *
 * Julien Baker w/DEHD, Katie Malco - Delmar Hall - Tue, Nov 16
 * Bad Religion & Alkaline Trio w/War On Women - The Pageant - Wed, Nov 17
-
 * CHVRCHES w/Donna Missai - The Pageant - Mon, Dec 6
 * Snail Mail - The Pageant - Fri, Dec 10
 
