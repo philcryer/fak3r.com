@@ -34,7 +34,7 @@ _UPCOMING_
 * Julien Baker w/DEHD, Katie Malco - Delmar Hall - Tue, Nov 16
 * Bad Religion & Alkaline Trio w/War On Women - The Pageant - Wed, Nov 17
 * CHVRCHES w/Donna Missai - The Pageant - Mon, Dec 6
-* Snail Mail - The Pageant - Fri, Dec 10
+* Snail Mail - The Pageant - Fri, Dec 10 
 
 ## 2022
 
