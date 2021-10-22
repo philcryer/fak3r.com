@@ -33,6 +33,7 @@ _UPCOMING_
 * Lilly Hiatt and Lydia Loveless - Off Broadway - Sat, Nov 13 *
 * Julien Baker w/DEHD, Katie Malco - Delmar Hall - Tue, Nov 16
 * Bad Religion & Alkaline Trio w/War On Women - The Pageant - Wed, Nov 17
+* Silversun Pickups w/Zella Day - Pageant - Thu, Nov 18
 * CHVRCHES w/Donna Missai - The Pageant - Mon, Dec 6
 * Snail Mail - The Pageant - Fri, Dec 10
 
