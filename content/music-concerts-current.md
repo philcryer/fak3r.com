@@ -31,6 +31,7 @@ _UPCOMING_
 * The Lemonheads w/Soft Kill, Heyrocco - Red Flag - Fri, Nov 12
 * Lilly Hiatt and Lydia Loveless - Off Broadway - Sat, Nov 13 *
 * Julien Baker w/DEHD, Katie Malco - Delmar Hall - Tue, Nov 16
+* Cloud Nothings w/Mourning [A] BLKstar - Old Rock House - Tue, Nov 16 *
 * Teenage Bottlerocket w/The Last Gang (US), Tightwire - recordBar - Tue, Nov 16 (KANSAS CITY) *
 * Bad Religion & Alkaline Trio w/War On Women - The Pageant - Wed, Nov 17
 * Silversun Pickups w/Zella Day - Pageant - Thu, Nov 18
@@ -41,7 +42,7 @@ _UPCOMING_
 ## 2022
 
 * Lucinda Williams - The Pageant - Thu, Jan 13
-* The Black Angels w/The Vacant Lots - Delmar Hall - Tue, Feb 8 *
+* The Black Angels w/The Vacant Lots - Delmar Hall - Tue, Feb 8
 * Sleigh Bells - Red Flag - Feb 11 *
 * Hiss Golden Messenger - Off Broadway - Tue, Mar 8 *
 * Sunflower Bean - Off Broadway - Sat, Mar 12 *
