@@ -49,7 +49,7 @@ _UPCOMING_
 * The Dollyrots w/The Haddonfields - Old Rock House - Mar 16 *
 * Circle Jerks w/7 Seconds, Negative Approach - Red Flag - Mar 22 *
 * The Flaming Lips - The Pageant - Mon, Apr 4
+* Valerie June - Delmar Hall - Sun, May 22
 * Bikini Kill w/Hurry Up - Marathon Music Works - Thu, Jun 30 (NASHVILLE)
 * Dinosaur Jr - The Pageant - Fri, Sep 23 *
 * Agent Orange - Red Flag - Wed, Sep 28 *
-
