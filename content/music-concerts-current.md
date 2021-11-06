@@ -22,17 +22,15 @@ I still go to a lot of concerts, here are the upcoming ones, and a promise: if y
 * Teenage Bottlerockets w/The Haddonfields - Off Broadway - Sat, Oct 16
 * Frank Turner w/Nathan Gray - Delmar Hall - Sun, Oct 17
 * Josh Rouse (solo) - Off Broadway - Thu, Oct 21
+* Planet Booty - Red Flag - Tue, Nov 2
+* Lucero w/Morgan Wade - Old Rock House - Thu, Nov 4
 
 _UPCOMING_
 
-* Planet Booty - Red Flag - Tue, Nov 2
-* Lucero w/Morgan Wade - Old Rock House - Thu, Nov 4
 * Soccer Mommy w/Alexalone - Delmar Hall - Tue, Nov 9
 * The Lemonheads w/Soft Kill, Heyrocco - Red Flag - Fri, Nov 12
 * Lilly Hiatt and Lydia Loveless - Off Broadway - Sat, Nov 13 *
-* Julien Baker w/DEHD, Katie Malco - Delmar Hall - Tue, Nov 16
-* Cloud Nothings w/Mourning [A] BLKstar - Old Rock House - Tue, Nov 16 *
-* Teenage Bottlerocket w/The Last Gang (US), Tightwire - recordBar - Tue, Nov 16 (KANSAS CITY) *
+* Teenage Bottlerocket w/The Last Gang (US), Tightwire - recordBar - Tue, Nov 16 (KANSAS CITY)
 * Bad Religion & Alkaline Trio w/War On Women - The Pageant - Wed, Nov 17
 * Silversun Pickups w/Zella Day - Pageant - Thu, Nov 18
 * Jason Isbell and the 400 Unit w/Strand of Oaks - Stifel Theatre - Tue, Nov 30
