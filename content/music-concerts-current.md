@@ -24,7 +24,7 @@ I still go to a lot of concerts, here are the upcoming ones, and a promise: if y
 * Josh Rouse (solo) - Off Broadway - Thu, Oct 21
 * Planet Booty - Red Flag - Tue, Nov 2
 * Lucero w/Morgan Wade - Old Rock House - Thu, Nov 4
-* The Lemonheads w/Soft Kill, Heyrocco - Red Flag - Fri, Nov 12
+* The Lemonheads w/Heyrocco, The Haddonfields - Red Flag - Fri, Nov 12
 * Lilly Hiatt and Lydia Loveless - Off Broadway - Sat, Nov 13
 
 _UPCOMING_
