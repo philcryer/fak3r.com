@@ -26,15 +26,14 @@ I still go to a lot of concerts, here are the upcoming ones, and a promise: if y
 * Lucero w/Morgan Wade - Old Rock House - Thu, Nov 4
 * The Lemonheads w/Heyrocco, The Haddonfields - Red Flag - Fri, Nov 12
 * Lilly Hiatt and Lydia Loveless - Off Broadway - Sat, Nov 13
+* Teenage Bottlerocket w/The Last Gang (US), Tightwire - recordBar - Tue, Nov 16 (KANSAS CITY)
+* Alkaline Trio w/War On Women - The Pageant - Wed, Nov 17
+* Silversun Pickups w/Zella Day - Pageant - Thu, Nov 18
 
 _UPCOMING_
 
-* Teenage Bottlerocket w/The Last Gang (US), Tightwire - recordBar - Tue, Nov 16 (KANSAS CITY)
-* Bad Religion & Alkaline Trio w/War On Women - The Pageant - Wed, Nov 17
-* Silversun Pickups w/Zella Day - Pageant - Thu, Nov 18
 * Jason Isbell and the 400 Unit w/Strand of Oaks - Stifel Theatre - Tue, Nov 30
 * CHVRCHES w/Donna Missai - The Pageant - Mon, Dec 6
-* Snail Mail w/Spencer, Hotline TNT - The Pageant - Fri, Dec 10
 
 ## 2022
 
