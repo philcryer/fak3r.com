@@ -40,6 +40,7 @@ _UPCOMING_
 * Lucinda Williams - The Pageant - Thu, Jan 13
 * The Black Angels w/The Vacant Lots - Delmar Hall - Tue, Feb 8
 * Sleigh Bells - Red Flag - Feb 11 *
+* Parquet Courts w/Mdou Moctar - The Pageant - Sat, Mar 5
 * Hiss Golden Messenger - Off Broadway - Tue, Mar 8 *
 * Sunflower Bean - Off Broadway - Sat, Mar 12 *
 * The Dollyrots w/The Haddonfields - Old Rock House - Mar 16 *
