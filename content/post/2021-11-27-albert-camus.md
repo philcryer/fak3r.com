@@ -5,9 +5,9 @@ Tags: ["health", rights", "mental-health", "solitude"]
 Categories: ["quotes"]
 ---
 
-> “Opt for privacy and solitude. That doesn’t make you antisocial or cause you to reject the rest of the world. But you need to breathe. And you need to be.”_ ― Albert Camus, Notebooks 1951–1959
+> “Opt for privacy and solitude. That doesn’t make you antisocial or cause you to reject the rest of the world. But you need to breathe. And you need to be.” ― Albert Camus, Notebooks 1951–1959
 
-<div align="center"><img src="2021/camus.jpg" alt="Albert Camus"></div>
+<div align="center"><img src="/2021/camus.jpg" alt="Albert Camus"></div>
 
 Obligitory music reference: 
 

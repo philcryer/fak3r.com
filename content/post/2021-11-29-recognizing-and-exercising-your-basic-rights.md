@@ -5,11 +5,11 @@ Tags: ["rights", "mental-health", "therapy"]
 Categories: ["health"] 
 ---
 
-During therapy I found this 'Personal Bill of Rights' and I've focused on it as I've gone through a lot of recent changes. This content is not mine, and is copied from [The Anxiety & Phobia Workbook](https://psychcentralreviews.com/2016/the-anxiety-phobia-workbook/) by Edmund J. Bourne. It has, and is, helping me, I hope it's useful for you too.
+During therapy I found this 'Personal Bill of Rights' and I've focused on it as I've gone through a lot of recent changes. This content is not mine, and is copied from [The Anxiety & Phobia Workbook](https://www.amazon.com/Anxiety-Phobia-Workbook-Edmund-Bourne/dp/1626252157) by Edmund J. Bourne. It has, and is, helping me, I hope it's useful for you too.
 
 <!--more-->
 
-As adult human beings we all have certain basic rights. Often, though, we have either forgotten them or else as children we were never taught to believe in them. Developing assertiveness involves recognizing that you, just as much as anyone else, have a right to all of the things listed under the Personal Bill of Rights, beginning on this page. Assertive-ness also involves taking responsibility to exercise these rights in situations where they are threatened or infringed upon. Read through the Personal Bill of Rights, reflecting on your willingness to believe in and exercise each one. 
+> As adult human beings we all have certain basic rights. Often, though, we have either forgotten them or else as children we were never taught to believe in them. Developing assertiveness involves recognizing that you, just as much as anyone else, have a right to all of the things listed under the Personal Bill of Rights, beginning on this page. Assertive-ness also involves taking responsibility to exercise these rights in situations where they are threatened or infringed upon. Read through the Personal Bill of Rights, reflecting on your willingness to believe in and exercise each one. 
 
 ## Personal Bill of Rights
 
