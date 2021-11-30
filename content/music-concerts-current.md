@@ -38,6 +38,7 @@ _UPCOMING_
 ## 2022
 
 * Lucinda Williams - The Pageant - Thu, Jan 13
+* Radkey - Red Flag - Fri, Jan 14 * 
 * The Black Angels w/The Vacant Lots - Delmar Hall - Tue, Feb 8
 * Sleigh Bells - Red Flag - Feb 11 *
 * Parquet Courts w/Mdou Moctar - The Pageant - Sat, Mar 5
