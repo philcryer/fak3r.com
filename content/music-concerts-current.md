@@ -29,10 +29,10 @@ I still go to a lot of concerts, here are the upcoming ones, and a promise: if y
 * Teenage Bottlerocket w/The Last Gang (US), Tightwire - recordBar - Tue, Nov 16 (KANSAS CITY)
 * Alkaline Trio w/War On Women - The Pageant - Wed, Nov 17
 * Silversun Pickups w/Zella Day - Pageant - Thu, Nov 18
+* Jason Isbell and the 400 Unit w/Strand of Oaks - Stifel Theatre - Tue, Nov 30
 
 _UPCOMING_
 
-* Jason Isbell and the 400 Unit w/Strand of Oaks - Stifel Theatre - Tue, Nov 30
 * CHVRCHES w/Donna Missai - The Pageant - Mon, Dec 6
 
 ## 2022
