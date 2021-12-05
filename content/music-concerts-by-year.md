@@ -6,6 +6,28 @@ nodate = true
 nopaging = true
 +++
 
+## 2021
+
+* American Aquarium w/Morgan Wade - Delmar Hall - Web, Jul 14
+* Phoebe Bridgers w/Bartees Strange - Chesterfield Amphitheater - Fri, Sep 3
+* Senses Fail w/Hawthorne Heights, The Bombpops - Pop's Concert Venue - Sun, Sep 12
+* The Get Up Kids w/The Casket Lottery - Red Flag - Sat, Sep 25
+* Drive-By Truckers w/Buffalo Nichols - The Pageant - Sat, Oct 2
+* Deep Sea Diver - Angard Arts Hotel - Sun, Oct 03
+* IDLES w/Gustaf - The Riviera Theatre - Fri, Oct 8 (CHICAGO)
+* Teenage Bottlerockets w/The Haddonfields - Off Broadway - Sat, Oct 16
+* Frank Turner w/Nathan Gray - Delmar Hall - Sun, Oct 17
+* Josh Rouse (solo) - Off Broadway - Thu, Oct 21
+* Planet Booty - Red Flag - Tue, Nov 2
+* Lucero w/Morgan Wade - Old Rock House - Thu, Nov 4
+* The Lemonheads w/Heyrocco, The Haddonfields - Red Flag - Fri, Nov 12
+* Lilly Hiatt and Lydia Loveless - Off Broadway - Sat, Nov 13
+* Teenage Bottlerocket w/The Last Gang (US), Tightwire - recordBar - Tue, Nov 16 (KANSAS CITY)
+* Alkaline Trio w/War On Women - The Pageant - Wed, Nov 17
+* Silversun Pickups w/Zella Day - Pageant - Thu, Nov 18
+* Jason Isbell and the 400 Unit w/Strand of Oaks - Stifel Theatre - Tue, Nov 30
+* CHVRCHES w/Donna Missai - The Pageant - Mon, Dec 6
+
 ## 2020 
 
 * Joseph w/Deep Sea Diver - Delmar Hall - Wed, Feb 12
