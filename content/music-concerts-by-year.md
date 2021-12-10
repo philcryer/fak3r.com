@@ -27,6 +27,7 @@ nopaging = true
 * Silversun Pickups w/Zella Day - Pageant - Thu, Nov 18
 * Jason Isbell and the 400 Unit w/Strand of Oaks - Stifel Theatre - Tue, Nov 30
 * CHVRCHES w/Donna Missai - The Pageant - Mon, Dec 6
+* Katie Pruitt w/Tre Burt - Duck Room - Sat, Dec 11
 
 ## 2020 
 
