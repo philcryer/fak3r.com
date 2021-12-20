@@ -24,7 +24,8 @@ I still go to a lot of concerts, here are the upcoming ones, and a promise: if y
 * Circle Jerks w/7 Seconds, Negative Approach - Red Flag - Mar 22 *
 * Nation of Language w/Ducks ltd. - Off Broadway - Sat Apr 2 *
 * The Flaming Lips - The Pageant - Mon, Apr 4
-* The English Beat - Delmar Hall - Fri, April 8
+* The English Beat - Delmar Hall - Fri, Apr 8
+* Screaming Females w/Ghosh - Off Broadway - Mon, Apr 26 *
 * Valerie June - Delmar Hall - Sun, May 22
 * Bikini Kill w/Hurry Up - Marathon Music Works - Thu, Jun 30 (NASHVILLE)
 * Snail Mail - The Pageant - Sep 3
