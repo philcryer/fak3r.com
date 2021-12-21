@@ -13,7 +13,7 @@ I still go to a lot of concerts, here are the upcoming ones, and a promise: if y
 ## 2022
 
 * Lucinda Williams - The Pageant - Thu, Jan 13
-* Radkey - Red Flag - Fri, Jan 14 * 
+* Radkey - Red Flag - Fri, Jan 14 
 * Diet Cig - Off Broadway - Thu, Feb 3 *
 * The Black Angels w/The Vacant Lots - Delmar Hall - Tue, Feb 8
 * Sleigh Bells - Red Flag - Feb 11 *
