@@ -28,6 +28,7 @@ nopaging = true
 * Jason Isbell and the 400 Unit w/Strand of Oaks - Stifel Theatre - Tue, Nov 30
 * CHVRCHES w/Donna Missai - The Pageant - Mon, Dec 6
 * Katie Pruitt w/Tre Burt - Duck Room - Sat, Dec 11
+* Pokey LaFarge (solo) - Off Broadway - Thur, Dec 30
 
 ## 2020 
 
