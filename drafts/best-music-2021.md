@@ -1,6 +1,11 @@
+Dry Cleaning "New Long Leg"
+
+Blankenberge "Everything"
+
 
 Valerie June – The Moon and Stars: Prescriptions for Dreamers 
 
+Fuzz "Levitation Sessions (Live)"
 
 King Gizzard & The Lizard Wizard – L.W.
 
@@ -8,9 +13,6 @@ Viagra Boys – Welfare Jazz
 
 Screen Violence by Chvrches
 
-Dry Cleaning "New Long Leg"
-
-Blankenberge "Everything"
 
 Nick Cave & Warren Ellis - CARNAGE
 
