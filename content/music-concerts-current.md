@@ -12,6 +12,7 @@ I still go to a lot of concerts, here are the upcoming ones, and a promise: if y
 
 ## 2022
 
+* The Bad Plus - Jazz STL - Sat, Jan 8 or Sun, Jan 9 *
 * Lucinda Williams - The Pageant - Thu, Jan 13
 * Radkey - Red Flag - Fri, Jan 14 
 * Jeff Rosenstock - Delmar Hall - Sat, Jan 22
