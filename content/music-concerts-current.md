@@ -13,9 +13,7 @@ I still go to a lot of concerts, here are the upcoming ones, and a promise: if y
 ## 2022
 
 * The Bad Plus - Jazz STL - Sat, Jan 8 or Sun, Jan 9 *
-* Lucinda Williams - The Pageant - Thu, Jan 13
 * Radkey - Red Flag - Fri, Jan 14 
-* Jeff Rosenstock - Delmar Hall - Sat, Jan 22 (postponed till June, tba)
 * Diet Cig - Off Broadway - Thu, Feb 3 *
 * The Black Angels w/The Vacant Lots - Delmar Hall - Tue, Feb 8
 * Sleigh Bells - Red Flag - Feb 11 *
@@ -28,8 +26,10 @@ I still go to a lot of concerts, here are the upcoming ones, and a promise: if y
 * Nation of Language w/Ducks ltd. - Off Broadway - Sat Apr 2 *
 * The Flaming Lips - The Pageant - Mon, Apr 4
 * The English Beat - Delmar Hall - Fri, Apr 8
+* Lucinda Williams - The Pageant - Fri, Apr 15 (rescheduled from Thu, Jan 13)
 * Screaming Females w/GHÖSH - Off Broadway - Mon, Apr 26
 * Valerie June - Delmar Hall - Sun, May 22
+* Jeff Rosenstock - Delmar Hall - postponed to June, tba - (reschudled from Sat, Jan 22) 
 * Bikini Kill w/Hurry Up - Marathon Music Works - Thu, Jun 30 (NASHVILLE)
 * Snail Mail - The Pageant - Sep 3
 * Dinosaur Jr - The Pageant - Fri, Sep 23 *
