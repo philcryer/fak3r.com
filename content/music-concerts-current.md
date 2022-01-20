@@ -13,9 +13,10 @@ I still go to a lot of concerts, here are the upcoming ones, and a promise: if y
 ## 2022
 
 * Diet Cig - Off Broadway - Thu, Feb 3 *
-* The Black Angels w/The Vacant Lots - Delmar Hall - Tue, Feb 8
+* The Black Angels w/The Vacant Lots - Delmar Hall - Tue, Feb 8 (postponed to TBA)
 * Sleigh Bells - Red Flag - Feb 11 *
 * Parquet Courts w/Mdou Moctar - The Pageant - Sat, Mar 5
+* Ty Segall Solo Tour w/Charles Moothart - Off Broadway - Sun, Mar 6
 * Hiss Golden Messenger - Off Broadway - Tue, Mar 8 *
 * Radkey - Red Flag - Fri, Mar 11 (rescheduled from Fri, Jan 14) 
 * Sunflower Bean - Off Broadway - Sat, Mar 12 *
