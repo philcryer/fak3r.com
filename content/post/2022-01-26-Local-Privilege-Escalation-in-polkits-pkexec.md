@@ -29,6 +29,14 @@ While this is bad, here's a quick workaround, remove the sticky bit from the bin
 chmod 755 /usr/bin/pkexec
 ```
 
+## Cleanup
+
+To remove the downloaded, and generated, code:
+
+```
+rm -rf a.out blasty-vs-pkexec.c GCONV_PATH\=. lol payload.*
+```
+
 ## Code
 
 In case the C code is pulled, here's it is, again, I grabbed it from [haxx.in](https://seclists.org/oss-sec/2022/q1/90)
