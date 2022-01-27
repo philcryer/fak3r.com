@@ -21,6 +21,14 @@ uid=0(root) gid=0(root) groups=0(root),27(sudo),1000(fak3r)
 # 
 ```
 
+## Workaround fix (temporary)
+
+While this is bad, here's a quick workaround, remove the sticky bit from the binary - it's certainly untested, and will be null once a patch is released:
+
+```
+chmod 755 /usr/bin/pkexec
+```
+
 ## Code
 
 In case the C code is pulled, here's it is, again, I grabbed it from [haxx.in](https://seclists.org/oss-sec/2022/q1/90)
