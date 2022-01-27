@@ -39,7 +39,7 @@ rm -rf pkexec-poc blasty-vs-pkexec.c GCONV_PATH\=. lol payload.*
 
 ## Code
 
-In case the C code is pulled, here's it is, again, I grabbed it from [haxx.in](https://seclists.org/oss-sec/2022/q1/90)
+In case the C code is pulled, here's it is, again, I grabbed it from [haxx.in](https://haxx.in/files/blasty-vs-pkexec.c).
 
 ```
 /*
