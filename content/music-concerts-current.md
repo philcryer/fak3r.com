@@ -12,7 +12,6 @@ I still go to a lot of concerts, here are the upcoming ones, and a promise: if y
 
 ## 2022
 
-* Diet Cig - Off Broadway - Thu, Feb 3 *
 * The Black Angels w/The Vacant Lots - Delmar Hall - Tue, Feb 8 (postponed to TBA)
 * Sleigh Bells - Red Flag - Feb 11 *
 * Parquet Courts w/Mdou Moctar - The Pageant - Sat, Mar 5
@@ -28,7 +27,7 @@ I still go to a lot of concerts, here are the upcoming ones, and a promise: if y
 * The English Beat - Delmar Hall - Fri, Apr 8
 * Girl Talk at The Pageant - Fri, Apr 8 *
 * Lucinda Williams - The Pageant - Fri, Apr 15 (rescheduled from Thu, Jan 13)
-* Screaming Females w/GHÖSH - Off Broadway - Mon, Apr 26
+* Screaming Females w/Catbite, GHÖSH - Off Broadway - Mon, Apr 26
 * Valerie June - Delmar Hall - Sun, May 22
 * Jeff Rosenstock - Delmar Hall - postponed to June, tba - (reschudled from Sat, Jan 22) 
 * Bikini Kill w/Hurry Up - Marathon Music Works - Thu, Jun 30 (NASHVILLE)
