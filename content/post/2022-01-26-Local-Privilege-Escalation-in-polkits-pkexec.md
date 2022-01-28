@@ -1,5 +1,5 @@
 ---
-title: "Local-Privilege-Escalation-in-polkits-pkexec"
+title: "Local Privilege Escalation in polkits pkexec"
 date: "2022-01-26T06:21:12-05:00"
 Tags: ["vuln", "cve"]
 Categories: ["security"] 
