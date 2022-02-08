@@ -12,8 +12,6 @@ I still go to a lot of concerts, here are the upcoming ones, and a promise: if y
 
 ## 2022
 
-* The Black Angels w/The Vacant Lots - Delmar Hall - Tue, Feb 8 (postponed to TBA)
-* Sleigh Bells - Red Flag - Feb 11 *
 * Parquet Courts w/Mdou Moctar - The Pageant - Sat, Mar 5
 * Ty Segall Solo Tour w/Charles Moothart - Off Broadway - Sun, Mar 6
 * Hiss Golden Messenger - Off Broadway - Tue, Mar 8 *
@@ -31,6 +29,12 @@ I still go to a lot of concerts, here are the upcoming ones, and a promise: if y
 * Valerie June - Delmar Hall - Sun, May 22
 * Jeff Rosenstock - Delmar Hall - postponed to June, tba - (reschudled from Sat, Jan 22) 
 * Bikini Kill w/Hurry Up - Marathon Music Works - Thu, Jun 30 (NASHVILLE)
+* IDLES - The Truman - Fri, Sept 2 (KANSAS CITY) *
 * Snail Mail - The Pageant - Sep 3
 * Dinosaur Jr - The Pageant - Fri, Sep 23 *
 * Agent Orange - Red Flag - Wed, Sep 28 *
+
+### Postponed, new date TBA
+
+* The Black Angels w/The Vacant Lots - Delmar Hall - Tue, Feb 8
+* Sleigh Bells - Red Flag - Feb 11 *
