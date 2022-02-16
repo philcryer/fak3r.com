@@ -140,7 +140,7 @@ From <a href="https://www.top7albums.com/">top7albums.com</a>
 <li>Yeah, Yeah, Yeahs "Fever to Tell"</li>
 </ul>
 
-## 2010s to the present
+## 2010s
 
 <ul>
 <li>Arcade Fire "The Suburbs"</li>
@@ -157,4 +157,20 @@ From <a href="https://www.top7albums.com/">top7albums.com</a>
 <li>Sharks "The Joys of Living 2008-2010"</li>
 <li>Spiritualized "Sweet Heart Sweet Light"</li>
 <li>Swearin' "Swearin'"</li>
+</ul>
+
+## 2020s to the present
+<ul>
+<li>Phoebe Bridges “Punisher”</li>
+<li>Nick Cave & The Bad Seeds “Idiot Prayer - Nick Cave Alone at Alexandra Palace”</li>
+<li>Dry Cleaning “New Long Leg”</li>
+<li>Fuzz “Levitation Sessions (Live)”</li>
+<li>IDLES “Ultra Mono”</li>
+<li>Kevin Morby “Sundowner”</li>
+<li>The Lawrence Arms “Skeleton Coast”</li>
+<li>Shifting “It Was Good”</li>
+<li>Teenage Bottlerocket “Sick Sesh”</li>
+<li>Tycho “Simulcast”</li>
+<li>Waxahatchee “Saint Cloud”</li>
+<li>Valerie June “The Moon and Stars: Prescriptions for Dreamers"</li>
 </ul>
