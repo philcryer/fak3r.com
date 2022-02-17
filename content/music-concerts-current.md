@@ -27,6 +27,7 @@ I still go to a lot of concerts, here are the upcoming ones, and a promise: if y
 * Lucinda Williams - The Pageant - Fri, Apr 15
 * Rick Maguire (from Pile) - TBA - Wed, Apr 20 *
 * Screaming Females w/Catbite, GHÖSH - Off Broadway - Mon, Apr 26
+* Mudhoney w/Bassamp and Dano - Off Broadway - Thu May 5
 * Valerie June - Delmar Hall - Sun, May 22
 * Bikini Kill w/Hurry Up - Marathon Music Works - Thu, Jun 30 (NASHVILLE)
 * IDLES - The Truman - Fri, Sept 2 (KANSAS CITY)
