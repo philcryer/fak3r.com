@@ -105,7 +105,6 @@ From <a href="https://www.top7albums.com/">top7albums.com</a>
 <li>Fugazi "Repeater"</li>
 <li>Guided by Voices "Alien Lanes"</li>
 <li>Guided by Voices "Bee Thousand"</li>
-<li>Modest Mouse "The Moon and Antartica"</li>
 <li>Mogwai "Young Team"</li>
 <li>Neutral Milk Hotel "In An Airplane Over The Sea"</li>
 <li>PJ Harvey "Is This Desire?"</li>
@@ -130,6 +129,7 @@ From <a href="https://www.top7albums.com/">top7albums.com</a>
 <li>Interpol "Turn on the Bright Lights"</li>
 <li>PJ Harvey "Stories From The City, Stories From The Sea"</li>
 <li>The Lucksmiths "Warmer Corners"</li>
+<li>Modest Mouse "The Moon and Antartica"</li>
 <li>Radiohead "Kid A"</li>
 <li>Radiohead "Hail to the Thief"</li>
 <li>The Shins "Chutes Too Narrow by The Shins"</li>
