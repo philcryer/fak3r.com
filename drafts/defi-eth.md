@@ -6,7 +6,7 @@ Categories: ["crypto-currency"]
 ---
 Recently I've been using this method to use decentralized finance (DEfi) to earn liquidity mining income in the form of ETH. Once this is earned, I can convert ETH -> USDT (Tether) which will increase the amount of ETH you can generate next time. I can also transfer any USDT to Coinbase to withdraw my earnings. Read the FAQ to understand what we're doing, then follow the steps to setup your own account and start earning immediately on our team immedately. We'll show you the way.
 
-<div align="center">*"If you don't find a way to make money while you sleep, you will work until you die."* Warren Buffet</div>
+> "If you don't find a way to make money while you sleep, you will work until you die." *Warren Buffet*
 
 ## What is decentralized finance (DEfi)?
 
