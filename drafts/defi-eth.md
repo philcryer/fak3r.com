@@ -6,12 +6,11 @@ Categories: ["crypto-currency"]
 ---
 Recently I've been using this method to use decentralized finance (DEfi) to earn liquidity mining income in the form of ETH. Once this is earned, I can convert ETH -> USDT (Tether) which will increase the amount of ETH you can generate next time. I can also transfer any USDT to Coinbase to withdraw my earnings. Read the FAQ to understand what we're doing, then follow the steps to setup your own account and start earning immediately on our team immedately. We'll show you the way.
 
-<div align="center"><img src="../static/2022/cefi-defi.png"></div>
-
 > "If you don't find a way to make money while you sleep, you will work until you die." *Warren Buffet*
 
 ## What is decentralized finance (DEfi)?
 
+<div align="center"><img src="../static/2022/cefi-defi.png"></div>
 The DEfi project is a decentralized finance developed by blockchain technology, which is different from the previous finance. Previous finance required the intervention of financial companies. Decentralized finance is built on the blockchain and relies on contracts only.
 
 Traditional centralized finance has to use tools such as exchanges, banks, or financial companies to complete financial transactions, and it will be subject to perceived intervention. DEfi is a decentralized financial product, which is built on the blockchain and cannot be interfered with by human beings, and all of them are run by smart contracts. It is truly fair, just and open!
