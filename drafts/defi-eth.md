@@ -32,6 +32,25 @@ You can convert the currency generated every day into USDT, and then initiate a 
 
 ## What is the yield percentage rate?
 
+The following covers how much money you can make in ETH, depending on how much USDT you have in your wallet. 
+
+| Amount of USDT in wallet | Possible daily % gain |
+| ------------------------ | ------------------------------ |
+| 100USDT-10000USDT | yield Rate≈1.6%~2.0% |
+| 10000USDT-50000USDT | yield Rate≈2.0%~2.4% |
+| 50000USDT-100000USDT | yield Rate≈2.4%~2.8% |
+| 100000USDT-200000USDT | yield Rate≈2.8%~3.2% |
+| 200000USDT-500000USDT | yield Rate≈3.2%~3.6% |
+| 500000USDT-1000000USDT | yield Rate≈4.0%~5.0% |
+| 1000000USDT-9000000USDT | yield Rate≈5.0%~5.5% |
+
+_NOTICE: there is no profit below 100USDT_
+
+| Syntax      | Description |
+| ----------- | ----------- |
+| Header      | Title       |
+| Paragraph   | Text        |
+
 100USDT-10000USDT yield Rate≈1.6%~2.0%, 10000USDT-50000USDT yield Rate≈2.0%~2.4%, 50000USDT-100000USDT yield Rate≈2.4%~2.8%, 100000USDT-200000USDT yield Rate≈2.8%~3.2%, 200000USDT-500000USDT yield Rate≈3.2%~3.6%, 500000USDT-1000000USDT yield Rate≈4.0%~5.0%, 1000000USDT-9000000USDT yield Rate≈5.0%~5.5%, ,there is no profit below 100USDT.
 
 ## What are the extra gains?
