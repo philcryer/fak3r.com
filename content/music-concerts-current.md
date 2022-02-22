@@ -17,7 +17,7 @@ I still go to a lot of concerts, here are the upcoming ones, and a promise: if y
 * Hiss Golden Messenger - Off Broadway - Tue, Mar 8
 * Radkey - Red Flag - Fri, Mar 11 (rescheduled from Fri, Jan 14) 
 * Sunflower Bean - Off Broadway - Sat, Mar 12 *
-* The Dollyrots w/The Haddonfields - Old Rock House - Mar 16 *
+* The Dollyrots w/The Haddonfields - Old Rock House - Mar 16
 * Circle Jerks w/7 Seconds, Negative Approach - Red Flag - Mar 22 *
 * Heart Attack Man w/Covey, Arm's Length, Blood Root - Off Broadway - Fri, Apr 1 *
 * Nation of Language w/Ducks ltd. - Off Broadway - Sat Apr 2 *
