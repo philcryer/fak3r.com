@@ -51,11 +51,12 @@ _NOTICE: there is no profit below 100USDT_
 
 The following shows how much income in ETH you can generate, with certain amounts of USDT in your wallet. 
 
-| Example wallet | Daily potential earnings |
-| -------------- | ------------------------ |
-| 0.02 ETH / 2,500.00  USDT | $60 in ETH |
-| 0.02 ETH / 5,000.00  USDT | $120 in ETH |
-| 0.02 ETH / 10,000.00  USDT | $240 in ETH |
+| Example wallet funds | Potential daily earning | Potential monthly earning | Potential yearly earning |
+| -------------------- | ----------------------- | ------------------------- | ------------------------ |
+| 0.02 ETH / 2,500 USDT | $60 ETH | $1860 | $21,900 |
+| 0.02 ETH / 5,000 USDT | $120 ETH | $3700 | $43,800 |
+| 0.02 ETH / 10,000 USDT | $240 ETH | $7440 | $87,600 |
+| 0.02 ETH / 20,000 USDT | $480 ETH | $14,880| $175,200 |
 
 ## What are the extra gains?
 
