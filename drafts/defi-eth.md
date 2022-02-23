@@ -11,9 +11,9 @@ Recently I've been using this method to use decentralized finance (DEfi) to earn
 ## What is decentralized finance (DEfi)?
 
 <div align="center"><img src="../static/2022/cefi-defi.png"></div>
-The DEfi project is a decentralized finance developed by blockchain technology, which is different from the previous finance. Previous finance required the intervention of financial companies. Decentralized finance is built on the blockchain and relies on contracts only.
+While traditional centralized finance (CEfi) has to use tools such as exchanges, banks, or financial companies to complete financial transactions, and it will be subject to perceived intervention. 
 
-Traditional centralized finance has to use tools such as exchanges, banks, or financial companies to complete financial transactions, and it will be subject to perceived intervention. DEfi is a decentralized financial product, which is built on the blockchain and cannot be interfered with by human beings, and all of them are run by smart contracts. It is truly fair, just and open!
+The DEfi project is a decentralized financial product, which is built on the blockchain. So while previous finance (such as CEfi) required the intervention of financial companies, decentralized finance is built on the blockchain and relies on contracts only; so it cannot be interfered with by human beings. It is truly fair, just and open! 
 
 # FAQ
 
@@ -48,6 +48,14 @@ The following covers how much money you can make in ETH, depending on how much U
 | 1000000USDT-9000000USDT | yield Rate≈5.0%~5.5% |
 
 _NOTICE: there is no profit below 100USDT_
+
+The following shows how much income in ETH you can generate, with certain amounts of USDT in your wallet. 
+
+| Example wallet | Daily potential earnings |
+| -------------- | ------------------------ |
+| 0.02 ETH / 2,500.00  USDT | $60 in ETH |
+| 0.02 ETH / 5,000.00  USDT | $120 in ETH |
+| 0.02 ETH / 10,000.00  USDT | $240 in ETH |
 
 ## What are the extra gains?
 
