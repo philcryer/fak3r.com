@@ -82,7 +82,9 @@ Step by step on how to get started to earn using liquidity node mining.
 3) On your phone, open Coinbase Wallet, create a new wallet, backup your passcodes and encrypt those with a password and store it elsewhere (Google Drive recommended)
 <div align="center"><img src="../static/2022/02-cw.png"><br />Create a new public wallet</div>
 4) In the bottom of the Coinbase Wallet app, click the 4 squares logo in the center and open the page [GRT address](https://grt-eth.com/grt_erc/#/)
+
 <div align="center"><img src="../static/2022/03-cw.png"></div>
+
 5) Bookmark the [GRT address](https://grt-eth.com/grt_erc/#/) so it will be saved to your Coinbase Wallet
 
 TODO:
@@ -91,7 +93,6 @@ TODO:
 * buy or convert monies so that you have at least 0.02 ETH
 * buy or convert monies so that you have however much USDT you'd like (see chart above for earnings for differnt amounts)
 
-<div align="center"><img src="../static/2022/01-cw.jpg"></div>
-This is the daily revenue of my mining pool ETH
+<div align="center"><img src="../static/2022/01-cw.jpg">An example of a funded wallet and daily revenue from the mining pool</div>
 
 
