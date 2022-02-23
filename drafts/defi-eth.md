@@ -4,9 +4,11 @@ date: "2022-02-22T02:22:22-05:00"
 Tags: ["mining", "eth", "usdt"]
 Categories: ["crypto-currency"]
 ---
-Recently I've been using this method to use decentralized finance (DEfi) to earn liquidity mining income in the form of ETH. Once this is earned, I can convert ETH -> USDT (Tether) which will increase the amount of ETH you can generate next time. I can also transfer any USDT to Coinbase to withdraw my earnings. Read the FAQ to understand what we're doing, then follow the steps to setup your own account and start earning immediately on our team immedately. We'll show you the way.
-
 > "If you don't find a way to make money while you sleep, you will work until you die." *Warren Buffet*
+
+I have been dealing with crypto-currency for at least 10 years, starting with BitCoin (BTC) mining on USB ASIC sticks in Linux. While that was profitable back then, BTC mining has been far too difficult to make any profit from for years. The easist way to make money in BTC now is to buy it, using dollar cost averaing. That's what I've been doing for years, HODLing BTC, and contributing when I could, but with the value losing over the last year, I knew there had to be a better way to make money with crypto-currency.
+ 
+Recently I've been using decentralized finance (DEfi) to earn liquidity mining income in the form of ETH. Once this is earned, I can convert ETH -> USDT (Tether) which will increase the amount of ETH you can generate next time. I can also transfer any USDT to Coinbase to withdraw my earnings. Read the FAQ to understand what we're doing, then follow the steps to setup your own account and start earning immediately on our team immedately. We'll show you the way.
 
 ## What is decentralized finance (DEfi)?
 
@@ -15,6 +17,11 @@ While traditional centralized finance (CEfi) has to use tools such as exchanges,
 
 The DEfi project is a decentralized financial product, which is built on the blockchain. So while previous finance (such as CEfi) required the intervention of financial companies, decentralized finance is built on the blockchain and relies on contracts only; so it cannot be interfered with by human beings. It is truly fair, just and open! 
 
+## How Coinbase makes it easy to earn yeield with DEfi
+
+A recent post on Coinbase covers [Coinbase makes it easy to earn yield with DeFi](https://blog.coinbase.com/coinbase-makes-it-easy-to-earn-yield-with-defi-bd38156e2715), which goes a long way to explore what we're doing here to earn daily yeilds from ETH mining in DEfi. 
+
+The Coinbase Wallet is the largest and most secure virtual currency wallet in the US. Its DEfi liquidity mining program allows you to mine on it and get a certain amount of ETH per day. With 0.02 ETH in your wallet, you can turn on access to the mining pool's earnings. The money in the wallet does not need to be transferred to anyone or any platform, we can withdraw it freely at any time. The mining pool can automatically get ETH 4 times a day, we can enter the pool to withdraw the earnings to the wallet, the daily earnings are 1.6%-5.5% of the principal (but more on this below).  
 # FAQ
 
 ## What is node mining?
@@ -71,14 +78,20 @@ Please send an email to services@grt-eth.com, we will reply to you as soon as we
 Step by step on how to get started to earn using liquidity node mining. 
 
 1) If you don't have one, create a [Coinbase](https://coinbase.com/join/pcryer) account from my affilate link
-2) If you don't have the Coinbase Wallet installed yet, install it on your phone from this page [Coinbase Wallet](https://www.coinbase.com/wallet)
+2) If you don't have the Coinbase Wallet installed yet, install it on your phone (iPhone or Android) from this page [Coinbase Wallet](https://www.coinbase.com/wallet)
 3) On your phone, open Coinbase Wallet, create a new wallet, backup your passcodes and encrypt those with a password and store it elsewhere (Google Drive recommended)
+<div align="center"><img src="../static/2022/02-cw.png"><br />Create a new public wallet</div>
 4) In the bottom of the Coinbase Wallet app, click the 4 squares logo in the center and open the page [GRT address](https://grt-eth.com/grt_erc/#/)
+<div align="center"><img src="../static/2022/03-cw.png"></div>
 5) Bookmark the [GRT address](https://grt-eth.com/grt_erc/#/) so it will be saved to your Coinbase Wallet
 
 TODO:
-* join group with: c85504
+* join group with: c85504 (or go.cb-w.com/qR0AlHI6xnb)
+* Copy the pool link [go.cb-w.com/qR0AlHI6xnb](go.cb-w.com/qR0AlHI6xnb) and open it in your coinbase wallet
 * buy or convert monies so that you have at least 0.02 ETH
 * buy or convert monies so that you have however much USDT you'd like (see chart above for earnings for differnt amounts)
+
+<div align="center"><img src="../static/2022/01-cw.jpg"></div>
+This is the daily revenue of my mining pool ETH
 
 
