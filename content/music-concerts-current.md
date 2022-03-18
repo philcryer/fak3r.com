@@ -12,13 +12,13 @@ I still go to a lot of concerts, here are the upcoming ones, and a promise: if y
 
 ## 2022
 
-* The Dollyrots w/The Haddonfields - Old Rock House - Mar 16
 * Circle Jerks w/7 Seconds, Negative Approach - Red Flag - Mar 22 *
 * Heart Attack Man w/Covey, Arm's Length, Blood Root - Off Broadway - Fri, Apr 1 *
 * Nation of Language w/Ducks ltd. - Off Broadway - Sat Apr 2 *
 * The Flaming Lips - The Pageant - Mon, Apr 4
 * The English Beat - Delmar Hall - Fri, Apr 8
 * Girl Talk at The Pageant - Fri, Apr 8 *
+* Girl Talk w/Hugh Augustine - The Truman - Sat, Apr 9 (KANSAS CITY) *
 * Lucinda Williams - The Pageant - Fri, Apr 15
 * Rick Maguire (from Pile) - TBA - Wed, Apr 20 *
 * Screaming Females w/Catbite, GHÖSH - Off Broadway - Mon, Apr 26
@@ -43,3 +43,4 @@ I still go to a lot of concerts, here are the upcoming ones, and a promise: if y
 * Ty Segall Solo Tour w/Charles Moothart - Off Broadway - Sun, Mar 6
 * Hiss Golden Messenger - Off Broadway - Tue, Mar 8
 * Radkey - Red Flag - Fri, Mar 11
+* The Dollyrots w/The Haddonfields - Old Rock House - Mar 16
