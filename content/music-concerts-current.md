@@ -19,8 +19,8 @@ I still go to a lot of concerts, here are the upcoming ones, and a promise: if y
 * The English Beat - Delmar Hall - Fri, Apr 8
 * Girl Talk at The Pageant - Fri, Apr 8 *
 * Girl Talk w/Hugh Augustine - The Truman - Sat, Apr 9 (KANSAS CITY) *
+* Bad Cop/Bad Cop - Off Broadway - Mon, Apr 11
 * Lucinda Williams - The Pageant - Fri, Apr 15
-* Rick Maguire (from Pile) - TBA - Wed, Apr 20 *
 * Screaming Females w/Catbite, GHÖSH - Off Broadway - Mon, Apr 26
 * Mudhoney w/Bassamp and Dano - Off Broadway - Thu, May 5
 * The Afghan Whigs - Delmar Hall- Fri, May 20 *
