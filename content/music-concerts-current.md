@@ -12,8 +12,6 @@ I still go to a lot of concerts, here are the upcoming ones, and a promise: if y
 
 ## 2022
 
-* Circle Jerks w/7 Seconds, Negative Approach - Red Flag - Mar 22 *
-* Heart Attack Man w/Covey, Arm's Length, Blood Root - Off Broadway - Fri, Apr 1 *
 * Nation of Language w/Ducks ltd. - Off Broadway - Sat Apr 2 *
 * The Flaming Lips - The Pageant - Mon, Apr 4
 * The English Beat - Delmar Hall - Fri, Apr 8
@@ -21,6 +19,7 @@ I still go to a lot of concerts, here are the upcoming ones, and a promise: if y
 * Girl Talk w/Hugh Augustine - The Truman - Sat, Apr 9 (KANSAS CITY) *
 * Bad Cop/Bad Cop - Off Broadway - Mon, Apr 11
 * Lucinda Williams - The Pageant - Fri, Apr 15
+* Spoon - The Blue Note - Sun, Apr 25 (COLUMBIA) *
 * Screaming Females w/Catbite, GHÖSH - Off Broadway - Mon, Apr 26
 * Mudhoney w/Bassamp and Dano - Off Broadway - Thu, May 5
 * The Afghan Whigs - Delmar Hall- Fri, May 20 *
