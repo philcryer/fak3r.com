@@ -27,6 +27,7 @@ I still go to a lot of concerts, here are the upcoming ones, and a promise: if y
 * Jeff Rosenstock - Delmar Hall - Sat, Jun 18
 * Bikini Kill w/Hurry Up - Marathon Music Works - Thu, Jun 30 (NASHVILLE)
 * The Black Keys w/Band of Horses - Hollywood Casino Amphitheatre - Fri, Jul 15 *
+* Mountain Goats - Off Broadway - Fri, Jul 15 *
 * Sleigh Bells - Red Flag - Fri, Aug 12 *
 * IDLES - The Truman - Fri, Sept 2 (KANSAS CITY)
 * Snail Mail - The Pageant - Sep 3 *
