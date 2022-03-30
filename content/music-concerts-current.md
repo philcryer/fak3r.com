@@ -23,7 +23,7 @@ I still go to a lot of concerts, here are the upcoming ones, and a promise: if y
 * Mudhoney w/Bassamp and Dano - Off Broadway - Thu, May 5
 * The Afghan Whigs - Delmar Hall- Fri, May 20 *
 * Valerie June - Delmar Hall - Sun, May 22
-* Destroy Boys - Off Broadway - Sat, May 28 *
+* Destroy Boys - Off Broadway - Sat, May 28 
 * Jeff Rosenstock - Delmar Hall - Sat, Jun 18
 * Bikini Kill w/Hurry Up - Marathon Music Works - Thu, Jun 30 (NASHVILLE)
 * The Black Keys w/Band of Horses - Hollywood Casino Amphitheatre - Fri, Jul 15 *
@@ -36,7 +36,7 @@ I still go to a lot of concerts, here are the upcoming ones, and a promise: if y
 * Dinosaur Jr - The Pageant - Fri, Sep 23 *
 * Agent Orange - Red Flag - Wed, Sep 28 *
 * Electric Six w/Supersuckers - Red Flag - Sun, Oct 2 *
-* Kevin Morby - Off Broadway - Tue, Oct 11 *
+* Kevin Morby - Off Broadway - Tue, Oct 11
 * The Black Angels w/The Vacant Lots - Delmar Hall - Postponed, new date TBA
 
 ## Past 
