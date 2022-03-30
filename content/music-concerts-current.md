@@ -13,7 +13,7 @@ I still go to a lot of concerts, here are the upcoming ones, and a promise: if y
 ## 2022
 
 * Nation of Language w/Ducks ltd. - Off Broadway - Sat Apr 2 *
-* The Dangerous Summer w/Dialogue and Uncanny Valley - Off Broadway - Thu, Apr 7 *
+* The Dangerous Summer w/Dialogue and Uncanny Valley - Off Broadway - Thu, Apr 7
 * The English Beat - Delmar Hall - Fri, Apr 8
 * Girl Talk w/Hugh Augustine - The Truman - Sat, Apr 9 (KANSAS CITY) *
 * Bad Cop/Bad Cop - Off Broadway - Mon, Apr 11
@@ -23,12 +23,13 @@ I still go to a lot of concerts, here are the upcoming ones, and a promise: if y
 * Mudhoney w/Bassamp and Dano - Off Broadway - Thu, May 5
 * The Afghan Whigs - Delmar Hall- Fri, May 20 *
 * Valerie June - Delmar Hall - Sun, May 22
+* Destroy Boys - Off Broadway - Sat, May 28 *
 * Jeff Rosenstock - Delmar Hall - Sat, Jun 18
 * Bikini Kill w/Hurry Up - Marathon Music Works - Thu, Jun 30 (NASHVILLE)
 * The Black Keys w/Band of Horses - Hollywood Casino Amphitheatre - Fri, Jul 15 *
 * Sleigh Bells - Red Flag - Fri, Aug 12 *
 * IDLES - The Truman - Fri, Sept 2 (KANSAS CITY)
-* Snail Mail - The Pageant - Sep 3
+* Snail Mail - The Pageant - Sep 3 *
 * The National - St Louis Music Park - Sat, Sep 17 *
 * Built To Spill - Red Flag - Mon, Sep 19
 * Dinosaur Jr - The Pageant - Fri, Sep 23 *
