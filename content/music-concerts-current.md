@@ -24,6 +24,7 @@ I still go to a lot of concerts, here are the upcoming ones, and a promise: if y
 * The Afghan Whigs - Delmar Hall- Fri, May 20 *
 * Valerie June - Delmar Hall - Sun, May 22
 * Destroy Boys - Off Broadway - Sat, May 28 
+* Sigur Rós - The Riverside Theater - Wed, Jun 1 (MILWAUKEE)
 * Jeff Rosenstock - Delmar Hall - Sat, Jun 18
 * Bikini Kill w/Hurry Up - Marathon Music Works - Thu, Jun 30 (NASHVILLE)
 * The Black Keys w/Band of Horses - Hollywood Casino Amphitheatre - Fri, Jul 15 *
