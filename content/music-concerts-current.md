@@ -33,6 +33,7 @@ I still go to a lot of concerts, here are the upcoming ones, and a promise: if y
 * Agent Orange - Red Flag - Wed, Sep 28 *
 * Electric Six w/Supersuckers - Red Flag - Sun, Oct 2 *
 * Kevin Morby - Off Broadway - Tue, Oct 11
+* Kevin Morby w/Coco - Knuckleheads (KANSAS CITY) - Thu, Nov 3 *
 * The Black Angels w/The Vacant Lots - Delmar Hall - Postponed, new date TBA
 
 ## Past 
