@@ -25,6 +25,7 @@ I still go to a lot of concerts, here are the upcoming ones, and a promise: if y
 * Mountain Goats - Off Broadway - Fri, Jul 15 *
 * Sleigh Bells - Red Flag - Fri, Aug 12 *
 * The Breeders - Rose Park (COLUMBIA) - Fri, Aug 12 *
+* The Beths w/Rosie Tucker - Duck Room - Aug, 18 *
 * IDLES - The Truman - Fri, Sept 2 (KANSAS CITY)
 * Snail Mail - The Pageant - Sep 3 *
 * The National - St Louis Music Park - Sat, Sep 17 *
