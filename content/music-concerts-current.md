@@ -12,7 +12,6 @@ I still go to a lot of concerts, here are the upcoming ones, and a promise: if y
 
 ## 2022
 
-* Sleaford Mods w/Sorry - Thalia Hall - Wed, 11 May (CHICAGO) *
 * Kevin Devine w/Kississippi, Kayleigh Goldsworthy - Off Broadway - Tue, May 17 *
 * The Afghan Whigs - Delmar Hall- Fri, May 20 *
 * Valerie June - Delmar Hall - Sun, May 22
