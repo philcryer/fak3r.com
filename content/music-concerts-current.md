@@ -12,7 +12,6 @@ I still go to a lot of concerts, here are the upcoming ones, and a promise: if y
 
 ## 2022
 
-* Kevin Devine w/Kississippi, Kayleigh Goldsworthy - Off Broadway - Tue, May 17 *
 * The Afghan Whigs - Delmar Hall- Fri, May 20 *
 * Valerie June - Delmar Hall - Sun, May 22
 * Destroy Boys w/Scowl - Off Broadway - Sat, May 28 
@@ -25,8 +24,9 @@ I still go to a lot of concerts, here are the upcoming ones, and a promise: if y
 * Sleigh Bells - Red Flag - Fri, Aug 12 *
 * The Breeders - Rose Park (COLUMBIA) - Fri, Aug 12 *
 * The Beths w/Rosie Tucker - Duck Room - Aug, 18 *
-* IDLES - The Truman - Fri, Sept 2 (KANSAS CITY)
+* IDLES - The Truman - Fri, Sep 2 (KANSAS CITY)
 * Snail Mail - The Pageant - Sep 3 *
+* Boris w/Nothing - Delmar Hall - Sat, Sep 10
 * The National - St Louis Music Park - Sat, Sep 17 *
 * Built To Spill - Red Flag - Mon, Sep 19
 * Dinosaur Jr - The Pageant - Fri, Sep 23 *
@@ -50,3 +50,4 @@ I still go to a lot of concerts, here are the upcoming ones, and a promise: if y
 * Bad Cop/Bad Cop w/Drakulas, FEA - Off Broadway - Mon, Apr 11
 * Screaming Females w/GHÖSH - Off Broadway - Tue, Apr 26
 * Mudhoney w/Bassamp and Dano - Off Broadway - Thu, May 5
+* Kevin Devine w/Kississippi, Kayleigh Goldsworthy - Off Broadway - Tue, May 17 
