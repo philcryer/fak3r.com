@@ -41,7 +41,7 @@ I still go to a lot of concerts, here are the upcoming ones, and a promise: if y
 
 ## Past 
 
-* Morgan Wade - Delmar Hall - Sun, Jan 23rd
+* Ryan Hurd w/Morgan Wade - Delmar Hall - Sun, Jan 23rd
 * Parquet Courts w/Mdou Moctar - The Pageant - Sat, Mar 5
 * Ty Segall Solo Tour w/Charles Moothart - Off Broadway - Sun, Mar 6
 * Hiss Golden Messenger - Off Broadway - Tue, Mar 8
