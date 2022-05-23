@@ -12,8 +12,6 @@ I still go to a lot of concerts, here are the upcoming ones, and a promise: if y
 
 ## 2022
 
-* The Afghan Whigs - Delmar Hall- Fri, May 20 *
-* Valerie June - Delmar Hall - Sun, May 22
 * Destroy Boys w/Scowl - Off Broadway - Sat, May 28 
 * The Bobby Lees w/Thee Fine Lines, Fight Back Mountain - The Record Space - Sun, May 29
 * Sigur Rós - The Riverside Theater - Wed, Jun 1 (MILWAUKEE)
@@ -34,6 +32,8 @@ I still go to a lot of concerts, here are the upcoming ones, and a promise: if y
 * Dinosaur Jr - The Pageant - Fri, Sep 23 *
 * Agent Orange - Red Flag - Wed, Sep 28 *
 * Electric Six w/Supersuckers - Red Flag - Sun, Oct 2 *
+* The Mission UK w/Chameleons and Theatre of Hate - recordBar - Sun, Oct 2 (KANSAS CITY) *
+* Slothrust - Duck Room - Sat, Oct 08 *
 * Kevin Morby - Off Broadway - Tue, Oct 11
 * Kevin Morby w/Coco - Knuckleheads (KANSAS CITY) - Thu, Nov 3 *
 * Black Lips w/Bloodshot Bill - Duck Room - Sun, Nov 20 *
@@ -53,3 +53,4 @@ I still go to a lot of concerts, here are the upcoming ones, and a promise: if y
 * Screaming Females w/GHÖSH - Off Broadway - Tue, Apr 26
 * Mudhoney w/Bassamp and Dano - Off Broadway - Thu, May 5
 * Kevin Devine w/Kississippi, Kayleigh Goldsworthy - Off Broadway - Tue, May 17 
+* Valerie June w/Rachel Maxann - Delmar Hall - Sun, May 22
