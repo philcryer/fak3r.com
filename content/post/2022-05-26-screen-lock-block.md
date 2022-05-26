@@ -4,14 +4,10 @@ date: "2022-05-26T06:21:12-05:00"
 Tags: ["workaround", "howto"]
 Categories: ["security"] 
 ---
-
+I work in a lot of different environments, and often (always?) the corporate "security" settings on my work laptop are silly. From not being able to delete shortcuts on the desktops, to not changing wallpaper, most things are silly, but sometimes it really effects my productivity. Since I always have more than one system going on my desk, so I can freely look up info on my Linux desktop for example, the laptop locking the screensaver automatically is always annoying. Look, I get why this is needed if you're on site, and hey, when I did go to offices I'd be the one that would reset the browser's homepage or email the team from a co-workers computer if they left it unlocked are are AFK. That's all good fun, but that's not the case anymore, we're WFH and I work in a secure (enough) environment. While browsing Twitter I came across one of my favorite #infosec people, [AlyssaM_InfoSec](https://twitter.com/AlyssaM_InfoSec/) who posted this awesome "PRO TIP": 
 
 ![](/2022/screen_lock_block-00.png)
 
-https://twitter.com/AlyssaM_InfoSec/status/1527058059343941632
-
-👑 Alyssa Miller 🦄 (Speaking @RSAConference)
-@AlyssaM_InfoSec
 PRO TIP: Want to defeat the screen timeout but your IT team blocked you from changing it? Run a power point slide show in Windowed mode and just minimize it out of the way. Works on both Mac and Windows.
 
 You're welcome.
