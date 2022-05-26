@@ -35,14 +35,20 @@ $application.visible = "msoTrue"
 $presentation.SlideShowSettings.Run()
 ```
 
-* Save the file, then run it, either by double clicking on the icon, or in Powershell:
+* Save the file
+
+## Run It
+
+To run it, either double click on the icon, or in PowerShell issue the following commanad:
 
 ```
 . screen_lock_block.ps1
 ```
 
-And that's it, now that PowerPoint is 'presenting' the blank presentation, it will not allow Windows to lock the screen! I've dragged the icon to my Windows taskbar so I just have to click it to turn on the functionality. Of course you could make it part of your startup and then it would always be running, but just understand the security considerations of that.
+Tada! That's it, now that PowerPoint is 'presenting' the blank presentation, it will not allow Windows to lock the screen! I've dragged the icon to my Windows taskbar so I just have to click it to turn on the functionality. Of course you could make it part of your startup and then it would always be running, but just understand the security considerations of that.
 
 ## Summary and Acknowledgements
 
-As always, Twitter, and #infosec Twitter in particular, is so helpful for me when to discover new things. I really appreciate all that  [AlyssaM_InfoSec](https://twitter.com/AlyssaM_InfoSec/) brings to the table, and this tip was simple, but makes a HUGE difference for my workflow. I'd also like to acknowledge my friend Drew who helped me with getting the username to automatically populate itself in the script, the way I did in BASH didn't work here, and the way I figured out how to do it on the commandline was hacky and didn't work in the script, so as always it's who you know, or what you can find when you use DuckDuckGo to search for things!
+This was fun, I took a useful idea and made it simple for others to use. Are there other ways to do this? Probably, but this worked with my use case and my corporate "security" policy. I won't digress about how I wish I could run Linux on my work laptop because it'd be far more secure and fun... but  you know I want to!
+
+As always, Twitter, and #infosec Twitter in particular, is so helpful for me when to discover new things. I really appreciate all that [AlyssaM_InfoSec](https://twitter.com/AlyssaM_InfoSec/) brings to the table, and this tip was simple, but has made a HUGE difference for my workflow. I'd also like to acknowledge my friend Drew who helped me with getting the username to automatically populate itself in the script, the way I did in [GNU Bash](https://www.gnu.org/software/bash/) didn't work here, and the way I figured out how to do it on the commandline was hacky and didn't work in the script, so as always it's who you know, or what you can find when you use DuckDuckGo to search for things!
