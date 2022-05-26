@@ -28,6 +28,13 @@ Let's setup a new PowerPoint presentation and configure it to do what we need.
 * Open Powershell, and use 'vi' to create a new file, or if easier for you, just use 'Notepad.exe' and name it 'screen_lock_block.ps1'. Either way, the contents of the file should look contain these lines:
 
 ```
+<# 
+	.Description
+	Run a PowerPoint presentation in a windowed mode to stop the screen from automatically locking
+	This PRO TIP provided by Alyssa Miller https://twitter.com/AlyssaM_InfoSec/
+	Scripted by fak3r, and presented here https://fak3r.com/2022/05/26/screen-lock-block/
+#>
+
 $pptx = "C:\Users\$ENV:username\Documents\Presentation1.pptx"
 $application = New-Object -ComObject powerpoint.application
 $presentation = $application.Presentations.open($pptx)
