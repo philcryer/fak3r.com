@@ -12,8 +12,6 @@ I still go to a lot of concerts, here are the upcoming ones, and a promise: if y
 
 ## 2022
 
-* Destroy Boys w/Scowl - Off Broadway - Sat, May 28 
-* The Bobby Lees w/Thee Fine Lines, Fight Back Mountain - The Record Space - Sun, May 29
 * Sigur Rós - The Riverside Theater - Wed, Jun 1 (MILWAUKEE)
 * Jeff Rosenstock - Delmar Hall - Sat, Jun 18
 * Bikini Kill w/Hurry Up - Marathon Music Works - Thu, Jun 30 (NASHVILLE)
@@ -26,7 +24,7 @@ I still go to a lot of concerts, here are the upcoming ones, and a promise: if y
 * Old 97s - Rose Music Hall - Thu, Aug 18 (COLUMBIA) *
 * IDLES - The Truman - Fri, Sep 2 (KANSAS CITY)
 * Snail Mail - The Pageant - Sep 3 *
-* Boris w/Nothing - Delmar Hall - Sat, Sep 10
+* Boris w/Nothing - Delmar Hall - Sat, Sep 10 *
 * The National - St Louis Music Park - Sat, Sep 17 *
 * Built To Spill - Red Flag - Mon, Sep 19
 * Dinosaur Jr - The Pageant - Fri, Sep 23 *
@@ -36,6 +34,7 @@ I still go to a lot of concerts, here are the upcoming ones, and a promise: if y
 * Slothrust - Duck Room - Sat, Oct 08 *
 * Viagra Boys w/Shame and Kill Birds - Red Flag - Mon, Oct 10 *
 * Kevin Morby - Off Broadway - Tue, Oct 11
+* The Queers w/Teenage Bottlerock - Red Flag - Sun, Oct 30 *
 * Kevin Morby w/Coco - Knuckleheads (KANSAS CITY) - Thu, Nov 3 *
 * Black Lips w/Bloodshot Bill - Duck Room - Sun, Nov 20 *
 * The Black Angels w/The Vacant Lots - Delmar Hall - Postponed, new date TBA
@@ -55,3 +54,4 @@ I still go to a lot of concerts, here are the upcoming ones, and a promise: if y
 * Mudhoney w/Bassamp and Dano - Off Broadway - Thu, May 5
 * Kevin Devine w/Kississippi, Kayleigh Goldsworthy - Off Broadway - Tue, May 17 
 * Valerie June w/Rachel Maxann - Delmar Hall - Sun, May 22
+* Destroy Boys w/Scowl - Off Broadway - Sat, May 28 
