@@ -12,7 +12,6 @@ I still go to a lot of concerts, here are the upcoming ones, and a promise: if y
 
 ## 2022
 
-* Sigur Rós - The Riverside Theater - Wed, Jun 1 (MILWAUKEE)
 * Jeff Rosenstock - Delmar Hall - Sat, Jun 18
 * Bikini Kill w/Hurry Up - Marathon Music Works - Thu, Jun 30 (NASHVILLE)
 * AJJ w/Open Mike Eagle - Delmar Hall - Wed, Jul 6 *
@@ -55,3 +54,4 @@ I still go to a lot of concerts, here are the upcoming ones, and a promise: if y
 * Kevin Devine w/Kississippi, Kayleigh Goldsworthy - Off Broadway - Tue, May 17 
 * Valerie June w/Rachel Maxann - Delmar Hall - Sun, May 22
 * Destroy Boys w/Scowl - Off Broadway - Sat, May 28 
+* Sigur Rós - The Riverside Theater - Wed, Jun 1 (MILWAUKEE)
