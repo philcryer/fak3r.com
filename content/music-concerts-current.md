@@ -15,6 +15,7 @@ I still go to a lot of concerts, here are the upcoming ones, and a promise: if y
 * Jeff Rosenstock - Delmar Hall - Sat, Jun 18
 * Jeff Rosenstock w/Catebite - Duck Room - Sun, Jun 19 *
 * AJJ w/Open Mike Eagle - Delmar Hall - Wed, Jul 6 *
+* Flatfoot 56 - Duck Room - Sat, Jul 9 *
 * The Black Keys w/Band of Horses - Hollywood Casino Amphitheatre - Fri, Jul 15 *
 * Mountain Goats - Off Broadway - Fri, Jul 15 *
 * Sleigh Bells - Red Flag - Fri, Aug 12 *
