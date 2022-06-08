@@ -13,7 +13,7 @@ I still go to a lot of concerts, here are the upcoming ones, and a promise: if y
 ## 2022
 
 * Jeff Rosenstock - Delmar Hall - Sat, Jun 18
-* Bikini Kill w/Hurry Up - Marathon Music Works - Thu, Jun 30 (NASHVILLE)
+* Jeff Rosenstock w/Catebite - Duck Room - Sun, Jun 19 *
 * AJJ w/Open Mike Eagle - Delmar Hall - Wed, Jul 6 *
 * The Black Keys w/Band of Horses - Hollywood Casino Amphitheatre - Fri, Jul 15 *
 * Mountain Goats - Off Broadway - Fri, Jul 15 *
@@ -30,13 +30,13 @@ I still go to a lot of concerts, here are the upcoming ones, and a promise: if y
 * Agent Orange - Red Flag - Wed, Sep 28 *
 * Electric Six w/Supersuckers - Red Flag - Sun, Oct 2 *
 * The Mission UK w/Chameleons and Theatre of Hate - recordBar - Sun, Oct 2 (KANSAS CITY) *
+* The Black Angels - Delmar Hall - Mon, Oct 3
 * Slothrust - Duck Room - Sat, Oct 08 *
 * Viagra Boys w/Shame and Kill Birds - Red Flag - Mon, Oct 10 *
 * Kevin Morby - Off Broadway - Tue, Oct 11
 * The Queers w/Teenage Bottlerock - Red Flag - Sun, Oct 30 *
 * Kevin Morby w/Coco - Knuckleheads (KANSAS CITY) - Thu, Nov 3 *
 * Black Lips w/Bloodshot Bill - Duck Room - Sun, Nov 20 *
-* The Black Angels w/The Vacant Lots - Delmar Hall - Postponed, new date TBA
 
 ## Past 
 
