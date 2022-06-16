@@ -15,9 +15,9 @@ I still go to a lot of concerts, here are the upcoming ones, and a promise: if y
 * Jeff Rosenstock - Delmar Hall - Sat, Jun 18
 * Jeff Rosenstock w/Catebite - Duck Room - Sun, Jun 19 *
 * AJJ w/Open Mike Eagle - Delmar Hall - Wed, Jul 6 *
-* Flatfoot 56 - Duck Room - Sat, Jul 9 *
-* The Black Keys w/Band of Horses - Hollywood Casino Amphitheatre - Fri, Jul 15 *
-* Mountain Goats - Off Broadway - Fri, Jul 15 *
+* Flatfoot 56 - Duck Room - Sat, Jul 9
+* The Cult w/Zola Jesus, Black Rebel Motorcycle Club - The Factory - Sun, Jul 10
+* The Black Keys w/Band of Horses - Hollywood Casino Amphitheatre - Fri, Jul 15
 * Sleigh Bells - Red Flag - Fri, Aug 12 *
 * The Breeders - Rose Park (COLUMBIA) - Fri, Aug 12 *
 * The Beths w/Rosie Tucker - Duck Room - Aug, 18 *
@@ -29,8 +29,7 @@ I still go to a lot of concerts, here are the upcoming ones, and a promise: if y
 * Built To Spill - Red Flag - Mon, Sep 19
 * Dinosaur Jr - The Pageant - Fri, Sep 23 *
 * Agent Orange - Red Flag - Wed, Sep 28 *
-* Electric Six w/Supersuckers - Red Flag - Sun, Oct 2 *
-* The Mission UK w/Chameleons and Theatre of Hate - recordBar - Sun, Oct 2 (KANSAS CITY) *
+* The Mission UK w/Chameleons and Theatre of Hate - recordBar - Sun, Oct 2 (KANSAS CITY)
 * The Black Angels - Delmar Hall - Mon, Oct 3
 * Slothrust - Duck Room - Sat, Oct 08 *
 * Viagra Boys w/Shame and Kill Birds - Red Flag - Mon, Oct 10 *
