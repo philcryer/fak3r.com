@@ -12,8 +12,6 @@ I still go to a lot of concerts, here are the upcoming ones, and a promise: if y
 
 ## 2022
 
-* Jeff Rosenstock - Delmar Hall - Sat, Jun 18
-* Jeff Rosenstock w/Catebite - Duck Room - Sun, Jun 19 *
 * AJJ w/Open Mike Eagle - Delmar Hall - Wed, Jul 6 *
 * Flatfoot 56 - Duck Room - Sat, Jul 9
 * The Cult w/Zola Jesus, Black Rebel Motorcycle Club - The Factory - Sun, Jul 10
@@ -55,3 +53,4 @@ I still go to a lot of concerts, here are the upcoming ones, and a promise: if y
 * Valerie June w/Rachel Maxann - Delmar Hall - Sun, May 22
 * Destroy Boys w/Scowl - Off Broadway - Sat, May 28 
 * Sigur Rós - The Riverside Theater - Wed, Jun 1 (MILWAUKEE)
+* Jeff Rosenstock w/Catebite - Duck Room - Sun, Jun 19
