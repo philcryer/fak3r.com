@@ -16,8 +16,8 @@ I still go to a lot of concerts, here are the upcoming ones, and a promise: if y
 * Sleigh Bells - Red Flag - Fri, Aug 12 *
 * The Breeders - Rose Park (COLUMBIA) - Fri, Aug 12 *
 * The Beths w/Rosie Tucker - Duck Room - Aug, 18 *
-* Old 97s - Rose Music Hall - Thu, Aug 18 (COLUMBIA) *
-* IDLES - The Truman - Fri, Sep 2 (KANSAS CITY)
+* Old 97s w/John Henry - Rose Music Hall - Thu, Aug 18 (COLUMBIA) *
+* IDLES w/Injury Reserve - The Truman - Fri, Sep 2 (KANSAS CITY)
 * Snail Mail - The Pageant - Sep 3 *
 * Boris w/Nothing - Delmar Hall - Sat, Sep 10 *
 * The National - St Louis Music Park - Sat, Sep 17 *
@@ -25,8 +25,8 @@ I still go to a lot of concerts, here are the upcoming ones, and a promise: if y
 * Dinosaur Jr - The Pageant - Fri, Sep 23 *
 * Agent Orange - Red Flag - Wed, Sep 28 *
 * The Mission UK w/Chameleons and Theatre of Hate - recordBar - Sun, Oct 2 (KANSAS CITY)
-* The Black Angels - Delmar Hall - Mon, Oct 3
-* Slothrust - Duck Room - Sat, Oct 08 *
+* The Black Angels w/The Vacant Lots - Delmar Hall - Mon, Oct 3
+* Slothrust w/Weakened Friends - Duck Room - Sat, Oct 08 *
 * Viagra Boys w/Shame and Kill Birds - Red Flag - Mon, Oct 10 *
 * Kevin Morby - Off Broadway - Tue, Oct 11
 * The Queers w/Teenage Bottlerock - Red Flag - Sun, Oct 30 *
