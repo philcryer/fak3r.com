@@ -12,9 +12,6 @@ I still go to a lot of concerts, here are the upcoming ones, and a promise: if y
 
 ## 2022
 
-* AJJ w/Open Mike Eagle - Delmar Hall - Wed, Jul 6 *
-* Flatfoot 56 - Duck Room - Sat, Jul 9
-* The Cult w/Zola Jesus, Black Rebel Motorcycle Club - The Factory - Sun, Jul 10
 * The Black Keys w/Band of Horses - Hollywood Casino Amphitheatre - Fri, Jul 15
 * Sleigh Bells - Red Flag - Fri, Aug 12 *
 * The Breeders - Rose Park (COLUMBIA) - Fri, Aug 12 *
@@ -54,3 +51,4 @@ I still go to a lot of concerts, here are the upcoming ones, and a promise: if y
 * Destroy Boys w/Scowl - Off Broadway - Sat, May 28 
 * Sigur Rós - The Riverside Theater - Wed, Jun 1 (MILWAUKEE)
 * Jeff Rosenstock w/Catebite - Duck Room - Sun, Jun 19
+* Flatfoot 56 w/Capgun Heros - Duck Room - Sat, Jul 9
