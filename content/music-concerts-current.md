@@ -29,6 +29,7 @@ I still go to a lot of concerts, here are the upcoming ones, and a promise: if y
 * Slothrust w/Weakened Friends - Duck Room - Sat, Oct 08 *
 * Viagra Boys w/Shame and Kill Birds - Red Flag - Mon, Oct 10 *
 * Kevin Morby - Off Broadway - Tue, Oct 11
+* Craig Finn & the Uptown Controllers - Off Broadway - Sat, Oct 22 *
 * The Queers w/Teenage Bottlerock - Red Flag - Sun, Oct 30 *
 * Kevin Morby w/Coco - Knuckleheads (KANSAS CITY) - Thu, Nov 3 *
 * Black Lips w/Bloodshot Bill - Duck Room - Sun, Nov 20 *
