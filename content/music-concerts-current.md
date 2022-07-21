@@ -12,7 +12,6 @@ I still go to a lot of concerts, here are the upcoming ones, and a promise: if y
 
 ## 2022
 
-* The Black Keys w/Band of Horses - Hollywood Casino Amphitheatre - Fri, Jul 15
 * Sleigh Bells - Red Flag - Fri, Aug 12 *
 * The Breeders - Rose Park (COLUMBIA) - Fri, Aug 12 *
 * The Beths w/Rosie Tucker - Duck Room - Aug, 18 *
@@ -53,3 +52,4 @@ I still go to a lot of concerts, here are the upcoming ones, and a promise: if y
 * Sigur Rós - The Riverside Theater - Wed, Jun 1 (MILWAUKEE)
 * Jeff Rosenstock w/Catebite - Duck Room - Sun, Jun 19
 * Flatfoot 56 w/Capgun Heros - Duck Room - Sat, Jul 9
+* The Black Keys w/Band of Horses - Hollywood Casino Amphitheatre - Fri, Jul 15
