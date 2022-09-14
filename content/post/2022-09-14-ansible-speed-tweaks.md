@@ -5,8 +5,7 @@ date: "2022-09-14T08:34:11-05:00"
 Tags: ["ansible", "howto"]
 Categories: ["automation"] 
 ---
-<div align="right"><img src="/2022/Ansible_Logo.png" alt="Ansible">
-I've been a huge fan of [Ansible](https://ansible.com) for years, and am happy to be using it at work again. Doing some grunt work in debugging longer running processes led me to re-research tips to speed up playbook runs, and I've saved that effort here. Within your Ansible project, just add these lines to your ansible.cfg file (in the root directory of the project by default), and see how it goes. A good plan is to use the callbacks_enabled line to see how long individual roles are taking, plus a good indicator on how much this helps you.</div>
+<div align="right"><img src="/2022/Ansible_Logo.png" alt="Ansible"></div>I've been a huge fan of [Ansible](https://ansible.com) for years, and am happy to be using it at work again. Doing some grunt work in debugging longer running processes led me to re-research tips to speed up playbook runs, and I've saved that effort here. Within your Ansible project, just add these lines to your ansible.cfg file (in the root directory of the project by default), and see how it goes. A good plan is to use the callbacks_enabled line to see how long individual roles are taking, plus a good indicator on how much this helps you.
 
 Give a shout out to me on [Twitter](https://twitter.com/fak3r) with feedback or other tips you've figured out!
 
