@@ -12,14 +12,6 @@ I still go to a lot of concerts, here are the upcoming ones, and a promise: if y
 
 ## 2022
 
-* Sleigh Bells - Red Flag - Fri, Aug 12 *
-* The Breeders - Rose Park (COLUMBIA) - Fri, Aug 12 *
-* The Beths w/Rosie Tucker - Duck Room - Aug, 18 *
-* Old 97s w/John Henry - Rose Music Hall - Thu, Aug 18 (COLUMBIA) *
-* IDLES w/Injury Reserve - The Truman - Fri, Sep 2 (KANSAS CITY)
-* Snail Mail - The Pageant - Sep 3 *
-* Boris w/Nothing - Delmar Hall - Sat, Sep 10 *
-* The National - St Louis Music Park - Sat, Sep 17 *
 * Built To Spill - Red Flag - Mon, Sep 19
 * Dinosaur Jr - The Pageant - Fri, Sep 23 *
 * Agent Orange - Red Flag - Wed, Sep 28 *
@@ -53,3 +45,6 @@ I still go to a lot of concerts, here are the upcoming ones, and a promise: if y
 * Jeff Rosenstock w/Catebite - Duck Room - Sun, Jun 19
 * Flatfoot 56 w/Capgun Heros - Duck Room - Sat, Jul 9
 * The Black Keys w/Band of Horses - Hollywood Casino Amphitheatre - Fri, Jul 15
+* Raging Nathans w/ Slow Death, The Haddonfields & Breakmouth Annie - Thu, Sep 1
+* IDLES w/Injury Reserve - The Truman - Fri, Sep 2 (KANSAS CITY)
+* Interpol w/Spoon - Stifel Theatre - Fri, Sep 9 
