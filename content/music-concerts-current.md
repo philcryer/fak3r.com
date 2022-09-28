@@ -12,17 +12,17 @@ I still go to a lot of concerts, here are the upcoming ones, and a promise: if y
 
 ## 2022
 
-* Built To Spill - Red Flag - Mon, Sep 19
-* Dinosaur Jr - The Pageant - Fri, Sep 23 *
-* Agent Orange - Red Flag - Wed, Sep 28 *
-* The Mission UK w/Chameleons and Theatre of Hate - recordBar - Sun, Oct 2 (KANSAS CITY)
+* Electric Six w/Superuckers - Red Flag - Sun, Oct 2 *
 * The Black Angels w/The Vacant Lots - Delmar Hall - Mon, Oct 3
 * Slothrust w/Weakened Friends - Duck Room - Sat, Oct 08 *
 * Viagra Boys w/Shame and Kill Birds - Red Flag - Mon, Oct 10 *
 * Kevin Morby - Off Broadway - Tue, Oct 11
 * Craig Finn & the Uptown Controllers w/Good Looks - Off Broadway - Sat, Oct 22 
-* The Queers w/Teenage Bottlerock - Red Flag - Sun, Oct 30 *
+* The Queers w/Teenage Bottlerock - Off Broadway - Sun, Oct 30 *
+* Protomartyr - Off Broadway - Wed, Nov 2 *
 * Kevin Morby w/Coco - Knuckleheads (KANSAS CITY) - Thu, Nov 3 *
+* Smoking Popes w/Off with Their Heads, Limbeck, and The Color Fred - Off Broadway - Thu, Nov 10 *
+* Catbite - Off Broadway - Wed, Nov 16 *
 * Black Lips w/Bloodshot Bill - Duck Room - Sun, Nov 20 *
 
 ## Past 
@@ -45,6 +45,7 @@ I still go to a lot of concerts, here are the upcoming ones, and a promise: if y
 * Jeff Rosenstock w/Catebite - Duck Room - Sun, Jun 19
 * Flatfoot 56 w/Capgun Heros - Duck Room - Sat, Jul 9
 * The Black Keys w/Band of Horses - Hollywood Casino Amphitheatre - Fri, Jul 15
-* Raging Nathans w/ Slow Death, The Haddonfields & Breakmouth Annie - Thu, Sep 1
+* Raging Nathans w/The Slow Death, The Haddonfields & Breakmouth Annie - Thu, Sep 1
 * IDLES w/Injury Reserve - The Truman - Fri, Sep 2 (KANSAS CITY)
 * Interpol w/Spoon - Stifel Theatre - Fri, Sep 9 
+* Built To Spill w/The French Tips - Red Flag - Mon, Sep 19
