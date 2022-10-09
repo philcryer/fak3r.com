@@ -12,16 +12,24 @@ I still go to a lot of concerts, here are the upcoming ones, and a promise: if y
 
 ## 2022
 
-* Slothrust w/Weakened Friends - Duck Room - Sat, Oct 08 *
-* Viagra Boys w/Shame and Kill Birds - Red Flag - Mon, Oct 10 *
+* Viagra Boys w/Shame, Kill Birds - Red Flag - Mon, Oct 10 *
 * Kevin Morby - Off Broadway - Tue, Oct 11
+* Titus Andronicus w/The Public - Duck Room - Thu, Oct 13 *
+* Illuminati hotties w/Enumclaw, Olivia Barton - Duck Room - Tue, Oct 18 *
+* Turnstile w/Snail Mail, JPEGMAFIA - Pageant - Wed, Oct 19 *
 * Craig Finn & the Uptown Controllers w/Good Looks - Off Broadway - Sat, Oct 22 
-* The Queers w/Teenage Bottlerock - Off Broadway - Sun, Oct 30 *
+* Lucero w/L.A. Edwards - Old Rock House - Oct 29 * 
+* The Queers w/Teenage Bottlerock - Off Broadway - Sun, Oct 30 
 * Protomartyr - Off Broadway - Wed, Nov 2 *
 * Kevin Morby w/Coco - Knuckleheads (KANSAS CITY) - Thu, Nov 3 *
-* Smoking Popes w/Off with Their Heads, Limbeck, and The Color Fred - Off Broadway - Thu, Nov 10 *
-* Catbite - Off Broadway - Wed, Nov 16 *
-* Black Lips w/Bloodshot Bill - Duck Room - Sun, Nov 20 *
+* Godspeed You! Black Emperor w/Marisa Anderson - Delmar Hall - Thu, Nov 3 *
+* Smoking Popes w/Off with Their Heads, Limbeck, The Color Fred - Off Broadway - Thu, Nov 10 *
+* Pokey LaFarge - Rose Music Hall (COLUMBIA) - Fri, Nov 11 *
+* Catbite w/The Centaurettes, Fight Back Mountain -  Off Broadway - Wed, Nov 16 *
+* Black Lips w/Bloodshot Bill, Country Westerns - Duck Room - Sun, Nov 20 *
+* Disq w/Ducks Ltd - Off Broadway - Sat Nov, 26 *
+* American Aquarium w/ David Ramirez - Blue Note (COLUMBIA) - Wed, Nov 30
+* Archers of Loaf w/Weird Nightmare - Delmar Hall - Sat, Jan 14 *
 
 ## Past 
 
@@ -49,3 +57,4 @@ I still go to a lot of concerts, here are the upcoming ones, and a promise: if y
 * Built To Spill w/The French Tips - Red Flag - Mon, Sep 19
 * Electric Six w/Superuckers, Killing Fever - Red Flag - Sun, Oct 2
 * The Black Angels w/The Vacant Lots - Delmar Hall - Mon, Oct 3
+
