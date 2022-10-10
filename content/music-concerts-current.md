@@ -15,6 +15,7 @@ I still go to a lot of concerts, here are the upcoming ones, and a promise: if y
 * Viagra Boys w/Shame, Kill Birds - Red Flag - Mon, Oct 10 *
 * Kevin Morby - Off Broadway - Tue, Oct 11
 * Titus Andronicus w/The Public - Duck Room - Thu, Oct 13 *
+* They Might Be Giants (Flood 30) - Pageant - Sun, Oct 16
 * Illuminati hotties w/Enumclaw, Olivia Barton - Duck Room - Tue, Oct 18 *
 * Turnstile w/Snail Mail, JPEGMAFIA - Pageant - Wed, Oct 19 *
 * Craig Finn & the Uptown Controllers w/Good Looks - Off Broadway - Sat, Oct 22 
@@ -26,6 +27,7 @@ I still go to a lot of concerts, here are the upcoming ones, and a promise: if y
 * Smoking Popes w/Off with Their Heads, Limbeck, The Color Fred - Off Broadway - Thu, Nov 10 *
 * Pokey LaFarge - Rose Music Hall (COLUMBIA) - Fri, Nov 11 *
 * Catbite w/The Centaurettes, Fight Back Mountain -  Off Broadway - Wed, Nov 16 *
+* OFF! w/Zulu - Lincoln Hall (CHICAGO) - Thu, Nov 17 *
 * Black Lips w/Bloodshot Bill, Country Westerns - Duck Room - Sun, Nov 20 *
 * Disq w/Ducks Ltd - Off Broadway - Sat Nov, 26 *
 * American Aquarium w/ David Ramirez - Blue Note (COLUMBIA) - Wed, Nov 30
