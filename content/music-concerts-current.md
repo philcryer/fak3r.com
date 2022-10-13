@@ -12,9 +12,6 @@ I still go to a lot of concerts, here are the upcoming ones, and a promise: if y
 
 ## 2022
 
-* Viagra Boys w/Shame, Kill Birds - Red Flag - Mon, Oct 10 *
-* Kevin Morby - Off Broadway - Tue, Oct 11
-* Titus Andronicus w/The Public - Duck Room - Thu, Oct 13 *
 * They Might Be Giants (Flood 30) - Pageant - Sun, Oct 16
 * Illuminati hotties w/Enumclaw, Olivia Barton - Duck Room - Tue, Oct 18 *
 * Turnstile w/Snail Mail, JPEGMAFIA - Pageant - Wed, Oct 19 *
@@ -59,4 +56,5 @@ I still go to a lot of concerts, here are the upcoming ones, and a promise: if y
 * Built To Spill w/The French Tips - Red Flag - Mon, Sep 19
 * Electric Six w/Superuckers, Killing Fever - Red Flag - Sun, Oct 2
 * The Black Angels w/The Vacant Lots - Delmar Hall - Mon, Oct 3
-
+* Kevin Morby w/Cassandra Jenkins - Off Broadway - Tue, Oct 11
+* Matt Talbott (from Hum) - house show St Louis - Wed, Oct 12
