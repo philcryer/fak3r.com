@@ -12,8 +12,6 @@ I still go to a lot of concerts, here are the upcoming ones, and a promise: if y
 
 ## 2022
 
-* Illuminati hotties w/Enumclaw, Olivia Barton - Duck Room - Tue, Oct 18 *
-* Turnstile w/Snail Mail, JPEGMAFIA - Pageant - Wed, Oct 19 *
 * Lucero w/L.A. Edwards - Old Rock House - Oct 29 * 
 * The Queers w/Teenage Bottlerock - Off Broadway - Sun, Oct 30 
 * Protomartyr - Off Broadway - Wed, Nov 2 *
