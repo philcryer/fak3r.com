@@ -24,7 +24,8 @@ I still go to a lot of concerts, here are the upcoming ones, and a promise: if y
 * Black Lips w/Bloodshot Bill, Country Westerns - Duck Room - Sun, Nov 20 *
 * Disq w/Ducks Ltd - Off Broadway - Sat Nov, 26 *
 * American Aquarium w/ David Ramirez - Blue Note (COLUMBIA) - Wed, Nov 30
-* Archers of Loaf w/Weird Nightmare - Delmar Hall - Sat, Jan 14 *
+* Archers of Loaf w/Weird Nightmare - Delmar Hall - Sat, Jan 14 (2023) *
+* Belle & Sebastian - Pageant - Thu, May 18 (2023)
 
 ## Past 
 
