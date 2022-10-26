@@ -15,16 +15,19 @@ I still go to a lot of concerts, here are the upcoming ones, and a promise: if y
 * Lucero w/L.A. Edwards - Old Rock House - Oct 29 * 
 * The Queers w/Teenage Bottlerock - Off Broadway - Sun, Oct 30 
 * Protomartyr - Off Broadway - Wed, Nov 2 *
-* Kevin Morby w/Coco - Knuckleheads (KANSAS CITY) - Thu, Nov 3 *
 * Godspeed You! Black Emperor w/Marisa Anderson - Delmar Hall - Thu, Nov 3 *
 * Smoking Popes w/Off with Their Heads, Limbeck, The Color Fred - Off Broadway - Thu, Nov 10 *
 * Pokey LaFarge - Rose Music Hall (COLUMBIA) - Fri, Nov 11 *
 * Catbite w/The Centaurettes, Fight Back Mountain -  Off Broadway - Wed, Nov 16 *
-* OFF! w/Zulu - Lincoln Hall (CHICAGO) - Thu, Nov 17 *
+* OFF! w/Zulu - Lincoln Hall (CHICAGO) - Thu, Nov 17 (POSTPONED) *
 * Black Lips w/Bloodshot Bill, Country Westerns - Duck Room - Sun, Nov 20 *
 * Disq w/Ducks Ltd - Off Broadway - Sat Nov, 26 *
 * American Aquarium w/ David Ramirez - Blue Note (COLUMBIA) - Wed, Nov 30
+
+### 2023
+
 * Archers of Loaf w/Weird Nightmare - Delmar Hall - Sat, Jan 14 (2023) *
+* Bikini Kill - Marathon Music Works - Thu Mar 30, 2023 (NASHVILLE) 
 * Belle & Sebastian - Pageant - Thu, May 18 (2023)
 
 ## Past 
