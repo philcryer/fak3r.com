@@ -12,12 +12,9 @@ I still go to a lot of concerts, here are the upcoming ones, and a promise: if y
 
 ## 2022
 
-* Lucero w/L.A. Edwards - Old Rock House - Oct 29 * 
-* The Queers w/Teenage Bottlerock - Off Broadway - Sun, Oct 30 
-* Protomartyr - Off Broadway - Wed, Nov 2 *
-* Godspeed You! Black Emperor w/Marisa Anderson - Delmar Hall - Thu, Nov 3 *
 * Smoking Popes w/Off with Their Heads, Limbeck, The Color Fred - Off Broadway - Thu, Nov 10 *
 * Pokey LaFarge - Rose Music Hall (COLUMBIA) - Fri, Nov 11 *
+* Guster w/Ratboys - Pageant - Tue, Nov 15
 * Catbite w/The Centaurettes, Fight Back Mountain -  Off Broadway - Wed, Nov 16 *
 * OFF! w/Zulu - Lincoln Hall (CHICAGO) - Thu, Nov 17 (POSTPONED) *
 * Black Lips w/Bloodshot Bill, Country Westerns - Duck Room - Sun, Nov 20 *
@@ -59,3 +56,5 @@ I still go to a lot of concerts, here are the upcoming ones, and a promise: if y
 * Kevin Morby w/Cassandra Jenkins - Off Broadway - Tue, Oct 11
 * Matt Talbott (from Hum) - house show St Louis - Wed, Oct 12
 * They Might Be Giants (Flood 30) - Pageant - Sun, Oct 16
+* Lucero w/L.A. Edwards - Old Rock House - Oct 29 
+* The Queers w/Teenage Bottlerock - Off Broadway - Sun, Oct 30 
