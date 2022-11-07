@@ -15,6 +15,7 @@ nopaging = true
 <img src="/contact/freenode.png" border="0" height="16" width="16">&nbsp;&nbsp;freenode <a href="https://www.freenode.net/">fak3r</a><br />
 <img src="/contact/twitter.bmp" border="0">&nbsp;&nbsp;twitter <a href="https://twitter.com/fak3r" alt="Twitter" title="Twitter">fak3r</a><br />
 <!--<img src="/contact/telegram.bmp" border="0" height="16" width="16">&nbsp;&nbsp;telegram <a href="https://telegram.me/fak3r" alt="telegram" title="telegram">fak3r</a><br />-->
+<img src="/contact/mastodon.png" border="0" height="16" width="16">&nbsp;&nbsp;mastodon <a href="https://mastodon.social/@fak3r" alt="mastodon" title="mastodon">fak3r</a><br />
 <img src="/contact/github.png" border="0">&nbsp;&nbsp;github <a href="https://github.com/philcryer/" alt="github" title="github">fak3r</a><br />
 <img src="/contact/lastfm.bmp" border="0">&nbsp;&nbsp;lastfm <a href="http://www.last.fm/user/fak3r" alt="LastFM" title="LastFM">fak3r</a><br />
 <img src="/contact/flickr.png" border="0">&nbsp;&nbsp;flickr <a href="https://secure.flickr.com/photos/fak3r/sets/" alt="Flickr" title="Flickr">fak3r</a><br />
