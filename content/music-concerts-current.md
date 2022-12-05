@@ -10,22 +10,12 @@ I still go to a lot of concerts, here are the upcoming ones, and a promise: if y
 
 \* means I don't have a tickets yet
 
-## 2022
-
-* Smoking Popes w/Off with Their Heads, Limbeck, The Color Fred - Off Broadway - Thu, Nov 10 *
-* Pokey LaFarge - Rose Music Hall (COLUMBIA) - Fri, Nov 11 *
-* Guster w/Ratboys - Pageant - Tue, Nov 15
-* Catbite w/The Centaurettes, Fight Back Mountain -  Off Broadway - Wed, Nov 16 *
-* OFF! w/Zulu - Lincoln Hall (CHICAGO) - Thu, Nov 17 (POSTPONED) *
-* Black Lips w/Bloodshot Bill, Country Westerns - Duck Room - Sun, Nov 20 *
-* Disq w/Ducks Ltd - Off Broadway - Sat Nov, 26 *
-* American Aquarium w/ David Ramirez - Blue Note (COLUMBIA) - Wed, Nov 30
-
 ### 2023
 
-* Archers of Loaf w/Weird Nightmare - Delmar Hall - Sat, Jan 14 (2023) *
+* Archers of Loaf w/Weird Nightmare - Delmar Hall - Sat, Jan 14 *
 * Bikini Kill - Marathon Music Works - Thu Mar 30, 2023 (NASHVILLE) 
-* Belle & Sebastian - Pageant - Thu, May 18 (2023)
+* Belle & Sebastian - Pageant - Thu, May 18
+* The Hold Steady w/The Mountain Goats, Dillinger Four - The Salt Shed - Sat, Jul 1 (CHICAGO)
 
 ## Past 
 
@@ -58,3 +48,8 @@ I still go to a lot of concerts, here are the upcoming ones, and a promise: if y
 * They Might Be Giants (Flood 30) - Pageant - Sun, Oct 16
 * Lucero w/L.A. Edwards - Old Rock House - Oct 29 
 * The Queers w/Teenage Bottlerock - Off Broadway - Sun, Oct 30 
+* Smoking Popes w/Off with Their Heads, Limbeck, The Color Fred - Off Broadway - Thu, Nov 10 
+* Guster w/Ratboys - Pageant - Tue, Nov 15
+* Black Lips w/Bloodshot Bill, Country Westerns - Duck Room - Sun, Nov 20 
+* American Aquarium w/David Ramirez - Blue Note (COLUMBIA) - Wed, Nov 30
+* Foals w/Inner Wave, Glove - Pageant - Mon, Dec 4
