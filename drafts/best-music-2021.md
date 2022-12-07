@@ -23,6 +23,7 @@
 * Yard Act "The Overload"
 * Kiwi Jr. "CHOPPER"
 
+* NNAMDÏ "Please Have a Seat"
 
 Inclination
 Drug Church
