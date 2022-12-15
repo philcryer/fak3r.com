@@ -4,6 +4,7 @@
 * Built to Spill "When The Wind Forgets Your Name"
 * Camp Cope "Running With the Hurricane"
 * The Chats "Get Fucked"
+* Cola "Deep In View"
 * Danger Mouse, Black Thought "Cheat Codes"
 * Dehd "Blue Skies"
 * Kevin Devine "Nothing's Real, So Nothing's Wrong"
