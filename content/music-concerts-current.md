@@ -12,7 +12,10 @@ I still go to a lot of concerts, here are the upcoming ones, and a promise: if y
 
 ### 2023
 
-* Archers of Loaf w/Weird Nightmare - Delmar Hall - Sat, Jan 14 *
 * Bikini Kill w/Hurry Up - Marathon Music Works - Thu Mar 30, 2023 (NASHVILLE) 
 * Belle & Sebastian w/TBA - Pageant - Thu, May 18
 * The Hold Steady w/The Mountain Goats, Dillinger Four - The Salt Shed - Sat, Jul 1 (CHICAGO)
+
+## Past
+
+* Radkey, w/Bruiser Queen, Bad Investments, New Car Scent - Rose Music Hall - Sat, Jan 14 (COLUMBIA)
