@@ -12,8 +12,8 @@ I still go to a lot of concerts, here are the upcoming ones, and a promise: if y
 
 ### 2023
 
-* Radkey w/The Many Colored Death, Bruiser Queen, The Haddonfields - Red Flag - Fri, Feb 3 *
-* STRFKR - Red Flag - Sat, Feb 18 *
+* Radkey w/The Many Colored Death, Bruiser Queen, The Haddonfields - Red Flag - Fri, Feb 3
+* STRFKR - Red Flag - Sat, Feb 18
 * The Lemon Twigs - Off Broadway - Sat, Mar 11 * 
 * The Dollyrots w/The Von Tramps - Old Rock House - Tue, Mar 14 *
 * Drive-By Truckers w/Margo Cilker - Pageant - Sat, Mar 18 * 
