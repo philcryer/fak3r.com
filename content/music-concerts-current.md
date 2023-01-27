@@ -22,7 +22,6 @@ I still go to a lot of concerts, here are the upcoming ones, and a promise: if y
 * Bass Drum of Death w/Dead Tooth - Off Broadway - Thu Apr, 13
 * OFF! - Off Broadway - Tue, May 9
 * The Bouncing Souls w/Samiam, Swingin' Utter$, PET NEEDS - Fri, May 12 
-* Belle & Sebastian w/TBA - Pageant - Thu, May 18
 * The Interrupters & Frank Turner & The Sleeping Souls w/Bedouin Soundclash - Pageant - Sat, May 20 
 * shame w/Been Stellar - Off Broadway - Fri, May 26 *
 * The Hold Steady w/The Mountain Goats, Dillinger Four - The Salt Shed - Sat, Jul 1 (CHICAGO)
