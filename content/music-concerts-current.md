@@ -19,10 +19,11 @@ I still go to a lot of concerts, here are the upcoming ones, and a promise: if y
 * Drive-By Truckers w/Margo Cilker - Pageant - Sat, Mar 18 * 
 * Quasi w/Bat Fangs - Off Broadway - Fri, Mar 24 *
 * Bikini Kill w/Hurry Up - Marathon Music Works - Thu Mar 30, 2023 (NASHVILLE) 
+* Bass Drum of Death w/Dead Tooth - Off Broadway - Thu Apr, 13
 * OFF! - Off Broadway - Tue, May 9
-* The Bouncing Souls w/Samiam, Swingin' Utter$, PET NEEDS - Fri, May 12 *
+* The Bouncing Souls w/Samiam, Swingin' Utter$, PET NEEDS - Fri, May 12 
 * Belle & Sebastian w/TBA - Pageant - Thu, May 18
-* The Interrupters & Frank Turner & The Sleeping Souls w/Bedouin Soundclash - Pageant - Sat, May 20 *
+* The Interrupters & Frank Turner & The Sleeping Souls w/Bedouin Soundclash - Pageant - Sat, May 20 
 * shame w/Been Stellar - Off Broadway - Fri, May 26 *
 * The Hold Steady w/The Mountain Goats, Dillinger Four - The Salt Shed - Sat, Jul 1 (CHICAGO)
 * Sylvan Esso w/Indigo De Souza - Pageant - Thu, Aug 17 * 
