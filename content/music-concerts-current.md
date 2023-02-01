@@ -24,7 +24,9 @@ I still go to a lot of concerts, here are the upcoming ones, and a promise: if y
 * The Bouncing Souls w/Samiam, Swingin' Utter$, PET NEEDS - Fri, May 12 
 * The Interrupters & Frank Turner & The Sleeping Souls w/Bedouin Soundclash - Pageant - Sat, May 20 
 * shame w/Been Stellar - Off Broadway - Fri, May 26 *
+* Off With Their Heads w/Single Mothers - Red Flag - Thu, Jun 29 * 
 * The Hold Steady w/The Mountain Goats, Dillinger Four - The Salt Shed - Sat, Jul 1 (CHICAGO)
+* The Smile - The Factory - Thu, Jul 20 *
 * Sylvan Esso w/Indigo De Souza - Pageant - Thu, Aug 17 * 
 
 #### Past
