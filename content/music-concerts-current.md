@@ -12,23 +12,24 @@ I still go to a lot of concerts, here are the upcoming ones, and a promise: if y
 
 ### 2023
 
-* Radkey w/The Many Colored Death, Bruiser Queen, The Haddonfields - Red Flag - Fri, Feb 3
 * STRFKR - Red Flag - Sat, Feb 18
 * The Lemon Twigs - Off Broadway - Sat, Mar 11 * 
 * The Dollyrots w/The Von Tramps - Old Rock House - Tue, Mar 14 *
 * Drive-By Truckers w/Margo Cilker - Pageant - Sat, Mar 18 * 
 * Quasi w/Bat Fangs - Off Broadway - Fri, Mar 24 *
 * Bikini Kill w/Hurry Up - Marathon Music Works - Thu Mar 30, 2023 (NASHVILLE) 
+* Bikini Kill - The Salt Shed - Sat, Apr 22 (CHICAGO)
 * Bass Drum of Death w/Dead Tooth - Off Broadway - Thu Apr, 13
 * OFF! - Off Broadway - Tue, May 9
 * The Bouncing Souls w/Samiam, Swingin' Utter$, PET NEEDS - Fri, May 12 
 * The Interrupters & Frank Turner & The Sleeping Souls w/Bedouin Soundclash - Pageant - Sat, May 20 
 * shame w/Been Stellar - Off Broadway - Fri, May 26 *
-* Off With Their Heads w/Single Mothers - Red Flag - Thu, Jun 29 * 
+* Off With Their Heads w/Single Mothers - Red Flag - Thu, Jun 29
 * The Hold Steady w/The Mountain Goats, Dillinger Four - The Salt Shed - Sat, Jul 1 (CHICAGO)
-* The Smile - The Factory - Thu, Jul 20 *
+* The Smile - The Factory - Thu, Jul 20
 * Sylvan Esso w/Indigo De Souza - Pageant - Thu, Aug 17 * 
 
 #### Past
 
 * Radkey, w/Bruiser Queen, Bad Investments, New Car Scent - Rose Music Hall - Sat, Jan 14 (COLUMBIA)
+* Radkey w/The Many Colored Death, Bruiser Queen, The Haddonfields - Red Flag - Fri, Feb 3
