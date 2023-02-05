@@ -21,7 +21,7 @@ I still go to a lot of concerts, here are the upcoming ones, and a promise: if y
 * Bikini Kill - The Salt Shed - Sat, Apr 22 (CHICAGO)
 * Bass Drum of Death w/Dead Tooth - Off Broadway - Thu Apr, 13
 * OFF! - Off Broadway - Tue, May 9
-* The Bouncing Souls w/Samiam, Swingin' Utter$, PET NEEDS - Fri, May 12 
+* The Bouncing Souls w/Samiam, Swingin' Utter$, PET NEEDS - Delmar Hall - Fri, May 12 
 * The Interrupters & Frank Turner & The Sleeping Souls w/Bedouin Soundclash - Pageant - Sat, May 20 
 * shame w/Been Stellar - Off Broadway - Fri, May 26 *
 * Off With Their Heads w/Single Mothers - Red Flag - Thu, Jun 29
