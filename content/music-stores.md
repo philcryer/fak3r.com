@@ -15,9 +15,10 @@ Of course since then I've been going to as many shops as I can, and locally (in 
 ### Local, to me
 
 * [Euclid Records](https://www.euclidrecords.com/) (Saint Louis, MO)
-* [Music Record Shop](https://www.musicrecordshop.com/) (Saint Louis, MO) *
+* [Music Record Shop](https://www.musicrecordshop.com/) (Saint Louis, MO)
 * [Planet Score](https://planetscorerecordsdotcom.wordpress.com/) (Saint Louis, MO)
 * [Record Exchange](http://www.recordexchangestl.com/) (Saint Louis, MO)
+* [The Record Shop](https://therecordspace.com/) (Saint Louis, MO)
 * [Trusty Chords Records](http://www.trustychordsrecordshop.com/) (Edwardsville, IL)
 * [Vintage Vinyl](https://vintagevinyl.com/) (Saint Louis, MO)
 
