@@ -15,13 +15,13 @@ I still go to a lot of concerts, here are the upcoming ones, and a promise: if y
 * The Casket Lottery w/The Whiffs - Recordbar - Sat, Mar 4 (KANSAS CITY) *
 * Flatfoot 56 w/The Rumjacks, The Drowns, Criminal Kids - Reggie's - Sat, Mar 11 (CHICAGO)
 * The Dollyrots w/The Von Tramps - Old Rock House - Tue, Mar 14 *
+* Sunny Day Real Estate - Pageant - Sun, Mar 16 *
 * Drive-By Truckers w/Margo Cilker - Pageant - Sat, Mar 18 * 
 * Quasi w/Bat Fangs - Off Broadway - Fri, Mar 24 *
 * Bikini Kill w/Hurry Up - Marathon Music Works - Thu Mar 30, 2023 (NASHVILLE) 
-* Sunny Day Real Estate - Pageant - Sun, Mar 16 *
 * Kevin Morby - Recordbar - Fri, Apr 7 (KANSAS CITY) *
-* Bikini Kill - The Salt Shed - Sat, Apr 22 (CHICAGO)
 * Bass Drum of Death w/Dead Tooth - Off Broadway - Thu Apr, 13
+* Bikini Kill - The Salt Shed - Sat, Apr 22 (CHICAGO)
 * OFF! - Off Broadway - Tue, May 9
 * OFF! - Recordbar - Wed, May 10 (KANSAS CITY) *
 * The Bouncing Souls w/Samiam, Swingin' Utter$, PET NEEDS - Delmar Hall - Fri, May 12 
