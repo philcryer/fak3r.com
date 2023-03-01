@@ -12,7 +12,6 @@ I still go to a lot of concerts, here are the upcoming ones, and a promise: if y
 
 ### 2023
 
-* STRFKR - Red Flag - Sat, Feb 18
 * The Casket Lottery w/The Whiffs - Recordbar - Sat, Mar 4 (KANSAS CITY) *
 * Flatfoot 56 w/The Rumjacks, The Drowns, Criminal Kids - Reggie's - Sat, Mar 11 (CHICAGO)
 * The Dollyrots w/The Von Tramps - Old Rock House - Tue, Mar 14 *
