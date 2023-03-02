@@ -15,9 +15,9 @@ I still go to a lot of concerts, here are the upcoming ones, and a promise: if y
 * Flatfoot 56 w/The Rumjacks, The Drowns, Criminal Kids - Reggie's - Sat, Mar 11 (CHICAGO)
 * The Dollyrots w/The Von Tramps - Old Rock House - Tue, Mar 14 *
 * Drive-By Truckers w/Margo Cilker - Pageant - Sat, Mar 18 * 
-* Quasi w/Bat Fangs - Off Broadway - Fri, Mar 24 -d
-* Magnetic Fields w/Lomelda - City Winery - Mon, Mar 27 -d
-* Bikini Kill w/Hurry Up - Marathon Music Works - Thu Mar 30, 2023 (NASHVILLE) -d
+* Quasi w/Bat Fangs - Off Broadway - Fri, Mar 24 (2) 
+* Magnetic Fields w/Lomelda - City Winery - Mon, Mar 27 (2) 
+* Bikini Kill w/Hurry Up - Marathon Music Works - Thu Mar 30, 2023 (NASHVILLE) (2)
 * Kevin Morby - Recordbar - Fri, Apr 7 (KANSAS CITY) *
 * Bass Drum of Death w/Dead Tooth - Off Broadway - Thu Apr, 13
 * Sunny Day Real Estate - Pageant - Sun, Apr 16 *
@@ -28,12 +28,12 @@ I still go to a lot of concerts, here are the upcoming ones, and a promise: if y
 * The Interrupters & Frank Turner & The Sleeping Souls w/Bedouin Soundclash - Pageant - Sat, May 20 
 * shame w/Been Stellar - Off Broadway - Fri, May 26 *
 * Sisters of Mercy - Pageant - Mon, May 29 *
-* Flaming Lips playing Yoshimi Battles The Pink Robots - St Louis Music Park - Wed, Jun 14 -d
+* Flaming Lips playing Yoshimi Battles The Pink Robots - St Louis Music Park - Wed, Jun 14 (2)
 * Off With Their Heads w/Single Mothers - Red Flag - Thu, Jun 29
-* The Hold Steady w/The Mountain Goats, Dillinger Four - The Salt Shed - Sat, Jul 1 (CHICAGO) -d
+* The Hold Steady w/The Mountain Goats, Dillinger Four - The Salt Shed - Sat, Jul 1 (CHICAGO) (2) 
 * The Smile - The Factory - Thu, Jul 20
 * Sylvan Esso w/Indigo De Souza - Pageant - Thu, Aug 17 * 
-* Gonerfest 20 - OSEES w/Gories, The Mummies, plus many more - Goner - Thu, Sep 28 - Sun, Oct 1 (MEMPHIS) -d
+* Gonerfest 20 - OSEES w/Gories, The Mummies, plus many more - Goner - Thu, Sep 28 - Sun, Oct 1 (MEMPHIS) (2)
 
 #### Past
 
