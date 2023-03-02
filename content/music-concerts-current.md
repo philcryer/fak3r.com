@@ -28,6 +28,7 @@ I still go to a lot of concerts, here are the upcoming ones, and a promise: if y
 * The Interrupters & Frank Turner & The Sleeping Souls w/Bedouin Soundclash - Pageant - Sat, May 20 
 * shame w/Been Stellar - Off Broadway - Fri, May 26 *
 * Sisters of Mercy - Pageant - Mon, May 29 *
+* Flaming Lips playing Yoshimi Battles The Pink Robots - St Louis Music Park - Wed, Jun 14 -d
 * Off With Their Heads w/Single Mothers - Red Flag - Thu, Jun 29
 * The Hold Steady w/The Mountain Goats, Dillinger Four - The Salt Shed - Sat, Jul 1 (CHICAGO) -d
 * The Smile - The Factory - Thu, Jul 20
