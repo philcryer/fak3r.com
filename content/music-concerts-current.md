@@ -19,9 +19,9 @@ I still go to a lot of concerts, here are the upcoming ones, and a promise: if y
 * Magnetic Fields w/Lomelda - City Winery - Mon, Mar 27 (2) 
 * Bikini Kill w/Hurry Up - Marathon Music Works - Thu Mar 30, 2023 (NASHVILLE) (2)
 * Kevin Morby - Recordbar - Fri, Apr 7 (KANSAS CITY) *
-* Bass Drum of Death w/Dead Tooth - Off Broadway - Thu Apr, 13
+* An Evening with The English Beat - Delmar Hall - Wed, Apr 12 *
 * Sunny Day Real Estate - Pageant - Sun, Apr 16 *
-* Bikini Kill - The Salt Shed - Sat, Apr 22 (CHICAGO)
+* Bikini Kill w/Ganser - The Salt Shed - Sat, Apr 22 (CHICAGO)
 * OFF! - Off Broadway - Tue, May 9
 * OFF! - Recordbar - Wed, May 10 (KANSAS CITY) *
 * The Bouncing Souls w/Samiam, Swingin' Utter$, PET NEEDS - Delmar Hall - Fri, May 12 
@@ -33,7 +33,7 @@ I still go to a lot of concerts, here are the upcoming ones, and a promise: if y
 * The Hold Steady w/The Mountain Goats, Dillinger Four - The Salt Shed - Sat, Jul 1 (CHICAGO) (2) 
 * The Smile - The Factory - Thu, Jul 20
 * Sylvan Esso w/Indigo De Souza - Pageant - Thu, Aug 17 * 
-* Gonerfest 20 - OSEES w/Gories, The Mummies, plus many more - Goner - Thu, Sep 28 - Sun, Oct 1 (MEMPHIS) (2)
+* Gonerfest 20 - OSEES w/Gories, The Mummies, many more - Goner - Thu, Sep 28 - Sun, Oct 1 (MEMPHIS) (2)
 
 #### Past
 
