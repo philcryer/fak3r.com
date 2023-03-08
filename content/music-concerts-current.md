@@ -25,6 +25,7 @@ I still go to a lot of concerts, here are the upcoming ones, and a promise: if y
 * OFF! - Off Broadway - Tue, May 9
 * OFF! - Recordbar - Wed, May 10 (KANSAS CITY) *
 * The Bouncing Souls w/Samiam, Swingin' Utter$, PET NEEDS - Delmar Hall - Fri, May 12 
+* Man or Astro-Man? - Duck Room - Sun, May 14 *
 * The Interrupters & Frank Turner & The Sleeping Souls w/Bedouin Soundclash - Pageant - Sat, May 20 
 * shame w/Been Stellar - Off Broadway - Fri, May 26 *
 * Sisters of Mercy - Pageant - Mon, May 29 *
