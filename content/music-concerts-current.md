@@ -12,14 +12,13 @@ I still go to a lot of concerts, here are the upcoming ones, and a promise: if y
 
 ### 2023
 
-* Flatfoot 56 w/The Rumjacks, The Drowns, Criminal Kids - Reggie's - Sat, Mar 11 (CHICAGO)
 * The Dollyrots w/The Von Tramps - Old Rock House - Tue, Mar 14 *
 * Drive-By Truckers w/Margo Cilker - Pageant - Sat, Mar 18 * 
 * Quasi w/Bat Fangs - Off Broadway - Fri, Mar 24 (2) 
 * Magnetic Fields w/Lomelda - City Winery - Mon, Mar 27 (2) 
 * Bikini Kill w/Hurry Up - Marathon Music Works - Thu Mar 30, 2023 (NASHVILLE) (2)
 * Kevin Morby - Recordbar - Fri, Apr 7 (KANSAS CITY) *
-* An Evening with The English Beat - Delmar Hall - Wed, Apr 12 *
+* An Evening with The English Beat - Delmar Hall - Wed, Apr 12
 * Sunny Day Real Estate - Pageant - Sun, Apr 16 *
 * Bikini Kill w/Ganser - The Salt Shed - Sat, Apr 22 (CHICAGO)
 * OFF! - Off Broadway - Tue, May 9
@@ -41,3 +40,4 @@ I still go to a lot of concerts, here are the upcoming ones, and a promise: if y
 
 * Radkey, w/Bruiser Queen, Bad Investments, New Car Scent - Rose Music Hall - Sat, Jan 14 (COLUMBIA)
 * Radkey w/The Many Colored Death, Bruiser Queen, The Haddonfields - Red Flag - Fri, Feb 3
+* Flatfoot 56 w/The Rumjacks, The Drowns, Criminal Kids - Reggie's - Sat, Mar 11 (CHICAGO)
