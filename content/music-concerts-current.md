@@ -21,8 +21,8 @@ I still go to a lot of concerts, here are the upcoming ones, and a promise: if y
 * An Evening with The English Beat - Delmar Hall - Wed, Apr 12
 * Sunny Day Real Estate - Pageant - Sun, Apr 16 *
 * Bikini Kill w/Ganser - The Salt Shed - Sat, Apr 22 (CHICAGO)
-* OFF! - Off Broadway - Tue, May 9
-* OFF! - Recordbar - Wed, May 10 (KANSAS CITY) *
+* OFF! w/Upchuck - Off Broadway - Tue, May 9
+* OFF! w/Upchuck - Recordbar - Wed, May 10 (KANSAS CITY) *
 * The Bouncing Souls w/Samiam, Swingin' Utter$, PET NEEDS - Delmar Hall - Fri, May 12 
 * Man or Astro-Man? - Duck Room - Sun, May 14 *
 * The Interrupters & Frank Turner & The Sleeping Souls w/Bedouin Soundclash - Pageant - Sat, May 20 
@@ -36,6 +36,8 @@ I still go to a lot of concerts, here are the upcoming ones, and a promise: if y
 * The Smile - The Factory - Thu, Jul 20
 * Sylvan Esso w/Indigo De Souza - Pageant - Thu, Aug 17 * 
 * Gonerfest 20 - OSEES w/Gories, The Mummies, many more - Goner - Thu, Sep 28 - Sun, Oct 1 (MEMPHIS) (2)
+* Amyl And The Sniffers w/Die Spitz - Pageant - Wed, Oct 25 *
+
 
 #### Past
 
