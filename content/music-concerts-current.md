@@ -12,8 +12,6 @@ I still go to a lot of concerts, here are the upcoming ones, and a promise: if y
 
 ### 2023
 
-* The Dollyrots w/The Von Tramps - Old Rock House - Tue, Mar 14 *
-* Drive-By Truckers w/Margo Cilker - Pageant - Sat, Mar 18 * 
 * Quasi w/Bat Fangs - Off Broadway - Fri, Mar 24 (2) 
 * Magnetic Fields w/Lomelda - City Winery - Mon, Mar 27 (2) 
 * Bikini Kill w/Hurry Up - Marathon Music Works - Thu Mar 30, 2023 (NASHVILLE) (2)
@@ -36,7 +34,7 @@ I still go to a lot of concerts, here are the upcoming ones, and a promise: if y
 * The Smile - The Factory - Thu, Jul 20
 * Sylvan Esso w/Indigo De Souza - Pageant - Thu, Aug 17 * 
 * Gonerfest 20 - OSEES w/Gories, The Mummies, many more - Goner - Thu, Sep 28 - Sun, Oct 1 (MEMPHIS) (2)
-* Amyl And The Sniffers w/Die Spitz - Pageant - Wed, Oct 25 *
+* Amyl And The Sniffers w/Die Spitz - Pageant - Wed, Oct 25
 
 
 #### Past
