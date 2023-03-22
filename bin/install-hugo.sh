@@ -1,34 +1,35 @@
 #!/bin/bash
-
 set -e
 
-# Install Hugo or upgrade a newer version
+### Install Hugo or upgrade to the latest version for Linux 64bit
+### 03.20.2023
 
-# Figure out the lastest version of Hugo
-LATEST=$(curl https://github.com/gohugoio/hugo/releases/latest | cut -d"/" -f8 | cut -d"v" -f2 | cut -d"\"" -f1)
-HUGO_VERSION="${LATEST}"
+# Get the URL for the latest version of Hugo from github's API
+latest_hugo_url=$(curl https://api.github.com/repos/gohugoio/hugo/releases/latest) | grep "Linux-64bit.tar.gz"); echo "."
 
-# Or choose a specific version
-#HUGO_VERSION=0.17
+# Download the latest version of Hugo
+cd /tmp; echo "."
+wget --progress=dot ${latest_hugo_url}; echo "."
 
-if [ `uname` == "Darwin" ]; then
-  HUGO_EXEC="hugo_${HUGO_VERSION}_macOS-`uname -m|cut -d"_" -f2`bit"
-else
-  HUGO_EXEC="hugo_${HUGO_VERSION}_`uname`-`uname -m|cut -d"_" -f2`bit"
+# Prepare users bin directory
+if [ ! -d "${HOME}/bin" ]; then
+    mkdir -p ${HOME}/bin
 fi
+echo "."
 
-cd /tmp; wget -O ${HUGO_EXEC}.tar.gz "https://github.com/spf13/hugo/releases/download/v${HUGO_VERSION}/${HUGO_EXEC}.tar.gz"
+# Unpack downloaded archive
+tar xvzf /tmp/hugo_*.tar.gz; echo "."
 
-tar xvzf ${HUGO_EXEC}.tar.gz
+# Make hugo execuable
+chmod 755 /tmp/hugo; echo "."
 
-if [ ! -d "$HOME/bin" ]; then
-    mkdir $HOME/bin
-fi
+# Install hugo to users bin directory
+mv /tmp/hugo ${HOME}/bin; echo "."
 
-mv hugo $HOME/bin/hugo
+# Display hugo version
+echo "Installed: \n $(${HOME}/bin/hugo version)"
 
-chmod 755 $HOME/bin/hugo
-
-rm -rf ${HUGO_EXEC}*
+# Cleanup download
+rm -rf /tmp/hugo*
 
 exit 0
