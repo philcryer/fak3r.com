@@ -30,6 +30,7 @@ I still go to a lot of concerts, here are the upcoming ones, and a promise: if y
 * The Smile - The Factory - Thu, Jul 20
 * Sylvan Esso w/Indigo De Souza - Pageant - Thu, Aug 17 * 
 * Gonerfest 20 - OSEES w/Gories, The Mummies, many more - Goner - Thu, Sep 28 - Sun, Oct 1 (MEMPHIS) (2)
+* Nick Cave (solo) - Ryman Auditorium - Tue, Oct 17 (NASHVILLE)
 * Amyl And The Sniffers w/Die Spitz - Pageant - Wed, Oct 25
 
 
