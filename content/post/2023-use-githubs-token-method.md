@@ -1,5 +1,5 @@
 ---
-title: "HOWTO using the new GitHub token method"
+title: "HOWTO use GitHub's token method"
 summary: "GitHub have turned off ssh authentication, here's a new way to do it that is almost as easy"
 date: "2023-04-03T05:34:11-05:00"
 Tags: ["development", "howto"]
