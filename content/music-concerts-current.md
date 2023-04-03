@@ -12,7 +12,7 @@ I still go to a lot of concerts, here are the upcoming ones, and a promise: if y
 
 ### 2023
 
-* Unknown Mortal Orchestra - Pageant - Thu, Apr *
+* Unknown Mortal Orchestra - Pageant - Thu, Apr 6 *
 * Kevin Morby - Recordbar - Fri, Apr 7 (KANSAS CITY) *
 * An Evening with The English Beat - Delmar Hall - Wed, Apr 12
 * Bikini Kill w/Ganser - The Salt Shed - Sat, Apr 22 (CHICAGO)
