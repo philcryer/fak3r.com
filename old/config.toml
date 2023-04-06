@@ -2,6 +2,8 @@ baseurl = "https://fak3r.com"
 languageCode = "en-us"
 title = "fak3r"
 theme = "lithium"
+#googleAnalytics = ""
+#disqusShortname = ""
 disableKinds = ["taxonomy", "taxonomyTerm", "section", "404"]
 
 [permalinks]
@@ -20,19 +22,32 @@ disableKinds = ["taxonomy", "taxonomyTerm", "section", "404"]
 [[menu.main]]
     name = "Contact"
     url = "/contact/"
+#[[menu.main]]
+#    name = "Onion site"
+#    url = "http://ypc326vsdovry7dvgulcej67covlvx74nbndrvynuea5mqwz7rwzpaqd.onion/"
+#[[menu.main]]
+#    name = "GitHub"
+#    url = ""
+#[[menu.main]]
+#    name = "Twitter"
+#    url = ""
 
 [params]
+# mainSections = ["post"]
     description = "slower traffic keep right"
+
+    # path to the favicon, under "static"
     favicon = "favicon.ico"
 
-[params.logo]
+    [params.logo]
     url = "logo.png"
     width = 50
     height = 50
     alt = "Logo"
 
-[params.icon]
+    [params.icon]
+    #url = "favicon.ico"
     url = "logo.png"
 
-[markup.goldmark.renderer]
+    [markup.goldmark.renderer]
     unsafe = true
