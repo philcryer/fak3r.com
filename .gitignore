@@ -2,10 +2,11 @@
 Thumbs.db
 db.json
 *.log
+*.lock
 node_modules/
 public/
 .deploy*/
+deploy/
 data/
 site.conf
 devel/
-public/
