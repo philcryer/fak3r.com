@@ -12,9 +12,6 @@ I still go to a lot of concerts, here are the upcoming ones, and a promise: if y
 
 ### 2023
 
-* Unknown Mortal Orchestra - Pageant - Thu, Apr 6 *
-* Kevin Morby - Recordbar - Fri, Apr 7 (KANSAS CITY) *
-* An Evening with The English Beat - Delmar Hall - Wed, Apr 12 (2)
 * Bass Drum of Death w/Dead Tooth - Off Broadway - Thu, Apr 13
 * Bikini Kill w/Ganser - The Salt Shed - Sat, Apr 22 (CHICAGO) (2)
 * Buy Her Candy w/The Centaurettes, Alee Scarlet (Metro Trans Umbrella Group Fundraiser) - Off Broadway - Sat, May 6 *
@@ -22,6 +19,7 @@ I still go to a lot of concerts, here are the upcoming ones, and a promise: if y
 * OFF! w/Upchuck - Recordbar - Wed, May 10 (KANSAS CITY) *
 * The Bouncing Souls w/Samiam, Swingin' Utter$, PET NEEDS - Delmar Hall - Fri, May 12 
 * Man or Astro-Man? - Duck Room - Sun, May 14 *
+* Wednesday w/ Cryogeyser - Off Broadway - Thu, May 18 (2)
 * The Interrupters & Frank Turner & The Sleeping Souls w/Bedouin Soundclash - Pageant - Sat, May 20 
 * shame w/Been Stellar - Off Broadway - Fri, May 26 *
 * Sisters of Mercy - Pageant - Mon, May 29 *
@@ -45,3 +43,4 @@ I still go to a lot of concerts, here are the upcoming ones, and a promise: if y
 * Flatfoot 56 w/The Rumjacks, The Drowns, Criminal Kids - Reggie's - Sat, Mar 11 (CHICAGO)
 * Quasi w/Bat Fangs - Off Broadway - Fri, Mar 24
 * Magnetic Fields w/Lomelda - City Winery - Mon, Mar 27
+* An Evening with The English Beat - Delmar Hall - Wed, Apr 12
