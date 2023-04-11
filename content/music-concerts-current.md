@@ -31,6 +31,7 @@ I still go to a lot of concerts, here are the upcoming ones, and a promise: if y
 * Off With Their Heads w/Single Mothers - Red Flag - Thu, Jun 29
 * The Hold Steady w/The Mountain Goats, Dillinger Four - The Salt Shed - Sat, Jul 1 (CHICAGO) (2) 
 * The Smile - The Factory - Thu, Jul 20
+* Julia Jacklin w/Macie Stewart - Off Broadway - Thu, Jul 27 *
 * Sylvan Esso w/Indigo De Souza - Pageant - Thu, Aug 17 * 
 * Gonerfest 20 - OSEES w/Gories, The Mummies, many more - Goner - Thu, Sep 28 - Sun, Oct 1 (MEMPHIS) (2)
 * Nick Cave (solo) - Ryman Auditorium - Tue, Oct 17 (NASHVILLE) (2)
