@@ -25,3 +25,4 @@ I've published my best of lists for years, here linked to the specific post for 
 * [2019](/2019/12/20/best-music-of-2019/)
 * [2020](/2020/12/23/best-music-of-2020/)
 * [2021](/2021/12/31/best-music-of-2021/)
+* [2022](/2022/12/22/best-music-of-2022/)
