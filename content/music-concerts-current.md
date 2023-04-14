@@ -12,8 +12,6 @@ I still go to a lot of concerts, here are the upcoming ones, and a promise: if y
 
 ### 2023
 
-* An Evening with The English Beat - Delmar Hall - Wed, Apr 12
-* Bass Drum of Death w/Dead Tooth - Off Broadway - Thu, Apr 13
 * Bikini Kill w/Ganser - The Salt Shed - Sat, Apr 22 (CHICAGO) (2)
 * Buy Her Candy w/The Centaurettes, Alee Scarlet (Metro Trans Umbrella Group Fundraiser) - Off Broadway - Sat, May 6 *
 * OFF! w/Upchuck - Off Broadway - Tue, May 9
@@ -32,7 +30,7 @@ I still go to a lot of concerts, here are the upcoming ones, and a promise: if y
 * Off With Their Heads w/Single Mothers - Red Flag - Thu, Jun 29
 * The Hold Steady w/The Mountain Goats, Dillinger Four - The Salt Shed - Sat, Jul 1 (CHICAGO) (2) 
 * The Smile - The Factory - Thu, Jul 20
-* Julia Jacklin w/Macie Stewart - Off Broadway - Thu, Jul 27 *
+* Julia Jacklin w/Macie Stewart - Off Broadway - Thu, Jul 27 (2)
 * Sylvan Esso w/Indigo De Souza - Pageant - Thu, Aug 17 * 
 * Gonerfest 20 - OSEES w/Gories, The Mummies, many more - Goner - Thu, Sep 28 - Sun, Oct 1 (MEMPHIS) (2)
 * Nick Cave (solo) - Ryman Auditorium - Tue, Oct 17 (NASHVILLE) (2)
@@ -45,3 +43,5 @@ I still go to a lot of concerts, here are the upcoming ones, and a promise: if y
 * Flatfoot 56 w/The Rumjacks, The Drowns, Criminal Kids - Reggie's - Sat, Mar 11 (CHICAGO)
 * Quasi w/Bat Fangs - Off Broadway - Fri, Mar 24
 * Magnetic Fields w/Lomelda - City Winery - Mon, Mar 27
+* An Evening with The English Beat - Delmar Hall - Wed, Apr 12
+* Bass Drum of Death w/Dead Tooth - Off Broadway - Thu, Apr 13
