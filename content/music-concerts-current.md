@@ -24,6 +24,7 @@ I still go to a lot of concerts, here are the upcoming ones, and a promise: if y
 * Sisters of Mercy - Pageant - Mon, May 29 *
 * Meet Me @ The Altar - Duck Room - Mon, May 29 *
 * Bad Cop / Bad Cop w/The Last Gang, Jon Snodgrass - Off Broadway - Thu, Jun 1 *
+* Drain w/Drug Church, Gel - Duck Room - Thu, Jun 1*
 * Waco Brothers w/The Paranoid Style, Town Cars (Twangfest) - Off Broadway - Sat, Jun 10 *
 * Flaming Lips playing Yoshimi Battles The Pink Robots - St Louis Music Park - Wed, Jun 14 (2)
 * Protomartyr - Off Broadway - Jun 24 *
@@ -32,6 +33,8 @@ I still go to a lot of concerts, here are the upcoming ones, and a promise: if y
 * The Smile - The Factory - Thu, Jul 20
 * Julia Jacklin w/Macie Stewart - Off Broadway - Thu, Jul 27 (2)
 * Sylvan Esso w/Indigo De Souza - Pageant - Thu, Aug 17 * 
+* Flogging Molly w/The Bronx - Pageant - Tue, Sep 12 *
+* Explosions In The Sky - Pageant - Thu, Sep 21 *
 * Gonerfest 20 - OSEES w/Gories, The Mummies, many more - Goner - Thu, Sep 28 - Sun, Oct 1 (MEMPHIS) (2)
 * Nick Cave (solo) - Ryman Auditorium - Tue, Oct 17 (NASHVILLE) (2)
 * Amyl And The Sniffers w/Die Spitz - Pageant - Wed, Oct 25 *
