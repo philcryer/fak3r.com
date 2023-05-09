@@ -12,8 +12,6 @@ I still go to a lot of concerts, here are the upcoming ones, and a promise: if y
 
 ### 2023
 
-* Buy Her Candy w/The Centaurettes, Alee Scarlet (Metro Trans Umbrella Group Fundraiser) - Off Broadway - Sat, May 6 *
-* OFF! w/Upchuck - Off Broadway - Tue, May 9
 * The Bouncing Souls w/Samiam, Swingin' Utter$, PET NEEDS - Delmar Hall - Fri, May 12 
 * Man or Astro-Man? - Duck Room - Sun, May 14 *
 * UltraBomb w/The Barstool Preachers - Old Rock House - Tue, May 16 
@@ -32,6 +30,7 @@ I still go to a lot of concerts, here are the upcoming ones, and a promise: if y
 * The Hold Steady w/The Mountain Goats, Dillinger Four - The Salt Shed - Sat, Jul 1 (CHICAGO) (2) 
 * The Smile - The Factory - Thu, Jul 20
 * Julia Jacklin w/Macie Stewart - Off Broadway - Thu, Jul 27 (2)
+* Sweeping Promises - Off Broadway - Tue, Aug 1 *
 * Sylvan Esso w/Indigo De Souza - Pageant - Thu, Aug 17 * 
 * Flogging Molly w/The Bronx - Pageant - Tue, Sep 12 *
 * Explosions In The Sky - Pageant - Thu, Sep 21 
@@ -50,3 +49,4 @@ I still go to a lot of concerts, here are the upcoming ones, and a promise: if y
 * Magnetic Fields w/Lomelda - City Winery - Mon, Mar 27
 * An Evening with The English Beat - Delmar Hall - Wed, Apr 12
 * Bass Drum of Death w/Dead Tooth - Off Broadway - Thu, Apr 13
+* OFF! w/Upchuck - Off Broadway - Tue, May 9
