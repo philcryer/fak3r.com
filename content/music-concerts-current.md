@@ -12,9 +12,7 @@ I still go to a lot of concerts, here are the upcoming ones, and a promise: if y
 
 ### 2023
 
-* The Bouncing Souls w/Samiam, Swingin' Utter$, PET NEEDS - Delmar Hall - Fri, May 12 
 * Man or Astro-Man? - Duck Room - Sun, May 14 *
-* UltraBomb w/The Barstool Preachers - Old Rock House - Tue, May 16 
 * Wednesday w/ Cryogeyser - Off Broadway - Thu, May 18 (2)
 * The Interrupters & Frank Turner & The Sleeping Souls w/Bedouin Soundclash - Pageant - Sat, May 20 
 * shame w/Been Stellar - Off Broadway - Fri, May 26 *
@@ -50,3 +48,4 @@ I still go to a lot of concerts, here are the upcoming ones, and a promise: if y
 * An Evening with The English Beat - Delmar Hall - Wed, Apr 12
 * Bass Drum of Death w/Dead Tooth - Off Broadway - Thu, Apr 13
 * OFF! w/Upchuck - Off Broadway - Tue, May 9
+* The Bouncing Souls w/Samiam, Swingin' Utter$, PET NEEDS - Delmar Hall - Fri, May 12 
