@@ -13,7 +13,7 @@ I still go to a lot of concerts, here are the upcoming ones; all in the Saint Lo
 ### 2023
 
 * Valerie June - City Winery - Wed, May 31
-* Bad Cop / Bad Cop w/The Last Gang, Jon Snodgrass - Off Broadway - Thu, Jun 1 *
+* Bad Cop / Bad Cop w/The Last Gang, Jon Snodgrass - Off Broadway - Thu, Jun 1 
 * Drain w/Drug Church, Gel - Duck Room - Thu, Jun 1 *
 * The Cure - United Center - Sat, Jun 10 (CHICAGO) *
 * Waco Brothers w/The Paranoid Style, Town Cars (Twangfest) - Off Broadway - Sat, Jun 10 *
