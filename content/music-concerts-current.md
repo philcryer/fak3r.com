@@ -6,21 +6,16 @@ nodate = true
 nopaging = true
 +++
 
-I still go to a lot of concerts, here are the upcoming ones, and a promise: if you see me at a show and say hi I will buy you a drink of your choice. These are all in the Saint Louis, MO (USA) region, unless otherwise specified. 
+I still go to a lot of concerts, here are the upcoming ones; all in the Saint Louis, MO (USA) region, unless otherwise specified. If you see me at a show and say hi, first round is on me!
 
 \* means I don't have a tickets yet
 
 ### 2023
 
-* Man or Astro-Man? - Duck Room - Sun, May 14 *
-* Wednesday w/ Cryogeyser - Off Broadway - Thu, May 18 (2)
-* The Interrupters & Frank Turner & The Sleeping Souls w/Bedouin Soundclash - Pageant - Sat, May 20 
-* shame w/Been Stellar - Off Broadway - Fri, May 26 *
-* Sisters of Mercy - Pageant - Mon, May 29 *
-* Meet Me @ The Altar - Duck Room - Mon, May 29 *
+* Valerie June - City Winery - Wed, May 31
 * Bad Cop / Bad Cop w/The Last Gang, Jon Snodgrass - Off Broadway - Thu, Jun 1 *
 * Drain w/Drug Church, Gel - Duck Room - Thu, Jun 1 *
-* The Cure - United Center - Sat, Jun 20 (CHICAGO) *
+* The Cure - United Center - Sat, Jun 10 (CHICAGO) *
 * Waco Brothers w/The Paranoid Style, Town Cars (Twangfest) - Off Broadway - Sat, Jun 10 *
 * Flaming Lips playing Yoshimi Battles The Pink Robots - St Louis Music Park - Wed, Jun 14 (2)
 * Protomartyr - Off Broadway - Jun 24 *
@@ -49,3 +44,5 @@ I still go to a lot of concerts, here are the upcoming ones, and a promise: if y
 * Bass Drum of Death w/Dead Tooth - Off Broadway - Thu, Apr 13
 * OFF! w/Upchuck - Off Broadway - Tue, May 9
 * The Bouncing Souls w/Samiam, Swingin' Utter$, PET NEEDS - Delmar Hall - Fri, May 12 
+* Wednesday w/ Cryogeyser - Off Broadway - Thu, May 18
+* The Interrupters & Frank Turner & The Sleeping Souls w/Bedouin Soundclash, Radkey - Pageant - Sat, May 20 
