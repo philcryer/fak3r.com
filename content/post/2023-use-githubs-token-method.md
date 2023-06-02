@@ -25,3 +25,4 @@ machine github.com login <login-id> password <token-password>
 ```
 
 So just plugin your GitHub username and your newly created GitHub token. That's it, now it "just works" as it did before for ssh authentication! All credit goes to the poster [buddemat's post](https://stackoverflow.com/revisions/68558789/2) on Stackoverflow!
+
