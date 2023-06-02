@@ -12,17 +12,17 @@ I'm a longtime [GitHub](https://github.com/) user and fan. The push to make this
 
 Create a new file `~/.netrc`
 
-Lock down `~/.netrc` so only you can read it:
-
-```
-chmod 0600 ~/.netrc
-```
-
 Add the following contents:
 
 ```
 machine github.com login <login-id> password <token-password>
 ```
 
-So just plugin your GitHub username and your newly created GitHub token. That's it, now it "just works" as it did before for ssh authentication! All credit goes to the poster [buddemat's post](https://stackoverflow.com/revisions/68558789/2) on Stackoverflow!
+Lock that file down so only you can read it:
+
+```
+chmod 0600 ~/.netrc
+```
+
+So plugin your GitHub username and your newly created GitHub token to that file. That's it, now it "just works" as it did before for ssh authentication! All credit goes to the poster [buddemat's post](https://stackoverflow.com/revisions/68558789/2) on Stackoverflow!
 
