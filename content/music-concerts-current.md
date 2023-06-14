@@ -12,23 +12,18 @@ I still go to a lot of concerts, here are the upcoming ones; all in the Saint Lo
 
 ### 2023
 
-* Valerie June - City Winery - Wed, May 31
-* Bad Cop / Bad Cop w/The Last Gang, Jon Snodgrass - Off Broadway - Thu, Jun 1 
-* Drain w/Drug Church, Gel - Duck Room - Thu, Jun 1 *
-* The Cure - United Center - Sat, Jun 10 (CHICAGO) *
-* Waco Brothers w/The Paranoid Style, Town Cars (Twangfest) - Off Broadway - Sat, Jun 10 *
-* Flaming Lips playing Yoshimi Battles The Pink Robots - St Louis Music Park - Wed, Jun 14 (2)
-* Protomartyr - Off Broadway - Jun 24 *
+* Supersuckers w/The Delta Bombers, The Franklin County Trucking Company - Tue, Jun 27
 * Off With Their Heads w/Single Mothers - Red Flag - Thu, Jun 29
 * The Hold Steady w/The Mountain Goats, Dillinger Four - The Salt Shed - Sat, Jul 1 (CHICAGO) (2) 
 * The Smile - The Factory - Thu, Jul 20
 * Julia Jacklin w/Macie Stewart - Off Broadway - Thu, Jul 27 (2)
-* Sweeping Promises - Off Broadway - Tue, Aug 1 *
+* Sweeping Promises - Off Broadway - Tue, Aug 1 (2)
 * Sylvan Esso w/Indigo De Souza - Pageant - Thu, Aug 17 * 
 * Flogging Molly w/The Bronx - Pageant - Tue, Sep 12 *
 * Explosions In The Sky - Pageant - Thu, Sep 21 
 * The Gaslight Anthem - The Factory - Sat Sep 23 *
 * Gonerfest 20 - OSEES w/Gories, The Mummies, many more - Goner - Thu, Sep 28 - Sun, Oct 1 (MEMPHIS) (2)
+* Broken Social Scene (20 Years of You Forgot It In People) - Pageant - Thu, Oct 5 (2)
 * Dehd w/Sarah Grace White - Off Broadway - Fri, Oct. 6 *
 * Nick Cave (solo) - Ryman Auditorium - Tue, Oct 17 (NASHVILLE) (2)
 * Amyl And The Sniffers w/Die Spitz - Pageant - Wed, Oct 25 *
@@ -46,3 +41,6 @@ I still go to a lot of concerts, here are the upcoming ones; all in the Saint Lo
 * The Bouncing Souls w/Samiam, Swingin' Utter$, PET NEEDS - Delmar Hall - Fri, May 12 
 * Wednesday w/ Cryogeyser - Off Broadway - Thu, May 18
 * The Interrupters & Frank Turner & The Sleeping Souls w/Bedouin Soundclash, Radkey - Pageant - Sat, May 20 
+* Valerie June - City Winery - Wed, May 31
+* Bad Cop / Bad Cop w/The Last Gang, Jon Snodgrass - Off Broadway - Thu, Jun 1 
+* Flaming Lips playing Yoshimi Battles The Pink Robots - St Louis Music Park - Wed, Jun 14
