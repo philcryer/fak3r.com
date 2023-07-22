@@ -16,7 +16,7 @@ I still go to a lot of concerts, here are the upcoming ones; all in the Saint Lo
 * Sweeping Promises - Off Broadway - Tue, Aug 1 (2)
 * Sylvan Esso w/Indigo De Souza - Pageant - Thu, Aug 17 * 
 * Flogging Molly w/The Bronx - Pageant - Tue, Sep 12 *
-* Explosions In The Sky - Pageant - Thu, Sep 21 
+* Explosions In The Sky - Pageant - Thu, Sep 21 (2)
 * The Gaslight Anthem - The Factory - Sat Sep 23 *
 * Gonerfest 20 - OSEES w/Gories, The Mummies, more - Goner - Thu, Sep 28 - Sun, Oct 1 (MEMPHIS) (2)
 * Broken Social Scene (20 Years of You Forgot It In People) - Pageant - Thu, Oct 5 (2)
