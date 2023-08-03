@@ -12,8 +12,6 @@ I still go to a lot of concerts, here are the upcoming ones; all in the Saint Lo
 
 ### 2023
 
-* Julia Jacklin w/Macie Stewart - Off Broadway - Thu, Jul 27 (2)
-* Sweeping Promises - Off Broadway - Tue, Aug 1 (2)
 * Sylvan Esso w/Indigo De Souza - Pageant - Thu, Aug 17 * 
 * Flogging Molly w/The Bronx - Pageant - Tue, Sep 12 *
 * Explosions In The Sky - Pageant - Thu, Sep 21 (2)
@@ -41,6 +39,8 @@ I still go to a lot of concerts, here are the upcoming ones; all in the Saint Lo
 * Bad Cop / Bad Cop w/The Last Gang, Jon Snodgrass - Off Broadway - Thu, Jun 1 
 * Flaming Lips playing Yoshimi Battles The Pink Robots - St Louis Music Park - Wed, Jun 14
 * Supersuckers w/The Delta Bombers, The Franklin County Trucking Company - Tue, Jun 27
-* Off With Their Heads w/Single Mothers - Red Flag - Thu, Jun 29
+* Off With Their Heads w/Single Mothers, Pleasure Center, STILL - Red Flag - Thu, Jun 29
 * The Hold Steady w/The Mountain Goats, Dillinger Four - The Salt Shed - Sat, Jul 1 (CHICAGO)
 * The Smile - The Factory - Thu, Jul 20
+* Julia Jacklin w/Macie Stewart - Off Broadway - Thu, Jul 27
+* Sweeping Promises w/The Soup Anarchists - Off Broadway - Tue, Aug 1
