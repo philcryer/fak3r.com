@@ -13,13 +13,14 @@ I still go to a lot of concerts, here are the upcoming ones; all in the Saint Lo
 ### 2023
 
 * Flogging Molly w/The Bronx - Pageant - Tue, Sep 12 *
-* Explosions In The Sky - Pageant - Thu, Sep 21 (2)
+* Jeff Rosenstock w/Sidney Gish, Gladie - Delmar Hall - Sun, Sep 17 x
+* Explosions In The Sky - Pageant - Thu, Sep 21 x
 * The Gaslight Anthem - The Factory - Sat Sep 23 *
-* Gonerfest 20 - OSEES w/Gories, The Mummies, more - Goner - Thu, Sep 28 - Sun, Oct 1 (MEMPHIS) (2)
-* Broken Social Scene (20 Years of You Forgot It In People) - Pageant - Thu, Oct 5 (2)
+* Gonerfest 20 - OSEES w/Gories, The Mummies, more - Goner - Thu, Sep 28 - Sun, Oct 1 (MEMPHIS) x
+* Broken Social Scene (20 Years of You Forgot It In People) - Pageant - Thu, Oct 5 x
 * Dehd w/Sarah Grace White - Off Broadway - Fri, Oct. 6 *
 * Bad Religion - The Factory - Sat, Oct 14 
-* Nick Cave (solo) - Ryman Auditorium - Tue, Oct 17 (NASHVILLE) (2)
+* Nick Cave (solo) - Ryman Auditorium - Tue, Oct 17 (NASHVILLE) x
 * Amyl And The Sniffers w/Die Spitz - Pageant - Wed, Oct 25
 
 #### Past
