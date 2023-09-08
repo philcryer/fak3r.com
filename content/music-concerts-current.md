@@ -12,7 +12,6 @@ I still go to a lot of concerts, here are the upcoming ones; all in the Saint Lo
 
 ### 2023
 
-* Flogging Molly w/The Bronx - Pageant - Tue, Sep 12 *
 * Jeff Rosenstock w/Sidney Gish, Gladie - Delmar Hall - Sun, Sep 17 x
 * Explosions In The Sky - Pageant - Thu, Sep 21 x
 * The Gaslight Anthem - The Factory - Sat Sep 23 *
@@ -22,6 +21,7 @@ I still go to a lot of concerts, here are the upcoming ones; all in the Saint Lo
 * Bad Religion - The Factory - Sat, Oct 14 
 * Nick Cave (solo) - Ryman Auditorium - Tue, Oct 17 (NASHVILLE) x
 * Amyl And The Sniffers w/Die Spitz - Pageant - Wed, Oct 25
+* Screaming Females w/Lip Critic & Rodeo Boys - Off Broadway - Sat, Nov 4 x
 
 #### Past
 
