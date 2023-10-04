@@ -8,8 +8,6 @@ nopaging = true
 
 I still go to a lot of concerts, here are the upcoming ones; all in the Saint Louis, MO (USA) region, unless otherwise specified. If you see me at a show and say hi, first round is on me!
 
-\* means I don't have a tickets yet
-
 ### 2023
 
 * Bad Religion - The Factory - Sat, Oct 14 
