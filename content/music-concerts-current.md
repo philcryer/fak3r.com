@@ -12,7 +12,6 @@ I still go to a lot of concerts, here are the upcoming ones; all in the Saint Lo
 
 ### 2023
 
-* Dehd w/Sarah Grace White - Off Broadway - Fri, Oct. 6 *
 * Bad Religion - The Factory - Sat, Oct 14 
 * Nick Cave (solo) - Ryman Audiorium - Tue, Oct 17 (NASHVILLE) x
 * Amyl And The Sniffers w/Die Spitz - Pageant - Wed, Oct 25
