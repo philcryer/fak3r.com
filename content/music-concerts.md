@@ -17,7 +17,7 @@ nopaging = true
 * Bass Drum of Death w/Dead Tooth - Off Broadway - Thu, Apr 13
 * OFF! w/Upchuck - Off Broadway - Tue, May 9
 * The Bouncing Souls w/Samiam, Swingin' Utter$, PET NEEDS - Delmar Hall - Fri, May 12 
-* Wednesday w/ Cryogeyser - Off Broadway - Thu, May 18
+* Wednesday w/Cryogeyser - Off Broadway - Thu, May 18
 * The Interrupters & Frank Turner & The Sleeping Souls w/Bedouin Soundclash, Radkey - Pageant - Sat, May 20 
 * Valerie June - City Winery - Wed, May 31
 * Bad Cop / Bad Cop w/The Last Gang, Jon Snodgrass - Off Broadway - Thu, Jun 1 
@@ -42,7 +42,7 @@ nopaging = true
 * Hiss Golden Messenger - Off Broadway - Tue, Mar 8
 * Radkey w/Fight Back Mountain, Monocles - Red Flag - Fri, Mar 11
 * The Dollyrots w/The Haddonfields - Old Rock House - Mar 16
-* The Dangerous Summer w/Dialogue and Uncanny Valley - Off Broadway - Thu, Apr 7
+* The Dangerous Summer w/Dialogue, Uncanny Valley - Off Broadway - Thu, Apr 7
 * The English Beat w/Murder City Players - Delmar Hall - Fri, Apr 8
 * Bad Cop/Bad Cop w/Drakulas, FEA - Off Broadway - Mon, Apr 11
 * Screaming Females w/GHÖSH - Off Broadway - Tue, Apr 26
@@ -86,7 +86,7 @@ nopaging = true
 * Planet Booty - Red Flag - Tue, Nov 2
 * Lucero w/Morgan Wade - Old Rock House - Thu, Nov 4
 * The Lemonheads w/Heyrocco, The Haddonfields - Red Flag - Fri, Nov 12
-* Lilly Hiatt and Lydia Loveless - Off Broadway - Sat, Nov 13
+* Lilly Hiatt w/Lydia Loveless - Off Broadway - Sat, Nov 13
 * Teenage Bottlerocket w/The Last Gang (US), Tightwire - recordBar - Tue, Nov 16 (KANSAS CITY)
 * Alkaline Trio w/War On Women - The Pageant - Wed, Nov 17
 * Silversun Pickups w/Zella Day - Pageant - Thu, Nov 18
@@ -127,7 +127,7 @@ Thanks to Covid-19 for ending that year early.
 * Erika Wennerstrom (Heartless Bastards) - Off Broadway - Wed, Jul 3
 * The Flaming Lips w/Vertical Horizon - VP Fair, the Arch - Sat, Jul 6
 * Built To Spill: Keep It Like A Secret Tour - Ready Room - Mon, Jul 8
-* TWRP and Protomen - Lincoln Hall - Fri, Jul 12 (CHICAGO)
+* TWRP w/Protomen - Lincoln Hall - Fri, Jul 12 (CHICAGO)
 * Supersuckers - Fubar - Tues, Jul 16
 * Sebadoh - Ready Room - Wed, Jul 17
 * Snail Mail w/SASAMI - Off Broadway - Thur, Jul 18
@@ -143,7 +143,7 @@ Thanks to Covid-19 for ending that year early.
 * Tycho w/Poolside - Pageant - Thur, Sept 26
 * Lucero w/The Huntress and Holder of Hands - Off Broadway - Thur, Oct 3
 * Luna (performing Penthouse) - Off Broadway - Fri, Oct 11 
-* Mudhoney w/Kid Congo and the Pink Monkey Birds, and Porcupine - Off Broadway - Mon, Oct 14
+* Mudhoney w/Kid Congo and the Pink Monkey Birds, Porcupine - Off Broadway - Mon, Oct 14
 * Justin Townes Earle w/Cerney Brothers - Rose Music Hall - Thur, Oct 17 (COLUMBIA)
 * Sleater-Kinney - Pageant - Tues, Nov 5
 * Black Belt Eagle Scout - Foam - Wed, Nov 6
@@ -203,7 +203,7 @@ Thanks to Covid-19 for ending that year early.
 * Screaming Females w/Street Eaters - Off Broadway - Tues, Oct 3
 * Jason Isbell - Ryman Auditorium - Sat, Oct 14 (Nashville)
 * (CONFLICT) Luna - Off Broadway - Sat, Nov 4
-* Swinging Utters w/Western Settings and Sweat Shop - Duck Room - Tues, Nov 7
+* Swinging Utters w/Western Settings, Sweat Shop - Duck Room - Tues, Nov 7
 * Morrissey - Peabody - Wed, Nov 22
 * Colter Wall - Off Broadway - Sat, Dec 2
 * Portugal. The Man w/Vance Joy - Peabody - Thur, Dec 14
