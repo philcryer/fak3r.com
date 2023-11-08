@@ -5,4 +5,4 @@
 
 2024
 
-* Jeff Rosenstock w/Sidney Gish, Gladie - Delmar Hall - ???, Apr ?? x
+* Jeff Rosenstock w/Sidney Gish, Gladie - Delmar Hall - Sun, Apr 7
