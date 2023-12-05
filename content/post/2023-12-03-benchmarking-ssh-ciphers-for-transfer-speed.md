@@ -10,9 +10,9 @@ draft: false
 
 I transfer files via [OpenSSH](https://www.openssh.com/) all the time using scp manually or in scripts to move files between systems or servers, and with files getting larger all the time, I'm always interested in making transfers faster. Since I'm on my home network (with remote nodes securely connected over a [Tailscale](https://tailscale.com/) network (watch for an upcoming post on that)), I'm happy to sacrafice a little security (encryption) to gain some speed, so I set out to bechmark SSH transfers to find the fastest cipher in terms of performance to use for SSH tranfers. Years ago we'd default to blowfish or arcfour, but since those don't offer much security, newer versions of OpenSSH don't include those anymore.
 
-So first up I wanted to see what ciphers were available to the version of OpenSSH I was running, and on Debian 12 it is currently: `OpenSSH_9.5p1, OpenSSL 3.1.4 24 Oct 2023`. 
+So first up I wanted to see what ciphers were available to the version of OpenSSH I was running, and on Debian 12 it is currently: `OpenSSH_9.5p1, OpenSSL 3.1.4 24 Oct 2023`
 
-Getting a list of cipher is a simple query:
+Getting a list of ciphers for that the installed version is a simple query:
 
 ```
 > ssh -Q ciphers
