@@ -6,3 +6,11 @@ Disallow: /
 User-agent: *
 Disallow: 
 
+# chatgpt
+User-agent: GPTBot
+Disallow: /
+
+# google bard
+User-agent: Google-Extended
+Disallow: /
+
