@@ -1,5 +1,6 @@
 ANOHNI and the Johnsons: My Back Was a Bridge for You to Cross
 Bass Drum of Death "Say I Won't"
+CIVIC "Taken By Force"
 Indigo De Souza - All of This Will End
 Do Nothing "Snake Sideways"
 Four Tet "Live at Alexandra Palace London, 24th May 2023"
