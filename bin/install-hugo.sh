@@ -4,6 +4,7 @@ set -e
 ### Install Hugo or upgrade to the latest version for Linux 64bit
 ### 03.20.2023
 
+
 # Get the URL for the latest version of Hugo from github's API
 latest_hugo_url=$(curl https://api.github.com/repos/gohugoio/hugo/releases/latest) | grep "Linux-64bit.tar.gz"); echo "."
 
