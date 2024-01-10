@@ -30,9 +30,11 @@ nopaging = true
 * Sweeping Promises w/The Soup Anarchists - Off Broadway - Tue, Aug 1
 * Explosions In The Sky w/FISTER - Pageant - Thu, Sep 21 
 * Gonerfest 20 - OSEES, The Kids, The Exbats, Jack Of Heart, Alien NoseJob, CIVIC, Sweeping Promises, C.O.F.F.I.N., Skull Practitioners, Tee Vee Repairmann, Ibex Clone, 1-800-Mikey, The Mummies, The Marked Men, The Courettes, Poison Ruïn, Bill Orcutt/Chris Corsano, King Louie Memorial Family Band, Lewsberg, Cool Jerks, Dippers - Railgarten - Thu, Sep 28 - Sun, Oct 1 (MEMPHIS) 
-* Bad Religion - The Factory - Sat, Oct 14 
+* Bad Religion w/The Dwarfs - The Factory - Sat, Oct 14 
 * Nick Cave (solo) - Ryman Audiorium - Tue, Oct 17 (NASHVILLE)
 * Amyl And The Sniffers w/Die Spitz - Pageant - Wed, Oct 25
+* Dwarves w/Direct Hit!, Ultraman - Red Flag - Sat, Nov 11
+
 
 ## 2022
 
