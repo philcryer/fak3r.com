@@ -11,7 +11,8 @@ draft: false
 		<figcaption>SSH and Windows, do we really have to? Well for work... yes. :sigh:</figcaption>
 	</figure>
 </div>
-I've worked with [OpenSSH](https://www.openssh.com/) and [posted about](https://duckduckgo.com/?q=openssh+site%3Afak3r.com) my experiences with it for about as long as I've been learning Linux, so easily 20+ years. It's an amazingly powerful tool that I still use everyday at on personal and work servers - and as with everything that ubiquitous and powerful, there's always more to learn. And okay, break... which is a huge part of how I learn.
+
+I've worked with [OpenSSH](https://www.openssh.com/) and [posted about my experiences with it](https://duckduckgo.com/?q=openssh+site%3Afak3r.com) for as long as I've been learning [Linux](https://www.linux.org/), so easily 20+ years. It's an amazingly powerful tool that I still use everyday on personal (all Linux/BSD) and work servers (Windows laptops and workstations, and Linux hosts) - and as with everything that ubiquitous and powerful, there's always more to learn. And okay, break... which is a huge part of how I learn.
 
 ## The issue
 
@@ -45,7 +46,7 @@ Load key "C:\\Users\\fak3r\\.ssh\\id_rsa": bad permissions
  
 While there are supposed ways to fix permissions/inheritances using [Powershell](https://learn.microsoft.com/en-us/powershell/) (see the 'Untested fix' section below), I didn't want to mess with that, but I decided to only use Powershell to fix my issue. It can generate the new SSH key, copy it key to the remote servers, and then connect to each host in Code. **Spoiler: it worked.**
  
-* To get started, I started Powershell, and used it to back up my currently worthless `.ssh` directory:
+* To get started, I started Powershell, and used it to back up my currently worthless ssh directory:
  
 ```
 cd ~
@@ -66,9 +67,9 @@ The key fingerprint is:
 ---snip---
 ```
  
-* Then I created and poplulated my `~/.ssh/config` to point to the new key, my username and the hosts I need to connect to. Again: DO NOT do any `chmod 0600 ~/.ssh/*` nonsense in git-bash or [cygwin](https://cygwin.com/), you'll be unhappy - trust me.
+* Then I created and poplulated my ~/.ssh/config to point to the new key, my username and the hosts I need to connect to. Again: DO NOT do any chmod 0600 ~/.ssh/* action using git-bash or [cygwin](https://cygwin.com/), you'll be unhappy - trust me.
  
-My `.ssh/config` for example
+My current/new .ssh/config:
  
 ```
 Host *
@@ -84,7 +85,7 @@ Host new-dev
 
 Pretty minimal but I want to get it working before I spice it up with the all the cool options; port forwarding, jumpbox examples, compression, etc.
  
-* Now my `~/.ssh` dir looked like this:
+* Now my ~/.ssh dir looked like this:
  
 ```
 PS C:\Users\fak3r> dir .ssh
@@ -98,7 +99,7 @@ Mode                 LastWriteTime         Length Name
 -a----          1/9/2024   3:11 PM            113 id_ed25519.pub
 ```
  
-* Next I copied my ssh key to each host, again using a more Windows native menthod instead of the ssh too `ssh-copy-id`, replacing `{IP-ADDRESS-OR-FQDN}` with Host or Hostname listed in `~/.ssh/config` for each host I want to connect to:
+* Next I copied my ssh key to each host, again using a more Windows native menthod instead of the ssh too ssh-copy-id, replacing {IP-ADDRESS-OR-FQDN} with Host or Hostname listed in ~/.ssh/config for each host I want to connect to:
  
 ```
 type $env:USERPROFILE\.ssh\id_ed25519.pub | ssh {IP-ADDRESS-OR-FQDN} "cat >> .ssh/authorized_keys"
@@ -116,7 +117,7 @@ I started Code, opened a remote connection, choose the host, all with the expect
  
 Online there was advice on how to re-orient permssions and inheritance on existing ssh keys you may have borked via Powershell, I didn't do this, but including it here in case it helps someone else who doesn't want to start fresh.
  
-* In Powershell - grant explicit read access, ineritance, and ownership to your ssh key(s) to your user (note: the ssh key name may be differnt than `id_ed25519`, the old default was `id_rsa` plus you can technically name it whatever you want, so salt to taste) while removing access to other users on the host:
+* In Powershell - grant explicit read access, ineritance, and ownership to your ssh key(s) to your user (note: the ssh key name may be differnt than id_ed25519, the old default was id_rsa plus you can technically name it whatever you want, so salt to taste) while removing access to other users on the host:
  
 ```
 # Set Key File Variable:
