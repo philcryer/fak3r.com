@@ -12,7 +12,7 @@ draft: false
 	</figure>
 </div>
 
-I've worked with [OpenSSH](https://www.openssh.com/) and [posted about my experiences with it](https://duckduckgo.com/?q=openssh+site%3Afak3r.com) for as long as I've been learning [Linux](https://www.linux.org/), so easily 20+ years. It's an amazingly powerful tool that I still use everyday on personal (all Linux/BSD) and work servers (Windows laptops and workstations, and Linux hosts) - and as with everything that ubiquitous and powerful, there's always more to learn. And okay, break... which is a huge part of how I learn.
+I've worked with [OpenSSH](https://www.openssh.com/) and [posted about my experiences with it](https://duckduckgo.com/?q=openssh+site%3Afak3r.com) for as long as I've been learning [Linux](https://www.linux.org/), so easily 20+ years. It's an amazingly powerful tool that I still use everyday on personal (all Linux and [BSD](https://en.wikipedia.org/wiki/Berkeley_Software_Distribution) hosts) and work servers (Windows laptops and workstations, and Linux hosts). Now with everything that ubiquitous and powerful, there's always more to learn...and sure okay, to break, which is a way I learn. Always has been, always will be.
 
 ## The issue
 
@@ -146,4 +146,4 @@ Online there was advice on how to re-orient permssions and inheritance on existi
 
 ## Conclusion
 
-While I'm not a big Powershell user/fan, I can appreciate when it needs to be used. In this case I didn't want to risk using any Linux/*nix style commands that may confuse things, plus I only used Powershell to do one of my favorite things; get off a Windows host. (devil face emoji)
+While I'm not a big Powershell user/fan, I can appreciate when it needs to be used. In this case I didn't want to risk using any Linux/*nix style commands that may confuse things, plus I only used Powershell to do one of my favorite things; get off a Windows host. (devil face emoji) Applesause.
