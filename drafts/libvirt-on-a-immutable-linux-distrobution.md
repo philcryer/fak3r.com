@@ -21,9 +21,6 @@ sudo apt install distrobox
 To run libvirt/qemu/kvm we need a systemd container and we need a rootful container to be able to use it, see this tip to have a list of compatible images. We will use in this example AlmaLinux 8:
 
 
-
-Distrobox now allows users to unshare certain locations on your filesystem. In its default mode the following shares are created, devsysfs, ipc, netns, process, $HOME and Application access. 
-
 distrobox create --root --image docker.io/debian:12 --name debian-libvirt --init --unshare-all -Y
 #--additional-packages "systemd podman libvirt"
 
@@ -44,14 +41,14 @@ Port 2222" | sudo tee -a /etc/ssh/sshd_config
 
 :~> distrobox enter --root libvirtd-container
 :~$ # We're now inside the container
-:~$ sudo dnf groupinstall "Virtualization Host" --allowerasing -y
+:~$ sudo dnf groupinstall "Virtualization Host" --allowerasing 
 ...
 :~$ sudo systemctl enable --now libvirtd
 
 Now we need to allow host to connect to the guest's libvirt session, we will use ssh for it:
 
 :~$ # We're now inside the container
-:~$ sudo dnf install openssh-server -y
+:~$ sudo dnf install openssh-server
 :-$ echo "ListenAddress 127.0.0.1
 Port 2222" | sudo tee -a /etc/ssh/sshd_config
 :-$ sudo systemctl enable --now sshd
@@ -74,4 +71,7 @@ flatpak run org.virt_manager.virt-viewer
 
 Otherwise if you search for it on your desktop you'll want to launch 'Remote Viewer'. Unsure about the name change, but it's fine. 
 
+
+flatpak install flathub org.remmina.Remmina -y
+flatpak run org.remmina.Remmina
 
