@@ -1,12 +1,13 @@
-2024
+2024 (* means haven't bought tickets)
 
-* Dropkick Murphys - w/Pennywise, The Scratch - The Factory - Mon, Feb 26 *  
+* Dropkick Murphys - w/Pennywise, The Scratch - The Factory - Mon, Feb 26
 
 * Flatfoot 56 w/Tsunami Bomb, Dylan Walshe, Something To Do, Loss Leader - Reggie's - Sat, Mar 9 - (Chicago)
 * Alkaline Trio w/Drug Church - Pageant - Sun, Mar 17
 * Less Than Jake w/Strung Out, Raging Nathans - Mar 27 (Bloomington, IL)  
 
 * Jeff Rosenstock w/Sidney Gish, Gladie - Delmar Hall - Sun, Apr 7
+* Soft Kill - Off Broadway - Apr 14 * 
 * Better Lovers w/SeeYouSpaceCowboy, Foreign Hands, Greyhaven - Off Broadway - Fri Apr 19
 
 (out of town April 20-27)
@@ -17,3 +18,4 @@
 * The Chats w/Dirty Fences, Paint Fumes - Off Broadway - Fri, May 17
 
 * IDLES - Aragon Ballroom - Wed, Sep 18 (Chicago)
+
