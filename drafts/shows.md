@@ -3,7 +3,7 @@
 ## April
 
 * Better Lovers w/SeeYouSpaceCowboy, Foreign Hands, Greyhaven - Off Broadway - Fri Apr 19
-* Modern Life Is War w/The Gorge, Blight Future - Off Broadway - Sat, Apr 20 * https://www.ticketweb.com/event/modern-life-is-war-off-broadway-tickets/13531223
+* Modern Life Is War w/The Gorge, Blight Future - Off Broadway - Sat, Apr 20 [Tickets](https://www.ticketweb.com/event/modern-life-is-war-off-broadway-tickets/13531223)
 
 ## May
 
@@ -20,7 +20,7 @@
 ## July
 
 * Guided by Voices w/Wishy - HI-FI Annex - Fri, Jul 19 (Indianapolis)
-* Fruit Bats - Big Top - Sat, Jul 20 * https://www.metrotix.com/events/detail/jamo-presents-fruit-bats
+* Fruit Bats - Big Top - Sat, Jul 20 [Tickets](https://www.metrotix.com/events/detail/jamo-presents-fruit-bats)
 
 ## September
 
