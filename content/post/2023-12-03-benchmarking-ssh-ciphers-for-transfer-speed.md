@@ -31,25 +31,29 @@ chacha20-poly1305@openssh.com
 
 That’s easy enough, but of course I don’t want to manually test each of those, so I looked for a quick way to automate the task. I found a post on [Systuorials](https://www.systutorials.com/improving-sshscp-performance-by-choosing-ciphers/#comment-28725) where a user came up with a simple one-liner to do this. I liked the idea and the approach, negating a bunch of outside elements like network latency to just understand which cipher would be the fastest. Of course their solution included a list of ciphers for their environment, which failed when I ran it since my available cipers are different. To fix this I took their script, combined my ssh -Q query to dynamically populate the list of ciphers so anyone could use this, and it worked. I’m pretty happy with the resulting output, making it simple to figure out which cipher to call out when transferring files to make them a bit quicker.
 
-Here is the one-liner, edit it to include a valid user and hostname in place of `user@remotehost`, and run it:
+Here is the one-liner, edit it to include a valid user and hostname in place of `fak3r@remotehost`, and run it:
 
 ```
-for i in $(ssh -Q ciphers | while read row; do printf "$row "; done); do ssh -c $i user@remotehost "dd if=/dev/zero bs=1000000 count=10 2> /dev/null" 2> /dev/null | ( time -p cat > /dev/null ) 2>&1 | grep real | awk '{print "'$i': "1000 / $2" MB/s" }'; done
+for i in $(ssh -Q ciphers | while read row; do printf "$row "; done); do ssh -c $i fak3r@remotehost "dd if=/dev/zero bs=1000000 count=10 2> /dev/null" 2> /dev/null | ( time -p cat > /dev/null ) 2>&1 | grep real | awk '{print "'$i': "1000 / $2" MB/s" }'; done
 ```
 
 When I run it on my system I get the following:
 
 ```
-aes128-ctr: 529.101 MB/s
-aes192-ctr: 526.316 MB/s
-aes256-ctr: 512.821 MB/s
-aes128-gcm@openssh.com: 534.759 MB/s
-aes256-gcm@openssh.com: 523.56 MB/s
-chacha20-poly1305@openssh.com: 239.808 MB/s
+3des-cbc: 10000 MB/s
+aes128-cbc: 9090.91 MB/s
+aes192-cbc: 9090.91 MB/s
+aes256-cbc: 8333.33 MB/s
+aes128-ctr: 869.565 MB/s
+aes192-ctr: 1052.63 MB/s
+aes256-ctr: 1063.83 MB/s
+aes128-gcm@openssh.com: 1123.6 MB/s
+aes256-gcm@openssh.com: 1086.96 MB/s
+chacha20-poly1305@openssh.com: 1098.9 MB/s
 ```
 
-This tells us that aes128-gcm@openssh.com is the fastest cipher, so we just have to add -c aes128-gcm@openssh.com to the scp command to use that cipher.
+This tells us that `3des-cbc` is the fastest cipher in this case, so we just have to add `-c 3des-cbc` to the scp command to use that cipher.
 
 ```
-scp -c aes128-gcm@openssh.com -r some_file.tar.gz fak3r@remote_host:~/transfer
+scp -c 3des-cbc -r some_file.tar.gz fak3r@remotehost:~/transfer
 ```
