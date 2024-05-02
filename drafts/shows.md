@@ -4,7 +4,7 @@
 
 * Rickshaw Billie’s Burger Patrol w/Stay Sane, Kilverez - Sinkhole - Fri, May 3
 * Slowdive w/Drab Majesty - Pageant - Sat, May 4
-* The Alarm w/Jay Aston's Gene Loves Jezebel , Belouis Some - Delmar Hall - Mon, May 6 - POSTPONED
+* The Alarm w/Jay Aston's Gene Loves Jezebel , Belouis Some - Delmar Hall - Mon, May 6 - [POSTPONED]
 * Swans w/Kristof Hahn (Swans) - Delmar Hall - Fri, May 10
 * Willie Nelson & Family w/Robert Earl Keen - Whitewater Amphitheater - Sat, May 11 (New Braunfels, TX)
 * The Chats w/Dirty Fences, Paint Fumes - Off Broadway - Fri, May 17
@@ -52,4 +52,4 @@ Feeling Figures (Montreal, Canada)
 * Less Than Jake w/Strung Out, Raging Nathans - Mar 27 (Bloomington, IL)  
 * Jeff Rosenstock w/Sidney Gish, Gladie - Delmar Hall - Sun, Apr 7
 * Better Lovers w/SeeYouSpaceCowboy, Foreign Hands, Greyhaven - Off Broadway - Fri Apr 19
-* Modern Life Is War w/The Gorge, Blight Future - Off Broadway - Sat, Apr 20 [Tickets](https://www.ticketweb.com/event/modern-life-is-war-off-broadway-tickets/13531223)
+* Modern Life Is War w/The Gorge, Blight Future - Off Broadway - Sat, Apr 20 [CANCELLED]
