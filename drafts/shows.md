@@ -22,7 +22,7 @@
 
 ## September
 
-* Authority Zero w/Urethane - Duck Room - Sat, Sep 7 *
+* Authority Zero w/Urethane - Duck Room - Sat, Sep 7 [Tickets](https://blueberryhill.com/event/authority-zero-090724/)
 * IDLES - Aragon Ballroom - Wed, Sep 18 (Chicago)
 * Gonerfest 21 - Railgarten - Thu, Sep 26-29 (Memphis)
 bands annouced so far (4/5/2024):
