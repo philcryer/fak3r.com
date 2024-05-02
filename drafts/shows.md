@@ -12,7 +12,7 @@
 ## June
 
 * Flatfoot 56 w/The Uppers - Off Broadway - Sat, Jun 1
-* Bad Copy/Bad Cop - Off Broadway - Sun, Jun 2
+* Bad Copy/Bad Cop - Off Broadway - Sun, Jun 2 [Tickets](https://www.ticketweb.com/event/bad-cop-bad-cop-off-broadway-tickets/13411114?REFID=clientsitewp)
 * Cosmic Psychos w/Nine Pound Hammer - Duck Room - Fri, Jun 14
 
 ## July
@@ -22,6 +22,7 @@
 
 ## September
 
+* Authority Zero w/Urethane - Duck Room - Sat, Sep 7 *
 * IDLES - Aragon Ballroom - Wed, Sep 18 (Chicago)
 * Gonerfest 21 - Railgarten - Thu, Sep 26-29 (Memphis)
 bands annouced so far (4/5/2024):
