@@ -12,6 +12,7 @@
 ## June
 
 * Flatfoot 56 w/The Uppers - Off Broadway - Sat, Jun 1
+* Bad Copy/Bad Cop - Off Broadway - Sun, Jun 2
 * Cosmic Psychos w/Nine Pound Hammer - Duck Room - Fri, Jun 14
 
 ## July
