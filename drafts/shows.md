@@ -4,7 +4,7 @@
 
 * Rickshaw Billie’s Burger Patrol w/Stay Sane, Kilverez - Sinkhole - Fri, May 3
 * Slowdive w/Drab Majesty - Pageant - Sat, May 4
-* The Alarm w/Jay Aston's Gene Loves Jezebel , Belouis Some - Delmar Hall - Mon, May 6 - [POSTPONED]
+* The Alarm w/Jay Aston's Gene Loves Jezebel , Belouis Some - Delmar Hall - Mon, May 6 [POSTPONED]
 * Swans w/Kristof Hahn (Swans) - Delmar Hall - Fri, May 10
 * Willie Nelson & Family w/Robert Earl Keen - Whitewater Amphitheater - Sat, May 11 (New Braunfels, TX)
 * The Chats w/Dirty Fences, Paint Fumes - Off Broadway - Fri, May 17
