@@ -2,11 +2,6 @@
 
 ## May
 
-* Rickshaw Billie’s Burger Patrol w/Stay Sane, Kilverez - Sinkhole - Fri, May 3
-* Slowdive w/Drab Majesty - Pageant - Sat, May 4
-* The Alarm w/Jay Aston's Gene Loves Jezebel , Belouis Some - Delmar Hall - Mon, May 6 [POSTPONED]
-* Swans w/Kristof Hahn (Swans) - Delmar Hall - Fri, May 10
-* Willie Nelson & Family w/Robert Earl Keen - Whitewater Amphitheater - Sat, May 11 (New Braunfels, TX)
 * The Chats w/Dirty Fences, Paint Fumes - Off Broadway - Fri, May 17
 
 ## June
@@ -51,6 +46,11 @@ Feeling Figures (Montreal, Canada)
 * Dropkick Murphys - w/Pennywise, The Scratch - The Factory - Mon, Feb 26
 * Flatfoot 56 w/Tsunami Bomb, Dylan Walshe, Something To Do, Loss Leader - Reggie's - Sat, Mar 9 - (Chicago)
 * Alkaline Trio w/Drug Church - Pageant - Sun, Mar 17
+* Rickshaw Billie’s Burger Patrol w/Stay Sane, Kilverez - Sinkhole - Fri, May 3
+* Slowdive w/Drab Majesty - Pageant - Sat, May 4
+* The Alarm w/Jay Aston's Gene Loves Jezebel , Belouis Some - Delmar Hall - Mon, May 6 [POSTPONED]
+* Swans w/Kristof Hahn (Swans) - Delmar Hall - Fri, May 10
+* Willie Nelson & Family w/Robert Earl Keen - Whitewater Amphitheater - Sat, May 11 (New Braunfels, TX)
 * Less Than Jake w/Strung Out, Raging Nathans - Mar 27 (Bloomington, IL)  
 * Jeff Rosenstock w/Sidney Gish, Gladie - Delmar Hall - Sun, Apr 7
 * Better Lovers w/SeeYouSpaceCowboy, Foreign Hands, Greyhaven - Off Broadway - Fri Apr 19
