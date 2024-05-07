@@ -41,6 +41,10 @@ Sex Mex (San Antonio, TX)
 R.F.M.C.  (Sydney, Australia)
 Feeling Figures (Montreal, Canada)
 
+## October
+
+* Quivers - Lincoln Hall - Oct 15 [Tickets](https://lh-st.com/shows/10-15-2024-superchunk/)
+
 ## Past
 
 * Dropkick Murphys - w/Pennywise, The Scratch - The Factory - Mon, Feb 26
