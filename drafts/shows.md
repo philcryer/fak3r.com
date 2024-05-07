@@ -43,7 +43,7 @@ Feeling Figures (Montreal, Canada)
 
 ## October
 
-* Quivers - Lincoln Hall - Oct 15 [Tickets](https://lh-st.com/shows/10-15-2024-superchunk/)
+* Quivers - Lincoln Hall - Oct 15 - (Chicago) [Tickets](https://lh-st.com/shows/10-15-2024-superchunk/)
 
 ## Past
 
