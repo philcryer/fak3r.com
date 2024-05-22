@@ -5,7 +5,10 @@ Tags: ["android", "linux"]
 Categories: ["privacy"] 
 draft: false
 ---
-![](/2024/me-and-graphene.jpg)
+<div align="center">
+	![](/2024/me-and-graphene.jpg)
+	<figcaption>It's alive! Graphene OS build 2024051600 booting on the Pixel 8a</figcaption>
+</div>
 
 I'm running [Graphene OS](https://grapheneos.org/), the "private and secure mobile operating system with Android app compatibility. Developed as a non-profit open source project", on my new [Google Pixel 8a](https://store.google.com/product/pixel_8a)), and it's going great. Not only does this address many long term concerns about online privacy *and* security, but it allows me full control over how exposed I am to online marketing, and more nefarious things.
 
