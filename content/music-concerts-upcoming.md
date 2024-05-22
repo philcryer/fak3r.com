@@ -1,3 +1,11 @@
++++
+date = "2019-07-07T18:39:12-05:00"
+title = "Music - Concerts (upcoming)"
+slug = "music-concerts-upcoming"
+nodate = true
+nopaging = true
++++
+
 # 2024
 
 ## June
@@ -59,7 +67,9 @@ Feeling Figures (Montreal, Canada)
 * Rickshaw Billie’s Burger Patrol w/Stay Sane, Kilverez - Sinkhole - Fri, May 3
 * Slowdive w/Drab Majesty - Pageant - Sat, May 4
 * The Alarm w/Jay Aston's Gene Loves Jezebel , Belouis Some - Delmar Hall - Mon, May 6 [POSTPONED]
-* Swans w/Kristof Hahn (Swans) - Delmar Hall - Fri, May 10
+* Swans w/Kristof Hahn (Swans) - Delmar Hall - Fri, May 10 [MISSED, out of town for Willie!]
 * Willie Nelson & Family w/Robert Earl Keen - Whitewater Amphitheater - Sat, May 11 (New Braunfels, TX)
 * The Chats w/Dirty Fences, Paint Fumes - Off Broadway - Fri, May 17
+
+[Concerts - Previous](/music-concerts)
 
