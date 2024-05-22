@@ -1,20 +1,22 @@
 # 2024
 
-## May
-
-* The Chats w/Dirty Fences, Paint Fumes - Off Broadway - Fri, May 17
-
 ## June
 
 * Flatfoot 56 w/The Uppers - Off Broadway - Sat, Jun 1
 * Bad Copy/Bad Cop - Off Broadway - Sun, Jun 2 
 * Cosmic Psychos w/Nine Pound Hammer - Duck Room - Fri, Jun 14
+* Whores. w/Venus Twins, Iron Linings - Red Flag - Mon, Jun 17 [Tickets](https://redflagstl.com/event/whores/red-flag/)
 
 ## July
 
 * Guided by Voices w/Wishy - HI-FI Annex - Fri, Jul 19 (Indianapolis)
 * Fruit Bats - Big Top - Sat, Jul 20 [Tickets](https://www.metrotix.com/events/detail/jamo-presents-fruit-bats)
 
+## August
+
+* Destroy Boys - Red Flag - Thu, Aug 01 [Tickets](https://redflagstl.com/event/destroy-boys-2/red-flag-mjp/)
+* Built to Spill - There's Nothing Wrong with Love (30th anniversary tour) - Red Flag - Sat, Aug 24 [Tickets](https://redflagstl.com/event/built-to-spill-theres-nothing-wrong-with-love-30th-anniversary-tour-2/red-flag-mjp/)
+* 
 ## September
 
 * Authority Zero w/Urethane - Duck Room - Sat, Sep 7 [Tickets](https://blueberryhill.com/event/authority-zero-090724/)
@@ -59,3 +61,5 @@ Feeling Figures (Montreal, Canada)
 * The Alarm w/Jay Aston's Gene Loves Jezebel , Belouis Some - Delmar Hall - Mon, May 6 [POSTPONED]
 * Swans w/Kristof Hahn (Swans) - Delmar Hall - Fri, May 10
 * Willie Nelson & Family w/Robert Earl Keen - Whitewater Amphitheater - Sat, May 11 (New Braunfels, TX)
+* The Chats w/Dirty Fences, Paint Fumes - Off Broadway - Fri, May 17
+
