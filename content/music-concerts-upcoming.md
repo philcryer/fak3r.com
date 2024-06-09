@@ -10,8 +10,6 @@ nopaging = true
 
 ## June
 
-* Flatfoot 56 w/The Uppers - Off Broadway - Sat, Jun 1
-* Bad Copy/Bad Cop - Off Broadway - Sun, Jun 2 
 * Cosmic Psychos w/Nine Pound Hammer - Duck Room - Fri, Jun 14
 * Whores. w/Venus Twins, Iron Linings - Red Flag - Mon, Jun 17 [Tickets](https://redflagstl.com/event/whores/red-flag/)
 
@@ -69,6 +67,8 @@ Feeling Figures (Montreal, Canada)
 * The Alarm w/Jay Aston's Gene Loves Jezebel , Belouis Some - Delmar Hall - Mon, May 6 [POSTPONED]
 * Swans w/Kristof Hahn (Swans) - Delmar Hall - Fri, May 10 [MISSED, out of town for Willie!]
 * Willie Nelson & Family w/Robert Earl Keen - Whitewater Amphitheater - Sat, May 11 (New Braunfels, TX)
+* Flatfoot 56 w/The Uppers - Off Broadway - Sat, Jun 1
+* Bad Copy/Bad Cop - Off Broadway - Sun, Jun 2 
 * The Chats w/Dirty Fences, Paint Fumes - Off Broadway - Fri, May 17
 
 [Concerts - Previous](/music-concerts)
