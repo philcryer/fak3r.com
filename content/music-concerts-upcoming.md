@@ -8,6 +8,17 @@ nopaging = true
 
 # 2024
 
+The Psychedelic Furs & The Jesus and Mary Chain at Stifel Theatre
+with Frankie Rose
+Sunday, October 20
+
+Rise Against
+Wed Oct 16, 2024 7:30 PM
+The Pageant | St Louis, MO
+
+
+
+
 ## June
 
 * Cosmic Psychos w/Nine Pound Hammer - Duck Room - Fri, Jun 14
