@@ -29,10 +29,10 @@ New:
 * Authority Zero w/Urethane - Duck Room - Sat, Sep 7 [Tickets](https://blueberryhill.com/event/authority-zero-090724/)
 * IDLES - Aragon Ballroom - Wed, Sep 18 (Chicago)
 * Gonerfest 21 - Railgarten - Thu, Sep 26-29 (Memphis)
-bands annouced so far (4/5/2024):
-The Rip Offs (SF, CA)
-Derv Gordon & So What (UK / US)
-Jon Spencer (NYC, NY)
+> bands annouced so far (4/5/2024):
+> The Rip Offs (SF, CA)
+> Derv Gordon & So What (UK / US)
+> Jon Spencer (NYC, NY)
 Gee Tee (Sydney, Australia)
 Etran dr L'Air (Agadez, Niger)
 Angel Face (Tokyo, Japan)
