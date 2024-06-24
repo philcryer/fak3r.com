@@ -8,21 +8,11 @@ nopaging = true
 
 # 2024
 
-The Psychedelic Furs & The Jesus and Mary Chain at Stifel Theatre
-with Frankie Rose
-Sunday, October 20
+New:
 
-Rise Against
-Wed Oct 16, 2024 7:30 PM
-The Pageant | St Louis, MO
-
-
-
-
-## June
-
-* Cosmic Psychos w/Nine Pound Hammer - Duck Room - Fri, Jun 14
-* Whores. w/Venus Twins, Iron Linings - Red Flag - Mon, Jun 17 [Tickets](https://redflagstl.com/event/whores/red-flag/)
+* Rise Against - Pageant - Wed, Oct 16
+* The Psychedelic Furs & The Jesus and Mary Chain w/Frankie Rose - Stifel Theatre - Sun, Oct 29
+* Craig Finn (solo) - Off Broadway - Mon, Nov 18 [Artist presale - June 25 @ 9am](https://www.ticketweb.com/event/craig-finn-solo-seated-show-off-broadway-tickets/13709023?REFID=clientsitewp)
 
 ## July
 
@@ -33,7 +23,7 @@ The Pageant | St Louis, MO
 
 * Destroy Boys - Red Flag - Thu, Aug 01 [Tickets](https://redflagstl.com/event/destroy-boys-2/red-flag-mjp/)
 * Built to Spill - There's Nothing Wrong with Love (30th anniversary tour) - Red Flag - Sat, Aug 24 [Tickets](https://redflagstl.com/event/built-to-spill-theres-nothing-wrong-with-love-30th-anniversary-tour-2/red-flag-mjp/)
-* 
+
 ## September
 
 * Authority Zero w/Urethane - Duck Room - Sat, Sep 7 [Tickets](https://blueberryhill.com/event/authority-zero-090724/)
@@ -62,7 +52,7 @@ Feeling Figures (Montreal, Canada)
 
 ## October
 
-* Quivers - Lincoln Hall - Oct 15 - (Chicago) [Tickets](https://lh-st.com/shows/10-15-2024-superchunk/)
+* Superchunk w/Quivers - Lincoln Hall - Oct 15 - (Chicago) [Tickets](https://lh-st.com/shows/10-15-2024-superchunk/)
 
 ## Past
 
@@ -81,6 +71,8 @@ Feeling Figures (Montreal, Canada)
 * Flatfoot 56 w/The Uppers - Off Broadway - Sat, Jun 1
 * Bad Copy/Bad Cop - Off Broadway - Sun, Jun 2 
 * The Chats w/Dirty Fences, Paint Fumes - Off Broadway - Fri, May 17
+* Cosmic Psychos w/Nine Pound Hammer - Duck Room - Fri, Jun 14
+* Whores. w/Venus Twins, Iron Linings - Red Flag - Mon, Jun 17
 
 [Concerts - Previous](/music-concerts)
 
