@@ -10,10 +10,13 @@ nopaging = true
 
 New:
 
+* X - Delmar Hall - Tue, Jul 9 - [tickets](https://www.thepageant.com/event/x-070924/)
+* St Louis City Punks Fest – A Celebration of Punk Rock & Soccer - Red Flag - Fri, Jul 26 [tickets](https://www.etix.com/ticket/p/40194032/st-louis-city-punks-fest-a-celebration-of-punk-rock-soccer-saint-louis-red-flag?partner_id=100&_ga=2.124448911.403947808.1719327367-507045291.1718737445)
+  - THE DISAPPEARED, FAMILY MEDICINE, THE UPPERS, PETTY GRIEVANCES and HOTEL PARTY
 * Rise Against - Pageant - Wed, Oct 16
 * The Psychedelic Furs & The Jesus and Mary Chain w/Frankie Rose - Stifel Theatre - Sun, Oct 29
-* Craig Finn (solo) - Off Broadway - Mon, Nov 18 [Artist presale - June 25 @ 9am](https://www.ticketweb.com/event/craig-finn-solo-seated-show-off-broadway-tickets/13709023?REFID=clientsitewp)
-
+* Craig Finn (solo) - Off Broadway - Mon, Nov 18
+  
 ## July
 
 * Guided by Voices w/Wishy - HI-FI Annex - Fri, Jul 19 (Indianapolis)
