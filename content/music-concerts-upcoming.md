@@ -14,6 +14,16 @@ VALERIE JUNE
 Sunday, November 10, 2024
 Duck Room https://blueberryhill.com/event/valerie-june/
 
+ MJ Lenderman & The Wind: Manning Fireworks Tour
+Ryan Davis & the Roadhouse Band
+Tue, Oct 8 2024
+Doors: 7:00 pm
+Show: @ 8:00 pm
+Off Broadway 
+  https://www.offbroadwaystl.com/event/13726783/mj-lenderman-the-wind-manning-fireworks-tour/
+
+  
+
 * X - Delmar Hall - Tue, Jul 9 - [tickets](https://www.thepageant.com/event/x-070924/)
 * St Louis City Punks Fest – A Celebration of Punk Rock & Soccer - Red Flag - Fri, Jul 26 [tickets](https://www.etix.com/ticket/p/40194032/st-louis-city-punks-fest-a-celebration-of-punk-rock-soccer-saint-louis-red-flag?partner_id=100&_ga=2.124448911.403947808.1719327367-507045291.1718737445)
   - THE DISAPPEARED, FAMILY MEDICINE, THE UPPERS, PETTY GRIEVANCES and HOTEL PARTY
