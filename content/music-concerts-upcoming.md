@@ -10,6 +10,15 @@ nopaging = true
 
 New:
 
+
+ STRFKR 
+Fri Sep 13 2024
+8:00 PM
+Atomic Pavilion
+4140 Manchester Ave St. Louis, MO 63110
+https://www.ticketweb.com/event/strfkr-atomic-pavilion-tickets/13756483
+
+
 VALERIE JUNE
 Sunday, November 10, 2024
 Duck Room https://blueberryhill.com/event/valerie-june/
