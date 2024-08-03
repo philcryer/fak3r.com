@@ -19,6 +19,7 @@ I use [Wasabi](https://wasabi.com/) for cloud storage, and this script I've deve
 * Since it's S3 compatible I don't have to install some GUI tool or have some sort of extention to my file manager to be able to use the service. This is a big deal because I want to setup a sync process to run backups, schedule it and just let it run, all doable via code
 * It's more affordable, partially because they don't charge for egress (download tranfers) whereas most other cloud storage does
   - Granted this is clearly [their own marketing](https://knowledgebase.wasabi.com/hc/en-us/articles/360002435072-How-does-the-cost-of-Wasabi-compare-to-the-true-cost-of-AWS-S3), in this example, "_$599/mo with Wasabi and over $3,500/mo with AWS S3* (AWS is 7x more expensive!)_"
+  - For ~1.5 TB I pay less than $15.00 USD per month
 * It supports [Aegis Authenticator](https://getaegis.app/) my preferred 2FA application
 
 so it uses a standard instead of trying to reinvent the wheel, it doesn't require any tools that you have to install, so it's something I can script and throw in cron (but actually systemd, but that's cover later).
