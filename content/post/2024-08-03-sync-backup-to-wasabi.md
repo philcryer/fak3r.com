@@ -1,5 +1,5 @@
 ---
-title: "Fixing SSH issues in Windows"
+title: "Sync or backup files to Wasabi Cloud Storage"
 date: "2024-08-03T07:42:19-05:00"
 Tags: ["backup", "rclone", "wasabi", "cloud-backup"]
 Categories: ["howto"] 
@@ -7,7 +7,7 @@ draft: false
 ---
 <figure>
 <div align="center" />
-    <img src="img/sync-or-backup-files-to-wasabi.png" alt="Sync or backup files to Wasabi" /><br />
+    <img src="/2024/sync-or-backup-files-to-wasabi.png" alt="Sync or backup files to Wasabi" /><br />
     <figcaption>Sync or backup files to Wasabi</figcaption>
 </div>
 </figure>
