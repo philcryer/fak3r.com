@@ -1,0 +1,50 @@
+#!/bin/bash
+
+blog_dir="src/content/blog"
+
+echo "==> Hugo to Astro migration"
+for file in $(ls "${blog_dir}"/*.md); do 
+	echo "    * file: ${file}"
+
+# remove div align
+#grep "<div align=" src/content/blog/2023-04-03-use-githubs-token-method.md | cut -d">" -f2,3,4,5,6,7,8,9
+# remove div close
+#done
+#exit 0
+	
+
+	echo "      - reformatting frontmatter: title"
+	sed -i "s/Title\:/title\:/g" ${file}
+	sed -i "/title:/s/\"/\'/g" ${file}
+
+	echo "      - reformatting frontmatter: date"
+	sed -i "s/date\:/pubDate\:/g" ${file}
+	sed -i "/pubDate:/s/\"/\'/g" ${file}
+	date_old="$(grep pubDate: ${file} | cut -d"\"" -f2 | cut -d"T" -f1 | cut -d"'" -f2)"
+	echo "        > ${date_old}"
+	date_new="$(date -d "${date_old}" +'%b %d %Y')"
+	echo "        > ${date_new}"
+	sed -i "/pubDate\:/c\pubDate\: '${date_new}'" ${file}
+
+	echo "      - reformatting frontmatter: summary"
+	sed -i "s/summary\:/description\:/g" ${file}
+
+	echo "      - reformatting frontmatter: description"
+	sed -i "s/Description\:/discription\:/g" ${file}
+
+	echo "      - reformatting frontmatter: description, adding if absent"
+	desc_check=$(grep -c "description:" ${file})
+	if [ "${desc_check}" == "0" ]; then
+		sed -i "3 i description: ''" ${file}
+	fi
+
+	echo "      - reformatting frontmatter: tags"
+	sed -i "/Tags:/s/\"/\'/g" ${file}
+	sed -i "s/Tags\:/tags\:/g" ${file}
+
+	echo "      - reformatting frontmatter: categories"
+	sed -i "/Categories:/s/\"/\'/g" ${file}
+	sed -i "s/Categories\:/categories\:/g" ${file}
+done
+
+exit 0

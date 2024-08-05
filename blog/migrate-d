@@ -1,0 +1,34 @@
+#!/bin/bash
+
+file=$(ls -1 src/content/blog/*.md)
+
+while read -r line; do
+
+echo "==> title"
+sed -i "s/Title\:/title\:/g" ${line}
+sed -i "/title:/s/\"/\'/g" ${line}
+
+echo "==> date"
+sed -i "s/date\:/pubDate\:/g" ${file}
+sed -i "/pubDate:/s/\"/\'/g" ${file}
+date_old=$(grep pubDate: ${file} | cut -d"\"" -f2 | cut -d"T" -f1 | cut -d"'" -f2) # | awk '{print $2}')
+date_new="$(date -d "${date_old}" +'%b %d %Y')"
+sed -i "/pubDate\:/c\pubDate\: '${date_new}'" ${file}
+
+echo "==> description"
+sed -i "s/Description\:/discription\:/g" ${file}
+desc_check=$(grep -c "description:" ${file})
+if [ "${desc_check}" == "0" ]; then
+	sed -i "3 i description: ''" ${file}
+fi
+
+echo "==> tags"
+sed -i "/Tags:/s/\"/\'/g" ${file}
+sed -i "s/Tags\:/tags\:/g" ${file}
+
+echo "==> categories"
+sed -i "/Categories:/s/\"/\'/g" ${file}
+sed -i "s/Categories\:/categories\:/g" ${file}
+done < "${file}"
+
+exit 0

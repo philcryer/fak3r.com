@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "package.json": "^2.0.1",
+    "prettier": "^3.3.3"
+  }
+}

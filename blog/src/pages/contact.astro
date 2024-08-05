@@ -1,0 +1,33 @@
+---
+import Layout from '../layouts/Page.astro';
+---
+
+<Layout
+	title="Contact"
+	description="Email is dead to me"
+	pubDate={new Date('August 08 2021')}
+	heroImage="hero/tech.png"
+>
+
+<h3>Follow me, or get in touch</h3>
+<p>
+    <img src="/contact/email.jpg">&nbsp;&nbsp;email <a href="http://fak3r.com">fak3r @ fak3r . com</a><br />
+<img src="/contact/freenode.png"  height="16" width="16">&nbsp;&nbsp;freenode <a href="https://www.freenode.net/">fak3r</a><br />
+<img src="/contact/twitter.bmp" >&nbsp;&nbsp;twitter <a href="https://twitter.com/fak3r" title="Twitter">fak3r</a> (deprecated, use Mastodon instead)<br />
+<img src="/contact/mastodon.png"  height="16" width="16">&nbsp;&nbsp;mastodon <a rel="me" href="https://mastodon.social/@fak3r" title="mastodon">fak3r</a><br />
+<img src="/contact/github.png" >&nbsp;&nbsp;github <a href="https://github.com/philcryer/" title="github">fak3r</a><br />
+<img src="/contact/lastfm.bmp" >&nbsp;&nbsp;lastfm <a href="http://www.last.fm/user/fak3r" title="LastFM">fak3r</a><br />
+<img src="/contact/flickr.png" >&nbsp;&nbsp;flickr <a href="https://flickr.com/photos/fak3r/sets/" title="Flickr">fak3r</a><br />
+<img src="/contact/bitcoin.png" >&nbsp;&nbsp;bitcoin <a href="https://blockchain.info/address/1AubVQPJ41SFThtKMHV7p7rYYRqGFQGPAu">1AubVQPJ41SFThtKMHV7p7rYYRqGFQGPAu</a><br />
+<img src="/contact/pgp.gif" >&nbsp;&nbsp;pgp public key fingerprint <a href="https://keybase.io/fak3r/key.asc">04A1 69CC A79F 7188</a>
+</p>
+<h3>Import my public key manually</h3>
+
+
+<p>`curl -sf https://fak3r.com/.well-known/pgpkey.txt | gpg --import`</p>
+
+
+<h3>Me, in real life</h3>
+<br />
+<img src="/contact/sigur_ros-logo.png" >
+</Layout>
