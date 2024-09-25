@@ -68,7 +68,7 @@ Feeling Figures (Montreal, Canada)
 ## 2025
 
 * REFUSED w/Quicksand - Tue, Mar 25 - The Salt Shed Indoors (Chicago)
-* Mogwai - Fri, Apr 18, 2025 - Varsity Theater (Minneapolis, Minnesota)
+* Mogwai - Fri, Apr 18, 2025 - Varsity Theater (Minneapolis)
 * Nick Cave & the Bad Seeds - Mon, May 05, 2025 - Music Hall (Kansas City)
 
 ## Past
