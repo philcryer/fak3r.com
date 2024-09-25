@@ -33,6 +33,7 @@ The DUI's
 * Tokyo Police Club w/Born Ruffians - Tues, Nov 05 - The Pageant [Tickets](https://www.ticketmaster.com/tokyo-police-club-saint-louis-missouri-11-05-2024/event/0600606590FC5676)
 * Valerie June - Sun, Nov 10 - Duck Room [Tickets](https://blueberryhill.com/event/valerie-june/)
 * Franz Ferdinand - Wed, Dec 11 - Pageant [Tickets](https://www.ticketmaster.com/1057-the-point-ho-ho-show-saint-louis-missouri-12-11-2024/event/0600613197341C08)
+* Out of the Blue Festival - Jan 4-7 - (Cancun, MX) [Tickets](https://www.outofthebluefestival.com/artists)
 
 ---
 
