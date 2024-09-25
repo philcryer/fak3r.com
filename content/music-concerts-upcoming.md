@@ -37,12 +37,7 @@ The DUI's
 ---
 
 ## Upcoming
-
-* The Highly Irresponsible Tour: Better Lovers w/Gouge Away , SPY , CLOAKROOM - Sat, Dec 7 - Delmar Hall
-  - No, do not protect my ticket purchase. I understand this decision may put my $69.70 spent on Better Lovers tickets at risk.
-* Rise Against - Pageant - Wed, Oct 16
-* The Psychedelic Furs & The Jesus and Mary Chain w/Frankie Rose - Stifel Theatre - Sun, Oct 29
-* Craig Finn (solo) - Off Broadway - Mon, Nov 18
+  
 * Gonerfest 21 - Railgarten - Thu, Sep 26-29 (Memphis)
 The Rip Offs (SF, CA)
 Derv Gordon & So What (UK / US)
@@ -63,7 +58,12 @@ Th' Losin Streaks (Sacramento, CA)
 Sex Mex (San Antonio, TX)
 R.F.M.C.  (Sydney, Australia)
 Feeling Figures (Montreal, Canada)
-
+* Rise Against - Pageant - Wed, Oct 16
+* The Psychedelic Furs & The Jesus and Mary Chain w/Frankie Rose - Stifel Theatre - Sun, Oct 29
+* Craig Finn (solo) - Off Broadway - Mon, Nov 18
+* The Highly Irresponsible Tour: Better Lovers w/Gouge Away , SPY , CLOAKROOM - Sat, Dec 7 - Delmar Hall
+  - No, do not protect my ticket purchase. I understand this decision may put my $69.70 spent on Better Lovers tickets at risk.
+    
 ## 2025
 
 * REFUSED w/Quicksand - Tue, Mar 25 - The Salt Shed Indoors (Chicago)
