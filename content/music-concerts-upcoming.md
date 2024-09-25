@@ -10,11 +10,30 @@ nopaging = true
 
 ## Potential
 
-* Franz Ferdinand - Wed, Dec 11 - Pageant [Tickets](https://www.ticketmaster.com/1057-the-point-ho-ho-show-saint-louis-missouri-12-11-2024/event/0600613197341C08)
-* Valerie June - Sun, Nov 10 - Duck Room [Tickets](https://blueberryhill.com/event/valerie-june/)
+* T1 Fest - Thu, Oct 10 / Fri, Oct 11 / Sat Oct 12 - Reggies (Chicago) [Tickets](https://www.ticketweb.com/event/the-5th-annual-t1-fest-reggies-rock-club-tickets/13861063)
+Sludgeworth
+Guttermouth
+Diesel Boy
+The Jasons
+The Bollweevils
+Go Betty Go
+Kepi Ghoulie Fully Electric
+The Regananomics
+Take The Reins
+Parasites
+Whatever...
+Geoff Palmer
+The Eradicator
+Violets
+Space Age Zeros
+Sex Dream
+Nifty Skullet
+The DUI's
 * MJ Lenderman & The Wind w/Ryan Davis & the Roadhouse Band - Tue, Oct 8 2024 - Off Broadway [Tickets](https://www.offbroadwaystl.com/event/13726783/mj-lenderman-the-wind-manning-fireworks-tour/)
 * Tokyo Police Club w/Born Ruffians - Tues, Nov 05 - The Pageant [Tickets](https://www.ticketmaster.com/tokyo-police-club-saint-louis-missouri-11-05-2024/event/0600606590FC5676)
-  
+* Valerie June - Sun, Nov 10 - Duck Room [Tickets](https://blueberryhill.com/event/valerie-june/)
+* Franz Ferdinand - Wed, Dec 11 - Pageant [Tickets](https://www.ticketmaster.com/1057-the-point-ho-ho-show-saint-louis-missouri-12-11-2024/event/0600613197341C08)
+
 ---
 
 ## Upcoming
@@ -25,7 +44,6 @@ nopaging = true
 * The Psychedelic Furs & The Jesus and Mary Chain w/Frankie Rose - Stifel Theatre - Sun, Oct 29
 * Craig Finn (solo) - Off Broadway - Mon, Nov 18
 * Gonerfest 21 - Railgarten - Thu, Sep 26-29 (Memphis)
-  > bands annouced so far (4/5/2024):
 The Rip Offs (SF, CA)
 Derv Gordon & So What (UK / US)
 Jon Spencer (NYC, NY)
@@ -45,6 +63,12 @@ Th' Losin Streaks (Sacramento, CA)
 Sex Mex (San Antonio, TX)
 R.F.M.C.  (Sydney, Australia)
 Feeling Figures (Montreal, Canada)
+
+## 2025
+
+* REFUSED w/Quicksand - Tue, Mar 25 - The Salt Shed Indoors (Chicago)
+* Mogwai - Fri, Apr 18, 2025 - Varsity Theater (Minneapolis, Minnesota)
+* Nick Cave & the Bad Seeds - Mon, May 05, 2025 - Music Hall (Kansas City)
 
 ## Past
 
