@@ -75,11 +75,14 @@ EMAIL=me@somewhere.com
 # If you want, you could change the nickname of your bridge
 #NICKNAME=DockerObfs4Bridge
 # If needed, activate additional variables processing
-#OBFS4_ENABLE_ADDITIONAL_VARIABLES=1
+OBFS4_ENABLE_ADDITIONAL_VARIABLES=1
 # and define desired torrc entries prefixed with OBFS4V_
 # For example:
-#OBFS4V_AddressDisableIPv6=1
+OBFS4V_AddressDisableIPv6=1
 ```
+
+> ![NOTE]
+> I'm not using IPv6 so I disabled it in the config, but keep it in if you're using it
 
 You can use [this service](https://bridges.torproject.org/scan/) to test if your port is forwarded correctly and if the obfs4 bridge port is reachable to the rest of the world.
 
@@ -118,7 +121,7 @@ You now have a Tor Relay setup and working, you can read some of the [post-insta
 
 <figure>
 <div align="center" />
-    <img src="/2024/the-dark-web.gif" alt="The dark web" /><br />
+    <img src="/2024/the-dark-web.gif" alt="The Dark Web!" /><br />
 </div>
 </figure>
 
@@ -128,6 +131,6 @@ To learn more about the benefits of this type of Tor bridge, read [Dissecting To
 
 <figure>
 <div align="center" />
-    <img src="/2024/wonderous.gif" alt="Wonderous" /><br />
+    <img src="/2024/wonderous.gif" alt="Wonderous!" /><br />
 </div>
 </figure>
