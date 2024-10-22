@@ -118,7 +118,16 @@ You now have a Tor Relay setup and working, you can read some of the [post-insta
 
 <figure>
 <div align="center" />
-    <img src="/2024/the-dark-web.jpg" alt="The dark web" /><br />
-    <figcaption>The Dark Web!</figcaption>
+    <img src="/2024/the-dark-web.gif" alt="The dark web" /><br />
+</div>
+</figure>
+
+## Further reading
+
+To learn more about the benefits of this type of Tor bridge, read [Dissecting Tor Bridges and Pluggable Transport – Part II: How Obfs4 Bridges Defeats Censorship](https://www.fortinet.com/blog/threat-research/dissecting-tor-bridges-pluggable-transport-part-2), and thanks for improving the Tor network and being part of the solution!
+
+<figure>
+<div align="center" />
+    <img src="/2024/wonderous.gif" alt="Wonderous" /><br />
 </div>
 </figure>
