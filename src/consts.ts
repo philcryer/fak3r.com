@@ -14,8 +14,7 @@ export type Link = {
 
 export const SITE: Site = {
   TITLE: 'fak3r',
-  DESCRIPTION:
-    'It\'s a good life if you don\'t weaken',
+  DESCRIPTION: "It's a good life if you don't weaken",
   EMAIL: 'fak3r @ fak3r . com',
   NUM_POSTS_ON_HOMEPAGE: 5,
   POSTS_PER_PAGE: 5,

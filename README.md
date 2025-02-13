@@ -20,13 +20,14 @@ astro-erudite is an opinionated, no-frills static blogging template built with [
 
 Below are some fantastic examples of websites based on this template. If you wish to add your site to this list, open a pull request!
 
-| Site | Author | Description/Features | Source |
-|------|--------|----------------------|--------|
-| [enscribe.dev](https://enscribe.dev) | [@jktrn](https://github.com/jktrn) | Heavily modified bento-style homepage with client interactivity, with custom MDX components! | [→](https://github.com/jktrn/enscribe.dev) |
-| [emile.sh](https://emile.sh) | [@echoghi](https://github.com/echoghi) | A minimalist personal blog using the [flexoki](https://stephango.com/flexoki) theme | [→](https://github.com/echoghi/v5) |
-| [decentparadox.me](https://decentparadox.me) | [@decentparadox](https://github.com/decentparadox) | A heavily customized personal portfolio with a sci-fi theme! | [→](https://github.com/decentparadox/decentparadox.me) |
-| [flocto.github.io](https://flocto.github.io/) | [@flocto](https://github.com/flocto) | A slightly modified personal blog | [→](https://github.com/flocto/flocto.github.io) |
-[dumbprism.me](https://www.dumbprism.me/) | [@dumbprism](https://github.com/dumbprism) | A customized portfolio inspired by enscribe's bento grid style adding my gist of UI |  [→](https://github.com/dumbprism/dumbprism-portfolio) |  
+| Site                                          | Author                                             | Description/Features                                                                         | Source                                                 |
+| --------------------------------------------- | -------------------------------------------------- | -------------------------------------------------------------------------------------------- | ------------------------------------------------------ |
+| [enscribe.dev](https://enscribe.dev)          | [@jktrn](https://github.com/jktrn)                 | Heavily modified bento-style homepage with client interactivity, with custom MDX components! | [→](https://github.com/jktrn/enscribe.dev)             |
+| [emile.sh](https://emile.sh)                  | [@echoghi](https://github.com/echoghi)             | A minimalist personal blog using the [flexoki](https://stephango.com/flexoki) theme          | [→](https://github.com/echoghi/v5)                     |
+| [decentparadox.me](https://decentparadox.me)  | [@decentparadox](https://github.com/decentparadox) | A heavily customized personal portfolio with a sci-fi theme!                                 | [→](https://github.com/decentparadox/decentparadox.me) |
+| [flocto.github.io](https://flocto.github.io/) | [@flocto](https://github.com/flocto)               | A slightly modified personal blog                                                            | [→](https://github.com/flocto/flocto.github.io)        |
+| [dumbprism.me](https://www.dumbprism.me/)     | [@dumbprism](https://github.com/dumbprism)         | A customized portfolio inspired by enscribe's bento grid style adding my gist of UI          | [→](https://github.com/dumbprism/dumbprism-portfolio)  |
+
 ## Features
 
 - [Astro](https://astro.build/)&rsquo;s [Islands](https://docs.astro.build/en/concepts/islands/) architecture for partial/selective hydration and client-side interactivity while maintaining a fast-to-render static site.
@@ -169,15 +170,15 @@ draft: false
 
 The blog post schema is defined as follows:
 
-| Field         | Type (Zod)      | Requirements                                                                                                                                                                      | Required |
-| ------------- | --------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------- |
-| `title`       | `string`        | Must be ≤60 characters.                                                                                                                                                           | Yes      |
-| `description` | `string`        | Must be ≤155 characters.                                                                                                                                                          | Yes      |
-| `date`        | `coerce.date()` | Must be in `YYYY-MM-DD` format.                                                                                                                                                   | Yes      |
-| `image`       | `image()`       | Must be exactly 1200px &times; 630px.                                                                                                                                             | Optional |
-| `tags`        | `string[]`      | Preferably use kebab-case for these.                                                                                                                                              | Optional |
+| Field         | Type (Zod)      | Requirements                                                                                                                                                                    | Required |
+| ------------- | --------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------- |
+| `title`       | `string`        | Must be ≤60 characters.                                                                                                                                                         | Yes      |
+| `description` | `string`        | Must be ≤155 characters.                                                                                                                                                        | Yes      |
+| `date`        | `coerce.date()` | Must be in `YYYY-MM-DD` format.                                                                                                                                                 | Yes      |
+| `image`       | `image()`       | Must be exactly 1200px &times; 630px.                                                                                                                                           | Optional |
+| `tags`        | `string[]`      | Preferably use kebab-case for these.                                                                                                                                            | Optional |
 | `authors`     | `string[]`      | If the author has a profile, use the id associated with their Markdown file in `src/content/authors/` (e.g. if their file is named `jane-doe.md`, use `jane-doe` in the array). | Optional |
-| `draft`       | `boolean`       | Defaults to `false` if not provided.                                                                                                                                              | Optional |
+| `draft`       | `boolean`       | Defaults to `false` if not provided.                                                                                                                                            | Optional |
 
 ### Authors
 
