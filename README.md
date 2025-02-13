@@ -1,80 +1,262 @@
-[![Netlify Status](https://api.netlify.com/api/v1/badges/2a5caefe-fdd1-4093-ac55-f0dc106b8c69/deploy-status)](https://app.netlify.com/sites/wizardly-liskov-e4f96e/deploys)
+![Showcase Card](/public/static/twitter-card.png)
 
-# fak3r.com
+<div align="center">
 
-## Summary
+## astro-erudite
 
-This repository contains the source code for [fak3r.com](https://fak3r.com), which has been my blog since 2005, and it's currently built by [Hugo](http://gohugo.io/), and hosted on [Netlify](https://www.netlify.com/).
+![Stargazers]
+[![License]](LICENSE)
 
-## Contents
+</div>
 
-The code and framework of posts, pages, plugins, theme and configuration that Hugo uses to create the site.
+astro-erudite is an opinionated, no-frills static blogging template built with [Astro](https://astro.build/), [Tailwind](https://tailwindcss.com/), and [shadcn/ui](https://ui.shadcn.com/). Extraordinarily loosely based off the [Astro Micro](https://astro-micro.vercel.app/) theme by [trevortylerlee](https://github.com/trevortylerlee).
 
-## Clone
+> [!NOTE]
+> To learn more about why this template exists, read [The State of Static Blogs in 2024](https://astro-erudite.vercel.app/blog/the-state-of-static-blogs), where I share my take on what constitutes a great blogging template and my goals while developing this one.
 
-Want to build on what I have? Go for it, it's how I got where I am. To get started, either fork it, or clone it from the command line.
+---
 
-* Clone the project
+## Community Examples
 
+Below are some fantastic examples of websites based on this template. If you wish to add your site to this list, open a pull request!
+
+| Site | Author | Description/Features | Source |
+|------|--------|----------------------|--------|
+| [enscribe.dev](https://enscribe.dev) | [@jktrn](https://github.com/jktrn) | Heavily modified bento-style homepage with client interactivity, with custom MDX components! | [→](https://github.com/jktrn/enscribe.dev) |
+| [emile.sh](https://emile.sh) | [@echoghi](https://github.com/echoghi) | A minimalist personal blog using the [flexoki](https://stephango.com/flexoki) theme | [→](https://github.com/echoghi/v5) |
+| [decentparadox.me](https://decentparadox.me) | [@decentparadox](https://github.com/decentparadox) | A heavily customized personal portfolio with a sci-fi theme! | [→](https://github.com/decentparadox/decentparadox.me) |
+| [flocto.github.io](https://flocto.github.io/) | [@flocto](https://github.com/flocto) | A slightly modified personal blog | [→](https://github.com/flocto/flocto.github.io) |
+[dumbprism.me](https://www.dumbprism.me/) | [@dumbprism](https://github.com/dumbprism) | A customized portfolio inspired by enscribe's bento grid style adding my gist of UI |  [→](https://github.com/dumbprism/dumbprism-portfolio) |  
+## Features
+
+- [Astro](https://astro.build/)&rsquo;s [Islands](https://docs.astro.build/en/concepts/islands/) architecture for partial/selective hydration and client-side interactivity while maintaining a fast-to-render static site.
+- [shadcn/ui](https://ui.shadcn.com/)&rsquo;s [Tailwind](https://tailwindcss.com/) color convention for automatic styling across both light and dark themes. Includes accessible, theme-aware UI components for navigation, buttons, etc.
+- [rehype-pretty-code](https://rehype-pretty.pages.dev/) with [Shiki](https://github.com/shikijs/shiki) for advanced code block styling, highlighting, and code block titles/captions.
+- Blog post authoring using [MDX](https://mdxjs.com/) for component-style content, alongside $\LaTeX$ rendering using [KaTeX](https://katex.org/).
+- Astro [View Transitions](https://docs.astro.build/en/guides/view-transitions/) in <abbr title="Single Page Application">SPA</abbr> mode for smooth, opt-in animations during route switching.
+- SEO optimization with fine-grained control over metadata and [Open Graph](https://ogp.me/) tags for each post.
+- [RSS](https://en.wikipedia.org/wiki/RSS) feeds and sitemap generation!
+- Supports author profiles (with a dedicated authors page) and adding multiple authors per post.
+- Supports project tags (with a dedicated tags page) for easy post categorization and discovery.
+
+## Technology Stack
+
+This is a list of the various technologies used to build this template:
+
+| Category            | Technology Name                                                                                    |
+| ------------------- | -------------------------------------------------------------------------------------------------- |
+| Framework           | [Astro](https://astro.build/)                                                                      |
+| Styling             | [Tailwind](https://tailwindcss.com)                                                                |
+| Components          | [shadcn/ui](https://ui.shadcn.com/)                                                                |
+| Content             | [MDX](https://mdxjs.com/)                                                                          |
+| Syntax Highlighting | [Shiki](https://github.com/shikijs/shiki) + [rehype-pretty-code](https://rehype-pretty.pages.dev/) |
+| Graphics            | [Figma](https://www.figma.com/)                                                                    |
+| Deployment          | [Vercel](https://vercel.com)                                                                       |
+
+## Getting Started
+
+1. Hit &ldquo;Use this template&rdquo;, the big green button on the top right, to create a new repository in your own GitHub account with this template.
+
+2. Clone the repository:
+
+   ```bash
+   git clone https://github.com/[YOUR_USERNAME]/[YOUR_REPO_NAME].git
+   cd [YOUR_REPO_NAME]
+   ```
+
+3. Install dependencies:
+
+   ```bash
+   npm install
+   ```
+
+4. Start the development server:
+
+   ```bash
+   npm run dev
+   ```
+
+5. Open your browser and visit `http://localhost:1234` to get started. The following commands are also available:
+
+   | Command            | Description                                                     |
+   | ------------------ | --------------------------------------------------------------- |
+   | `npm run start`    | Alias for `npm run dev`                                         |
+   | `npm run build`    | Run type checking and build the project                         |
+   | `npm run preview`  | Previews the built project                                      |
+   | `npm run astro`    | Run Astro CLI commands                                          |
+   | `npm run prettier` | Blanket format all files using [Prettier](https://prettier.io/) |
+
+## Customization
+
+### Site Configuration
+
+Edit the `src/consts.ts` file to update your site's metadata, navigation links, and social links:
+
+```typescript
+export const SITE: Site = {
+  TITLE: 'astro-erudite',
+  DESCRIPTION:
+    'astro-erudite is a opinionated, no-frills blogging template—built with Astro, Tailwind, and shadcn/ui.',
+  EMAIL: 'jason@enscribe.dev',
+  NUM_POSTS_ON_HOMEPAGE: 2,
+  SITEURL: 'https://astro-erudite.vercel.app',
+}
+
+export const NAV_LINKS: Link[] = [
+  { href: '/blog', label: 'blog' },
+  { href: '/authors', label: 'authors' },
+  { href: '/about', label: 'about' },
+  { href: '/tags', label: 'tags' },
+]
+
+export const SOCIAL_LINKS: Link[] = [
+  { href: 'https://github.com/jktrn', label: 'GitHub' },
+  { href: 'https://twitter.com/enscry', label: 'Twitter' },
+  { href: 'jason@enscribe.dev', label: 'Email' },
+  { href: '/rss.xml', label: 'RSS' },
+]
 ```
-git clone https://github.com/philcryer/fak3r.com.git
+
+### Color Palette
+
+Colors are defined in `src/styles/global.css` in [<abbr title="Hue, Saturation, Lightness">HSL</abbr> format](https://en.wikipedia.org/wiki/HSL_and_HSV), using the [shadcn/ui](https://ui.shadcn.com/) convention:
+
+```css
+@layer base {
+  :root {
+    --background: 0 0% 100%;
+    --foreground: 0 0% 3.9%;
+    --primary: 0 0% 9%;
+    --primary-foreground: 0 0% 98%;
+    --secondary: 0 0% 80.1%;
+    --secondary-foreground: 0 0% 9%;
+    --muted: 0 0% 80.1%;
+    --muted-foreground: 0 0% 45.1%;
+    --accent: 0 0% 80.1%;
+    --accent-foreground: 0 0% 9%;
+    --additive: 112 50% 36%; /* Unique to astro-erudite */
+    --additive-foreground: 0 0% 98%; /* Unique to astro-erudite */
+    --destructive: 0 84.2% 60.2%;
+    --destructive-foreground: 0 0% 98%;
+    --border: 0 0% 89.8%;
+    --ring: 0 0% 3.9%;
+  }
+
+  .dark {
+    /* ... */
+  }
+  /* ... */
+}
 ```
 
-* Rename the project as you'd like
+## Adding Content
 
-```
-mv fak3r.com new-name
-```
+### Blog Posts
 
-* Clean out my pages, posts, graphics and drafts:
+Add new blog posts as MDX files in the `src/content/blog/` directory. Use the following frontmatter structure:
 
-```
-cd new-name
-rm -rf content/*.markdown content/*.md content/post/* static/*
-```
-
-* Edit the config.toml to match your values:
-
-```
-vi config.toml
-```
-
-* Add the contents to your project:
-
-```
-git add .
-
+```yml
+---
+title: 'Your Post Title'
+description: 'A brief description of your post!'
+date: 2024-01-01
+tags: ['tag1', 'tag2']
+image: './image.png'
+authors: ['author1', 'author2']
+draft: false
+---
 ```
 
-* Check it in under your account:
+The blog post schema is defined as follows:
 
+| Field         | Type (Zod)      | Requirements                                                                                                                                                                      | Required |
+| ------------- | --------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------- |
+| `title`       | `string`        | Must be ≤60 characters.                                                                                                                                                           | Yes      |
+| `description` | `string`        | Must be ≤155 characters.                                                                                                                                                          | Yes      |
+| `date`        | `coerce.date()` | Must be in `YYYY-MM-DD` format.                                                                                                                                                   | Yes      |
+| `image`       | `image()`       | Must be exactly 1200px &times; 630px.                                                                                                                                             | Optional |
+| `tags`        | `string[]`      | Preferably use kebab-case for these.                                                                                                                                              | Optional |
+| `authors`     | `string[]`      | If the author has a profile, use the id associated with their Markdown file in `src/content/authors/` (e.g. if their file is named `jane-doe.md`, use `jane-doe` in the array). | Optional |
+| `draft`       | `boolean`       | Defaults to `false` if not provided.                                                                                                                                              | Optional |
+
+### Authors
+
+Add author information in `src/content/authors/` as Markdown files. A file named `[author-name].md` can be associated with a blog post if `"author-name"` (the id) is added to the `authors` field:
+
+```yml
+---
+name: 'enscribe'
+pronouns: 'he/him'
+avatar: 'https://gravatar.com/avatar/9bfdc4ec972793cf05cb91efce5f4aaaec2a0da1bf4ec34dad0913f1d845faf6.webp?size=256'
+bio: 'd(-_-)b'
+website: 'https://enscribe.dev'
+twitter: 'https://twitter.com/enscry'
+github: 'https://github.com/jktrn'
+mail: 'jason@enscribe.dev'
+---
 ```
-git commit -m "initial commit"
-git push
+
+The author schema is defined as follows:
+
+| Field      | Type (Zod)       | Requirements                                                                                                                        | Required |
+| ---------- | ---------------- | ----------------------------------------------------------------------------------------------------------------------------------- | -------- |
+| `name`     | `string`         | n/a                                                                                                                                 | Yes      |
+| `pronouns` | `string`         | n/a                                                                                                                                 | Optional |
+| `avatar`   | `string.url()`   | Must be a valid URL. Preferably use [Gravatar](https://en.gravatar.com/site/implement/images/) with the `?size=256` size parameter. | Yes      |
+| `bio`      | `string`         | n/a                                                                                                                                 | Optional |
+| `mail`     | `string.email()` | Must be a valid email address.                                                                                                      | Optional |
+| `website`  | `string.url()`   | Must be a valid URL.                                                                                                                | Optional |
+| `twitter`  | `string.url()`   | Must be a valid URL.                                                                                                                | Optional |
+| `github`   | `string.url()`   | Must be a valid URL.                                                                                                                | Optional |
+| `linkedin` | `string.url()`   | Must be a valid URL.                                                                                                                | Optional |
+| `discord`  | `string.url()`   | Must be a valid URL.                                                                                                                | Optional |
+
+> [!TIP]
+> You can add as many social media links as you want, as long as you adjust the schema! Make sure you also support the new field in the `src/components/SocialIcons.astro` component.
+
+### Projects
+
+Add projects in `src/content/projects/` as Markdown files:
+
+```yml
+---
+name: 'Project A'
+description: 'This is an example project description! You should replace this with a description of your own project.'
+tags: ['Framework A', 'Library B', 'Tool C', 'Resource D']
+image: '/static/1200x630.png'
+link: 'https://example.com'
+---
 ```
 
-...and you should be all set. Hit up the [Hugo docs](http://gohugo.io/overview/introduction/) to learn how Hugo works, or feel free to contact me with any questions.
+The project schema is defined as follows:
 
-## FAQ
-
-Q: What does fak3r mean?
-
-A: My name is Phil, so a friend used to call me flip, so I started using name flipper online. That name was always taken so I shifted to flipp3r, but I didn't like that. Around that time I was getting into infosec and thinking about privacy online and the fallacy that a 'fake' online identity could provide true anonymity - that led to `fak3r`.
-
-## Contact
-
-email me at admin {at} fak3r {dot} com or ping me on Twitter where I'm [@fak3r](https://twitter.com/fak3r)
+| Field         | Type (Zod)     | Requirements                          | Required |
+| ------------- | -------------- | ------------------------------------- | -------- |
+| `name`        | `string`       | n/a                                   | Yes      |
+| `description` | `string`       | n/a                                   | Yes      |
+| `tags`        | `string[]`     | n/a                                   | Yes      |
+| `image`       | `image()`      | Must be exactly 1200px &times; 630px. | Yes      |
+| `link`        | `string.url()` | Must be a valid URL.                  | Yes      |
 
 ## License
 
-MIT License
+This project is open source and available under the [MIT License](LICENSE).
 
-Copyright (c) 2019 Phil Cryer // fak3r
+---
 
-Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+### Star History
 
-The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+<a href="https://star-history.com/#jktrn/astro-erudite&Date">
+ <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=jktrn/astro-erudite&type=Date&theme=dark" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=jktrn/astro-erudite&type=Date" />
+   <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=jktrn/astro-erudite&type=Date" />
+ </picture>
+</a>
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+---
 
-### Thanks
+Built with &hearts; by [enscribe](https://enscribe.dev)!
+
+[Stargazers]: https://img.shields.io/github/stars/jktrn/astro-erudite?color=fafafa&logo=github&logoColor=fff&style=for-the-badge
+[License]: https://img.shields.io/github/license/jktrn/astro-erudite?color=0a0a0a&logo=github&logoColor=fff&style=for-the-badge
