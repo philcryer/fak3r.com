@@ -137,3 +137,16 @@ Again, everyone should be able to explore and communitcate on the internet with 
 ## Further reading
 
 To learn more about the benefits of this type of Tor bridge, read [Dissecting Tor Bridges and Pluggable Transport: Part II: How Obfs4 Bridges Defeats Censorship](https://www.fortinet.com/blog/threat-research/dissecting-tor-bridges-pluggable-transport-part-2), and thanks for improving the Tor network and being part of the solution!
+
+## Update
+
+After running the bridge for over a week, I checked my logs and it's working, as seen in this recent log entry.
+
+```shell
+obfs4-bridge-1  | Feb 17 05:50:53.000 [notice] Heartbeat: Tor's uptime is 9 days 12:00 hours, with 0 circuits open. I've sent 76.29 MB and received 349.15 MB. I've received 2606 connections on IPv4 and 0 on IPv6. I've made 558 connections with IPv4 and 0 with IPv6.
+obfs4-bridge-1  | Feb 17 05:50:53.000 [notice] While not bootstrapping, fetched this many bytes: 258814862 (server descriptor fetch); 13648 (server descriptor upload); 12543492 (consensus network-status fetch); 10423528 (microdescriptor fetch)
+obfs4-bridge-1  | Feb 17 05:50:53.000 [notice] Heartbeat: Since last heartbeat message, I have seen 17 unique clients.
+obfs4-bridge-1  | Feb 17 11:50:53.000 [notice] Heartbeat: Tor's uptime is 9 days 18:00 hours, with 20 circuits open. I've sent 78.03 MB and received 357.31 MB. I've received 2657 connections on IPv4 and 0 on IPv6. I've made 567 connections with IPv4 and 0 with IPv6.
+obfs4-bridge-1  | Feb 17 11:50:53.000 [notice] While not bootstrapping, fetched this many bytes: 265063126 (server descriptor fetch); 14021 (server descriptor upload); 12783453 (consensus network-status fetch); 10475625 (microdescriptor fetch)
+obfs4-bridge-1  | Feb 17 11:50:53.000 [notice] Heartbeat: Since last heartbeat message, I have seen 13 unique clients.
+```
