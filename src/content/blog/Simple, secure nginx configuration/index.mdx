@@ -1,0 +1,27 @@
+---
+title: 'Simple, secure nginx configuration'
+description: 'From not losing your data to enabling greater security with immutable Backups, Wasabi Cloud offers a compelling and afforadable solution'
+date: 2025-03-03
+tags: ['nginx', 'webserver', 'howto']
+image: './wasabi_symbol.png'
+authors: ['fak3r']
+draft: false
+---
+
+```shell
+server {
+listen 80;
+    listen 443 ssl;
+http2 on;
+    server_name lowf.at;
+root /var/www/html/lowf.at;
+add_header Strict-Transport-Security "max-age=31536000; includeSubDomains always";
+    ssl_certificate /etc/letsencrypt/live/lowf.at/fullchain.pem;
+    ssl_certificate_key /etc/letsencrypt/live/lowf.at/privkey.pem;
+    ssl_dhparam /etc/letsencrypt/ssl-dhparams.pem;
+    include /etc/letsencrypt/options-ssl-nginx.conf;
+
+    if ($scheme = http) {
+    return 301 https://$server_name$request_uri;
+    }
+}
