@@ -1,3 +1,1 @@
-npm run prettier
-npm run build
 rsync -aP dist/ phil@mookie:/var/www/html/beta.fak3r.com
