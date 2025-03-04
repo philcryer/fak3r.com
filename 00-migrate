@@ -1,0 +1,14 @@
+#!/bin/bash
+
+base_path="src/content/blog"
+
+find $base_path -name \*.md | while read mdfile; do
+	file_name=$(echo $mdfile | cut -d"/" -f4)
+	echo $file_name
+	new_dir_name=$(echo $file_name | cut -d"." -f1)
+	echo $new_dir_name
+	mkdir -p $base_path/$new_dir_name
+	mv $base_path/$file_name $base_path/$new_dir_name/index.mdx
+done
+
+ls -sl $base_path
