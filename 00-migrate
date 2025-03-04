@@ -1,14 +1,78 @@
 #!/bin/bash
 
 base_path="src/content/blog"
+author_name="fak3r"
+
+echo "-> Migrate Hugo .md to Astro .mdx"
 
 find $base_path -name \*.md | while read mdfile; do
+
+	echo "   : Rewrite filename and directory"
 	file_name=$(echo $mdfile | cut -d"/" -f4)
-	echo $file_name
+	echo "     - filename: $file_name"
 	new_dir_name=$(echo $file_name | cut -d"." -f1)
-	echo $new_dir_name
+ 	echo "     - new directory: $new_dir_name"
 	mkdir -p $base_path/$new_dir_name
+	echo "     - filename: $file_name -> $base_path/$new_dir_name/index.mdx"
 	mv $base_path/$file_name $base_path/$new_dir_name/index.mdx
+	
+	echo "   : Frontmatter fix - description"
+	if [ -z "$(grep "description: " $base_path/$new_dir_name/index.mdx)" ]; then 
+		echo "     - adding description line to frontmater"
+		sed -i '/title:/a\description: ""' "$base_path/$new_dir_name/index.mdx"
+	else
+		echo "     - description line exists"
+	fi
+
+#	echo "   : Frontmatter fix - date"
+#	if [ -z "$(grep "date:*T" $base_path/$new_dir_name/index.mdx)" ]; then 
+#		echo "     - removing leading quote"
+#		sed -i 's/date: "/date: /g' "$base_path/$new_dir_name/index.mdx"
+#		echo "     - simplifying date to YYYY-MM-DD"
+#		new_date=$(grep "date: " "$base_path/$new_dir_name/index.mdx" | cut -d"T" -f1)
+#		echo $new_date
+#		sed -i "s/date:/$new_date.*/g" "$base_path/$new_dir_name/index.mdx"
+#	fi	
+
+	echo "   : Frontmatter fix - tags"
+	if [ ! -z "$(grep "Tags: " $base_path/$new_dir_name/index.mdx)" ]; then 
+		echo "     - Rewriting 'Tags' frontmater as 'tags'"
+		sed -i 's/Tags:/tags:\1/' "$base_path/$new_dir_name/index.mdx"
+	else
+		echo "     - 'tags' frontmater exists"
+	fi
+
+	echo "   : Frontmatter fix - categories"
+	#Categories: ["privacy"] 
+
+	echo "   : Frontmatter fix - authors"
+	if [ -z "$(grep "authors: " $base_path/$new_dir_name/index.mdx)" ]; then 
+		echo "     - adding authors line to frontmater"
+		sed -i "/tags:/a\authors:\ ['$author_name']" "$base_path/$new_dir_name/index.mdx"
+	else
+		echo "     - authors line exists"
+	fi
+
+	echo "   : Frontmatter fix - image"
+	if [ -z "$(grep "image: " $base_path/$new_dir_name/index.mdx)" ]; then 
+		echo "     - adding image line to frontmater"
+		sed -i "/tags:/a\image:\ ''" "$base_path/$new_dir_name/index.mdx"
+	else
+		echo "     - image line exists"
+	fi
+
+
+echo "------------"
+head "$base_path/$new_dir_name/index.mdx"
+
 done
 
-ls -sl $base_path
+exit 0
+
+tags: ['howto', 'tor', 'docker', 'anti-censorship']
+image: './tor.png'
+authors: ['fak3r']
+draft: false
+
+Categories: ["privacy"] 
+
