@@ -13,26 +13,36 @@ find $base_path -name \*.md | while read mdfile; do
 	new_dir_name=$(echo $file_name | cut -d"." -f1)
  	echo "     - new directory: $new_dir_name"
 	mkdir -p $base_path/$new_dir_name
-	echo "     - filename: $file_name -> $base_path/$new_dir_name/index.mdx"
+	echo "     - new filename: $base_path/$new_dir_name/index.mdx"
 	mv $base_path/$file_name $base_path/$new_dir_name/index.mdx
 	
+	echo "   : Frontmatter fix - title"
+	if [ ! -z "$(grep "title: " $base_path/$new_dir_name/index.mdx)" ]; then 
+		echo "     - replacing double quotes with single quotes"
+		sed -i "/^title:\ /s/\"/'/1" "$base_path/$new_dir_name/index.mdx"  
+		sed -i "/^title:\ /s/\"/'/1" "$base_path/$new_dir_name/index.mdx"  
+# sed 's/].*//' 
+	else
+		echo "     - double quotes do not exist"
+	fi
+
 	echo "   : Frontmatter fix - description"
 	if [ -z "$(grep "description: " $base_path/$new_dir_name/index.mdx)" ]; then 
 		echo "     - adding description line to frontmater"
-		sed -i '/title:/a\description: ""' "$base_path/$new_dir_name/index.mdx"
+		sed -i "/title:/a\description: ''" "$base_path/$new_dir_name/index.mdx"
 	else
 		echo "     - description line exists"
 	fi
 
-#	echo "   : Frontmatter fix - date"
-#	if [ -z "$(grep "date:*T" $base_path/$new_dir_name/index.mdx)" ]; then 
-#		echo "     - removing leading quote"
-#		sed -i 's/date: "/date: /g' "$base_path/$new_dir_name/index.mdx"
-#		echo "     - simplifying date to YYYY-MM-DD"
-#		new_date=$(grep "date: " "$base_path/$new_dir_name/index.mdx" | cut -d"T" -f1)
-#		echo $new_date
-#		sed -i "s/date:/$new_date.*/g" "$base_path/$new_dir_name/index.mdx"
-#	fi	
+	echo "   : Frontmatter fix - date"
+	if [ -z "$(grep "date:*T" $base_path/$new_dir_name/index.mdx)" ]; then 
+		echo "     - removing leading quote"
+		sed -i 's/date: "/date: /g' "$base_path/$new_dir_name/index.mdx"
+		echo "     - simplifying date to YYYY-MM-DD"
+		new_date=$(grep "date: " "$base_path/$new_dir_name/index.mdx" | cut -d"T" -f1 | cut -d" " -f2)
+		sed -i "/date:/d" "$base_path/$new_dir_name/index.mdx"
+		sed -i "/description:/a\date: $new_date" "$base_path/$new_dir_name/index.mdx"
+	fi	
 
 	echo "   : Frontmatter fix - tags"
 	if [ ! -z "$(grep "Tags: " $base_path/$new_dir_name/index.mdx)" ]; then 
@@ -44,6 +54,11 @@ find $base_path -name \*.md | while read mdfile; do
 
 	echo "   : Frontmatter fix - categories"
 	#Categories: ["privacy"] 
+	if [ -z "$(grep "Categories: " $base_path/$new_dir_name/index.mdx)" ]; then 
+		echo "     - Categories line exists"
+	else
+		echo "     - Categories does not exist"
+	fi
 
 	echo "   : Frontmatter fix - authors"
 	if [ -z "$(grep "authors: " $base_path/$new_dir_name/index.mdx)" ]; then 
@@ -56,7 +71,8 @@ find $base_path -name \*.md | while read mdfile; do
 	echo "   : Frontmatter fix - image"
 	if [ -z "$(grep "image: " $base_path/$new_dir_name/index.mdx)" ]; then 
 		echo "     - adding image line to frontmater"
-		sed -i "/tags:/a\image:\ ''" "$base_path/$new_dir_name/index.mdx"
+		#sed -i "/tags:/a\image:\ ''" "$base_path/$new_dir_name/index.mdx"
+		sed -i "/description:/a\image:\ ''" "$base_path/$new_dir_name/index.mdx"
 	else
 		echo "     - image line exists"
 	fi
