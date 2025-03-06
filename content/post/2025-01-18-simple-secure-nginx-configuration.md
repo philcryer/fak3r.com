@@ -52,7 +52,7 @@ server {
     ssl_ciphers         		HIGH:!aNULL:!MD5;
     ssl_ecdh_curve				X25519:prime256v1:secp384r1;
     ssl_session_cache			shared:le_nginx_SSL:10m;
-    ssl_prefer_server_ciphers		off;
+    ssl_prefer_server_ciphers	off;
     ssl_stapling				on;
     ssl_stapling_verify			on;
     resolver					127.0.0.1;
