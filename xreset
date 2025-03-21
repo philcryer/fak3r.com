@@ -1,0 +1,14 @@
+#!/bin/bash
+
+year=2024
+
+rm -rf src/content/blog/*
+
+echo "OLD ---------------------------------------------------------------------------+"
+ls -1 ../fak3r.com-master/content/post/$year-*
+
+echo
+echo "DONE --------------------------------------------------------------------------+"
+ls -1 src/content/blog-done/ | grep $year
+
+exit 0

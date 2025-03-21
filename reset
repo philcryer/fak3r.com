@@ -1,5 +1,0 @@
-if [ -d 'src/content/blog/2024-05-22-graphene-os' ]; then
-	rm -rf src/content/blog/2024-05-22-graphene-os
-fi
-	
-cp ../fak3r.com-master/content/post/2024-05-22-graphene-os.md src/content/blog/

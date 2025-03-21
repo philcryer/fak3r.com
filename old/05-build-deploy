@@ -1,0 +1,1 @@
+npm run prettier; npm run build; ./04-deploy
