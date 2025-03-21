@@ -5,133 +5,167 @@ author_name="fak3r"
 old_files="../fak3r.com-master"
 
 echo "-> Migrate Hugo .md to Astro .mdx"
- 	echo "+-----------------------------------------------------------------------+"
+echo "+-----------------------------------------------------------------------+"
 
 find $base_path -name \*.md | while read mdfile; do
 
-	echo "   : Rewrite filename and directory"
-	file_name=$(echo $mdfile | cut -d"/" -f4)
-	echo "     - filename: $file_name"
-	new_dir_name=$(echo $file_name | cut -d"." -f1)
- 	echo "     - new directory: $new_dir_name"
-	mkdir -p $base_path/$new_dir_name
-	echo "     - new filename: $base_path/$new_dir_name/index.mdx"
-	mv $base_path/$file_name $base_path/$new_dir_name/index.mdx
-	
- 	echo "+-----------------------------------------------------------------------+"
-	echo "   : Frontmatter fix - title"
-	if [ ! -z "$(grep "title: " $base_path/$new_dir_name/index.mdx)" ]; then 
-		echo "     - replacing double quotes with single quotes"
-		sed -i "/^title:\ /s/\"/'/1" "$base_path/$new_dir_name/index.mdx"  
-		sed -i "/^title:\ /s/\"/'/1" "$base_path/$new_dir_name/index.mdx"  
-# sed 's/].*//' 
-	else
-		echo "     - double quotes do not exist"
-	fi
+  echo "   : Rewrite filename and directory"
+  file_name=$(echo $mdfile | cut -d"/" -f4)
+  echo "     - filename: $file_name"
+  new_dir_name=$(echo $file_name | cut -d"." -f1)
+  echo "     - new directory: $new_dir_name"
+  mkdir -p $base_path/$new_dir_name
+  echo "     - new filename: $base_path/$new_dir_name/index.mdx"
+  mv $base_path/$file_name $base_path/$new_dir_name/index.mdx
 
- 	echo "+-----------------------------------------------------------------------+"
-	echo "   : Frontmatter fix - description"
-	if [ -z "$(grep "description: " $base_path/$new_dir_name/index.mdx)" ]; then 
-		echo "     - adding description line to frontmater"
-		sed -i "/title:/a\description: ''" "$base_path/$new_dir_name/index.mdx"
-	else
-		echo "     - description line exists"
-	fi
+  echo "+-----------------------------------------------------------------------+"
+  echo "   : Frontmatter fix - title"
+  if [ ! -z "$(grep "title: " $base_path/$new_dir_name/index.mdx)" ]; then
+    echo "     - replacing double quotes with single quotes"
+    sed -i "/^title:\ /s/\"/'/1" "$base_path/$new_dir_name/index.mdx"
+    sed -i "/^title:\ /s/\"/'/1" "$base_path/$new_dir_name/index.mdx"
+  else
+    echo "     - double quotes do not exist"
+  fi
 
- 	echo "+-----------------------------------------------------------------------+"
-	echo "   : Frontmatter fix - date"
-	if [ -z "$(grep "date:*T" $base_path/$new_dir_name/index.mdx)" ]; then 
-		echo "     - removing leading quote"
-		sed -i 's/date: "/date: /g' "$base_path/$new_dir_name/index.mdx"
-		echo "     - simplifying date to YYYY-MM-DD"
-		new_date=$(grep "date: " "$base_path/$new_dir_name/index.mdx" | cut -d"T" -f1 | cut -d" " -f2)
-		sed -i "/date:/d" "$base_path/$new_dir_name/index.mdx"
-		sed -i "/description:/a\date: $new_date" "$base_path/$new_dir_name/index.mdx"
-	fi	
+  echo "+-----------------------------------------------------------------------+"
+  echo "   : Frontmatter fix - description"
+  if [ -z "$(grep "description: " $base_path/$new_dir_name/index.mdx)" ]; then
+    echo "     - adding description line to frontmater"
+    sed -i "/title:/a\description: ''" "$base_path/$new_dir_name/index.mdx"
+  else
+    echo "     - description line exists"
+  fi
 
- 	echo "+-----------------------------------------------------------------------+"
-	echo "   : Frontmatter fix - tags"
-	cat_array=$(cat "$base_path/$new_dir_name/index.mdx" | grep Categories)
-	tag_array=$(cat "$base_path/$new_dir_name/index.mdx" | grep -i Tags)
-	new_array=$(echo "[ $(echo ${cat_array[@]} ${tag_array[@]} | sed 's/tags://g' | sed 's/Tags://g' | sed 's/Categories://g' | tr -d '[],' | awk '{ gsub (" ", "", $0); print}' | sed 's/""/",\ "/g') ]")
-	echo $new_array
-	if [ -z "$(grep -i "Tags: " $base_path/$new_dir_name/index.mdx)" ]; then 
-		echo "     - rewriting tag array"
-		sed -i "s/tags:/\ $new_array/" "$base_path/$new_dir_name/index.mdx"
-		##sed -i "s/tags:/\ $new_array/g': $new_date" "$base_path/$new_dir_name/index.mdx"
-	fi
+  echo "+-----------------------------------------------------------------------+"
+  echo "   : Frontmatter fix - date"
+  if [ -z "$(grep "date:*T" $base_path/$new_dir_name/index.mdx)" ]; then
+    echo "     - removing leading quote"
+    sed -i 's/date: "/date: /g' "$base_path/$new_dir_name/index.mdx"
+    echo "     - simplifying date to YYYY-MM-DD"
+    new_date=$(grep "date: " "$base_path/$new_dir_name/index.mdx" | cut -d"T" -f1 | cut -d" " -f2)
+    sed -i "/date:/d" "$base_path/$new_dir_name/index.mdx"
+    sed -i "/description:/a\date: $new_date" "$base_path/$new_dir_name/index.mdx"
+  fi
 
-# 	echo "+-----------------------------------------------------------------------+"
-#	if [ ! -z "$(grep "Tags: " $base_path/$new_dir_name/index.mdx)" ]; then 
-#		echo "     - Rewriting 'Tags' frontmater as 'tags'"
-#		sed -i 's/Tags:/tags:\1/' "$base_path/$new_dir_name/index.mdx"
-#	else
-#		echo "     - 'tags' frontmater exists"
-#	fi
+  echo "+-----------------------------------------------------------------------+"
+  echo "   : Frontmatter fix - tags and categories"
+  cat_array=$(cat src/content/blog/2024-05-22-graphene-os/index.mdx | grep Categories)
+  tag_array=$(cat src/content/blog/2024-05-22-graphene-os/index.mdx | grep -i Tags)
+  sm_tag_array=$(cat src/content/blog/2024-05-22-graphene-os/index.mdx | grep -i tags)
+  tags=$(echo ${cat_array[@]} ${tag_array[@]} ${sm_tag_array[@]} | sed 's/tags://g' | sed 's/Tags://g' | sed 's/Categories://g' | tr -d '[],' | awk '{ gsub (" ", "", $0); print}' | sed 's/""/\ /g' | sed 's/"//g')
+  uniq_tags=$(for i in ${tags[@]}; do echo "$i"; done | sort -u)
+  echo -n "[ "
+  echo -n $uniq_tags
+  echo " ]"
 
-#	echo "   : Frontmatter fix - categories"
-#	#Categories: ["privacy"] 
-#	if [ -z "$(grep "Categories: " $base_path/$new_dir_name/index.mdx)" ]; then 
-#		echo "     - Categories line exists"
-#	else
-#		echo "     - Categories does not exist"
-#	fi
+  echo "     - dropping Tags and Categories lines"
+  sed -i "/tags:/d" "$base_path/$new_dir_name/index.mdx"
+  sed -i "/Tags:/d" "$base_path/$new_dir_name/index.mdx"
+  sed -i "/Categories:/d" "$base_path/$new_dir_name/index.mdx"
 
- 	echo "+-----------------------------------------------------------------------+"
-	echo "   : Frontmatter fix - authors"
-	if [ -z "$(grep "authors: " $base_path/$new_dir_name/index.mdx)" ]; then 
-		echo "     - adding authors line to frontmater"
-		sed -i "/tags:/a\authors:\ ['$author_name']" "$base_path/$new_dir_name/index.mdx"
-	else
-		echo "     - authors line exists"
-	fi
+  new_tags=$(
+    echo -n "[ "
+    echo -n $uniq_tags
+    echo " ]"
+  )
+  #sed -i "s/tags:/\ $new_tags/" "$base_path/$new_dir_name/index.mdx"
+  sed -i "/date:/atags:\ $new_tags" "$base_path/$new_dir_name/index.mdx"
+  head -n20 "$base_path/$new_dir_name/index.mdx"
 
- 	echo "+-----------------------------------------------------------------------+"
-	echo "   : Frontmatter fix - image"
-	if [ -z "$(grep "image: " $base_path/$new_dir_name/index.mdx)" ]; then 
-		echo "     - adding image line to frontmater"
-		#sed -i "/tags:/a\image:\ ''" "$base_path/$new_dir_name/index.mdx"
-		sed -i "/description:/a\image:\ ''" "$base_path/$new_dir_name/index.mdx"
-	else
-		echo "     - image line exists"
-	fi
+  #sed -i "/description:/a\date: $new_date" "$base_path/$new_dir_name/index.mdx"
 
- 	echo "+-----------------------------------------------------------------------+"
-	echo "   : Body fix - image file and block fix"
-	if [ "$(grep "img src" $base_path/$new_dir_name/index.mdx)" ]; then 
-		echo "     - found image block"
-			echo "       - copying image into dir"
-			full_path=$(grep "img src" $base_path/$new_dir_name/index.mdx | cut -d"\"" -f2) 
-			image_name=$(basename $full_path)
-			echo $image_name
-			find ${old_files} -name $image_name -exec cp -t "$base_path/$new_dir_name/" {} +
-			echo "       - updating image frontmatter with image name"
-			sed -i "/image:/c\image:\ '$image_name'" "$base_path/$new_dir_name/index.mdx"
-			echo "       - cleaning up old div and img tags"
-			sed -i "/\<div/d" "$base_path/$new_dir_name/index.mdx"
-			sed -i "/\<img\ src/d" "$base_path/$new_dir_name/index.mdx"
-			sed -i "/\<figcaption/d" "$base_path/$new_dir_name/index.mdx"
-	else
-		echo "     - no image line exists"
-	fi
+  exit 0
 
-echo "+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~+"
-echo "-results-"; echo
-ls -ls "$base_path/$new_dir_name"
-echo "+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~+"
+  #	cat_array=$(cat "$base_path/$new_dir_name/index.mdx" | grep Categories)
+  #	big_tag_array=$(cat "$base_path/$new_dir_name/index.mdx" | grep -i Tags)
+  #	tag_array=$(cat "$base_path/$new_dir_name/index.mdx" | grep -i tags)
+  #	new_array=$(echo "[ $(echo ${cat_array[@]} ${tag_array[@]} ${big_tag_array[@]} | sed 's/tags://g' | sed 's/Tags://g' | sed 's/Categories://g' | tr -d '[],' | awk '{ gsub (" ", "", $0); print}' | sed 's/""/",\ "/g') ]")
+  #	echo " ++++++++++ "
+  #		echo "     - new array is: $new_array"
+  #		#fix_array=( ${new_array[@]/$delete} )
+  #		#echo $fix_array
+  #	echo " ++++++++++ "
+  #	 exit 0
+  #		echo "     - dropping Tags and Categories lines"
+  #		sed -i "/Tags:/d" "$base_path/$new_dir_name/index.mdx"
+  #		sed -i "/Categories:/d" "$base_path/$new_dir_name/index.mdx"
+  #
+  if [ -z "$(grep -i "Tags: " $base_path/$new_dir_name/index.mdx)" ]; then
+    echo "     - rewriting tag array"
+    sed -i "s/tags:/\ $new_array/" "$base_path/$new_dir_name/index.mdx"
+    ##sed -i "s/tags:/\ $new_array/g': $new_date" "$base_path/$new_dir_name/index.mdx"
+  fi
 
-echo
-head -n20 "$base_path/$new_dir_name/index.mdx"
-#cat "$base_path/$new_dir_name/index.mdx"
+  #echo "+-----------------------------------------------------------------------+"
+  #echo "   : Frontmatter fix - tags, new array from tags and categories"
+  #cat_array=$(cat src/content/blog/2024-05-22-graphene-os/index.mdx | grep Categories)
+  #tag_array=$(cat src/content/blog/2024-05-22-graphene-os/index.mdx | grep -i Tags)
+
+  # 	echo "+-----------------------------------------------------------------------+"
+  #	if [ ! -z "$(grep "Tags: " $base_path/$new_dir_name/index.mdx)" ]; then
+  #		echo "     - Rewriting 'Tags' frontmater as 'tags'"
+  #		sed -i 's/Tags:/tags:\1/' "$base_path/$new_dir_name/index.mdx"
+  #	else
+  #		echo "     - 'tags' frontmater exists"
+  #	fi
+
+  #	echo "   : Frontmatter fix - categories"
+  #	#Categories: ["privacy"]
+  #	if [ -z "$(grep "Categories: " $base_path/$new_dir_name/index.mdx)" ]; then
+  #		echo "     - Categories line exists"
+  #	else
+  #		echo "     - Categories does not exist"
+  #	fi
+
+  echo "+-----------------------------------------------------------------------+"
+  echo "   : Frontmatter fix - authors"
+  if [ -z "$(grep "authors: " $base_path/$new_dir_name/index.mdx)" ]; then
+    echo "     - adding authors line to frontmater"
+    sed -i "/tags:/a\authors:\ ['$author_name']" "$base_path/$new_dir_name/index.mdx"
+  else
+    echo "     - authors line exists"
+  fi
+
+  echo "+-----------------------------------------------------------------------+"
+  echo "   : Frontmatter fix - image"
+  if [ -z "$(grep "image: " $base_path/$new_dir_name/index.mdx)" ]; then
+    echo "     - adding image line to frontmater"
+    #sed -i "/tags:/a\image:\ ''" "$base_path/$new_dir_name/index.mdx"
+    sed -i "/description:/a\image:\ ''" "$base_path/$new_dir_name/index.mdx"
+  else
+    echo "     - image line exists"
+  fi
+
+  echo "+-----------------------------------------------------------------------+"
+  echo "   : Body fix - image file and block fix"
+  if [ "$(grep "img src" $base_path/$new_dir_name/index.mdx)" ]; then
+    echo "     - found image block"
+    echo "       - copying image into dir"
+    full_path=$(grep "img src" $base_path/$new_dir_name/index.mdx | cut -d"\"" -f2)
+    image_name=$(basename $full_path)
+    echo $image_name
+    find ${old_files} -name $image_name -exec cp -t "$base_path/$new_dir_name/" {} +
+    echo "       - updating image frontmatter with image name"
+    sed -i "/image:/c\image:\ '$image_name'" "$base_path/$new_dir_name/index.mdx"
+    echo "       - cleaning up old div and img tags"
+    sed -i "/\<div/d" "$base_path/$new_dir_name/index.mdx"
+    sed -i "/\<img\ src/d" "$base_path/$new_dir_name/index.mdx"
+    sed -i "/\<figcaption/d" "$base_path/$new_dir_name/index.mdx"
+  else
+    echo "     - no image line exists"
+  fi
+
+  echo "+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~+"
+  echo "-results-"
+  echo
+  ls -ls "$base_path/$new_dir_name"
+  echo "+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~+"
+
+  echo
+  head -n20 "$base_path/$new_dir_name/index.mdx"
+  #cat "$base_path/$new_dir_name/index.mdx"
 
 done
 
 exit 0
-
-
-
-cat_array=$(cat src/content/blog/2024-05-22-graphene-os/index.mdx | grep Categories)
-tag_array=$(cat src/content/blog/2024-05-22-graphene-os/index.mdx | grep -i Tags)
-
-echo "[ $(echo ${cat_array[@]} ${tag_array[@]} | sed 's/tags://g' | sed 's/Tags://g' | sed 's/Categories://g' | tr -d '[],' | awk '{ gsub (" ", "", $0); print}' | sed 's/""/",\ "/g') ]"
-
