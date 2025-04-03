@@ -2,6 +2,10 @@
 
 year=2023
 
+if [ ! -d 'src/content/blog' ]; then
+	mkdir -p src/content/blog
+fi
+
 rm -rf src/content/blog/*
 
 echo

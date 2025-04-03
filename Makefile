@@ -25,3 +25,10 @@ build-prod:
 	npm run prettier
 	npm run build
 
+build-prod-deploy:
+	npm run prettier
+	npm run build
+	rsync -aP dist/ phil@mookie:/var/www/html/beta.fak3r.com
+
+deploy:
+	rsync -aP dist/ phil@mookie:/var/www/html/beta.fak3r.com

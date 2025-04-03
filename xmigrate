@@ -69,13 +69,41 @@ find $base_path -name \*.md | while read mdfile; do
   sed -i "/Tags:/d" "$base_path/$new_dir_name/index.mdx"
   sed -i "/Categories:/d" "$base_path/$new_dir_name/index.mdx"
 
+
+
+#echo $uniq_tags
+#for item in "${uniq_tags[*]}"; do
+#        echo "${item}"
+#done
+
+eval "array=($uniq_tags)"
+#quoted_tags=$(for arg in "${array[@]}"; do echo -n \'"$arg"\', ; done)  
+quoted_tags=$(for arg in "${array[@]}"; do echo -n "'"$arg"', "; done)  
+
+#echo $quoted_tags
+
+#exit 0
+#echo $uniq_tags
+
+#exit 0 
+
   new_tags=$(
     echo -n "[ "
-    echo -n $uniq_tags
+    #echo -n $uniq_tags
+    echo -n $quoted_tags
     echo " ]"
   )
-  sed -i "/date:/atags:\ $new_tags" "$base_path/$new_dir_name/index.mdx"
-  #  head -n20 "$base_path/$new_dir_name/index.mdx"
+
+#echo $new_tags
+formated_tags=$(echo $new_tags | sed 's/\,\ \]/\ \]/g')
+
+
+#exit 0 
+
+  sed -i "/date:/atags:\ $formated_tags" "$base_path/$new_dir_name/index.mdx"
+  head -n20 "$base_path/$new_dir_name/index.mdx"
+
+exit 0
 
   echo "+-----------------------------------------------------------------------+"
   echo "   : Frontmatter fix - authors"
@@ -108,7 +136,8 @@ find $base_path -name \*.md | while read mdfile; do
   if [ "$(grep "img src" $base_path/$new_dir_name/index.mdx)" ]; then
     echo "     - found image block"
     grep "img src" $base_path/$new_dir_name/index.mdx | while read output; do
-      cp ../fak3r.com-master/static$(echo $output | cut -d"\"" -f"2") $base_path/$new_dir_name/
+	#echo "output is $output"
+      cp ../fak3r.com-master/static/$(echo $output | cut -d"\"" -f"2") $base_path/$new_dir_name/
     done
   fi
 
