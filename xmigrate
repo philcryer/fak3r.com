@@ -52,40 +52,19 @@ find $base_path -name \*.md | while read mdfile; do
 
   echo "+-----------------------------------------------------------------------+"
   echo "   : Frontmatter fix - tags and categories"
-  #  cat_array=$(cat src/content/blog/2024-05-22-graphene-os/index.mdx | grep Categories)
-  #  tag_array=$(cat src/content/blog/2024-05-22-graphene-os/index.mdx | grep -i Tags)
-  #  sm_tag_array=$(cat src/content/blog/2024-05-22-graphene-os/index.mdx | grep -i tags)
   cat_array=$(cat "$base_path/$new_dir_name/index.mdx" | grep Categories)
   tag_array=$(cat "$base_path/$new_dir_name/index.mdx" | grep -i Tags)
   sm_tag_array=$(cat "$base_path/$new_dir_name/index.mdx" | grep -i tags)
   tags=$(echo ${cat_array[@]} ${tag_array[@]} ${sm_tag_array[@]} | sed 's/tags://g' | sed 's/Tags://g' | sed 's/Categories://g' | tr -d '[],' | awk '{ gsub (" ", "", $0); print}' | sed 's/""/\ /g' | sed 's/"//g')
   uniq_tags=$(for i in ${tags[@]}; do echo "$i"; done | sort -u)
-  #  echo -n "[ "
-  #  echo -n $uniq_tags
-  #  echo " ]"
 
   echo "     - dropping Tags and Categories lines"
   sed -i "/tags:/d" "$base_path/$new_dir_name/index.mdx"
   sed -i "/Tags:/d" "$base_path/$new_dir_name/index.mdx"
   sed -i "/Categories:/d" "$base_path/$new_dir_name/index.mdx"
-
-
-
-#echo $uniq_tags
-#for item in "${uniq_tags[*]}"; do
-#        echo "${item}"
-#done
-
-eval "array=($uniq_tags)"
-#quoted_tags=$(for arg in "${array[@]}"; do echo -n \'"$arg"\', ; done)  
-quoted_tags=$(for arg in "${array[@]}"; do echo -n "'"$arg"', "; done)  
-
-#echo $quoted_tags
-
-#exit 0
-#echo $uniq_tags
-
-#exit 0 
+  
+  eval "array=($uniq_tags)"
+  quoted_tags=$(for arg in "${array[@]}"; do echo -n "'"$arg"', "; done)  
 
   new_tags=$(
     echo -n "[ "
@@ -93,17 +72,9 @@ quoted_tags=$(for arg in "${array[@]}"; do echo -n "'"$arg"', "; done)
     echo -n $quoted_tags
     echo " ]"
   )
-
-#echo $new_tags
-formated_tags=$(echo $new_tags | sed 's/\,\ \]/\ \]/g')
-
-
-#exit 0 
-
+  formated_tags=$(echo $new_tags | sed 's/\,\ \]/\ \]/g')
   sed -i "/date:/atags:\ $formated_tags" "$base_path/$new_dir_name/index.mdx"
   head -n20 "$base_path/$new_dir_name/index.mdx"
-
-exit 0
 
   echo "+-----------------------------------------------------------------------+"
   echo "   : Frontmatter fix - authors"
