@@ -10,6 +10,13 @@ echo "-> Migrate Hugo .md to Astro .mdx"
 echo "+-----------------------------------------------------------------------+"
 find $base_path -name \*.md | while read mdfile; do
 
+  echo "   : Frontmatter fix - divider"
+  echo "+-----------------------------------------------------------------------+"
+  echo "     - divider: replacing any +++ with ---"
+  sed -i 's/+++/\-\-\-/g' "src/content/blog/2018-01-19-proxy-nexus-iq-via-nginx-ssl/index.mdx"
+
+  echo "+-----------------------------------------------------------------------+"
+
   echo "+-----------------------------------------------------------------------+"
   echo "   : Rewrite filename and directory"
   file_name=$(echo $mdfile | cut -d"/" -f4)
@@ -52,11 +59,13 @@ find $base_path -name \*.md | while read mdfile; do
 
   echo "+-----------------------------------------------------------------------+"
   echo "   : Frontmatter fix - tags and categories"
+  echo "     - parsing current Tags and Categories lines"
   cat_array=$(cat "$base_path/$new_dir_name/index.mdx" | grep Categories)
   tag_array=$(cat "$base_path/$new_dir_name/index.mdx" | grep -i Tags)
   sm_tag_array=$(cat "$base_path/$new_dir_name/index.mdx" | grep -i tags)
   tags=$(echo ${cat_array[@]} ${tag_array[@]} ${sm_tag_array[@]} | sed 's/tags://g' | sed 's/Tags://g' | sed 's/Categories://g' | tr -d '[],' | awk '{ gsub (" ", "", $0); print}' | sed 's/""/\ /g' | sed 's/"//g')
   uniq_tags=$(for i in ${tags[@]}; do echo "$i"; done | sort -u)
+  echo "     - new tags: $uniq_tags"
 
   echo "     - dropping Tags and Categories lines"
   sed -i "/tags:/d" "$base_path/$new_dir_name/index.mdx"

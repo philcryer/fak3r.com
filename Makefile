@@ -22,13 +22,18 @@ build-verbose:
 	npm run build -- --verbose
 
 build-prod:
+	git rev-parse --short HEAD >> .current_build
 	npm run prettier
 	npm run build
 
 build-prod-deploy:
+	git rev-parse --short HEAD >> .current_build
 	npm run prettier
 	npm run build
 	rsync -aP dist/ phil@mookie:/var/www/html/beta.fak3r.com
 
 deploy:
+	git rev-parse --short HEAD >> .current_build
 	rsync -aP dist/ phil@mookie:/var/www/html/beta.fak3r.com
+
+build-num:
