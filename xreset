@@ -1,6 +1,6 @@
 #!/bin/bash
 
-year=2021
+year=2019
 
 if [ ! -d 'src/content/blog' ]; then
 	mkdir -p src/content/blog
