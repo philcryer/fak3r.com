@@ -74,7 +74,7 @@ find $base_path -name \*.md | while read mdfile; do
   )
   formated_tags=$(echo $new_tags | sed 's/\,\ \]/\ \]/g')
   sed -i "/date:/atags:\ $formated_tags" "$base_path/$new_dir_name/index.mdx"
-  head -n20 "$base_path/$new_dir_name/index.mdx"
+  #head -n20 "$base_path/$new_dir_name/index.mdx"
 
   echo "+-----------------------------------------------------------------------+"
   echo "   : Frontmatter fix - authors"
@@ -97,17 +97,36 @@ find $base_path -name \*.md | while read mdfile; do
   echo "+-----------------------------------------------------------------------+"
   echo "   : Frontmatter fix - adding header image to image line if img src exists"
   if [ "$(grep "img src" $base_path/$new_dir_name/index.mdx)" ]; then
-    echo "       - updating image frontmatter with image name"
+    echo "       - img src - updating image frontmatter with image namei"
     header_image=$(grep "img src" $base_path/$new_dir_name/index.mdx -m 1 | cut -d"\"" -f2 | cut -d"/" -f3)
+    sed -i "/image:/c\image:\ '$header_image'" "$base_path/$new_dir_name/index.mdx"
+  fi
+
+  if [ "$(grep "img align" $base_path/$new_dir_name/index.mdx)" ]; then
+    echo "       - img align - updating image frontmatter with image namei"
+    header_image=$(grep "img align" $base_path/$new_dir_name/index.mdx -m 1 | cut -d"\"" -f2 | cut -d"/" -f3)
+
+    ## debug
+    echo $header_image
+    grep "img align" $base_path/$new_dir_name/index.mdx -m 1 | cut -d"\"" -f2 | cut -d"/" -f3
+    ## debug
+
     sed -i "/image:/c\image:\ '$header_image'" "$base_path/$new_dir_name/index.mdx"
   fi
 
   echo "+-----------------------------------------------------------------------+"
   echo "   : Body fix - copying any images into new dir"
   if [ "$(grep "img src" $base_path/$new_dir_name/index.mdx)" ]; then
-    echo "     - found image block"
+    echo "     - img src - found image block"
     grep "img src" $base_path/$new_dir_name/index.mdx | while read output; do
 	#echo "output is $output"
+      cp ../fak3r.com-master/static/$(echo $output | cut -d"\"" -f"2") $base_path/$new_dir_name/
+    done
+  fi
+
+  if [ "$(grep "img align" $base_path/$new_dir_name/index.mdx)" ]; then
+    echo "     - img align - found image block"
+    grep "img align" $base_path/$new_dir_name/index.mdx | while read output; do
       cp ../fak3r.com-master/static/$(echo $output | cut -d"\"" -f"2") $base_path/$new_dir_name/
     done
   fi
@@ -139,6 +158,19 @@ find $base_path -name \*.md | while read mdfile; do
   #    echo "       -$image_name"
   #    echo "       - copying $image_name into $base_path/$new_dir_name/"
   #    find ${old_files} -name $image_name -exec cp -t "$base_path/$new_dir_name/" {} +
+
+  # HERE -
+
+  echo "+-----------------------------------------------------------------------+"
+  echo "   : Body fix - p tags:"
+  echo "       - div - img - figcaption - figure"
+  sed -i "s/<p>//g" "$base_path/$new_dir_name/index.mdx"
+  sed -i "s/<\/p>//g" "$base_path/$new_dir_name/index.mdx"
+  #sed -i "s/<>//g" "$base_path/$new_dir_name/index.mdx"
+
+  echo "   : Body fix - more tags:"
+  echo "       - <!--more-->"
+  sed -i 's/<\!--more-->//g'  "$base_path/$new_dir_name/index.mdx"
 
   echo "+-----------------------------------------------------------------------+"
   echo "   : Body fix - html tags:"

