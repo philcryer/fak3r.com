@@ -20,7 +20,7 @@ What you should know when visiting my site, fak3r.com; pay attention, this stuff
 <p>Because you're being watched online. The average website has around 14 cookies per page; roughly 32 percent come from the website owner, and the rest come from third parties. (Source: <a href="http://www.truste.com/uk-privacy-index-2012-websites/">TRUSTe Privacy Index</a>)</p>
 
 <h3>Disqus</h3>
-<p>As of early 2018, I've turned off Disqus comments for good. If you want to comment on a post, feel free to send me a DM or tag me, ~~@fak3r on Twitter~~ <a href="https://mastodon.social/@fak3r">@fak3r</a> on Mastodon.</p>
+<p>As of early 2018, I've turned off Disqus comments for good. If you want to comment on a post, feel free to send me a DM or tag me, <a href="https://mastodon.social/@fak3r">@fak3r</a> on Mastodon.</p>
 
 <h3>Terms and Conditions</h3>
 <p>Please take the time to checkout the <a href="/terms-and-conditions/">Terms and Conditions</a> page establishing the use, disclaimers, and limitations of liability governing the use of fak3r.com.</p>
@@ -36,11 +36,9 @@ What you should know when visiting my site, fak3r.com; pay attention, this stuff
 <ul>
 <li>url: https://fak3r.com</li>
 <li>email: admin @ fak3r . com</li>
-<li>twitter: @fak3r</li>
+<li>mastodon.social: @fak3r</li>
 </ul>
 
-<h3>~~NOTICE: This was last modified on January 01, 2019~~</h3>
-
-<h3>NOTICE: This was last modified on April 24, 2025 - replaced Twitter link with Mastodon link</h3>
+<h3>NOTICE: This was last modified on April 24, 2025 - replaced Twitter link and mention with Mastodon</h3>
 
 <p>Thanks</p>
