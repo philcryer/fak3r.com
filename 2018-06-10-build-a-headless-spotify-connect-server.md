@@ -1,9 +1,9 @@
 ---
-title: "Build a Headless Spotify Connect Server"
-Description: "Setup a Spotify connect server that your stereo will respect"
-date: "2018-06-10T17:26:38-05:00"
-Tags: ["howto", "spotify", "linux", "debian", "raspberry-pi", "hifiberry"]
-Categories: ["howto", "hacking", "music"]
+title: 'Build a Headless Spotify Connect Server'
+Description: 'Setup a Spotify connect server that your stereo will respect'
+date: '2018-06-10T17:26:38-05:00'
+Tags: ['howto', 'spotify', 'linux', 'debian', 'raspberry-pi', 'hifiberry']
+Categories: ['howto', 'hacking', 'music']
 ---
 
 # Overview
@@ -20,23 +20,23 @@ I've run various projects on [Raspberry Pi](https://www.raspberrypi.org/) comput
 
 My current setup consists of:
 
-* [The Raspberry Pi 2 Model B](https://www.raspberrypi.org/products/raspberry-pi-2-model-b/), currently about $30 USD 
-* [HiFiBerry DAC+ Pro](https://www.hifiberry.com/shop/boards/hifiberry-dac-pro/), currently about $40 USD
+- [The Raspberry Pi 2 Model B](https://www.raspberrypi.org/products/raspberry-pi-2-model-b/), currently about $30 USD
+- [HiFiBerry DAC+ Pro](https://www.hifiberry.com/shop/boards/hifiberry-dac-pro/), currently about $40 USD
 
 ![HiFi Berry DAC+ PRO](/2018/dac_pro.jpg)
 
-* [Acrylic case for DAC+ (RCA)](https://www.hifiberry.com/shop/cases/hifiberry-case-for-dac-rca-and-digi-black/), currently about $12 USD
-* [SanDisk Ultra 32GB microSDHC](https://www.amazon.com/SanDisk-microSDHC-Standard-Packaging-SDSQUNC-032G-GN6MA/dp/B010Q57T02), currently about $12 USD
-* [CAT6 Gigabit Ethernet Cable](https://www.microcenter.com/product/431178/CAT6_Gigabit_Ethernet_Cable_for_Raspberry_Pi), about $6 USD
-* [Blue Jeans Cable LC-1 Low Capacitance Audio Cable (RCA)](https://www.bluejeanscable.com/store/audio/index.htm), which is priced by length, so for a 2 foot pair with Techflex it's about $35 USD.
+- [Acrylic case for DAC+ (RCA)](https://www.hifiberry.com/shop/cases/hifiberry-case-for-dac-rca-and-digi-black/), currently about $12 USD
+- [SanDisk Ultra 32GB microSDHC](https://www.amazon.com/SanDisk-microSDHC-Standard-Packaging-SDSQUNC-032G-GN6MA/dp/B010Q57T02), currently about $12 USD
+- [CAT6 Gigabit Ethernet Cable](https://www.microcenter.com/product/431178/CAT6_Gigabit_Ethernet_Cable_for_Raspberry_Pi), about $6 USD
+- [Blue Jeans Cable LC-1 Low Capacitance Audio Cable (RCA)](https://www.bluejeanscable.com/store/audio/index.htm), which is priced by length, so for a 2 foot pair with Techflex it's about $35 USD.
 
-So I've had this setup for years, if I were to do it again today I'd take a fresh look and review a few things before I stated: 
+So I've had this setup for years, if I were to do it again today I'd take a fresh look and review a few things before I stated:
 
-* [The Raspberry Pi 3 Model B+](https://www.raspberrypi.org/products/raspberry-pi-3-model-b-plus/), this is the latest Rasberry Pi, and it's the same price as the old one but it's faster, has more RAM, updated components, there's really no reason not to get it.
-* [HiFiBerry DAC pro XLR](https://www.hifiberry.com/shop/boards/hifiberry-dac-pro-xlr/), currently about $60 USD. This is a bit of an edge case, this board uses XLR connections instead of RCA, which is more of what the pros use, but it's not common with most stereo equipment, so you'd know if this was an option for you. 
-* A faster microSDHC card, there are always going to be faster cards, so I'd buy the fastest I could find that's still reasonably priced.
-* Other DACs? If I were doing it again I'd do a quick review of other DACs available for Pis, or other systems to see if this is the brand I'd go with or not.
-* And if I was looking at other DACs, I'd start looking at different boards, while Raspberry Pis are very popular, and affordable, I love hardware, as well as a new challenge, so I'd research other options like the [Libre Computer Board](https://www.amazon.com/Libre-Computer-AML-S905X-CC-Potato-64-bit/dp/B074P6BNGZ/), [ODROID-XU4](https://www.amazon.com/ODROID-XU4-Single-Board-Computer-Gigabit/dp/B0163GEA64/). [ODOID-C2](https://www.amazon.com/ODROID-C2-2GB-RAM-HDMI-Gigabit/dp/B01CQBRXOQ/), [ASUS SBC Tinker board](https://www.amazon.com/Tinker-board-RK3288-1-8GHz-Mali-T764/dp/B06VSBVQWS/), or even a newer Intel based fanless mini PC like the [Z83-W](https://www.amazon.com/Z83-W-Fanless-PC-x5-Z8350-Graphics/dp/B01N3RO6X5/).
+- [The Raspberry Pi 3 Model B+](https://www.raspberrypi.org/products/raspberry-pi-3-model-b-plus/), this is the latest Rasberry Pi, and it's the same price as the old one but it's faster, has more RAM, updated components, there's really no reason not to get it.
+- [HiFiBerry DAC pro XLR](https://www.hifiberry.com/shop/boards/hifiberry-dac-pro-xlr/), currently about $60 USD. This is a bit of an edge case, this board uses XLR connections instead of RCA, which is more of what the pros use, but it's not common with most stereo equipment, so you'd know if this was an option for you.
+- A faster microSDHC card, there are always going to be faster cards, so I'd buy the fastest I could find that's still reasonably priced.
+- Other DACs? If I were doing it again I'd do a quick review of other DACs available for Pis, or other systems to see if this is the brand I'd go with or not.
+- And if I was looking at other DACs, I'd start looking at different boards, while Raspberry Pis are very popular, and affordable, I love hardware, as well as a new challenge, so I'd research other options like the [Libre Computer Board](https://www.amazon.com/Libre-Computer-AML-S905X-CC-Potato-64-bit/dp/B074P6BNGZ/), [ODROID-XU4](https://www.amazon.com/ODROID-XU4-Single-Board-Computer-Gigabit/dp/B0163GEA64/). [ODOID-C2](https://www.amazon.com/ODROID-C2-2GB-RAM-HDMI-Gigabit/dp/B01CQBRXOQ/), [ASUS SBC Tinker board](https://www.amazon.com/Tinker-board-RK3288-1-8GHz-Mali-T764/dp/B06VSBVQWS/), or even a newer Intel based fanless mini PC like the [Z83-W](https://www.amazon.com/Z83-W-Fanless-PC-x5-Z8350-Graphics/dp/B01N3RO6X5/).
 
 But I digress, I know it'd be fun to go shopping again, but for now, let's do what we came here for and get the Raspberry Pi running with the HiFiBerry DAC+ PRO, and our precious stereo system!
 
@@ -44,7 +44,7 @@ But I digress, I know it'd be fun to go shopping again, but for now, let's do wh
 
 ### OS
 
-I used [Raspbian](https://www.raspbian.org/), which is the Raspberry Foundation’s official supported operating system, it's based on [Debian GNU/Linux](https://www.debian.org/), so of course that makes me very happy. Since this is going to be a headless server, I grabbed the Raspbian Stretch Lite (Minimal image based on Debian Stretch) from the [downloads page](https://www.raspberrypi.org/downloads/raspbian/). 	
+I used [Raspbian](https://www.raspbian.org/), which is the Raspberry Foundation’s official supported operating system, it's based on [Debian GNU/Linux](https://www.debian.org/), so of course that makes me very happy. Since this is going to be a headless server, I grabbed the Raspbian Stretch Lite (Minimal image based on Debian Stretch) from the [downloads page](https://www.raspberrypi.org/downloads/raspbian/).
 
 Download Raspbian, unzip it, and then write the `img` file to your micro SD card. Instead of rolling the old school `dd` utility on the commandline, I really like the UI and simplicity of [Etcher](https://etcher.io/), which is easy, plus safer; you're not going to overwrite your root partition with it!
 
@@ -63,10 +63,11 @@ Once you find it, ssh to the host as user `pi` and use password `raspberrypi`
 ### Security
 
 After first boot, login and update the software
+
 ```
 sudo apt update; sudo apt upgrade
 ```
- 
+
 Remove default user, add your own user that will use sudo for administration, and have access to the audio hardware. When I create my user I'll use `fak3r`, you can use whatever you want, just substitute as you go.
 
 ```
@@ -77,7 +78,6 @@ sudo usermod -a -G audio fak3r
 ```
 
 Next, we'll lock down who can login over `ssh`, and restrict that to our local subnet. Edit `/etc/ssh/sshd_config`, and Uncomment the `AllowUsers` and `ListenAddress` line, you will add your user and local subnet to restrict the logins. Again, substitute your user, restrict it by only allowing it in from your subnet, and your listen address on your private subnet.pt-get -y install curl apt-transport-https
-
 
 ```
 ListenAddress 192.168.1.3
@@ -123,7 +123,7 @@ To test, run `aplay` with a WAV file, to use `mp3` you can install mplayer, but 
 
 ### Spotify connect
 
-Finally, we're going to use the excellent [Raspotify](https://github.com/dtcooper/raspotify) project, which is basically a wrapper to make setting up and running Spotify Connect easier. 
+Finally, we're going to use the excellent [Raspotify](https://github.com/dtcooper/raspotify) project, which is basically a wrapper to make setting up and running Spotify Connect easier.
 
 Basic install is simple, we just need to add an apt repo and install Raspotify:
 
@@ -146,7 +146,7 @@ Now it will be up and running, and viewable from any Spotify client on your loca
 
 ![raspotify](/2018/spotify-connect.png)
 
-Lastly I setup the configuration so it has a more interesting name, and I set it to stream a higher bitrate (which I believe you need to be a Spotify subscriber to get, worth it to me to get *almost* lossless audio), but I think the client already handles this... regardless, a quick edit:
+Lastly I setup the configuration so it has a more interesting name, and I set it to stream a higher bitrate (which I believe you need to be a Spotify subscriber to get, worth it to me to get _almost_ lossless audio), but I think the client already handles this... regardless, a quick edit:
 
 ```
 # /etc/default/raspotify -- Arguments/configuration for librespot
@@ -201,6 +201,6 @@ And yes, the name is from the best ever Australian band, [You Am I](http://youam
 
 # Conclusion
 
-That was fun, now we have a lightweight, stable Spotify Connect system that we control, and pretty much understand! Future ideas to make this system better will be to make it automount a 'Music' share I have on another server, and then maybe run the [Music Player Daemon (MPD)](https://www.musicpd.org/), which can play music files in a similar way we have Raspotiy doing it, but controlled by MPD compatible clients. That way we can get `flac` files playing, which will be the ultimate in hi-fidelity! Until of course we want to upgrade hardware... but that's a constant! 
+That was fun, now we have a lightweight, stable Spotify Connect system that we control, and pretty much understand! Future ideas to make this system better will be to make it automount a 'Music' share I have on another server, and then maybe run the [Music Player Daemon (MPD)](https://www.musicpd.org/), which can play music files in a similar way we have Raspotiy doing it, but controlled by MPD compatible clients. That way we can get `flac` files playing, which will be the ultimate in hi-fidelity! Until of course we want to upgrade hardware... but that's a constant!
 
 Keep on rockin', thanks for reading to the end. Applesause.
