@@ -1,0 +1,19 @@
+  echo; echo "+-----------------------------------------------------------------------+"
+  echo "   : Frontmatter fix - tags and categories"
+  echo "     - parsing current Tags and Categories lines"
+  cat_array=$(cat "$base_path/$new_dir_name/index.mdx" | grep Categories)
+  tag_array=$(cat "$base_path/$new_dir_name/index.mdx" | grep -i Tags)
+  sm_tag_array=$(cat "$base_path/$new_dir_name/index.mdx" | grep -i tags)
+  tags=$(echo ${cat_array[@]} ${tag_array[@]} ${sm_tag_array[@]} | sed 's/tags://g' | sed 's/Tags://g' | sed 's/Categories://g' | tr -d '[],' | awk '{ gsub (" ", "", $0); print}' | sed 's/""/\ /g' | sed 's/"//g')
+  tags_wquotes=$(echo $tags | tr "''" "\n" | sed '/^$/d' | sort | uniq | awk '{ printf "\"%s\",\n", $0 }')
+  tags_as_string=$(echo $tags_wquotes | tr "''" "\n" | sed '/^$/d' | sort | uniq | awk -v RS= -F'\n' -v OFS=', ' '{$1=$1} 1' | sed 's/,$//')
+  new_tags=$(for a in "${tags_as_string[@]}"; do echo "[ $a ]"; done)
+  echo "     - new tag line: $new_tags"
+
+  echo "     - dropping old tags, Tags, and Categories lines"
+  sed -i "/tags:/d" "$base_path/$new_dir_name/index.mdx"
+  sed -i "/Tags:/d" "$base_path/$new_dir_name/index.mdx"
+  sed -i "/Categories:/d" "$base_path/$new_dir_name/index.mdx"
+
+  echo "     - writing new tags string to file"
+  sed -i "/date:/atags:\ $new_tags" "$base_path/$new_dir_name/index.mdx"

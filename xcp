@@ -2,12 +2,13 @@
 
 if [ $# -eq 0 ]; then
   >&2 echo "No arguments provided"
-  echo "OLD ---------------------------------------------------------------------------+"
-  year=$(grep year= xreset | cut -d"=" -f2)
-  ls -1 ../fak3r.com-master/content/post/$year-*
+#  echo "OLD ---------------------------------------------------------------------------+"
+#  year=$(grep year= xreset | cut -d"=" -f2)
+#  ls -1 ../fak3r.com-master/content/post/$year-*
   exit 1
 fi
 
+rm -rf src/content/blog/*
 cp $1 src/content/blog/
 
 echo

@@ -10,109 +10,91 @@ echo "-> Migrate Hugo .md to Astro .mdx"
 echo "+-----------------------------------------------------------------------+"
 find $base_path -name \*.md | while read mdfile; do
 
-  echo "   : Frontmatter fix - divider"
-  echo "+-----------------------------------------------------------------------+"
-  echo "     - divider: replacing any +++ with ---"
-  sed -i 's/+++/\-\-\-/g' "src/content/blog/2018-01-19-proxy-nexus-iq-via-nginx-ssl/index.mdx"
-
-  echo "+-----------------------------------------------------------------------+"
-
-  echo "+-----------------------------------------------------------------------+"
-  echo "   : Rewrite filename and directory"
+  echo "  : Rewrite filename and directory"
   file_name=$(echo $mdfile | cut -d"/" -f4)
-  echo "     - filename: $file_name"
+  echo "    - filename (existing): $file_name"
   new_dir_name=$(echo $file_name | cut -d"." -f1)
-  echo "     - new directory: $new_dir_name"
+  echo "    - directory (new): $new_dir_name"
   mkdir -p $base_path/$new_dir_name
-  echo "     - new filename: $base_path/$new_dir_name/index.mdx"
   mv $base_path/$file_name $base_path/$new_dir_name/index.mdx
+  echo "    - directory + filename (new): $base_path/$new_dir_name/index.mdx"
 
-  echo "+-----------------------------------------------------------------------+"
-  echo "   : Frontmatter fix - title"
+  echo "  : Frontmatter fix - divider"
+  echo "    - divider: replacing any +++ with ---"
+  sed -i 's/+++/\-\-\-/g' "$base_path/$new_dir_name/index.mdx"
+
+  echo "  : Frontmatter fix - title"
   if [ ! -z "$(grep "title: " $base_path/$new_dir_name/index.mdx)" ]; then
-    echo "     - replacing double quotes with single quotes"
+    echo "    - title: replacing double quotes with single quotes"
     sed -i "/^title:\ /s/\"/'/1" "$base_path/$new_dir_name/index.mdx"
     sed -i "/^title:\ /s/\"/'/1" "$base_path/$new_dir_name/index.mdx"
-  else
-    echo "     - double quotes do not exist"
   fi
+  echo "    - title: not using double quotes"
 
-  echo "+-----------------------------------------------------------------------+"
-  echo "   : Frontmatter fix - description"
+  echo "  : Frontmatter fix - description"
   if [ -z "$(grep "description: " $base_path/$new_dir_name/index.mdx)" ]; then
-    echo "     - adding description line to frontmater"
+    echo "    - adding description line to frontmater"
     sed -i "/title:/a\description: ''" "$base_path/$new_dir_name/index.mdx"
-  else
-    echo "     - description line exists"
   fi
 
-  echo "+-----------------------------------------------------------------------+"
-  echo "   : Frontmatter fix - date"
+  echo "  : Frontmatter fix - date"
   if [ -z "$(grep "date:*T" $base_path/$new_dir_name/index.mdx)" ]; then
-    echo "     - removing leading quote"
+    echo "    - removing leading quote"
     sed -i 's/date: "/date: /g' "$base_path/$new_dir_name/index.mdx"
-    echo "     - simplifying date to YYYY-MM-DD"
+    echo "    - simplifying date to YYYY-MM-DD"
     new_date=$(grep "date: " "$base_path/$new_dir_name/index.mdx" | cut -d"T" -f1 | cut -d" " -f2)
     sed -i "/date:/d" "$base_path/$new_dir_name/index.mdx"
-    sed -i "/description:/a\date: $new_date" "$base_path/$new_dir_name/index.mdx"
+    sed -i "/description:/a\date: $new_date'" "$base_path/$new_dir_name/index.mdx"
+    echo "    - date line fixed: $(cat $base_path/$new_dir_name/index.mdx | grep "^date")"
   fi
 
-  echo "+-----------------------------------------------------------------------+"
-  echo "   : Frontmatter fix - tags and categories"
-  echo "     - parsing current Tags and Categories lines"
+  echo "  : Frontmatter fix - tags and categories"
+  echo "    - parsing current Tags and Categories lines"
   cat_array=$(cat "$base_path/$new_dir_name/index.mdx" | grep Categories)
   tag_array=$(cat "$base_path/$new_dir_name/index.mdx" | grep -i Tags)
   sm_tag_array=$(cat "$base_path/$new_dir_name/index.mdx" | grep -i tags)
   tags=$(echo ${cat_array[@]} ${tag_array[@]} ${sm_tag_array[@]} | sed 's/tags://g' | sed 's/Tags://g' | sed 's/Categories://g' | tr -d '[],' | awk '{ gsub (" ", "", $0); print}' | sed 's/""/\ /g' | sed 's/"//g')
-  uniq_tags=$(for i in ${tags[@]}; do echo "$i"; done | sort -u)
-  echo "     - new tags: $uniq_tags"
+  #tags_wquotes=$(echo $tags | tr "''" "\n" | sed '/^$/d' | sort | uniq | awk '{ printf "\047%s\047,\n", $0 }' | sed 's/,*$//')
+  tags_wquotes=$(echo $tags | tr "''" "\n" | sed '/^$/d' | sort | uniq | awk '{ printf "\047%s\047,\n", $0 }')
+  new_tags=$(for a in "${tags_wquotes[@]}"; do echo "[ $a ]"; done)
 
-  echo "     - dropping Tags and Categories lines"
+  echo "    - dropping old tags, Tags, and Categories lines"
   sed -i "/tags:/d" "$base_path/$new_dir_name/index.mdx"
   sed -i "/Tags:/d" "$base_path/$new_dir_name/index.mdx"
   sed -i "/Categories:/d" "$base_path/$new_dir_name/index.mdx"
-  
-  eval "array=($uniq_tags)"
-  quoted_tags=$(for arg in "${array[@]}"; do echo -n "'"$arg"', "; done)  
 
-  new_tags=$(
-    echo -n "[ "
-    #echo -n $uniq_tags
-    echo -n $quoted_tags
-    echo " ]"
-  )
-  formated_tags=$(echo $new_tags | sed 's/\,\ \]/\ \]/g')
-  sed -i "/date:/atags:\ $formated_tags" "$base_path/$new_dir_name/index.mdx"
-  #head -n20 "$base_path/$new_dir_name/index.mdx"
+  echo $new_tags
 
-  echo "+-----------------------------------------------------------------------+"
-  echo "   : Frontmatter fix - authors"
+  echo "    - writing new tags string to file"
+  #sed -i "/date:/atags:\ '${new_tags}' "$base_path/$new_dir_name/index.mdx""
+  sed -i "/date:/atags: $new_tags" "$base_path/$new_dir_name/index.mdx"
+  echo "    - tag line fixed: $new_tags"
+
+  echo "  : Frontmatter fix - authors"
   if [ -z "$(grep "authors: " $base_path/$new_dir_name/index.mdx)" ]; then
-    echo "     - adding authors line to frontmater"
+    echo "    - adding authors line to frontmater"
     sed -i "/tags:/a\authors:\ ['$author_name']" "$base_path/$new_dir_name/index.mdx"
   else
-    echo "     - authors line exists"
+    echo "    - authors line exists"
   fi
 
-  echo "+-----------------------------------------------------------------------+"
-  echo "   : Frontmatter fix - image"
+  echo "  : Frontmatter fix - image"
   if [ -z "$(grep "image: " $base_path/$new_dir_name/index.mdx)" ]; then
-    echo "     - adding image line to frontmater after description line"
+    echo "    - adding image line to frontmater after description line"
     sed -i "/description:/a\image:\ ''" "$base_path/$new_dir_name/index.mdx"
   else
-    echo "     - image line exists"
+    echo "    - image line exists"
   fi
 
-  echo "+-----------------------------------------------------------------------+"
-  echo "   : Frontmatter fix - adding header image to image line if img src exists"
+  echo "  : Frontmatter fix - adding header image to image line if img src exists"
   if [ "$(grep "img src" $base_path/$new_dir_name/index.mdx)" ]; then
-    echo "       - img src - updating image frontmatter with image namei"
+    echo "    - img src - updating image frontmatter with image name"
     header_image=$(grep "img src" $base_path/$new_dir_name/index.mdx -m 1 | cut -d"\"" -f2 | cut -d"/" -f3)
     sed -i "/image:/c\image:\ '$header_image'" "$base_path/$new_dir_name/index.mdx"
   fi
 
   if [ "$(grep "img align" $base_path/$new_dir_name/index.mdx)" ]; then
-    echo "       - img align - updating image frontmatter with image namei"
+    echo "    - img align - updating image frontmatter with image namei"
     header_image=$(grep "img align" $base_path/$new_dir_name/index.mdx -m 1 | cut -d"\"" -f2 | cut -d"/" -f3)
 
     ## debug
@@ -123,10 +105,9 @@ find $base_path -name \*.md | while read mdfile; do
     sed -i "/image:/c\image:\ '$header_image'" "$base_path/$new_dir_name/index.mdx"
   fi
 
-  echo "+-----------------------------------------------------------------------+"
-  echo "   : Body fix - copying any images into new dir"
+  echo "  : Body fix - copying any images into new dir"
   if [ "$(grep "img src" $base_path/$new_dir_name/index.mdx)" ]; then
-    echo "     - img src - found image block"
+    echo "    - img src - found image block"
     grep "img src" $base_path/$new_dir_name/index.mdx | while read output; do
 	#echo "output is $output"
       cp ../fak3r.com-master/static/$(echo $output | cut -d"\"" -f"2") $base_path/$new_dir_name/
@@ -134,7 +115,7 @@ find $base_path -name \*.md | while read mdfile; do
   fi
 
   if [ "$(grep "img align" $base_path/$new_dir_name/index.mdx)" ]; then
-    echo "     - img align - found image block"
+    echo "    - img align - found image block"
     grep "img align" $base_path/$new_dir_name/index.mdx | while read output; do
       cp ../fak3r.com-master/static/$(echo $output | cut -d"\"" -f"2") $base_path/$new_dir_name/
     done
@@ -170,32 +151,33 @@ find $base_path -name \*.md | while read mdfile; do
 
   # HERE -
 
-  echo "+-----------------------------------------------------------------------+"
-  echo "   : Body fix - p tags:"
-  echo "       - div - img - figcaption - figure"
+  echo "  : Body fix - p tags:"
+  echo "    - div - img - figcaption - figure"
   sed -i "s/<p>//g" "$base_path/$new_dir_name/index.mdx"
   sed -i "s/<\/p>//g" "$base_path/$new_dir_name/index.mdx"
   #sed -i "s/<>//g" "$base_path/$new_dir_name/index.mdx"
 
-  echo "   : Body fix - more tags:"
-  echo "       - <!--more-->"
+  echo "  : Body fix - more tags:"
+  echo "    - <!--more-->"
   sed -i 's/<\!--more-->//g'  "$base_path/$new_dir_name/index.mdx"
 
-  echo "+-----------------------------------------------------------------------+"
-  echo "   : Body fix - html tags:"
-  echo "       - div - img - figcaption - figure"
+  echo "  : Body fix - html tags:"
+  echo "    - div - img - figcaption - figure"
   sed -i "/\<div/d" "$base_path/$new_dir_name/index.mdx"
-  echo "       - img - figcaption - figure"
+  echo "    - img - figcaption - figure"
   sed -i "/\<img\ src/d" "$base_path/$new_dir_name/index.mdx"
-  echo "       - figcaption - figure"
+  echo "    - figcaption - figure"
   sed -i "/\<figcaption/d" "$base_path/$new_dir_name/index.mdx"
-  echo "       - figure"
+  echo "    - figure"
   sed -i "/\<figure/d" "$base_path/$new_dir_name/index.mdx"
   #  else
   #    echo "     - no image line exists"
   #  fi
 
-  echo "+-----------------------------------------------------------------------+"
+#  echo; echo "+-----------------------------------------------------------------------+"
+#  echo "   : Done"
+#  ls -ls "$base_path"
+
 
   #echo "+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~+"
   #echo "-results-"
@@ -207,5 +189,6 @@ find $base_path -name \*.md | while read mdfile; do
   #  head -n20 "$base_path/$new_dir_name/index.mdx"
 
 done
+echo "+-----------------------------------------------------------------------+"
 
 exit 0

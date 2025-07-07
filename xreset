@@ -1,5 +1,10 @@
 #!/bin/bash
 
+rm -rf src/content/blog/2018-06-10-build-a-headless-spotify-connect-server
+cp 2018-06-10-build-a-headless-spotify-connect-server.md src/content/blog
+
+exit 0
+
 year=2018
 
 if [ ! -d 'src/content/blog' ]; then
