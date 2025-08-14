@@ -4,10 +4,11 @@ set -e
 
 base_path="src/content/blog"
 author_name="fak3r"
-old_files="../fak3r.com-master"
+old_files="../fak3r.com-main"
+md_file="2018-06-10-build-a-headless-spotify-connect-server.md"
 
 rm -rf $base_path/*
-cp 2018-06-10-build-a-headless-spotify-connect-server.md $base_path
+cp $md_file $base_path
 
 find $base_path -name \*.md | while read mdfile; do
 
