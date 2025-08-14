@@ -1,0 +1,1 @@
+rsync -Av dist linuxuser@hector:~/beta.fak3r.com
