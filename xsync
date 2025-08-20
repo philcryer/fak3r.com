@@ -1,1 +1,1 @@
-rsync -Av dist linuxuser@hector:~/beta.fak3r.com
+rsync -av --delete dist/ linuxuser@hector:~/docker/beta.fak3r.com/html
