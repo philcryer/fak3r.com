@@ -1,19 +1,32 @@
 ---
 title: 'Build a Headless Spotify Connect Server'
+<<<<<<< HEAD
 description: 'Setup a Spotify connect server that your stereo will respect'
 image: 'dac_pro.jpg'
 date: '2018-06-10'
 tags: [ "debian", "hacking", "hifiberry", "howto", "linux", "music", "raspberry-pi", "spotify" ]
 authors: ['fak3r']
+=======
+description: ''
+date: '2018-06-10'
+tags: $(cat new)
+Description: 'Setup a Spotify connect server that your stereo will respect'
+>>>>>>> 25ff50d (wip update)
 ---
 
 # Overview
 
 I've run various projects on [Raspberry Pi](https://www.raspberrypi.org/) computers since they came out, but the one I've used the most has been the one I bought an external DAC (digital audio converter) for, and hooked it up to a stereo so I could remotely stream music. Technically you could use a Y-cord (3.5mm Mini to RCA Stereo) plugged into the headphone out of the Pi, and have it connect via RCA to your stereo, but then you're using the on board audio, which is far inferior to a dedicated DAC. While I liked frontends like [Pi Musicbox](https://www.pimusicbox.com/), [Rune Audio](https://www.runeaudio.com/), and the polished looking [Volumio](https://volumio.org/), they did far more than I needed, and over time I'd have random issues that would take me longer to fix than I'd like, so I decided to rebuild my setup from scratch, and just make it a [Spotify Connect](https://support.spotify.com/us/listen_everywhere/on_other_devices/spotify-connect/) server. This means that the system can be a 'source' for any Spotify client to stream audio to, cutting out the need for a web-based front end like the other projects.
 
+<<<<<<< HEAD
 ![Rapberry Pi w/HiFi Berry DAC+ PRO in case](finished-product.jpg)
 
 
+=======
+![Rapberry Pi w/HiFi Berry DAC+ PRO in case](/2018/finished-product.jpg)
+
+<!--more-->
+>>>>>>> 25ff50d (wip update)
 
 # Getting started
 
@@ -24,8 +37,12 @@ My current setup consists of:
 - [The Raspberry Pi 2 Model B](https://www.raspberrypi.org/products/raspberry-pi-2-model-b/), currently about $30 USD
 - [HiFiBerry DAC+ Pro](https://www.hifiberry.com/shop/boards/hifiberry-dac-pro/), currently about $40 USD
 
+<<<<<<< HEAD
 ![HiFi Berry DAC+ PRO](dac_pro.jpg)
 ![image](dac_pro.jpg)
+=======
+![HiFi Berry DAC+ PRO](/2018/dac_pro.jpg)
+>>>>>>> 25ff50d (wip update)
 
 - [Acrylic case for DAC+ (RCA)](https://www.hifiberry.com/shop/cases/hifiberry-case-for-dac-rca-and-digi-black/), currently about $12 USD
 - [SanDisk Ultra 32GB microSDHC](https://www.amazon.com/SanDisk-microSDHC-Standard-Packaging-SDSQUNC-032G-GN6MA/dp/B010Q57T02), currently about $12 USD
@@ -146,7 +163,11 @@ Raspotify works out of the box and should be discoverable by Spotify Connect on 
 
 Now it will be up and running, and viewable from any Spotify client on your local subnet. Take a look in Spotify, see if you see it in the bottom right hand side under 'Devices Available'
 
+<<<<<<< HEAD
 ![raspotify](spotify-connect.png)
+=======
+![raspotify](/2018/spotify-connect.png)
+>>>>>>> 25ff50d (wip update)
 
 Lastly I setup the configuration so it has a more interesting name, and I set it to stream a higher bitrate (which I believe you need to be a Spotify subscriber to get, worth it to me to get _almost_ lossless audio), but I think the client already handles this... regardless, a quick edit:
 
@@ -197,7 +218,11 @@ reboot
 
 Since I'm not running much on this server it boots very quickly, much quicker than it used to with the frontends it was using. In Spotify it looks like this:
 
+<<<<<<< HEAD
 ![hifi-way](spotify-connect-2.png)
+=======
+![hifi-way](/2018/spotify-connect-2.png)
+>>>>>>> 25ff50d (wip update)
 
 And yes, the name is from the best ever Australian band, [You Am I](http://youami.com.au/) 1995 release, [Hi-Fi Way](https://en.wikipedia.org/wiki/Hi_Fi_Way), "How fucking good is Rusty tonight?"
 
