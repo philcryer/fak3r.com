@@ -4,15 +4,7 @@ set -e
 
 base_path="src/content/blog"
 author_name="fak3r"
-<<<<<<< HEAD
-<<<<<<< HEAD
 old_files="../fak3r.com-main"
-=======
-old_files="../fak3r.com.main"
->>>>>>> 25ff50d (wip update)
-=======
-old_files="../fak3r.com.main"
->>>>>>> 25ff50d (wip update)
 
 echo "-> Migrate Hugo .md to Astro .mdx"
 echo "+-----------------------------------------------------------------------+"
@@ -40,16 +32,10 @@ find $base_path -name \*.md | while read mdfile; do
   echo "    - title: not using double quotes"
 
   echo "  : Frontmatter fix - description"
-<<<<<<< HEAD
-<<<<<<< HEAD
   if [ -z "$(grep "Description " $base_path/$new_dir_name/index.mdx)" ]; then
     echo "    - renaming Description to description if present"
     sed -i 's/Description:/description:/g' "$base_path/$new_dir_name/index.mdx"
   fi
-=======
->>>>>>> 25ff50d (wip update)
-=======
->>>>>>> 25ff50d (wip update)
   if [ -z "$(grep "description: " $base_path/$new_dir_name/index.mdx)" ]; then
     echo "    - adding description line to frontmater"
     sed -i "/title:/a\description: ''" "$base_path/$new_dir_name/index.mdx"
@@ -66,70 +52,26 @@ find $base_path -name \*.md | while read mdfile; do
     echo "    - date line fixed: $(cat $base_path/$new_dir_name/index.mdx | grep "^date")"
   fi
 
-<<<<<<< HEAD
-<<<<<<< HEAD
   echo "   : Frontmatter fix - tags and categories"
   echo "     - parsing current Tags and Categories lines"
-=======
-  echo "  : Frontmatter fix - tags and categories"
-  echo "    - parsing current Tags and Categories lines"
->>>>>>> 25ff50d (wip update)
-=======
-  echo "  : Frontmatter fix - tags and categories"
-  echo "    - parsing current Tags and Categories lines"
->>>>>>> 25ff50d (wip update)
   cat_array=$(cat "$base_path/$new_dir_name/index.mdx" | grep Categories)
   tag_array=$(cat "$base_path/$new_dir_name/index.mdx" | grep -i Tags)
   sm_tag_array=$(cat "$base_path/$new_dir_name/index.mdx" | grep -i tags)
   tags=$(echo ${cat_array[@]} ${tag_array[@]} ${sm_tag_array[@]} | sed 's/tags://g' | sed 's/Tags://g' | sed 's/Categories://g' | tr -d '[],' | awk '{ gsub (" ", "", $0); print}' | sed 's/""/\ /g' | sed 's/"//g')
-<<<<<<< HEAD
-<<<<<<< HEAD
   tags_wquotes=$(echo $tags | tr "''" "\n" | sed '/^$/d' | sort | uniq | awk '{ printf "\"%s\",\n", $0 }')
   tags_as_string=$(echo $tags_wquotes | tr "''" "\n" | sed '/^$/d' | sort | uniq | awk -v RS= -F'\n' -v OFS=', ' '{$1=$1} 1' | sed 's/,$//')
   new_tags=$(for a in "${tags_as_string[@]}"; do echo "[ $a ]"; done)
   echo "     - new tag line: $new_tags"
 
   echo "     - dropping old tags, Tags, and Categories lines"
-=======
-  #tags_wquotes=$(echo $tags | tr "''" "\n" | sed '/^$/d' | sort | uniq | awk '{ printf "\047%s\047,\n", $0 }' | sed 's/,*$//')
-  tags_wquotes=$(echo $tags | tr "''" "\n" | sed '/^$/d' | sort | uniq | awk '{ printf "\047%s\047,\n", $0 }')
-  new_tags=$(for a in "${tags_wquotes[@]}"; do echo "[ $a ]"; done)
-
-  echo "    - dropping old tags, Tags, and Categories lines"
->>>>>>> 25ff50d (wip update)
-=======
-  #tags_wquotes=$(echo $tags | tr "''" "\n" | sed '/^$/d' | sort | uniq | awk '{ printf "\047%s\047,\n", $0 }' | sed 's/,*$//')
-  tags_wquotes=$(echo $tags | tr "''" "\n" | sed '/^$/d' | sort | uniq | awk '{ printf "\047%s\047,\n", $0 }')
-  new_tags=$(for a in "${tags_wquotes[@]}"; do echo "[ $a ]"; done)
-
-  echo "    - dropping old tags, Tags, and Categories lines"
->>>>>>> 25ff50d (wip update)
   sed -i "/tags:/d" "$base_path/$new_dir_name/index.mdx"
   sed -i "/Tags:/d" "$base_path/$new_dir_name/index.mdx"
   sed -i "/Categories:/d" "$base_path/$new_dir_name/index.mdx"
 
-<<<<<<< HEAD
-<<<<<<< HEAD
   echo "     - writing new tags string to file"
   sed -i "/date:/atags:\ $new_tags" "$base_path/$new_dir_name/index.mdx"
 ###
 
-=======
-  echo $new_tags > new
-
-=======
-  echo $new_tags > new
-
->>>>>>> 25ff50d (wip update)
-  echo "    - writing new tags string to file"
-  #sed -i "/date:/atags:\ '${new_tags}' "$base_path/$new_dir_name/index.mdx""
-  sed -i "/date:/a\tags: $new_tags" "$base_path/$new_dir_name/index.mdx"
-  echo "    - tag line fixed: $new_tags"
-
-<<<<<<< HEAD
->>>>>>> 25ff50d (wip update)
-=======
->>>>>>> 25ff50d (wip update)
   echo "  : Frontmatter fix - authors"
   if [ -z "$(grep "authors: " $base_path/$new_dir_name/index.mdx)" ]; then
     echo "    - adding authors line to frontmater"
@@ -165,32 +107,38 @@ find $base_path -name \*.md | while read mdfile; do
     sed -i "/image:/c\image:\ '$header_image'" "$base_path/$new_dir_name/index.mdx"
   fi
 
-<<<<<<< HEAD
-<<<<<<< HEAD
   echo "  : Body fix - copying any images into new dir"
-=======
-  echo "  : Body fix - copying any images (img src) into new dir"
->>>>>>> 25ff50d (wip update)
-=======
-  echo "  : Body fix - copying any images (img src) into new dir"
->>>>>>> 25ff50d (wip update)
   if [ "$(grep "img src" $base_path/$new_dir_name/index.mdx)" ]; then
     echo "    - img src - found image block"
     grep "img src" $base_path/$new_dir_name/index.mdx | while read output; do
 	#echo "output is $output"
-      cp ../fak3r.com-master/static/$(echo $output | cut -d"\"" -f"2") $base_path/$new_dir_name/
+      cp  $old_files/static/$(echo $output | cut -d"\"" -f"2") $base_path/$new_dir_name/
     done
   fi
 
 ###############
+  # if [ "$(grep "img src" $base_path/$new_dir_name/index.mdx)" ]; then
+  #   echo "    - ![]image - found image block"
+  #   grep '^!' $base_path/$new_dir_name/index.mdx | while read output; do
+	#     echo "output is $output"
+  #     cp ../fak3r.com-master/static/$(echo $output | cut -d"\"" -f"2") $base_path/$new_dir_name/
+  #   done
+  # fi
   echo "  : Body fix - copying any images (![]image) into new dir"
   if [ "$(grep '^!' $base_path/$new_dir_name/index.mdx)" ]; then
-    echo "    - ^![]image - found"
+    #echo "    - ^![]image - found"
     grep '^!' $base_path/$new_dir_name/index.mdx | while read output; do
-      cp ../$old_files/static/$(echo $output | cut -d"\"" -f"2") $base_path/$new_dir_name/
+      echo "    - ^![]image - found - $(echo $output | cut -d"/" -f"4" | cut -d")" -f1)"
+      # echo $(echo $output | cut -d"(" -f"2" | cut -d")" -f1); 
+      # echo $(echo $output | cut -d"/" -f"4" | cut -d")" -f1);
+      # cp ../$old_files/static/$(echo $output | cut -d"\"" -f"2") $base_path/$new_dir_name/
+      # cp $old_files/static/$(echo $output | cut -d"(" -f"2" | cut -d")" -f1) $base_path/$new_dir_name/
+
+      echo "      cp $old_files/static$(echo $output | cut -d"(" -f"2" | cut -d")" -f1) $base_path/$new_dir_name/$(echo $output | cut -d"/" -f"4" | cut -d")" -f1);"
+      cp $old_files/static$(echo $output | cut -d"(" -f"2" | cut -d")" -f1) $base_path/$new_dir_name/$(echo $output | cut -d"/" -f"4" | cut -d")" -f1);
+
     done
   fi
-###############
 
   if [ "$(grep "img align" $base_path/$new_dir_name/index.mdx)" ]; then
     echo "    - img align - found image block"
@@ -198,6 +146,13 @@ find $base_path -name \*.md | while read mdfile; do
       cp ../fak3r.com-master/static/$(echo $output | cut -d"\"" -f"2") $base_path/$new_dir_name/
     done
   fi
+
+  echo "  : Body fix - rewriting image links to not include the /year/"
+  sed -i "s/(\/[0-9][0-9][0-9][0-9]\//(/g" $base_path/$new_dir_name/index.mdx
+
+ # exit 0
+###############
+
 
   #grep "img src" src/content/blog/2024-12-31-best-music-of-2024/index.mdx | while read output; do
   #  cp ../fak3r.com-master/static$(echo $output | cut -d"\"" -f"2") src/content/blog/2024-12-31-best-music-of-2024/

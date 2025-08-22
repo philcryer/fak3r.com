@@ -1,10 +1,5 @@
 #!/bin/bash
 
-rm -rf src/content/blog/2018-06-10-build-a-headless-spotify-connect-server
-cp 2018-06-10-build-a-headless-spotify-connect-server.md src/content/blog
-
-exit 0
-
 year=2018
 
 if [ ! -d 'src/content/blog' ]; then
@@ -12,6 +7,12 @@ if [ ! -d 'src/content/blog' ]; then
 fi
 
 rm -rf src/content/blog/*
+
+#rm -rf src/content/blog/2018-06-10-build-a-headless-spotify-connect-server
+#cp 2018-06-10-build-a-headless-spotify-connect-server.md src/content/blog
+cp 2018* src/content/blog
+
+exit 0
 
 echo
 echo "OLD ---------------------------------------------------------------------------+"
