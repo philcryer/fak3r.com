@@ -143,15 +143,13 @@ find $base_path -name \*.md | while read mdfile; do
   if [ "$(grep "img align" $base_path/$new_dir_name/index.mdx)" ]; then
     echo "    - img align - found image block"
     grep "img align" $base_path/$new_dir_name/index.mdx | while read output; do
-      cp ../fak3r.com-master/static/$(echo $output | cut -d"\"" -f"2") $base_path/$new_dir_name/
+      #cp ../fak3r.com-master/static/$(echo $output | cut -d"\"" -f"2") $base_path/$new_dir_name/
+      cp ${old_files}/static/$(echo $output | cut -d"\"" -f"2") $base_path/$new_dir_name/
     done
   fi
 
   echo "  : Body fix - rewriting image links to not include the /year/"
   sed -i "s/(\/[0-9][0-9][0-9][0-9]\//(/g" $base_path/$new_dir_name/index.mdx
-
- # exit 0
-###############
 
 
   #grep "img src" src/content/blog/2024-12-31-best-music-of-2024/index.mdx | while read output; do
@@ -182,7 +180,18 @@ find $base_path -name \*.md | while read mdfile; do
   #    echo "       - copying $image_name into $base_path/$new_dir_name/"
   #    find ${old_files} -name $image_name -exec cp -t "$base_path/$new_dir_name/" {} +
 
-  # HERE -
+  echo "  : Body fix - rewriting img src - html to markdown image block"
+  if [ "$(grep "img src" $base_path/$new_dir_name/index.mdx)" ]; then
+    echo "    - img src - html found"
+    grep "img src" $base_path/$new_dir_name/index.mdx | while read output; do
+	  echo "output is $output"
+     # cp  $old_files/static/$(echo $output | cut -d"\"" -f"2") $base_path/$new_dir_name/
+    done
+  fi
+
+### FIXME
+exit 0
+### FIXME
 
   echo "  : Body fix - p tags:"
   echo "    - div - img - figcaption - figure"
