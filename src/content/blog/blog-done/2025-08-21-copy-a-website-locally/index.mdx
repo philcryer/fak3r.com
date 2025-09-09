@@ -1,0 +1,22 @@
+---
+title: 'Mirror a website and covert links'
+description: 'Copy a website and have a fully working copy'
+image: 'webpage.png'
+date: '2025-08-14'
+tags: ['howto', 'websites', 'webpages', 'mirror']
+authors: ['fak3r']
+---
+
+# Overview
+
+I've found websites I've liked and thought, how does this work? Sure I can 'View Source...' and dig in, but I'd rather use `wget` to download the site and have a fully working copy locally.
+
+# Howto
+
+Running `wget` with the correct switches will mirror the target website locally.
+
+2025-08-19 23:40:27 history |grep wget
+
+```shell
+wget -m -p -E --tries=10 --convert-links --retry-connrefused https://www.divorce.gallery
+```

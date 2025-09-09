@@ -19,6 +19,7 @@ find $base_path -name \*.md | while read mdfile; do
   mv $base_path/$file_name $base_path/$new_dir_name/index.mdx
   echo "    - directory + filename (new): $base_path/$new_dir_name/index.mdx"
 
+  echo "+-------------------------------+"
   echo "  : Frontmatter fix - divider"
   echo "    - divider: replacing any +++ with ---"
   sed -i 's/+++/\-\-\-/g' "$base_path/$new_dir_name/index.mdx"
@@ -70,7 +71,6 @@ find $base_path -name \*.md | while read mdfile; do
 
   echo "     - writing new tags string to file"
   sed -i "/date:/atags:\ $new_tags" "$base_path/$new_dir_name/index.mdx"
-###
 
   echo "  : Frontmatter fix - authors"
   if [ -z "$(grep "authors: " $base_path/$new_dir_name/index.mdx)" ]; then
@@ -94,63 +94,89 @@ find $base_path -name \*.md | while read mdfile; do
     header_image=$(grep "img src" $base_path/$new_dir_name/index.mdx -m 1 | cut -d"\"" -f2 | cut -d"/" -f3)
     sed -i "/image:/c\image:\ '$header_image'" "$base_path/$new_dir_name/index.mdx"
   fi
-
   if [ "$(grep "img align" $base_path/$new_dir_name/index.mdx)" ]; then
     echo "    - img align - updating image frontmatter with image namei"
     header_image=$(grep "img align" $base_path/$new_dir_name/index.mdx -m 1 | cut -d"\"" -f2 | cut -d"/" -f3)
-
-    ## debug
     echo $header_image
     grep "img align" $base_path/$new_dir_name/index.mdx -m 1 | cut -d"\"" -f2 | cut -d"/" -f3
-    ## debug
-
     sed -i "/image:/c\image:\ '$header_image'" "$base_path/$new_dir_name/index.mdx"
   fi
 
+  echo "+-------------------------------+"
   echo "  : Body fix - copying any images into new dir"
   if [ "$(grep "img src" $base_path/$new_dir_name/index.mdx)" ]; then
     echo "    - img src - found image block"
     grep "img src" $base_path/$new_dir_name/index.mdx | while read output; do
-	#echo "output is $output"
       cp  $old_files/static/$(echo $output | cut -d"\"" -f"2") $base_path/$new_dir_name/
     done
   fi
-
-###############
-  # if [ "$(grep "img src" $base_path/$new_dir_name/index.mdx)" ]; then
-  #   echo "    - ![]image - found image block"
-  #   grep '^!' $base_path/$new_dir_name/index.mdx | while read output; do
-	#     echo "output is $output"
-  #     cp ../fak3r.com-master/static/$(echo $output | cut -d"\"" -f"2") $base_path/$new_dir_name/
-  #   done
-  # fi
-  echo "  : Body fix - copying any images (![]image) into new dir"
   if [ "$(grep '^!' $base_path/$new_dir_name/index.mdx)" ]; then
-    #echo "    - ^![]image - found"
+    echo "    - ^![]image - found image block"
     grep '^!' $base_path/$new_dir_name/index.mdx | while read output; do
       echo "    - ^![]image - found - $(echo $output | cut -d"/" -f"4" | cut -d")" -f1)"
-      # echo $(echo $output | cut -d"(" -f"2" | cut -d")" -f1); 
-      # echo $(echo $output | cut -d"/" -f"4" | cut -d")" -f1);
-      # cp ../$old_files/static/$(echo $output | cut -d"\"" -f"2") $base_path/$new_dir_name/
-      # cp $old_files/static/$(echo $output | cut -d"(" -f"2" | cut -d")" -f1) $base_path/$new_dir_name/
-
       echo "      cp $old_files/static$(echo $output | cut -d"(" -f"2" | cut -d")" -f1) $base_path/$new_dir_name/$(echo $output | cut -d"/" -f"4" | cut -d")" -f1);"
       cp $old_files/static$(echo $output | cut -d"(" -f"2" | cut -d")" -f1) $base_path/$new_dir_name/$(echo $output | cut -d"/" -f"4" | cut -d")" -f1);
-
     done
   fi
-
   if [ "$(grep "img align" $base_path/$new_dir_name/index.mdx)" ]; then
     echo "    - img align - found image block"
     grep "img align" $base_path/$new_dir_name/index.mdx | while read output; do
-      #cp ../fak3r.com-master/static/$(echo $output | cut -d"\"" -f"2") $base_path/$new_dir_name/
       cp ${old_files}/static/$(echo $output | cut -d"\"" -f"2") $base_path/$new_dir_name/
     done
   fi
 
-  echo "  : Body fix - rewriting image links to not include the /year/"
-  sed -i "s/(\/[0-9][0-9][0-9][0-9]\//(/g" $base_path/$new_dir_name/index.mdx
+  echo "+-------------------------------+"
+  ## FIXME
+  echo "  : Body fix - rewrite image paths to be relative and without a year"
+  if [ "$(grep '^!' $base_path/$new_dir_name/index.mdx)" ]; then
+    #echo "    - ^![]image - found"
+    grep '^!' $base_path/$new_dir_name/index.mdx | while read output; do
+      echo "    - ^![]image name is - $(echo $output | cut -d"/" -f"4" | cut -d")" -f1)"
+      # echo $(echo $output | cut -d"(" -f"2" | cut -d")" -f1); 
+      # echo $(echo $output | cut -d"/" -f"4" | cut -d")" -f1);
+      # cp ../$old_files/static/$(echo $output | cut -d"\"" -f"2") $base_path/$new_dir_name/
+      # cp $old_files/static/$(echo $output | cut -d"(" -f"2" | cut -d")" -f1) $base_path/$new_dir_name/
+      #echo $output | sed "s/\/[0-9][0-9][0-9][0-9]\///g"
 
+     # file_name=$(
+      md_title=$(echo $output | cut -d"(" -f1)
+      md_filename=$(echo $output | awk 'BEGIN{FS="/"}{print $NF}' | cut -d")" -f1)
+
+      echo $md_title
+      echo $md_filename
+
+echo "hi"
+      echo $output | sed 's/[0-9][0-9][0-9][0-9]//g' 
+      #$base_path/$new_dir_name/index.mdx 
+
+      echo $output | awk -F"]" '{print $NF}' 
+      #"$output"
+
+  #echo -n $output | cut -d"(" -f1 | echo -n "(" | echo $(echo $output | awk 'BEGIN{FS="/"}{print $NF}')
+      
+  
+        # | cut -d")" -f1)
+
+
+      # echo "      cp $old_files/static$(echo $output | cut -d"(" -f"2" | cut -d")" -f1) $base_path/$new_dir_name/$(echo $output | cut -d"/" -f"4" | cut -d")" -f1);"
+      # cp $old_files/static$(echo $output | cut -d"(" -f"2" | cut -d")" -f1) $base_path/$new_dir_name/$(echo $output | cut -d"/" -f"4" | cut -d")" -f1);
+      sed -i "s/(\/[0-9][0-9][0-9][0-9]\//(/g" $base_path/$new_dir_name/index.mdx
+      sed -i "s/$md_filename//g" $base_path/$new_dir_name/index.mdx
+
+#sed -i "s/([^)]*)/'${md_title}'/g" $base_path/$new_dir_name/index.mdx
+    done
+  fi
+  # echo "  : Body fix - rewriting image links to not include the /year/"
+  # if [ "$(grep '^!' $base_path/$new_dir_name/index.mdx)" ]; then
+  #   #sed -i "s/(\/[0-9][0-9][0-9][0-9]\//(/g" $base_path/$new_dir_name/index.mdx
+  #   # sed -i 's/\!\{0,1\}\[[^]]*\]([^)]*)//g' 
+  #   #sed -i "s/\/[0-9][0-9][0-9][0-9]\//g" $base_path/$new_dir_name/index.mdx
+  #   sed -i '/[0-9][0-9][0-9][0-9]\//{y@/@|@;s/"//}' $base_path/$new_dir_name/index.mdx 
+  #   #sed -e '/^<li><a /s%"[^"]*/\([^"]*\)%"\1.html%' $base_path/$new_dir_name/index.mdx
+
+  # fi
+
+  #exit 0; ### FIXME
 
   #grep "img src" src/content/blog/2024-12-31-best-music-of-2024/index.mdx | while read output; do
   #  cp ../fak3r.com-master/static$(echo $output | cut -d"\"" -f"2") src/content/blog/2024-12-31-best-music-of-2024/
@@ -180,56 +206,36 @@ find $base_path -name \*.md | while read mdfile; do
   #    echo "       - copying $image_name into $base_path/$new_dir_name/"
   #    find ${old_files} -name $image_name -exec cp -t "$base_path/$new_dir_name/" {} +
 
-  echo "  : Body fix - rewriting img src - html to markdown image block"
-  if [ "$(grep "img src" $base_path/$new_dir_name/index.mdx)" ]; then
-    echo "    - img src - html found"
-    grep "img src" $base_path/$new_dir_name/index.mdx | while read output; do
-	  echo "output is $output"
-     # cp  $old_files/static/$(echo $output | cut -d"\"" -f"2") $base_path/$new_dir_name/
-    done
-  fi
+#  echo "  : Body fix - rewriting img src - html to markdown image block"
+#  if [ "$(grep "img src" $base_path/$new_dir_name/index.mdx)" ]; then
+#    echo "    - img src - html found"
+#    grep "img src" $base_path/$new_dir_name/index.mdx | while read output; do
+#	  echo "output is $output"
+#     # cp  $old_files/static/$(echo $output | cut -d"\"" -f"2") $base_path/$new_dir_name/
+#    done
+#  fi
 
-### FIXME
-exit 0
-### FIXME
-
+  echo "+-------------------------------+"
   echo "  : Body fix - p tags:"
   echo "    - div - img - figcaption - figure"
   sed -i "s/<p>//g" "$base_path/$new_dir_name/index.mdx"
   sed -i "s/<\/p>//g" "$base_path/$new_dir_name/index.mdx"
-  #sed -i "s/<>//g" "$base_path/$new_dir_name/index.mdx"
+
 
   echo "  : Body fix - more tags:"
   echo "    - <!--more-->"
   sed -i 's/<\!--more-->//g'  "$base_path/$new_dir_name/index.mdx"
 
+
   echo "  : Body fix - html tags:"
   echo "    - div - img - figcaption - figure"
   sed -i "/\<div/d" "$base_path/$new_dir_name/index.mdx"
   echo "    - img - figcaption - figure"
-  sed -i "/\<img\ src/d" "$base_path/$new_dir_name/index.mdx"
+  # sed -i "/\<img\ src/d" "$base_path/$new_dir_name/index.mdx"
   echo "    - figcaption - figure"
   sed -i "/\<figcaption/d" "$base_path/$new_dir_name/index.mdx"
   echo "    - figure"
   sed -i "/\<figure/d" "$base_path/$new_dir_name/index.mdx"
-  #  else
-  #    echo "     - no image line exists"
-  #  fi
-
-#  echo; echo "+-----------------------------------------------------------------------+"
-#  echo "   : Done"
-#  ls -ls "$base_path"
-
-
-  #echo "+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~+"
-  #echo "-results-"
-  #echo
-  #ls -ls "$base_path/$new_dir_name"
-  #echo "+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~+"
-
-  #  echo
-  #  head -n20 "$base_path/$new_dir_name/index.mdx"
-
 done
 echo "+-----------------------------------------------------------------------+"
 
