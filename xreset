@@ -1,16 +1,15 @@
 #!/bin/bash
 
-year=2018
+year=2016
 
 if [ ! -d 'src/content/blog' ]; then
 	mkdir -p src/content/blog
 fi
 
 rm -rf src/content/blog/*
-
-#rm -rf src/content/blog/2018-06-10-build-a-headless-spotify-connect-server
-#cp 2018-06-10-build-a-headless-spotify-connect-server.md src/content/blog
-cp 2018* src/content/blog
+cp ../fak3r.com-main/content/post/$year-* .
+cp $year* src/content/blog
+ls -ls src/content/blog/*
 
 exit 0
 
