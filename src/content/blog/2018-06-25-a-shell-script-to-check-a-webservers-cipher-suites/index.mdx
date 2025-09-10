@@ -1,0 +1,45 @@
+---
+title: "Check a webserver's cipher suites"
+description: "Quickly display a remote webserver's cipher suites"
+image: ''
+date: '2018-06-25'
+tags: ['ciphers', 'hacking', 'howto', 'linux', 'ssl']
+authors: ['fak3r']
+---
+
+Today we wrote a simple shell script to query an SSL enabled webserver. Pretty fun to have in the aresenal, it looks like this:
+
+```
+#!/bin/bash
+
+if [ $# -eq 0 ]
+  then
+    echo "No fqdn given to check, try again (ie- $0 yahoo.com)"
+    exit 1
+fi
+
+for v in ssl2 ssl3 tls1 tls1_1 tls1_2; do
+ for c in $(openssl ciphers 'ALL:eNULL' | tr ':' ' '); do
+ openssl s_client -connect ${1}:443 \
+ -cipher $c -$v < /dev/null > /dev/null 2>&1 && echo -e "$v:\t$c"
+ done
+done
+
+exit 0
+```
+
+Let's run it against our site and see what we get:
+
+```
+$ ./ssl_cipher_test.sh fak3r.com
+tls1_2: ECDHE-RSA-AES256-SHA
+tls1_2: AES256-SHA
+tls1_2: ECDHE-RSA-AES128-GCM-SHA256
+tls1_2: ECDHE-RSA-AES128-SHA
+tls1_2: AES128-GCM-SHA256
+tls1_2: AES128-SHA
+```
+
+So what do you think?
+
+![Not bad](not-bad.png)
