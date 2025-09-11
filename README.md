@@ -9,7 +9,11 @@
 
 </div>
 
-astro-erudite is an opinionated, no-frills static blogging template built with [Astro](https://astro.build/), [Tailwind](https://tailwindcss.com/), and [shadcn/ui](https://ui.shadcn.com/). Extraordinarily loosely based off the [Astro Micro](https://astro-micro.vercel.app/) theme by [trevortylerlee](https://github.com/trevortylerlee).
+astro-erudite is an opinionated, unstyled static blogging template built with [Astro](https://astro.build/), [Tailwind](https://tailwindcss.com/), and [shadcn/ui](https://ui.shadcn.com/). Extraordinarily loosely based off the [Astro Micro](https://astro-micro.vercel.app/) theme by [trevortylerlee](https://github.com/trevortylerlee).
+
+| ![Preview 1](/public/static/preview-1.png) | ![Preview 2](/public/static/preview-2.png) |
+| ------------------------------------------ | ------------------------------------------ |
+| ![Preview 3](/public/static/preview-3.png) | ![Preview 4](/public/static/preview-4.png) |
 
 > [!NOTE]
 > To learn more about why this template exists, read [The State of Static Blogs in 2024](https://astro-erudite.vercel.app/blog/the-state-of-static-blogs), where I share my take on what constitutes a great blogging template and my goals while developing this one.
@@ -27,32 +31,43 @@ Below are some fantastic examples of websites based on this template. If you wis
 | [decentparadox.me](https://decentparadox.me)  | [@decentparadox](https://github.com/decentparadox) | A heavily customized personal portfolio with a sci-fi theme!                                 | [→](https://github.com/decentparadox/decentparadox.me) |
 | [flocto.github.io](https://flocto.github.io/) | [@flocto](https://github.com/flocto)               | A slightly modified personal blog                                                            | [→](https://github.com/flocto/flocto.github.io)        |
 | [dumbprism.me](https://www.dumbprism.me/)     | [@dumbprism](https://github.com/dumbprism)         | A customized portfolio inspired by enscribe's bento grid style adding my gist of UI          | [→](https://github.com/dumbprism/dumbprism-portfolio)  |
+| [hyuki.dev](https://hyuki.dev/)               | [@snow0406](https://github.com/snow0406)           | A minimalist blog with a blue color scheme, focusing on simplicity!                          | [→](https://github.com/Snow0406/hyuki.dev)             |
+| [ldd.cc](https://ldd.cc/)                     | [@xJoyLu](https://github.com/xjoylu)               | The cream of the idlers.                                                                     | [→](https://ldd.cc/)                                   |
+| [rezarezvan.com](https://rezarezvan.com/)     | [@rezaarezvan](https://github.com/rezaarezvan)     | A academic blog with personal touches :).                                                    | [→](https://rezarezvan.com/)                           |
+| [blog.z0x.ca](https://blog.z0x.ca/)           | [@z0x](https://z0x.ca)                             | _Very_ minimal version of erudite, stripping it down to the bare essentials                  | [→](https://git.z0x.ca/z0x/blog.z0x.ca/)               |
+| [angelaytchan.net](https://angelaytchan.net/)           | [@wispyplant](https://github.com/wispyplant)          | An artist portfolio and activities archive      | [→](https://github.com/wispyplant/wispyplant.github.io)               |
+| [kaezr.xyz](https://kaezr.xyz/)           | [@kaezrr](https://github.com/kaezrr)          | A minimal porfolio and blog website with slight tweaks to the original.      | [→](https://github.com/kaezrr/webfolio)               |
+| [worldwidewong](https://worldwidewong.vercel.app)           | [@brendanwong-web](https://github.com/brendanwong-web)          | A slightly funky portfolio, blog, and resume site with an added photo gallery.      | [→](https://github.com/brendanwong-web/worldwidewong)               |
+| [bgajjala.dev](https://bgajjala.dev)           | [@bgajjala8](https://github.com/bgajjala8)          | A minimal blog featuring a paper-color inspired color scheme      | [→](https://github.com/bgajjala8/bgajjala.dev)               |
+| [ankitz007.vercel.app](https://ankitz007.vercel.app) | [@ankitz007](https://github.com/ankitz007)          | A personal blog with a few modifications and updates to the original.      | [→](https://github.com/ankitz007/webfolio)               |
 
 ## Features
 
-- [Astro](https://astro.build/)&rsquo;s [Islands](https://docs.astro.build/en/concepts/islands/) architecture for partial/selective hydration and client-side interactivity while maintaining a fast-to-render static site.
-- [shadcn/ui](https://ui.shadcn.com/)&rsquo;s [Tailwind](https://tailwindcss.com/) color convention for automatic styling across both light and dark themes. Includes accessible, theme-aware UI components for navigation, buttons, etc.
-- [rehype-pretty-code](https://rehype-pretty.pages.dev/) with [Shiki](https://github.com/shikijs/shiki) for advanced code block styling, highlighting, and code block titles/captions.
-- Blog post authoring using [MDX](https://mdxjs.com/) for component-style content, alongside $\LaTeX$ rendering using [KaTeX](https://katex.org/).
-- Astro [View Transitions](https://docs.astro.build/en/guides/view-transitions/) in <abbr title="Single Page Application">SPA</abbr> mode for smooth, opt-in animations during route switching.
-- SEO optimization with fine-grained control over metadata and [Open Graph](https://ogp.me/) tags for each post.
-- [RSS](https://en.wikipedia.org/wiki/RSS) feeds and sitemap generation!
-- Supports author profiles (with a dedicated authors page) and adding multiple authors per post.
-- Supports project tags (with a dedicated tags page) for easy post categorization and discovery.
+- [Astro](https://astro.build/)'s [Islands](https://docs.astro.build/en/concepts/islands/) architecture for selective hydration and client-side interactivity while maintaining fast static site rendering.
+- [shadcn/ui](https://ui.shadcn.com/) with [Tailwind](https://tailwindcss.com/) color conventions for automatic light and dark theme styling. Features accessible, theme-aware UI components for navigation, buttons, and more.
+- [Expressive Code](https://expressive-code.com/) for enhanced code block styling, syntax highlighting, and code block titles.
+- Blog authoring with [MDX](https://mdxjs.com/) for component-rich content and $\LaTeX$ math rendering via [KaTeX](https://katex.org/).
+- Astro [View Transitions](https://docs.astro.build/en/guides/view-transitions/) in <abbr title="Single Page Application">SPA</abbr> mode for smooth route animations.
+- SEO optimization with granular metadata and [Open Graph](https://ogp.me/) tag control for each post.
+- [RSS](https://en.wikipedia.org/wiki/RSS) feed and sitemap generation.
+- Subpost support for breaking long content into digestible parts and organizing related series.
+- Author profiles with a dedicated authors page and multi-author post support.
+- Project tags with a dedicated tags page for post categorization and discovery.
+- Custom Callout component variants for enhanced technical writing.
 
 ## Technology Stack
 
 This is a list of the various technologies used to build this template:
 
-| Category            | Technology Name                                                                                    |
-| ------------------- | -------------------------------------------------------------------------------------------------- |
-| Framework           | [Astro](https://astro.build/)                                                                      |
-| Styling             | [Tailwind](https://tailwindcss.com)                                                                |
-| Components          | [shadcn/ui](https://ui.shadcn.com/)                                                                |
-| Content             | [MDX](https://mdxjs.com/)                                                                          |
-| Syntax Highlighting | [Shiki](https://github.com/shikijs/shiki) + [rehype-pretty-code](https://rehype-pretty.pages.dev/) |
-| Graphics            | [Figma](https://www.figma.com/)                                                                    |
-| Deployment          | [Vercel](https://vercel.com)                                                                       |
+| Category   | Technology Name                                                                            |
+| ---------- | ------------------------------------------------------------------------------------------ |
+| Framework  | [Astro](https://astro.build/)                                                              |
+| Styling    | [Tailwind](https://tailwindcss.com)                                                        |
+| Components | [shadcn/ui](https://ui.shadcn.com/)                                                        |
+| Content    | [MDX](https://mdxjs.com/)                                                                  |
+| Codeblocks | [Expressive Code](https://expressive-code.com/), [Shiki](https://github.com/shikijs/shiki) |
+| Graphics   | [Figma](https://www.figma.com/)                                                            |
+| Deployment | [Vercel](https://vercel.com)                                                               |
 
 ## Getting Started
 
@@ -93,61 +108,70 @@ This is a list of the various technologies used to build this template:
 
 Edit the `src/consts.ts` file to update your site's metadata, navigation links, and social links:
 
-```typescript
+```ts
 export const SITE: Site = {
-  TITLE: 'astro-erudite',
-  DESCRIPTION:
-    'astro-erudite is a opinionated, no-frills blogging template—built with Astro, Tailwind, and shadcn/ui.',
-  EMAIL: 'jason@enscribe.dev',
-  NUM_POSTS_ON_HOMEPAGE: 2,
-  SITEURL: 'https://astro-erudite.vercel.app',
+  title: 'astro-erudite',
+  description: // ...
+  href: 'https://astro-erudite.vercel.app',
+  featuredPostCount: 2,
+  postsPerPage: 3,
 }
 
-export const NAV_LINKS: Link[] = [
-  { href: '/blog', label: 'blog' },
-  { href: '/authors', label: 'authors' },
-  { href: '/about', label: 'about' },
-  { href: '/tags', label: 'tags' },
+export const NAV_LINKS: SocialLink[] = [
+  {
+    href: '/blog',
+    label: 'blog',
+  },
+  // ...
 ]
 
-export const SOCIAL_LINKS: Link[] = [
-  { href: 'https://github.com/jktrn', label: 'GitHub' },
-  { href: 'https://twitter.com/enscry', label: 'Twitter' },
-  { href: 'jason@enscribe.dev', label: 'Email' },
-  { href: '/rss.xml', label: 'RSS' },
+export const SOCIAL_LINKS: SocialLink[] = [
+  {
+    href: 'https://github.com/jktrn',
+    label: 'GitHub',
+  },
+  // ...
 ]
 ```
 
 ### Color Palette
 
-Colors are defined in `src/styles/global.css` in [<abbr title="Hue, Saturation, Lightness">HSL</abbr> format](https://en.wikipedia.org/wiki/HSL_and_HSV), using the [shadcn/ui](https://ui.shadcn.com/) convention:
+Colors are defined in `src/styles/global.css` in [OKLCH format](https://developer.mozilla.org/en-US/docs/Web/CSS/color_value/oklch), using the [shadcn/ui](https://ui.shadcn.com/) convention:
 
 ```css
-@layer base {
-  :root {
-    --background: 0 0% 100%;
-    --foreground: 0 0% 3.9%;
-    --primary: 0 0% 9%;
-    --primary-foreground: 0 0% 98%;
-    --secondary: 0 0% 80.1%;
-    --secondary-foreground: 0 0% 9%;
-    --muted: 0 0% 80.1%;
-    --muted-foreground: 0 0% 45.1%;
-    --accent: 0 0% 80.1%;
-    --accent-foreground: 0 0% 9%;
-    --additive: 112 50% 36%; /* Unique to astro-erudite */
-    --additive-foreground: 0 0% 98%; /* Unique to astro-erudite */
-    --destructive: 0 84.2% 60.2%;
-    --destructive-foreground: 0 0% 98%;
-    --border: 0 0% 89.8%;
-    --ring: 0 0% 3.9%;
-  }
+:root {
+  --background: oklch(1 0 0);
+  --foreground: oklch(0.145 0 0);
+  --primary: oklch(0.205 0 0);
+  --primary-foreground: oklch(0.985 0 0);
+  --secondary: oklch(0.97 0 0);
+  --secondary-foreground: oklch(0.205 0 0);
+  --muted: oklch(0.97 0 0);
+  --muted-foreground: oklch(0.556 0 0);
+  --accent: oklch(0.97 0 0);
+  --accent-foreground: oklch(0.205 0 0);
+  --destructive: oklch(0.577 0.245 27.325);
+  --border: oklch(0.922 0 0);
+  --ring: oklch(0.708 0 0);
+}
 
-  .dark {
-    /* ... */
-  }
+[data-theme='dark'] {
   /* ... */
 }
+```
+
+### Favicons
+
+Favicons are generated using [RealFaviconGenerator](https://realfavicongenerator.net/). To adjust the favicons, replace the files in the `public/` directory (such as `favicon.ico`, `favicon.svg`, `apple-touch-icon.png`, etc.) with your own. After updating the favicon files, you'll also need to adjust the references in `src/components/Favicons.astro` to match your new favicon filenames and paths:
+
+```html
+<!-- Replace these with the generated meta tags -->
+<link rel="icon" type="image/png" href="/favicon-96x96.png" sizes="96x96" />
+<link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+<link rel="shortcut icon" href="/favicon.ico" />
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png" />
+<meta name="apple-mobile-web-app-title" content="astro-erudite" />
+<link rel="manifest" href="/site.webmanifest" />
 ```
 
 ## Adding Content
@@ -172,10 +196,11 @@ The blog post schema is defined as follows:
 
 | Field         | Type (Zod)      | Requirements                                                                                                                                                                    | Required |
 | ------------- | --------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------- |
-| `title`       | `string`        | Must be ≤60 characters.                                                                                                                                                         | Yes      |
-| `description` | `string`        | Must be ≤155 characters.                                                                                                                                                        | Yes      |
+| `title`       | `string`        | Should be ≤60 characters.                                                                                                                                                       | Yes      |
+| `description` | `string`        | Should be ≤155 characters.                                                                                                                                                      | Yes      |
 | `date`        | `coerce.date()` | Must be in `YYYY-MM-DD` format.                                                                                                                                                 | Yes      |
-| `image`       | `image()`       | Must be exactly 1200px &times; 630px.                                                                                                                                           | Optional |
+| `order`       | `number`        | Sort order for subposts with the same `date`. Defaults to `0` if not provided.                                                                                                  | Optional |
+| `image`       | `image()`       | Should be exactly 1200px &times; 630px.                                                                                                                                         | Optional |
 | `tags`        | `string[]`      | Preferably use kebab-case for these.                                                                                                                                            | Optional |
 | `authors`     | `string[]`      | If the author has a profile, use the id associated with their Markdown file in `src/content/authors/` (e.g. if their file is named `jane-doe.md`, use `jane-doe` in the array). | Optional |
 | `draft`       | `boolean`       | Defaults to `false` if not provided.                                                                                                                                            | Optional |
@@ -199,18 +224,18 @@ mail: 'jason@enscribe.dev'
 
 The author schema is defined as follows:
 
-| Field      | Type (Zod)       | Requirements                                                                                                                        | Required |
-| ---------- | ---------------- | ----------------------------------------------------------------------------------------------------------------------------------- | -------- |
-| `name`     | `string`         | n/a                                                                                                                                 | Yes      |
-| `pronouns` | `string`         | n/a                                                                                                                                 | Optional |
-| `avatar`   | `string.url()`   | Must be a valid URL. Preferably use [Gravatar](https://en.gravatar.com/site/implement/images/) with the `?size=256` size parameter. | Yes      |
-| `bio`      | `string`         | n/a                                                                                                                                 | Optional |
-| `mail`     | `string.email()` | Must be a valid email address.                                                                                                      | Optional |
-| `website`  | `string.url()`   | Must be a valid URL.                                                                                                                | Optional |
-| `twitter`  | `string.url()`   | Must be a valid URL.                                                                                                                | Optional |
-| `github`   | `string.url()`   | Must be a valid URL.                                                                                                                | Optional |
-| `linkedin` | `string.url()`   | Must be a valid URL.                                                                                                                | Optional |
-| `discord`  | `string.url()`   | Must be a valid URL.                                                                                                                | Optional |
+| Field      | Type (Zod)                                 | Requirements                                                                                                                                                             | Required |
+| ---------- | ------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | -------- |
+| `name`     | `string`                                   | n/a                                                                                                                                                                      | Yes      |
+| `pronouns` | `string`                                   | n/a                                                                                                                                                                      | Optional |
+| `avatar`   | `string.url()` or `string.startsWith('/')` | Should be either a valid URL or a path starting with `/`. Preferably use [Gravatar](https://en.gravatar.com/site/implement/images/) with the `?size=256` size parameter. | Yes      |
+| `bio`      | `string`                                   | n/a                                                                                                                                                                      | Optional |
+| `mail`     | `string.email()`                           | Must be a valid email address.                                                                                                                                           | Optional |
+| `website`  | `string.url()`                             | Must be a valid URL.                                                                                                                                                     | Optional |
+| `twitter`  | `string.url()`                             | Must be a valid URL.                                                                                                                                                     | Optional |
+| `github`   | `string.url()`                             | Must be a valid URL.                                                                                                                                                     | Optional |
+| `linkedin` | `string.url()`                             | Must be a valid URL.                                                                                                                                                     | Optional |
+| `discord`  | `string.url()`                             | Must be a valid URL.                                                                                                                                                     | Optional |
 
 > [!TIP]
 > You can add as many social media links as you want, as long as you adjust the schema! Make sure you also support the new field in the `src/components/SocialIcons.astro` component.
@@ -226,18 +251,22 @@ description: 'This is an example project description! You should replace this wi
 tags: ['Framework A', 'Library B', 'Tool C', 'Resource D']
 image: '/static/1200x630.png'
 link: 'https://example.com'
+startDate: '2024-01-01'
+endDate: '2024-01-01'
 ---
 ```
 
 The project schema is defined as follows:
 
-| Field         | Type (Zod)     | Requirements                          | Required |
-| ------------- | -------------- | ------------------------------------- | -------- |
-| `name`        | `string`       | n/a                                   | Yes      |
-| `description` | `string`       | n/a                                   | Yes      |
-| `tags`        | `string[]`     | n/a                                   | Yes      |
-| `image`       | `image()`      | Must be exactly 1200px &times; 630px. | Yes      |
-| `link`        | `string.url()` | Must be a valid URL.                  | Yes      |
+| Field         | Type (Zod)      | Requirements                            | Required |
+| ------------- | --------------- | --------------------------------------- | -------- |
+| `name`        | `string`        | n/a                                     | Yes      |
+| `description` | `string`        | n/a                                     | Yes      |
+| `tags`        | `string[]`      | n/a                                     | Yes      |
+| `image`       | `image()`       | Should be exactly 1200px &times; 630px. | Yes      |
+| `link`        | `string.url()`  | Must be a valid URL.                    | Yes      |
+| `startDate`   | `coerce.date()` | Must be in `YYYY-MM-DD` format.         | Optional |
+| `endDate`     | `coerce.date()` | Must be in `YYYY-MM-DD` format.         | Optional |
 
 ## License
 

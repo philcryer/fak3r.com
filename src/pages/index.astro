@@ -1,39 +1,28 @@
 ---
 import BlogCard from '@/components/BlogCard.astro'
-import Container from '@/components/Container.astro'
 import Link from '@/components/Link.astro'
+import PageHead from '@/components/PageHead.astro'
 import { buttonVariants } from '@/components/ui/button'
-import {
-  Card,
-  CardContent,
-  CardDescription,
-  CardHeader,
-  CardTitle,
-} from '@/components/ui/card'
 import { SITE } from '@/consts'
 import Layout from '@/layouts/Layout.astro'
-import { getCollection } from 'astro:content'
+import { getRecentPosts } from '@/lib/data-utils'
 
-const blog = (await getCollection('blog'))
-  .filter((post) => !post.data.draft)
-  .sort((a, b) => b.data.date.valueOf() - a.data.date.valueOf())
-  .slice(0, SITE.NUM_POSTS_ON_HOMEPAGE)
+const blog = await getRecentPosts(SITE.featuredPostCount)
 ---
 
-<Layout title="Home" description={SITE.DESCRIPTION}>
-  <Container class="flex flex-col gap-y-6">
-    <section>
-      <Card>
-        <CardHeader>
-          <CardTitle className="text-3xl">ˈfeɪ.kɚ</CardTitle>
-          <CardDescription
-            >/ˈfeɪ.kɚ/ &bull; <span class="font-semibold">noun</span
-            ></CardDescription
-          >
-        </CardHeader>
-        <CardContent>
-          <p class="mb-2 text-sm text-muted-foreground">
-            fak3r is an opinionated, seasoned IT professional, and infrequent artist. fak3r.com is their opinionated, no-frills static blog that has been running on various CMS platforms since 2005, currently built with <Link
+<Layout class="max-w-3xl">
+  <PageHead slot="head" title="Home" />
+  <section>
+    <div class="rounded-lg border">
+      <div class="flex flex-col space-y-1.5 p-6">
+        <h3 class="text-3xl leading-none font-medium">fak·er</h3>
+        <p class="text-muted-foreground text-sm">
+          /ˈfɛɪ.kəɹ/&bull; <span class="font-medium">noun</span>
+        </p>
+      </div>
+      <div class="p-6 pt-0">
+        <p class="text-muted-foreground mb-2 text-sm">
+          fak3r is an opinionated, seasoned IT professional, and infrequent artist. fak3r.com is their no-frills static blog that has been running on various CMS platforms since 2005, currently built with <Link
               href="https://astro.build"
               class="text-foreground"
               external
@@ -41,43 +30,41 @@ const blog = (await getCollection('blog'))
             >. More info on our <Link
               href="about"
               class="text-foreground"
-              external
               underline>About</Link
             > page.
-          </p>
-          <p class="mb-2 text-sm text-muted-foreground">
-              Notice: due to the migration of 2025, old posts (past 10 years ago) that haven't been migrated are available on <Link
+        </p>
+        <p class="text-muted-foreground text-sm">
+              Notice: due to the ongoing migration of 2025, old posts (ones over 10 years ago) haven't all been migrated yet, but are available on <Link
               href="https://old.fak3r.com"
               class="text-foreground"
               external
               underline>old.fak3r.com</Link
-            >.
-          </p>
-        </CardContent>
-      </Card>
-    </section>
-    <section class="flex flex-col gap-y-4">
-      <h2 class="text-2xl font-bold">Latest posts</h2>
-      <ul class="not-prose flex flex-col gap-y-4">
-        {
-          blog.map((post) => (
-            <li>
-              <BlogCard entry={post} />
-            </li>
-          ))
-        }
-      </ul>
-      <div class="flex justify-center">
-        <Link
-          href="/blog"
-          class={buttonVariants({ variant: 'ghost' }) + ' group'}
-        >
-          See all posts <span
-            class="ml-1.5 transition-transform group-hover:translate-x-1"
-            >&rarr;</span
-          >
-        </Link>
+            >.  
+        </p>
       </div>
-    </section>
-  </Container>
+    </div>
+  </section>
+  <section class="flex flex-col gap-y-4">
+    <h2 class="text-2xl font-medium">Latest posts</h2>
+    <ul class="flex flex-col gap-y-4">
+      {
+        blog.map((post) => (
+          <li>
+            <BlogCard entry={post} />
+          </li>
+        ))
+      }
+    </ul>
+    <div class="flex justify-center">
+      <Link
+        href="/blog"
+        class={buttonVariants({ variant: 'ghost' }) + ' group'}
+      >
+        See all posts <span
+          class="ml-1.5 transition-transform group-hover:translate-x-1"
+          >&rarr;</span
+        >
+      </Link>
+    </div>
+  </section>
 </Layout>

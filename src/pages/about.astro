@@ -1,23 +1,22 @@
 ---
 import Breadcrumbs from '@/components/Breadcrumbs.astro'
-import Container from '@/components/Container.astro'
 import Link from '@/components/Link.astro'
+import PageHead from '@/components/PageHead.astro'
 // import ProjectCard from '@/components/ProjectCard.astro'
-import { SITE } from '@/consts'
 import Layout from '@/layouts/Layout.astro'
-// import { getCollection } from 'astro:content'
+// import { getAllProjects } from '@/lib/data-utils'
 
-// const projects = await getCollection('projects')
+// const projects = await getAllProjects()
 ---
 
-<Layout title="About" description={SITE.DESCRIPTION}>
-  <Container class="flex flex-col gap-y-6">
-    <Breadcrumbs items={[{ label: 'About', icon: 'lucide:info' }]} />
+<Layout class="max-w-3xl">
+  <PageHead slot="head" title="About" />
+  <Breadcrumbs items={[{ label: 'About', icon: 'lucide:info' }]} />
 
-    <section>
-      <div class="min-w-full">
-        <div class="prose prose-neutral mb-8 dark:prose-invert">
-          <p class="mb-4">
+  <section>
+    <div class="min-w-full">
+      <div class="prose mb-8">
+        <p class="mt-0">
             fak3r.com is an opinionated, no-frills static blog that has been
             running on various CMS platforms since 2005. As of 2025 it is built
             with <Link
@@ -26,9 +25,10 @@ import Layout from '@/layouts/Layout.astro'
               external
               underline>Astro</Link
             >. Read on for more infomation than you probably wanted to know.
-          </p>
-          <h2 class="mb-4 text-2xl font-medium">Me</h2>
-          <p class="mb-4">
+        </p>
+        
+        <h2 class="mb-4 text-2xl font-medium">Me</h2>
+        <p class="mb-4">
             I am a hacker, open source technologist at-large, sometimes writer and speaker. I've been honored to speak at infosec conferences like <Link href="https://www.defcon.org/"
             class="text-foreground"
             external
@@ -44,16 +44,45 @@ import Layout from '@/layouts/Layout.astro'
             <Link href="https://www.computerworld.pl/events/"
             class="text-foreground"
             external
-            underline>SEMAFOR (ISACA Warsaw Chapter)</Link>, 
+            underline>SEMAFOR</Link> (ISACA Warsaw Chapter), 
           I am an active member of the 
             <Link href="https://www.eff.org/"
             class="text-foreground"
             external
-            underline>EFF (Electronic Frontier Foundation)</Link>, I lead and moderate discussions about electronic rights and civil liberties while educating users how their data is used by companies without their knowledge; things that are 'free' online, actually aren't free. In fact, most of my research over the past few years has focused more on companies weaknesses in protecting customer's data, and their failures in keeping that data private. Speaking engagements on earlier work dealth with system architecture in the global biodiversity realm, and slides of those are available on my Slideshare account.
-            </p>
-
-        </div>
+            underline>EFF</Link> (Electronic Frontier Foundation), I lead and moderate discussions about electronic rights and civil liberties while educating users how their data is used by companies without their knowledge; things that are 'free' online, actually aren't free. In fact, most of my research over the past few years has focused more on companies weaknesses in protecting customer's data, and their failures in keeping that data private. Speaking engagements on earlier work dealth with system architecture in the global biodiversity realm, and slides of those are available on my Slideshare account.
+        </p>
+        <p class="mb-4">
+            With over fifteen years experience with Linux and open source software, I know there's always another way to do it, so I'm constantly learning new techniques to solve technical challenges. I usually do this by hacking on my home servers, then blogging about my results here. So my blog has always served as a testing ground, and a place to organize my thoughts while allowing feedback for others, and myself to build off. I participate in open source development, and release all code I write on 
+            <Link href="https://github.com/philcryer"
+            class="text-foreground"
+            external
+            underline>Github</Link>.
+            I listen to music 
+            <Link href="https://www.last.fm/user/fak3r"
+            class="text-foreground"
+            external
+            underline>constantly</Link>
+            , hold a bachelor's degree in fine arts, am a practicing troublemaker and an accidental tourist. In general, I like to keep it real. You can reach me in a number of ways, see the Contact page for details.  
+        </p>
+        <h2 class="mb-4 text-2xl font-medium">Site</h2>
+        <p class="mb-4">
+            This site started as a place for me to record my thoughts/rants, talk about music I like, but mostly write about Linux and open source solutions I’ve discovered or created. The name was a sarcastic commentary on the lack of anonymity online, which has become somthing I’ve been trying to improve. This site dates from 2005, and has been run on a number of different CMS platforms. From PHP Nuke, Typo, Drupal, Wordpress, Octopress, Jekyll, Hexo and now Hugo. In leaving Wordpress I took the big leap of migrating all of my (then) 491 posts into Markdown. Now I can move them anywhere since they’ve broken free of the database. I consider it future-proofing my blog.
+        </p>
+        <h2 class="mb-4 text-2xl font-medium">Colophon</h2>
+        <p class="mb-4">
+            <ul>
+              <li>Astro  The web framework for content-driven websites </li>
+              <li>Gandi domain name registration and DNS service</li>
+              <li>Gimp an open-source raster graphics editor used for image editing</li>
+              <li>Github hosted git for source control in an open environment</li>
+              <li>Let's Encrypt a free, automated, CA for SSL certificates</li>
+              <li>Netlify site hosting and deployment with continuous integration</li>
+              <li>Vultr (ref link) worldwide cloud servers starting at $5/month</li>
+              <li>Neovim the Unix editor with a more complete feature set</li>
+            </ul>
+        </p>
       </div>
-    </section>
-  </Container>
+
+    </div>
+  </section>
 </Layout>
