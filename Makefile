@@ -11,6 +11,7 @@ list:
 install:
 	npm install
 	npm audit fix
+	npm audit fix --force
 
 dev:
 	npm run dev
@@ -22,17 +23,24 @@ build-verbose:
 	npm run build -- --verbose
 
 build-prod:
-	git rev-parse --short HEAD > .current_build
+#	build_hash_short=$(git rev-parse --short HEAD);
+#	build_hash_full=$(git rev-parse HEAD)
+#	cp src/components/Footer.astro.dist src/components/Footer.astro
+#	sed -i "s/BUILD_HASH_FULL/${git rev-parse --short HEAD}/g" src/components/Footer.astro
+#	sed -i "s/BUILD_HASH_SHORT/${build_hash_short}/g" src/components/Footer.astro
 	npm run prettier
 	npm run build
+#	cp src/components/Footer.astro.dist src/components/Footer.astro
 
 build-prod-deploy:
-	git rev-parse --short HEAD > .current_build
+#	build_hash_short=$(git rev-parse --short HEAD); build_hash_full=$(git rev-parse HEAD)
+#	cp src/components/Footer.astro.dist src/components/Footer.astro
+#	sed -i "s/BUILD_HASH_FULL/$build_hash_full/g" src/components/Footer.astro
+#	sed -i "s/BUILD_HASH_SHORT/$build_hash_short/g" src/components/Footer.astro
 	npm run prettier
 	npm run build
-	#rsync -aP dist/ linuxuser@hector:docker/beta.fak3r.com/html
+#	cp src/components/Footer.astro.dist src/components/Footer.astro
 	rsync -aP dist/ linuxuser@hector:docker/fak3r.com/html
 
 deploy:
-	#rsync -aP dist/ linuxuser@hector:docker/beta.fak3r.com/html
 	rsync -aP dist/ linuxuser@hector:docker/fak3r.com/html
