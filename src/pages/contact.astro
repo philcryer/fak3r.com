@@ -1,0 +1,59 @@
+---
+import Breadcrumbs from '@/components/Breadcrumbs.astro'
+import Link from '@/components/Link.astro'
+import PageHead from '@/components/PageHead.astro'
+import Layout from '@/layouts/Layout.astro'
+---
+
+<Layout class="max-w-3xl">
+  <PageHead slot="head" title="Contact" />
+  <Breadcrumbs items={[{ label: 'Contact', icon: 'lucide:info' }]} />
+
+  <section>
+    <div class="min-w-full">
+      <div class="prose mb-8">        
+        <h2 class="mb-4 text-2xl font-medium">Contact</h2>
+        <h3 class="mb-4 text-2xl font-small">Follow me, or get in touch</h2>
+        <p class="mb-4">
+            <ul>
+              <li>email: <Link href="mailto:fak3r @ fak3r . com"
+            class="text-foreground"
+            external
+            underline>fak3r @ fak3r . com</Link></li>
+
+              <li>irc: <Link href="https://freenode.net/"
+            class="text-foreground"
+            external
+            underline>fak3r</Link></li>
+
+              <li>mastodon: <Link href="https://mastodon.social/@fak3r"
+            class="text-foreground"
+            external
+            underline>@fak3r</Link></li>
+
+              <li>Github: <Link href="https://github.com/philcryer/"
+            class="text-foreground"
+            external
+            underline>fak3r</Link></li>
+
+              <li>last.fm: <Link href="https://www.last.fm/user/fak3r"
+            class="text-foreground"
+            external
+            underline>fak3r</Link></li>
+
+              <li>pgp key: <Link href="https://keybase.io/fak3r/key.asc"
+            class="text-foreground"
+            external
+            underline>04A1 69CC A79F 7188</Link></li>
+
+              <li>bitcoin: <Link href="https://www.blockchain.com/explorer/addresses/btc/1AubVQPJ41SFThtKMHV7p7rYYRqGFQGPAu"
+            class="text-foreground"
+            external
+            underline>1AubVQPJ41SFThtKMHV7p7rYYRqGFQGPAu</Link></li>
+            </ul>
+        </p>
+
+      </div>
+    </div>
+  </section>
+</Layout>
