@@ -2,8 +2,7 @@ import type { IconMap, SocialLink, Site } from '@/types'
 
 export const SITE: Site = {
   title: 'fak3r',
-  description:
-    "It's a good life if you don't weaken.",
+  description: "It's a good life if you don't weaken.",
   href: 'https://fak3r.com',
   author: 'fak3r',
   locale: 'en-US',
