@@ -30,7 +30,9 @@ build-prod-deploy:
 	git rev-parse --short HEAD > .current_build
 	npm run prettier
 	npm run build
-	rsync -aP dist/ linuxuser@hector:docker/beta.fak3r.com/html
+	#rsync -aP dist/ linuxuser@hector:docker/beta.fak3r.com/html
+	rsync -aP dist/ linuxuser@hector:docker/fak3r.com/html
 
 deploy:
-	rsync -aP dist/ linuxuser@hector:docker/beta.fak3r.com/html
+	#rsync -aP dist/ linuxuser@hector:docker/beta.fak3r.com/html
+	rsync -aP dist/ linuxuser@hector:docker/fak3r.com/html
