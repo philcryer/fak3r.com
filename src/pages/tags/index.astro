@@ -14,7 +14,10 @@ const sortedTags = await getSortedTags()
   <PageHead slot="head" title="Tags" />
   <Breadcrumbs items={[{ label: 'Tags', icon: 'lucide:tags' }]} />
 
-  <div class="flex flex-col gap-4">
+  <div class="flex flex-col gap-4"
+    <br />
+    <div align="center"><img alt="Tag, you're it!" heigh="315" width="315" src="/tags.webp" /></div>
+    <br />
     <div class="flex flex-wrap gap-2">
       {
         sortedTags.map(({ tag, count }) => (
