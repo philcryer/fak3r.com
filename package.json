@@ -30,6 +30,7 @@
     "class-variance-authority": "^0.7.1",
     "clsx": "^2.1.1",
     "lucide-react": "^0.469.0",
+    "neovim": "^5.4.0",
     "patch-package": "^8.0.0",
     "radix-ui": "^1.3.4",
     "react": "19.0.0",
