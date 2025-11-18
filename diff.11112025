@@ -1,0 +1,19 @@
+diff --git a/src/content/blog/2024-08-03-backup-your-files-to-wasabi-cloud/wasabi_symbol.png b/src/content/blog/2024-08-03-backup-your-files-to-wasabi-cloud/wasabi_symbol.png
+index 733ddcf..bf050ee 100644
+Binary files a/src/content/blog/2024-08-03-backup-your-files-to-wasabi-cloud/wasabi_symbol.png and b/src/content/blog/2024-08-03-backup-your-files-to-wasabi-cloud/wasabi_symbol.png differ
+diff --git a/src/content/blog/2024-10-22-run-a-tor-bridge-in-docker/tor.png b/src/content/blog/2024-10-22-run-a-tor-bridge-in-docker/tor.png
+index dcf8802..e134529 100644
+Binary files a/src/content/blog/2024-10-22-run-a-tor-bridge-in-docker/tor.png and b/src/content/blog/2024-10-22-run-a-tor-bridge-in-docker/tor.png differ
+diff --git a/src/pages/blog/[...id].astro b/src/pages/blog/[...id].astro
+index 34e8356..9f95d67 100644
+--- a/src/pages/blog/[...id].astro
++++ b/src/pages/blog/[...id].astro
+@@ -115,7 +115,7 @@ const tocSections = await getTOCSections(currentPostId)
+           alt={post.data.title}
+           width={1200}
+           height={630}
+-          class="col-span-full mx-auto w-full max-w-5xl object-cover"
++          class="col-span-full mx-auto w-full max-w-2xl object-cover"
+         />
+       )
+     }
