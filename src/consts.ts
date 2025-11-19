@@ -21,7 +21,7 @@ export const NAV_LINKS: SocialLink[] = [
 export const SOCIAL_LINKS: SocialLink[] = [
   { href: 'https://github.com/philcryer/fak3r.com', label: 'GitHub' },
   { href: 'https://mastodon.social/@fak3r', label: 'Mastodon' },
-  { href: 'fak3r @ fak3r . com', label: 'Email' },
+  { href: 'mailto:fak3r @ fak3r . com', label: 'Email' },
   { href: '/rss.xml', label: 'RSS' },
 ]
 
