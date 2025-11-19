@@ -1,12 +1,14 @@
+SSH_CONNECTION=linuxuser@hector:docker/fak3r.com/html
+BUILD_OUTPUT=dist
+
 list:
 	@echo "All commands:"
-	@echo "  - install: install all npm packages"
-	@echo "  - dev: run astro dev server"
+	@echo "  - install: install all required npm packages"
+	@echo "  - dev: run the astro dev server locally and refresh when files are changed"
 	@echo "  - build: build astro project"
-	@echo "  - build-verbose: build astro project with debug"
-	@echo "  - build-prod: build astro project for prod with prettier"
-	@echo "  - build-prod-deploy: build astro project for prod with prettier and deploy"
-	@echo "  - deploy: deploy built astro project"
+	@echo "  - build-verbose: build astro project with debug settings on"
+	@echo "  - prod: build astro project with prettier, deploy code from dist/ to remote server"
+	@echo "  - deploy: deploy code from dist/ to remote server"
 
 install:
 	npm install
@@ -22,25 +24,10 @@ build:
 build-verbose:
 	npm run build -- --verbose
 
-build-prod:
-#	build_hash_short=$(git rev-parse --short HEAD);
-#	build_hash_full=$(git rev-parse HEAD)
-#	cp src/components/Footer.astro.dist src/components/Footer.astro
-#	sed -i "s/BUILD_HASH_FULL/${git rev-parse --short HEAD}/g" src/components/Footer.astro
-#	sed -i "s/BUILD_HASH_SHORT/${build_hash_short}/g" src/components/Footer.astro
+prod:
 	npm run prettier
 	npm run build
-#	cp src/components/Footer.astro.dist src/components/Footer.astro
-
-build-prod-deploy:
-#	build_hash_short=$(git rev-parse --short HEAD); build_hash_full=$(git rev-parse HEAD)
-#	cp src/components/Footer.astro.dist src/components/Footer.astro
-#	sed -i "s/BUILD_HASH_FULL/$build_hash_full/g" src/components/Footer.astro
-#	sed -i "s/BUILD_HASH_SHORT/$build_hash_short/g" src/components/Footer.astro
-	npm run prettier
-	npm run build
-#	cp src/components/Footer.astro.dist src/components/Footer.astro
-	rsync -aP dist/ linuxuser@hector:docker/fak3r.com/html
+	rsync -aP ${BUILD_OUTPUT}/ ${SSH_DETAILS}
 
 deploy:
-	rsync -aP dist/ linuxuser@hector:docker/fak3r.com/html
+	rsync -aP ${BUILD_OUTPUT}/ ${SSH_DETAILS}
