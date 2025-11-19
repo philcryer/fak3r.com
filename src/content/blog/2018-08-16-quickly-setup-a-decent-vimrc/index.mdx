@@ -1,11 +1,89 @@
 ---
 title: 'Quickly Setup a Decent Vimrc'
 description: 'On new servers, we need a sane start to our vim setup'
-image: ''
+image: 'vim-logo.png'
 date: '2018-08-16'
 tags: ['Development', 'howto', 'vim', 'vimrc']
 authors: ['fak3r']
 ---
+**UPDATE (2025)**: I wanted to give a quick update on this since I've moved on from using vim, and now exclusively use [Neovim](https://neovim.io), along with [LazyVim](https://www.lazyvim.org/installation), which is a Neovim setup powered by [lazy.vim](https://github.com/folke/lazy.nvim) to make it easy to customize and extend your config - but the big win out of the box is a sane set of defaults so you can get to work, and revist the wonderful world of Neovim later when you want to add/edit the current settings. It's a much better base than what I used to try to do with old vim, and I've started writing an [Ansible](https://docs.ansible.com) playbook to handle this for me, regardless of Linux distro, if I'm on a desktop, server or whatever. 
+
+### Steps to setup Neovim
+
+1) Install Neovim with your package manager, for example for my use cases:
+
+Debian GNU/Linux
+
+```shell
+apt install neovim
+```
+
+Alpine Linux
+
+```shell
+apk add neovim
+```
+
+Fedora
+
+```shell
+yum install neovim
+```
+or
+
+```shell
+dnf install neovim
+```
+
+2) Configure LazyVim, they have a really simple walkthrough on their [installation](https://www.lazyvim.org/installation) page, basically there are 4 steps:
+
+* backup current neovim (aka nvim) settings if you already have them:
+
+```shell
+mv ~/.config/nvim{,.bak}
+mv ~/.local/share/nvim{,.bak}
+mv ~/.local/state/nvim{,.bak}
+mv ~/.cache/nvim{,.bak}
+```
+
+Note: if you don't have these directories it might complain, but ignore that, you don't need to backup those directories since you weren't using them prior.
+
+* Clone the starter code from LazyVim, this will drop their configuration into your config directory so you don't have to do anything else:
+
+```shell
+git clone https://github.com/LazyVim/starter ~/.config/nvim
+```
+
+* Remove the .git folder from the LazyVim checkout, this way you can edit it, and later add it to your own repo if you want to save your changes.
+
+```shell
+rm -rf ~/.config/nvim/.git
+```
+
+* Start Neovim, which will find the new config and it will handle the installation of all the required plugins and modules, so give it about a minute and watch the progress.
+
+```shell
+nvim
+```
+
+* Done. Now edit any file in Neovim and you'll be amazed at how fully it's configured, without having to really do anything. Things with vim, different ways to install plugins, inconsistancies, etc used to really drive me nuts, and was the inital reason for this post! Now things are much better.
+
+* Bonus! Since I only want to use Neovim, and not vim, going forward, I configure some settings in my user's `${HOME}/.profile` so that typing `vi`, `vim` will give me a session in Neovim (nvim) automatically. I also set variables for `EDITOR` and `VISUAL` for programs that will look for those variables. So edit the file (`nvim ~/.profile`), and add the following aliases and add the 2 variables:
+
+```shell
+## aliases
+alias vim="nvim"
+alias vi="nvim"
+export EDITOR="nvim"
+export VISUAL="nvim"
+```
+
+* Done, for real this time. For a most historical view continue reading to see how I used to ((try) to bring some sanity to my vi/vim setups in the past!
+
+* TODO: setup an Ansible playbook to handle the install and setup of Neovim and LazyVim, then also include installation options for [FreeBSD](https://www.freebsd.org) and [OpenBSD](https://www.openbsd.org), and have Ansible cover those too.
+
+----------
+### Original post from 2018:
 
 I'm on new servers pretty often, and usually their [vim](https://www.vim.org/) configuration is quite lacking, I mean, come on `/etc/skel` can only get you so far these days.. While I have my `.vimrc` out there, copying it down fails because I don't have the right version of vim installed, plus I'm missing plugins and other goofy stuff I call out that should be in my `$HOME/.vim` directory. So, here's a start to get me rolling on a new server with a decent, basic vimrc setup so I can get to work. I'll update this as I go, and once I have it ready I'll redo my deploy scripts to run [Ansible](https://www.ansible.com/) to properly "get the game started" ([Slackware](http://www.slackware.com/) reference for my old timers out there!). Until then, this will do:
 
