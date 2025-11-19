@@ -14,23 +14,21 @@ const sortedTags = await getSortedTags()
   <PageHead slot="head" title="Tags" />
   <Breadcrumbs items={[{ label: 'Tags', icon: 'lucide:tags' }]} />
 
-  <div class="flex flex-col gap-4"
-    <br />
-    <div align="center"><img alt="Tag, you're it!" heigh="315" width="315" src="/tags.webp" /></div>
-    <br />
-    <div class="flex flex-wrap gap-2">
-      {
-        sortedTags.map(({ tag, count }) => (
-          <Link
-            href={`/tags/${tag}`}
-            class={badgeVariants({ variant: 'secondary' })}
-          >
-            <Icon name="lucide:hash" class="size-3" />
-            {tag}
-            <span class="text-muted-foreground ml-1.5">({count})</span>
-          </Link>
-        ))
-      }
-    </div>
+  <div class="flex flex-col gap-4" <br></div>
+  <!--  <img alt="Tag, you're it!" height="315" width="315" src="/tags.webp" />-->
+  <br />
+  <div class="flex flex-wrap gap-2">
+    {
+      sortedTags.map(({ tag, count }) => (
+        <Link
+          href={`/tags/${tag}`}
+          class={badgeVariants({ variant: 'secondary' })}
+        >
+          <Icon name="lucide:hash" class="size-3" />
+          {tag}
+          <span class="text-muted-foreground ml-1.5">({count})</span>
+        </Link>
+      ))
+    }
   </div>
 </Layout>
