@@ -12,27 +12,28 @@ authors: ['fak3r']
 
 1) Install Neovim with your package manager, for example for my use cases:
 
-Debian GNU/Linux
-
-```shell
-apt install neovim
-```
-
 Alpine Linux
 
 ```shell
 apk add neovim
 ```
 
+Arch Linux
+
+```shell
+pacman -S neovim
+```
+
+Debian GNU/Linux
+
+```shell
+apt install neovim
+```
+
 Fedora
 
 ```shell
 yum install neovim
-```
-or
-
-```shell
-dnf install neovim
 ```
 
 2) Configure LazyVim, they have a really simple walkthrough on their [installation](https://www.lazyvim.org/installation) page, basically there are 4 steps:
@@ -51,8 +52,8 @@ Note: if you don't have these directories it might complain, but ignore that, yo
 * Clone the starter code from LazyVim, this will drop their configuration into your config directory so you don't have to do anything else:
 
 ```shell
-git clone https://github.com/LazyVim/starter ~/.config/nvim
-```
+
+nvi  ```
 
 * Remove the .git folder from the LazyVim checkout, this way you can edit it, and later add it to your own repo if you want to save your changes.
 
