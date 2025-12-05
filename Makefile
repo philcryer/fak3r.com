@@ -1,8 +1,14 @@
-SSH_CONNECTION=linuxuser@hector:docker/fak3r.com/html
 BUILD_OUTPUT=dist
+BUILD_STATUS=$(git status --porcelain | wc -l)
+SSH_CONNECTION=linuxuser@hector:docker/fak3r.com/html
 
-define get_hash
+define git-hash
 	git log -1 --pretty=format:%h > .current_build
+endef
+
+define code-deploy
+	echo "Deploying code from: ${BUILD_OUTPUT}/"
+	rsync -aP ${BUILD_OUTPUT}/ ${SSH_DETAILS}
 endef
 
 list:
@@ -23,21 +29,18 @@ dev:
 	npm run dev
 
 build:
-	@$(call get_hash)
+	@$(call git-hash)
 	npm run build
 
 build-verbose:
-	@$(call get_hash)
+	@$(call git-hash)
 	npm run build -- --verbose
 
 prod:
-	@$(call get_hash)
+	@$(call git-hash)
 	npm run prettier
 	npm run build
-	rsync -aP ${BUILD_OUTPUT}/ ${SSH_DETAILS}
+	@$(call code-deploy)
 
 deploy:
-	rsync -aP ${BUILD_OUTPUT}/ ${SSH_DETAILS}
-
-
-
+	@$(call code-deploy)
