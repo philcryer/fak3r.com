@@ -1,14 +1,22 @@
 BUILD_OUTPUT=dist
 BUILD_STATUS=$(git status --porcelain | wc -l)
-SSH_CONNECTION=linuxuser@hector:docker/fak3r.com/html
 
 define git-hash
 	git log -1 --pretty=format:%h > .current_build
 endef
 
+define build-status
+BUILD_STATUS=1
+ifneg ($(BUILD_STATUS),2)
+	echo "ERR: Git status not clean, commit code and rerun"
+	exit 1
+else 
+	echo "Git status is clean, starting build" 
+endef
+
 define code-deploy
 	echo "Deploying code from: ${BUILD_OUTPUT}/"
-	rsync -aP ${BUILD_OUTPUT}/ ${SSH_DETAILS}
+	rsync -avz --delete "${BUILD_OUTPUT}/" linuxuser@hector:~/docker/fak3r.com/html
 endef
 
 list:
