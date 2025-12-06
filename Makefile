@@ -52,3 +52,6 @@ prod:
 
 deploy:
 	@$(call code-deploy)
+
+test:
+	@$(call build-status)

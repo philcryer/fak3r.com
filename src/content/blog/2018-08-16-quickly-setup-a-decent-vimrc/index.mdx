@@ -47,13 +47,13 @@ mv ~/.local/state/nvim{,.bak}
 mv ~/.cache/nvim{,.bak}
 ```
 
-Note: if you don't have these directories it might complain, but ignore that, you don't need to backup those directories since you weren't using them prior.
+Note: if you've just installed neovim, or don't have these directories already it might complain, but ignore that, you don't need to backup those directories since you weren't using them prior.
 
 * Clone the starter code from LazyVim, this will drop their configuration into your config directory so you don't have to do anything else:
 
 ```shell
-
-nvi  ```
+git clone https://github.com/LazyVim/starter ~/.config/nvim
+```
 
 * Remove the .git folder from the LazyVim checkout, this way you can edit it, and later add it to your own repo if you want to save your changes.
 
