@@ -32,6 +32,7 @@ install:
 	npm install
 	npm audit fix
 	npm audit fix --force
+	npx --yes @astrojs/upgrade
 
 dev:
 	npm run dev

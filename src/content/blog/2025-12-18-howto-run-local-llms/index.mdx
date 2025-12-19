@@ -1,0 +1,52 @@
+---
+title: 'Run Ollama LLM locally'
+description: "Run large language models locally for privacy and cost savings... ie- free"
+image: 'ollama.png'
+date: '2025-12-18'
+tags: ['ai', 'ollama', 'howto', 'docker']
+authors: ['fak3r']
+#draft: true
+---
+
+The advantages for running Local AI are many, from keeping everything you do private, to having a resillient service that can't be shut down, not to mention the freedom to customize and free as in free; it doesn't cost anything. Heck you don't even need a login, plus with Ollama you can pull all sorts of models.
+
+## Steps
+
+1) Install 
+
+mkdir ollama; cd ollama/
+u
+
+## steps
+
+01 install docker // docker compose
+p
+
+
+mkdir ollama; cd ollama/
+
+git
+
+docker run
+
+gpu alt
+
+curl http://192.168.1.71:11434
+Ollma is running
+
+docker exec -it ollama ollama run llama3.2
+docker run -d -v ollama:/root/.ollama -p 11434:11434 --name ollama ollama/ollama
+---
+services:
+  ollama:
+    image: docker.io/ollama/ollama:latest
+    container_name: ollama
+    ports: 
+      - 11434:11434
+    volumes:
+      - './ollama:/root/.ollama'
+
+
+  Where Local AI Beats the Cloud (and Where it Doesn't)
+  With modern hardware, you can run capable AI models on-device and keep complete control of your data.
+https://www.microcenter.com/site/mc-news/article/where-local-ai-beats-the-cloud.aspx?iitt=Rf8_RMhWhyULaeighM_-x.VdOIzpOFxl&MccGuid=65B8A931-A2BB-4BEE-AC64-7FEC6502D041
