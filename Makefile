@@ -8,10 +8,10 @@ endef
 define build-status
 BUILD_STATUS=1
 ifneg ($(BUILD_STATUS),2)
-	echo "ERR: Git status not clean, commit code and rerun"
-	exit 1
+ echo "ERR: Git status not clean, commit code and rerun"
+ exit 1
 else 
-	echo "Git status is clean, starting build" 
+ echo "Git status is clean, starting build" 
 endef
 
 define code-deploy
