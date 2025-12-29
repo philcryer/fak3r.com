@@ -4,11 +4,12 @@
 
 ## Summary
 
-This repository contains the source code for [fak3r.com](https://fak3r.com), which has been my blog since 2005, and it's currently built by [Hugo](http://gohugo.io/), and hosted on [Netlify](https://www.netlify.com/).
+This repository contains the source code for [fak3r.com](https://fak3r.com), which has been my blog since 2005, and it's currently built by [Astro](http://astro.build/), 
+and hosted on an [Alpine Linux](https://www.alpinelinux.org/) host running on [Vultr](https://www.vultr.com/).
 
 ## Contents
 
-The code and framework of posts, pages, plugins, theme and configuration that Hugo uses to create the site.
+The code and framework of posts, pages, plugins, theme and configuration used to create the site.
 
 ## Clone
 
@@ -30,13 +31,13 @@ mv fak3r.com new-name
 
 ```
 cd new-name
-rm -rf content/*.markdown content/*.md content/post/* static/*
+rm -rf src/content/blog/*
 ```
 
-* Edit the config.toml to match your values:
+* Edit the config file to match your values:
 
 ```
-vi config.toml
+vi astro.config.ts
 ```
 
 * Add the contents to your project:
@@ -53,7 +54,7 @@ git commit -m "initial commit"
 git push
 ```
 
-...and you should be all set. Hit up the [Hugo docs](http://gohugo.io/overview/introduction/) to learn how Hugo works, or feel free to contact me with any questions.
+...and you should be all set. Hit up the [Astro docs](https://docs.astro.build/) to learn how things work, or feel free to contact me with any questions.
 
 ## Commands
 
@@ -76,13 +77,13 @@ A: My name is Phil, so a friend used to call me flip, so I started using name fl
 
 ## Contact
 
-email me at admin {at} fak3r {dot} com or ping me on Twitter where I'm [@fak3r](https://twitter.com/fak3r)
+email me at admin {at} fak3r {dot} com or ping me on Mastodon where I'm [@fak3r](https://mastodon.social/@fak3r)
 
 ## License
 
 MIT License
 
-Copyright (c) 2019 Phil Cryer // fak3r
+Copyright (c) 2026 Phil Cryer // fak3r
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
