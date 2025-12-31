@@ -15,8 +15,8 @@ else
 endef
 
 define code-deploy
-	echo "Deploying code from: ${BUILD_OUTPUT}/"
-	rsync -avz --delete "${BUILD_OUTPUT}/" linuxuser@hector:~/docker/fak3r.com/html
+	echo "Deploying code from: ${BUILD_OUTPUT}"
+	rsync -avz --delete "${BUILD_OUTPUT}" linuxuser@hector:~/docker/fak3r.com/html
 endef
 
 list:
