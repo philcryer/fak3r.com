@@ -1,5 +1,8 @@
 BUILD_OUTPUT=dist
 BUILD_STATUS=$(git status --porcelain | wc -l)
+SSH_USER=linuxuser
+SSH_HOST=hector
+SSH_PATH=${HOME}/docker/fak3r.com/html
 
 define git-hash
 	git log -1 --pretty=format:%h > .current_build
@@ -16,7 +19,8 @@ endef
 
 define code-deploy
 	echo "Deploying code from: ${BUILD_OUTPUT}"
-	rsync -avz --delete "${BUILD_OUTPUT}" linuxuser@hector:~/docker/fak3r.com/html
+	#rsync -avz --delete "${BUILD_OUTPUT}" linuxuser@hector:~/docker/fak3r.com/html
+	rsync -avz --delete "${BUILD_OUTPUT}" ${SSH_USER}@${SSH_HOST}:${SSH_PATH}
 endef
 
 list:
