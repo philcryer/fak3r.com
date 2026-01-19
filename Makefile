@@ -19,8 +19,7 @@ endef
 
 define code-deploy
 	echo "Deploying code from: ${BUILD_OUTPUT}"
-	#rsync -avz --delete "${BUILD_OUTPUT}" linuxuser@hector:~/docker/fak3r.com/html
-	rsync -avz --delete "${BUILD_OUTPUT}" ${SSH_USER}@${SSH_HOST}:${SSH_PATH}
+	rsync -avz --delete "${BUILD_OUTPUT}/" ${SSH_USER}@${SSH_HOST}:${SSH_PATH}
 endef
 
 list:
