@@ -1,0 +1,101 @@
+---
+title: 'Testing Video Transcoding with Docker'
+description: 'Video transcoding on the fly allows delivery of right sized content'
+image: 'transcoding.png'
+date: '2026-01-22'
+tags: ['docker', 'video', 'transcoding']
+authors: ['fak3r']
+draft: false
+---
+I've been playing with [Jellyfin](https://jellyfin.org/) to stream movies and shows, and it's a compelling, open source alternative to paid solutions like [Plex](https://www.plex.tv). While there are endless ways to run it, I've settled on running a virtual machine in [Proxmox](https://www.proxmox.com/en/) with Jellyfin running in [Docker](https://docker.com), or in the native [LXC](https://en.wikipedia.org/wiki/LXC) container directly in Proxmox, which has far less resource requirements. One key to this is getting video transcoding working in this setup, while a VM has direct exposure to more of the underlying hardware to allow an easy passthrough to Jellyfin it gets tricker with LXC, and even Docker. To test that the passthrough is working I found a simple way to run [FFmpeg](https://www.ffmpeg.org/) in Docker to show if transcoding is setup correctly for the host to access and utilize the hardware. If you have a system you want to test out [Intel's QSV (Quick Sync Video)](https://en.wikipedia.org/wiki/Intel_Quick_Sync_Video), this is a way to do it.
+
+There's not much to setup, if you have the path available `/dev/dri/renderD128` then Linux knows about your video card and can access the hardware.
+
+## Setup 
+
+Install [Docker](https://docs.docker.com/engine/install/) for your Linux distribution, and be sure to also follow the [Post-install](https://docs.docker.com/engine/install/linux-postinstall/) steps so your user can run Docker approprietly.
+
+(NOTE to self, setup Docker in [Rootless mode](https://docs.docker.com/engine/security/rootless) for greater security and post another howto here about the process)
+
+## Run it
+
+Next up, copy the following command and paste it in your terminal, this will use Docker to pull the ffmpeg image, run it in a container, and have it try and do some test video transcoding using Intel's QSV:
+```shell
+➜ docker run --rm \
+        --device /dev/dri:/dev/dri \
+        --entrypoint ffmpeg \
+        ghcr.io/linuxserver/ffmpeg \
+        -init_hw_device qsv=hw:/dev/dri/renderD128 \
+        -hwaccel qsv -hwaccel_device hw -hwaccel_output_format qsv \
+        -f lavfi -i testsrc=duration=3:size=1280x720:rate=30 \
+        -vf 'format=nv12,hwupload=extra_hw_frames=64' \
+        -c:v h264_qsv -f null -
+```
+
+The output from that will look something like this:
+
+```shell
+Unable to find image 'ghcr.io/linuxserver/ffmpeg:latest' locally
+latest: Pulling from linuxserver/ffmpeg
+3256fba51dcd: Pull complete
+f6a4c3e338ed: Pull complete
+5eb77ae98956: Pull complete
+d662074283bf: Pull complete
+ead2c5851e51: Pull complete
+426dc410d532: Pull complete
+281193377f04: Pull complete
+744073494f37: Pull complete
+27d26dfb2332: Pull complete
+fa320a8bcf11: Pull complete
+b9f43dc726ba: Pull complete
+27d06c84b486: Download complete
+5ec5d858b183: Download complete
+Digest: sha256:96362b26bbe9ab836a619ccd49cf5258da9b2a22c8688317441aefb2bba4c6a0
+Status: Downloaded newer image for ghcr.io/linuxserver/ffmpeg:latest
+```
+
+And finally once it's downloaded and running, it will start the transcoding bit:
+
+```shell
+ffmpeg version 8.0.1 Copyright (c) 2000-2025 the FFmpeg developers
+  built with gcc 13 (Ubuntu 13.3.0-6ubuntu2~24.04)
+  configuration: --disable-debug --disable-doc --disable-ffplay --enable-alsa --enable-cuda-llvm --enable-cuvid --enable-ffprobe --enable-gpl --enable-libaom --enable-libass --enable-libdav1d --enable-libfdk_aac --enable-libfontconfig --enable-libfreetype --enable-libfribidi --enable-libharfbuzz --enable-libkvazaar --enable-liblc3 --enable-libmp3lame --enable-libopencore-amrnb --enable-libopencore-amrwb --enable-libopenjpeg --enable-libopus --enable-libplacebo --enable-librav1e --enable-librist --enable-libshaderc --enable-libsrt --enable-libsvtav1 --enable-libtheora --enable-libv4l2 --enable-libvidstab --enable-libvmaf --enable-libvorbis --enable-libvpl --enable-libvpx --enable-libvvenc --enable-libwebp --enable-libx264 --enable-libx265 --enable-libxml2 --enable-libxvid --enable-libzimg --enable-libzmq --enable-nonfree --enable-nvdec --enable-nvenc --enable-opencl --enable-openssl --enable-stripping --enable-vaapi --enable-vdpau --enable-version3 --enable-vulkan
+  libavutil      60.  8.100 / 60.  8.100
+  libavcodec     62. 11.100 / 62. 11.100
+  libavformat    62.  3.100 / 62.  3.100
+  libavdevice    62.  1.100 / 62.  1.100
+  libavfilter    11.  4.100 / 11.  4.100
+  libswscale      9.  1.100 /  9.  1.100
+  libswresample   6.  1.100 /  6.  1.100
+libva info: VA-API version 1.23.0
+libva info: Trying to open /usr/local/lib/x86_64-linux-gnu/dri/iHD_drv_video.so
+libva info: Found init function __vaDriverInit_1_23
+libva info: va_openDriver() returns 0
+Input #0, lavfi, from 'testsrc=duration=3:size=1280x720:rate=30':
+  Duration: N/A, start: 0.000000, bitrate: N/A
+  Stream #0:0: Video: wrapped_avframe, rgb24, 1280x720 [SAR 1:1 DAR 16:9], 30 fps, 30 tbr, 30 tbn
+Stream mapping:
+  Stream #0:0 -> #0:0 (wrapped_avframe (native) -> h264 (h264_qsv))
+Press [q] to stop, [?] for help
+[h264_qsv @ 0x5645ab5c0940] Using the constant quantization parameter (CQP) by default. Please use the global_quality option and other options for a quality-based mode or the b option and other options for a bitrate-based mode if the default is not the desired choice.
+Output #0, null, to 'pipe:':
+  Metadata:
+    encoder         : Lavf62.3.100
+  Stream #0:0: Video: h264, qsv(tv, progressive), 1280x720 [SAR 1:1 DAR 16:9], q=2-31, 30 fps, 30 tbn
+    Metadata:
+      encoder         : Lavc62.11.100 h264_qsv
+    Side data:
+      cpb: bitrate max/min/avg: 0/0/0 buffer size: 0 vbv_delay: N/A
+[out#0/null @ 0x5645ab8b9dc0] video:41KiB audio:0KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: unknown
+frame=   90 fps=0.0 q=33.0 Lsize=N/A time=00:00:02.93 bitrate=N/A speed=9.15x elapsed=0:00:00.32
+```
+
+And that's it, if you see output like the above you can be sure that video transcoding is available and working on the host, plus Docker can access the hardware successfully.
+
+## Offline transcoding
+
+In researching this I found a great GitHub project called [Docker Transcode](https://github.com/Bandycott/Docker-Transcode) which will do, "Automatic conversion of all videos from the input folder to the output folder in H.265 (HEVC)", so you won't need Jellyfin to run it on the fly, which again is useful for reusing the same video files, but of course will take up more disk space in the long run. 
+
+## Done 
+
+My long term goal with this work is to be able to share my Jellyfin collection with friends and family who are remote, but I need transcoding to work so they can have a reasonable video streaming experience as they would expect with Netflix or the like. No I don't expect to run a Netflix style datacenter in my house (yet!) but as always, everything scales.
