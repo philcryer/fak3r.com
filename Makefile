@@ -59,3 +59,6 @@ deploy:
 
 test:
 	@$(call build-status)
+
+convert:
+	imgp -x 200x200 "${1}"
